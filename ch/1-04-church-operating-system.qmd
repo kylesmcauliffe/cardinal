@@ -27,4 +27,10 @@ converted to private monopoly, elite network reproduction. Be specific.*
 
 :::
 
-*How does a persecuted movement become the most powerful institution in the world?*
+::: {.chapter-question}
+How does a persecuted movement become the most powerful institution in the world?
+:::
+
+::: {.callout-warning}
+Draft skeleton. Prose is written in Phase 5a.
+:::

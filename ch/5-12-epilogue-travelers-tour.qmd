@@ -27,4 +27,10 @@ converted to private monopoly, elite network reproduction. Be specific.*
 
 :::
 
-*What does a traveller see who can walk from Mission Dolores to a data centre?*
+::: {.chapter-question}
+What does a traveller see who can walk from Mission Dolores to a data centre?
+:::
+
+::: {.callout-warning}
+Draft skeleton. Prose is written in Phase 5c.
+:::

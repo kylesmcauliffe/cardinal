@@ -27,4 +27,10 @@ converted to private monopoly, elite network reproduction. Be specific.*
 
 :::
 
-*How is authority shared when no one can hold it alone — and is the pattern European?*
+::: {.chapter-question}
+How is authority shared when no one can hold it alone — and is the pattern European?
+:::
+
+::: {.callout-warning}
+Draft skeleton. Prose is written in Phase 5a.
+:::

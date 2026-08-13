@@ -27,4 +27,10 @@ converted to private monopoly, elite network reproduction. Be specific.*
 
 :::
 
-*How does an institution justify inequality?*
+::: {.chapter-question}
+How does an institution justify inequality?
+:::
+
+::: {.callout-warning}
+Draft skeleton. Prose is written in Phase 5b.
+:::

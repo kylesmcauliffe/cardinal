@@ -11,20 +11,130 @@ Act IV — The Silicon Valley Machine · 1962–1980
 
 **Core question.** Does the mechanism work outside technology?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** Yes, and shoes prove it. Nike began as a paper written for a
+Stanford entrepreneurship class in 1962, arguing that Japanese manufacturing could
+do to German athletic shoes what Japanese cameras had done to German cameras. The
+company that came out of that paper controls no factories. It controls the design,
+the brand, and the distribution — the parts that cannot be copied — and it
+contracts out the parts that can. That is chokepoint logic in a product with no
+transistors in it.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** All three, unusually cleanly. Chokepoint control: Nike owns
+design and marketing and outsources manufacturing, which is the semiconductor
+fabless model arrived at two decades early in a different industry. Elite network
+reproduction twice over: the idea comes from a Stanford classroom, the first
+employee comes from Stanford intramural track, and the profits return to Stanford
+as the Knight Management Center and the Knight-Hennessy Scholars programme. The
+public-subsidy leg is the weakest here, and the chapter should say so rather than
+force it.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** The company was a class assignment. Knight has said he chose
+shoes because he knew nothing about electronics, which was what everyone else in
+the class wanted to write about. He got an A.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** Knight, who heard the idea before he had it — overhearing
+photographers at the *Oregon Journal* complain that cheap Japanese cameras were
+displacing their German ones, and recognising a pattern rather than a grievance.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** The chapter's necessary second half. The offshore turn that
+made Nike also made the contract-factory labour system, first in Japan, then South
+Korea and Taiwan, then Indonesia, China and Vietnam. The workers in those
+factories are the people the fabless model depends on and the balance sheet does
+not name. Handle with the same rigour as the Central Pacific's Chinese crews in
+Act II, and draw the parallel explicitly: the structure is the same.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that the Stanford mechanism is not a story about
+computers by showing it operating, on the same campus in the same decade as the
+semiconductor firms, in footwear.
+:::
+
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Opens in a Stanford classroom in 1962. Frank Shallenberger's entrepreneurship
+course requires each student to write a business plan for a small company. Most of
+them write about electronics, because it is 1962 on the San Francisco Peninsula
+and electronics is the subject. Phil Knight, a middle-distance runner from Oregon
+with an accounting degree, knows nothing about electronics, so he writes about
+shoes. The paper's question, which is also its title: can Japanese sports shoes do
+to German sports shoes what Japanese cameras did to German cameras? He gets an A.
+
+The chapter's first argument is that the paper is not a lucky guess but an act of
+pattern recognition, and that the pattern is the book's. Knight had picked it up
+from photographers at the *Oregon Journal* grumbling that their expensive German
+cameras were being undercut by cheap Japanese ones. He heard a complaint and
+extracted a mechanism: when manufacturing capability moves and brand loyalty
+lags, there is a window, and the person who owns the distribution rights during
+the window collects.
+
+He acts on it with a directness that is almost comic. Travelling in Japan in
+November 1962, he cold-calls Onitsuka in Kobe, is asked which company he
+represents, invents "Blue Ribbon Sports" on the spot, and secures Tiger
+distribution for the western United States. In January 1964 he and his old
+Oregon coach Bill Bowerman put in $500 each and order three hundred pairs. The
+partnership is sealed with a handshake. Nike's first full-time employee, Jeff
+Johnson, is a runner Knight met through Stanford intramural track.
+
+The second argument is structural. Nike, as it develops, does not build
+factories. It keeps design, brand, and distribution, and contracts out
+production — first Japan, then South Korea and Taiwan as costs rise, then
+Indonesia, China and Vietnam. This is the fabless model, arrived at in footwear
+before the semiconductor industry named it, and it works for the same reason: the
+chokepoint is not the making, it is the specification and the shelf.
+
+The third argument is the cost, and it gets equal weight. The contract-factory
+system that made Nike's margins is the same structure, in a different century,
+as the labour arrangements that built the Central Pacific: the work is real, the
+workers are legally someone else's, and the fortune accrues where the contract
+was signed rather than where the work was done.
+
+Closes on the return leg. In 2011 Knight dedicates the Knight Management Center
+at the Stanford Graduate School of Business — the school where the paper was
+written. Later, the Knight-Hennessy Scholars programme. Money that began as a
+class assignment returns to endow the classroom. Rail did this with a university
+in 1885. Shoes did it with a business school in 2011. Act V will show software
+doing it with an institute.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** The assignment. Everyone writes about electronics; one man writes
+   about shoes because he does not understand electronics.
+2. **The title as thesis.** Can Japanese sports shoes do to German sports shoes
+   what Japanese cameras did to German cameras? Note that the paper is a question,
+   and the company is the answer.
+3. **Where the idea came from.** The photographers at the *Oregon Journal*.
+   Complaint into mechanism.
+4. **Kobe, November 1962.** The cold call. "Which company do you represent?"
+   Blue Ribbon Sports invented in the pause. Western US distribution rights.
+5. **January 1964.** Bowerman, $500 each, three hundred pairs, a handshake.
+6. **Jeff Johnson, 1965.** First full-time employee, met through Stanford
+   intramural track. Name the network doing its work.
+7. **The structural turn.** Nike keeps design, brand, distribution; contracts out
+   manufacture. Explicitly compare to fabless semiconductors — same logic,
+   earlier, in canvas and rubber.
+8. **The migration of the factory.** Japan, then Korea and Taiwan, then
+   Indonesia, China, Vietnam. The chapter's hinge: the model requires the
+   migration. Cost control is not incidental to it.
+9. **The excluded.** Contract-factory labour. Draw the Central Pacific parallel
+   directly — legally at arm's length, structurally essential.
+10. **The return leg.** Knight Management Center dedicated 2011. Knight-Hennessy
+    Scholars. The endowment loop closed.
+11. **Landing.** The mechanism is not about semiconductors. It is about
+    bottlenecks. Set up Act V's supply-chain chapter: Nike built the road that
+    Apple later drove down.
+
+**Note.** Do not put a page count on the Shallenberger paper. Sources conflict;
+see the research log.
 :::
 
 :::
 
-*Does the mechanism work outside technology?*
+::: {.chapter-question}
+Does the mechanism work outside technology?
+:::
+
+::: {.callout-warning}
+Specified. Prose is written in Phase 5b.
+:::

@@ -27,4 +27,10 @@ converted to private monopoly, elite network reproduction. Be specific.*
 
 :::
 
-*What changes when a state becomes strategically indispensable?*
+::: {.chapter-question}
+What changes when a state becomes strategically indispensable?
+:::
+
+::: {.callout-warning}
+Draft skeleton. Prose is written in Phase 5b.
+:::

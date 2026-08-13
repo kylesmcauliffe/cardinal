@@ -27,4 +27,10 @@ converted to private monopoly, elite network reproduction. Be specific.*
 
 :::
 
-*How does infrastructure become sovereignty?*
+::: {.chapter-question}
+How does infrastructure become sovereignty?
+:::
+
+::: {.callout-warning}
+Draft skeleton. Prose is written in Phase 5a.
+:::

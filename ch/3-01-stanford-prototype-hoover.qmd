@@ -27,4 +27,10 @@ converted to private monopoly, elite network reproduction. Be specific.*
 
 :::
 
-*What does the Stanford pipeline produce?*
+::: {.chapter-question}
+What does the Stanford pipeline produce?
+:::
+
+::: {.callout-warning}
+Draft skeleton. Prose is written in Phase 5b.
+:::

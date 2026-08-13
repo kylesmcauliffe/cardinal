@@ -27,4 +27,10 @@ converted to private monopoly, elite network reproduction. Be specific.*
 
 :::
 
-*Why did the film industry go west?*
+::: {.chapter-question}
+Why did the film industry go west?
+:::
+
+::: {.callout-warning}
+Draft skeleton. Prose is written in Phase 5b.
+:::

@@ -11,20 +11,111 @@ Act III — Hoover, War, and the Archive State · 1919–1939
 
 **Core question.** What does the pipeline look like from outside it?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** It looks like a place you can walk out of. Steinbeck spent six
+years at Stanford, accumulated ninety-three units, never took a degree, and left
+in 1925 without an intention of returning. What he did instead — work alongside
+the migrants and ranch hands the credential exists to sort him away from — became
+the counter-archive: the record of the people the institution's records do not
+count.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Elite network reproduction, observed by its refusal. This
+chapter tests the previous one. If Stanford in the 1920s was a credentialing
+interface between private money and public authority, then the interesting
+question is what happens to someone who declines the credential. The answer is
+that he loses the network and keeps the material, and the material turns out to be
+worth a Nobel Prize.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Ninety-three units. Six years. No degree. He enrolled to satisfy
+his parents, chiefly his mother, and took only the courses that interested him —
+which is to say he used the university as a library rather than as a ladder.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** Steinbeck, in the one-room shack behind a larger house in
+Palo Alto where he lived in his final year, walking distance from the tower Hoover
+would raise over the campus.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** This is the chapter where they speak, and that is the point.
+The bindlestiffs, the Filipino and Mexican field crews, the Dust Bowl migrants of
+the late thirties. Act III's other chapters describe the class that manages
+crises. This one describes the class that absorbs them, through the eyes of the
+only man in the act who chose to stand in it.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that the institution's power lies in sorting rather
+than teaching by showing that the same campus, in the same decade, produced both
+the archive of world power and its most durable indictment — and only credentialed
+one of them.
+:::
+
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Opens with the number: ninety-three units over six years, and no degree. It is
+the most eloquent transcript in this book.
+
+Steinbeck arrived at Stanford in 1919, the year Hoover's War Collection was
+founded. He enrolled because his parents wanted it, principally his mother, and he
+treated the catalogue as a menu — English, classical literature, and, in a detail
+that shapes everything he later wrote, marine biology and ecology. He never
+declared himself a candidate for anything. He left repeatedly, worked as a ranch
+hand and a farm labourer, came back, left again. In his final year he lived in a
+one-room shack behind a larger house in Palo Alto. In 1925 he left for New York
+and did not come back, and never built a relationship with the university
+afterwards.
+
+The chapter sets this against what the same campus was doing in the same years.
+Hoover was assembling in Palo Alto the largest private collection of documents on
+war and revolution in the world — the archive of how power moves. Under Jordan's
+long shadow the university had lent its scientific authority to a programme of
+sterilisation under the 1909 law. And the Graduate School of Business, founded in
+1925, was formalising the credential as an instrument.
+
+One institution, one decade, three outputs: an archive of power, a science of
+exclusion, and a young man walking out the gate to go and live among the excluded.
+
+The argument is not that Steinbeck was Stanford's opposite. It is that he was
+Stanford's product in the way that matters least to Stanford and most to the
+record. What he took from the place was ecology — the habit of reading a system by
+looking at what it consumes — and he applied it to labour. *In Dubious Battle*,
+*Of Mice and Men*, and *The Grapes of Wrath* are what happens when the
+university's analytical method is turned on the university's economy.
+
+Closes on the asymmetry of the two archives. Hoover's is a building with his name
+on it, at the centre of the campus, visible from the freeway. Steinbeck's is a
+shelf of novels, and the campus he left has a plaque.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** Ninety-three units, six years, no degree. Do not explain it yet.
+2. **Why he was there.** His parents, chiefly his mother. The courses he chose,
+   including marine biology and ecology. The university used as a library.
+3. **The leaving and returning.** Ranch hand, farm labourer, sugar-beet work.
+   Working alongside the bindlestiffs. The shack in Palo Alto.
+4. **1925.** He leaves for New York. No degree, no intention to return, no later
+   relationship with the institution.
+5. **Turn to the campus he left.** 1919 — Hoover's War Collection begins in the
+   same year Steinbeck matriculates. Explicit adjacency, no strain: two men,
+   one campus, two archives.
+6. **The 1909 law and Jordan's legacy.** Handle with the range-not-round-number
+   rule from the research log. This is the science of who counts.
+7. **The Graduate School of Business, 1925.** The credential formalised in the
+   year he walks away from it.
+8. **What ecology gave him.** The analytical move: read a system by what it
+   consumes. Then the books that apply it — *In Dubious Battle* (1936), *Of Mice
+   and Men* (1937), *The Grapes of Wrath* (1939).
+9. **The counter-archive.** What the institution's records count, and what they do
+   not. Steinbeck's material is precisely the residue.
+10. **Landing.** Two archives, two afterlives. A tower with a name on it and a
+    shelf of novels. Both are records of the same California. Only one was
+    endowed.
 :::
 
 :::
 
-*What does the pipeline look like from outside it?*
+::: {.chapter-question}
+What does the pipeline look like from outside it?
+:::
+
+::: {.callout-warning}
+Specified. Prose is written in Phase 5b.
+:::

@@ -27,4 +27,10 @@ converted to private monopoly, elite network reproduction. Be specific.*
 
 :::
 
-*How does a failed startup become a ruling class?*
+::: {.chapter-question}
+How does a failed startup become a ruling class?
+:::
+
+::: {.callout-warning}
+Draft skeleton. Prose is written in Phase 5b.
+:::

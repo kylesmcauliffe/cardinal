@@ -27,4 +27,10 @@ converted to private monopoly, elite network reproduction. Be specific.*
 
 :::
 
-*What does power look like when its goal is continuity rather than growth?*
+::: {.chapter-question}
+What does power look like when its goal is continuity rather than growth?
+:::
+
+::: {.callout-warning}
+Draft skeleton. Prose is written in Phase 5a.
+:::

@@ -27,4 +27,10 @@ converted to private monopoly, elite network reproduction. Be specific.*
 
 :::
 
-*What happens when a civilisation makes argument its competitive advantage — and then loses the war?*
+::: {.chapter-question}
+What happens when a civilisation makes argument its competitive advantage — and then loses the war?
+:::
+
+::: {.callout-warning}
+Draft skeleton. Prose is written in Phase 5a.
+:::

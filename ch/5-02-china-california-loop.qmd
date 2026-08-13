@@ -27,4 +27,10 @@ converted to private monopoly, elite network reproduction. Be specific.*
 
 :::
 
-*What happens when the world's two largest economies share a supply chain and distrust each other?*
+::: {.chapter-question}
+What happens when the world's two largest economies share a supply chain and distrust each other?
+:::
+
+::: {.callout-warning}
+Draft skeleton. Prose is written in Phase 5c.
+:::

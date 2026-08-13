@@ -27,4 +27,10 @@ converted to private monopoly, elite network reproduction. Be specific.*
 
 :::
 
-*What happens when institutions inherit territory without capacity?*
+::: {.chapter-question}
+What happens when institutions inherit territory without capacity?
+:::
+
+::: {.callout-warning}
+Draft skeleton. Prose is written in Phase 5a.
+:::

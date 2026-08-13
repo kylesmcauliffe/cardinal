@@ -27,4 +27,10 @@ converted to private monopoly, elite network reproduction. Be specific.*
 
 :::
 
-*How does a modern monopolist make power invisible?*
+::: {.chapter-question}
+How does a modern monopolist make power invisible?
+:::
+
+::: {.callout-warning}
+Draft skeleton. Prose is written in Phase 5c.
+:::

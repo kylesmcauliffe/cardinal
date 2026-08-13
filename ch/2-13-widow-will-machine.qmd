@@ -27,4 +27,10 @@ converted to private monopoly, elite network reproduction. Be specific.*
 
 :::
 
-*What happens when the founders disappear but the institution remains?*
+::: {.chapter-question}
+What happens when the founders disappear but the institution remains?
+:::
+
+::: {.callout-warning}
+Draft skeleton. Prose is written in Phase 5a.
+:::

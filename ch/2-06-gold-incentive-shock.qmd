@@ -27,4 +27,10 @@ converted to private monopoly, elite network reproduction. Be specific.*
 
 :::
 
-*What happens when extraction meets weak institutions?*
+::: {.chapter-question}
+What happens when extraction meets weak institutions?
+:::
+
+::: {.callout-warning}
+Draft skeleton. Prose is written in Phase 5a.
+:::

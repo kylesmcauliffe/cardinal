@@ -11,20 +11,146 @@ Act IV — The Silicon Valley Machine · 1965–1971
 
 **Core question.** What happens when the people inside the machine can see it?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** The machine changes its legal address. Stanford's students spent
+four years documenting the university's military research and demanding the
+university take responsibility for it. They won the argument and lost the object:
+the Faculty Senate banned classified research on campus, and the trustees sold
+the Stanford Research Institute to itself. The research continued. What ended was
+the university's obligation to answer for it.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Chokepoint control, defended by restructuring. This is the
+chapter that shows what the mechanism does under pressure, which is the only way
+to demonstrate that it is a mechanism and not a mood. Confronted with a demand for
+accountability, the institution did not reform and did not refuse. It
+reorganised — the same move the Big Four made with the Contract and Finance
+Company, and the same move Act V will show platforms making with contractor
+workforces and offshore subsidiaries.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** The protesters' central demand was that Stanford exercise
+*more* control over SRI. The trustees' answer was to give SRI away. On 16 May
+1969 police used tear gas on students who were protesting the divestment,
+because separation was never what they had asked for.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** The occupiers themselves, and specifically what they did
+with the building. During nine days inside the Applied Electronics Laboratory
+they ran a child care centre in one lab, a bookstore in another, rooms named for
+Eldridge Cleaver and Che Guevara in two more, and turned the laboratory printshop
+into an underground press. They published the classified research they found.
+They titled it *The Goods on AEL*.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** Inverted here, and the chapter should be honest about the
+inversion. These are not the powerless; they are the children of the elite,
+objecting from inside. The people actually on the receiving end of
+counterinsurgency research were in Vietnam and had no vote in Dinkelspiel
+Auditorium. Say so. The chapter is stronger for conceding that the conscience of
+the machine is still the machine.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that the mechanism survives exposure by showing
+that its most effective internal challenge produced a change of corporate
+structure rather than a change of activity.
+:::
+
+::: {.callout-tip collapse="true"}
+## Working summary
+
+At 10:45 on the morning of 9 April 1969, about four hundred Stanford students
+walked into the Applied Electronics Laboratory and shut it down. Roughly two
+million dollars of classified Defense Department research was under way inside.
+They stayed nine days.
+
+The chapter builds to that and then past it, because the occupation is not the
+story. The story is what the university did in response.
+
+It starts in 1965, when it becomes known on campus that SRI — the research
+institute Stanford had founded in 1946 and still owned — holds two contracts
+concerning chemical warfare. Concern hardens in 1967 when students learn SRI has
+taken contracts related to Southeast Asia, and picketing begins outside its
+Menlo Park buildings. The numbers matter and the chapter gives them carefully:
+across 1950–65, only nineteen of five hundred and eighty-two doctoral and
+engineering theses in electrical engineering were classified. By 1968, close to
+thirty-five percent of the department's electronics research funding was
+classified work. Something had changed, and the students could read it in the
+budget.
+
+On 3 April 1969 roughly seven hundred people fill Dinkelspiel Auditorium and the
+scattered factions reorganise into one coalition, which takes its name from the
+date. Their demands are specific: stricter trustee guidelines for SRI; an end to
+all classified research at the university and at SRI; an end to all chemical and
+biological warfare work and all counterinsurgency work at both institutions,
+classified or not; and a public trustees' meeting on the question. Six days later
+they take the building.
+
+They win, quickly and on paper. The engineering dean announces his school will
+accept no further classified contracts and will wind down existing ones. On 24
+April the academic senate passes guidelines that effectively banish classified
+research from campus. The occupiers leave the AEL on 18 April under threat of
+suspension.
+
+Then the trustees answer the SRI question, and the answer is the chapter's
+argument. A joint committee had already recommended, nine votes to twelve
+members, that Stanford sell the institute — book value twenty-five million,
+estimated worth forty-five. In January 1970 the trustees set the terms: SRI would
+be sold to itself, paying one percent of gross operating revenues against a
+twenty-five million dollar price. The chemical warfare work, the counterinsurgency
+work, the classified contracts — none of it stopped. It simply stopped being
+Stanford's.
+
+The chapter's coda is the tear gas. On 16 May 1969, students blocking traffic
+near the SRI building were dispersed by police after four hours. They were
+protesting the divestment. They had asked the university to take responsibility;
+it had taken its name off the door instead.
+
+And the research followed the money out. Researchers left the AEL for SRI, taking
+eight hundred thousand dollars in contracts with them. The chokepoint had not been
+closed. It had been moved four miles, to a building nobody could hold a sit-in
+about, because it no longer belonged to anyone the students could petition.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** 10:45 a.m., 9 April 1969. Four hundred students, one building, two
+   million dollars of classified work stopped by people walking through a door.
+2. **Rewind to 1965.** Two chemical warfare contracts become known. What SRI was
+   and why Stanford owned it — connect back to ch. 4 on the defence corridor.
+3. **1967.** Southeast Asia contracts. Picketing at Menlo Park.
+4. **The budget as evidence.** Nineteen of five hundred and eighty-two theses
+   classified, 1950–65, against thirty-five percent of electronics research
+   funding classified by 1968. The students were reading a real change.
+5. **3 April 1969.** Dinkelspiel, seven hundred people, the coalition forms and
+   names itself for the day. List the four demands precisely — the first one is
+   *more* university control, which is the chapter's hinge.
+6. **The occupation.** Nine days. The child care centre, the bookstore, the rooms
+   named for Cleaver and Guevara, the printshop turned press. *The Goods on AEL*
+   and *Declassified*. Students publishing the classified research they found.
+7. **The concessions.** The engineering dean's announcement. The academic senate's
+   24 April guidelines. Departure from the building on 18 April.
+8. **The restructuring.** The joint committee's recommendation to sell. January
+   1970 terms: SRI sold to itself, one percent of gross revenues up to twenty-five
+   million.
+9. **The tear gas, 16 May 1969.** Students protesting the divestment. Make the
+   irony land without editorialising; the facts carry it.
+10. **The follow-the-money detail.** Researchers leaving AEL for SRI with eight
+    hundred thousand dollars in contracts.
+11. **The concession about the protesters.** They were inside the elite, arguing
+    from within it. The people subject to the research had no representation in
+    that room.
+12. **Landing.** Naming the move: pressure produced reorganisation, not reform.
+    Point back to the Contract and Finance Company in Act II and forward to Act
+    V's contractor workforces. Same manoeuvre, three centuries of costume.
+
+**Source note.** SRI's own institutional history characterises the students'
+demands as "usually unfounded" and its chemical warfare work as "almost
+exclusively defensive." That is an interested party describing itself. Cite it as
+SRI's position, not as the record.
 :::
 
 :::
 
-*What happens when the people inside the machine can see it?*
+::: {.chapter-question}
+What happens when the people inside the machine can see it?
+:::
+
+::: {.callout-warning}
+Specified. Prose is written in Phase 5b.
+:::

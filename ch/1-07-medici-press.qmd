@@ -27,4 +27,10 @@ converted to private monopoly, elite network reproduction. Be specific.*
 
 :::
 
-*How does private capital come to commission public meaning — and what happens when copying gets cheap?*
+::: {.chapter-question}
+How does private capital come to commission public meaning — and what happens when copying gets cheap?
+:::
+
+::: {.callout-warning}
+Draft skeleton. Prose is written in Phase 5a.
+:::

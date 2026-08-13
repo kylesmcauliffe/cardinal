@@ -40,9 +40,29 @@ fact, thesis. Log every specific claim in `research-log.md`.
 ## Build
 
 ```sh
-quarto render          # full book, HTML and PDF
-quarto render --to html
-quarto preview         # live preview while writing
+make lint      # structure, cut list, scaffold, and progress checks
+make book      # reader-facing HTML
+make draft     # adds briefs, beats, and working summaries
+make pdf       # requires LaTeX
+make preview   # live preview while writing
 ```
 
+Use `make` rather than calling `quarto render` directly. Quarto's incremental
+build moves rendered files into the output directory as a final step, and that
+step fails when the directory holds artefacts from a build with a different
+chapter list — which happens whenever chapters are added or the profile changes.
+The Makefile targets clear their own output directory first.
+
 Chapter files live in `ch/`, named `{act}-{nn}-{slug}.qmd`.
+
+## The linter
+
+`make lint` is the fastest way to see where the manuscript stands. It checks
+that all 60 chapters exist, are numbered contiguously within their act, and are
+wired into `_quarto.yml`; that no term removed per `cut-material.md` has
+returned; and that every chapter still carries its heading, anchor, dateline, and
+core question. It then reports how many chapters have a completed brief, beat
+outline, working summary, and drafted narrative.
+
+Run it before every commit. When it reports `all checks pass`, the manuscript is
+structurally sound whatever state the prose is in.

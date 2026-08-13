@@ -27,4 +27,10 @@ converted to private monopoly, elite network reproduction. Be specific.*
 
 :::
 
-*What does monopoly look like when it controls attention rather than track?*
+::: {.chapter-question}
+What does monopoly look like when it controls attention rather than track?
+:::
+
+::: {.callout-warning}
+Draft skeleton. Prose is written in Phase 5c.
+:::

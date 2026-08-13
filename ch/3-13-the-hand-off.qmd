@@ -27,4 +27,10 @@ converted to private monopoly, elite network reproduction. Be specific.*
 
 :::
 
-*How does a temporary emergency become a permanent structure?*
+::: {.chapter-question}
+How does a temporary emergency become a permanent structure?
+:::
+
+::: {.callout-warning}
+Draft skeleton. Prose is written in Phase 5b.
+:::

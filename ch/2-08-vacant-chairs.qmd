@@ -11,20 +11,129 @@ Act II — Land, Monopoly, and Institution · 1853–1862
 
 **Core question.** Why does the railroad run where it runs?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** Because the men who wanted it to run somewhere else walked out of
+Congress. The transcontinental route was not chosen on engineering merit. It was
+chosen by subtraction, in a chamber emptied by secession, and everything
+downstream of that vacancy — the Big Four, their fortunes, the university one of
+them founded — sits on a decision the South made by leaving.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Public subsidy converted into private monopoly, at the moment
+of conversion. This is the chapter where the reader watches a chokepoint get
+sited. The Pacific Railway Act's land grants and thirty-year bonds are public
+money; the corporations that receive them are private; and the reason they are
+*these* corporations in *this* place is a sectional accident. Also elite network
+reproduction in its earliest California form: Judah supplies the survey, four
+Sacramento merchants supply the signatures, and the federal government supplies
+the balance sheet.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Between 1853 and 1855 the War Department surveyed five possible
+routes and could not produce a decision, because every field commander reported
+that his own route was the best one. The deadlock was not technical. It was
+sectional, and it held for nine years. It broke in the winter of 1861 when
+Southern members left.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** Jefferson Davis, twice — as the Secretary of War who
+commissioned the surveys and concluded for the southern route, and as the senator
+who, days before leaving to lead a rebellion, rose to praise the railroad as the
+thing that would bind the nation together. Theodore Judah is the counter-anchor:
+the engineer who spent the winter of 1861–62 in Washington converting a survey
+into a statute.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** James Gadsden's proposal to divide California into two
+states, the southern half open to slavery, with San Diego as the terminus of his
+railroad. The route question was never only about grades and rainfall; it was
+about whether the Pacific coast would be reached by a slave economy. And the
+Indigenous nations across all five surveyed corridors, whose territories were
+mapped as engineering problems.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that California's founding fortune rests on a
+contingency rather than a merit by showing that the route was deadlocked for nine
+years on sectional grounds and resolved only by the physical absence of the
+opposition.
+:::
+
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Opens on Jefferson Davis in the Senate in January 1861, days from departure,
+calling a transcontinental railroad "an achievement worthy of our age and of our
+people" — to couple the Pacific and the Mississippi with bonds of iron and show
+that snow-capped mountains could not divide them. He is about to divide the
+country. His leaving is what makes the railroad possible, and it will be built
+nowhere near where he wanted it.
+
+Then back to 1853. Congress appropriates $150,000 and hands the survey to the War
+Department, which means it hands it to Davis. Four corridors are examined — the
+47th–49th parallels, the 37th–39th, the 35th, and the 32nd. The result, submitted
+in twelve volumes, is a masterpiece of Western science and a total political
+failure: every field commander reports having found the most practicable and
+economical route to the Pacific. Congress is exactly where it started.
+
+Davis is not in doubt. He concludes for the 32nd parallel — shortest at under
+1,700 miles, cheapest at around $72 million, lowest elevations, mildest winters,
+running through territory already organised. The chapter is careful here: on the
+engineering, he has a real case. That is what makes the chapter work. The southern
+route was not obviously wrong; it was obviously southern.
+
+The politics are made explicit through Gadsden, who wants San Diego as his
+terminus and proposes splitting California in two so the lower half can hold
+slaves, and through the Gadsden Purchase, which buys the strip of Mexico the
+32nd-parallel route requires. A railroad is being used as an instrument of
+sectional expansion, and everyone involved knows it.
+
+Nine years of deadlock follow. Then the winter of 1861. The seats empty. Judah
+lobbies through the winter; Lincoln, persuaded that the road is both a military
+necessity and a way of binding the Pacific coast to the Union, backs it. With no
+prospect of a southern route and nobody present to oppose a central one, the bill
+moves through Congress in May and June and is signed on 1 July 1862.
+
+The chapter closes on what that vacancy purchased for four Sacramento merchants,
+and on the observation that the Union Pacific is the first corporation chartered
+by the federal government since the Second Bank of the United States. The war
+that was fought to preserve the Union also built the machine that would govern
+California, and handed it to private hands on the way.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** Davis in the Senate, January 1861, on iron bonds and snow-capped
+   mountains. Then the flat fact: within eighteen months of his departure the
+   railroad he had blocked for a decade was law, on a route he had rejected.
+2. **The appropriation.** 3 March 1853, $150,000, Corps of Topographical
+   Engineers, the survey handed to the Secretary of War.
+3. **The five corridors.** What each one was, who led it, what it cost. Keep this
+   fast and concrete; it is the chapter's only expository stretch.
+4. **The failure of the survey to decide anything.** Every commander reports his
+   own route is best. Twelve volumes, no answer. The structural point: a
+   technical process cannot resolve a distributive question.
+5. **Davis's conclusion.** The 32nd parallel, and its genuine engineering merits.
+   Give the strongest version of his case, then name what else it was.
+6. **Gadsden.** The terminus at San Diego. The proposal to split California and
+   open the southern half to slavery. The Purchase that buys the corridor.
+   *This is the chapter's most surprising material — consider promoting it.*
+7. **Deadlock, 1856–1860.** Both parties put a Pacific railroad in their
+   platforms. Nothing passes. Nine years.
+8. **The vacancy.** Secession winter. What the arithmetic of the chamber now is.
+9. **Judah in Washington.** The winter of 1861–62. The Central Pacific already
+   incorporated, 28 June 1861. Lincoln's reasoning: military necessity plus
+   holding the Pacific coast.
+10. **The Act.** 1 July 1862. Council Bluffs to the navigable waters of the
+    Sacramento. Thirty-year bonds at six percent. Land grants. The Union Pacific
+    as the first federally chartered corporation since the Second Bank.
+11. **The excluded.** Gadsden's slave-state California as the road not taken;
+    the Indigenous nations mapped as terrain across all five corridors.
+12. **Landing.** The route was chosen by subtraction. Four Sacramento merchants
+    received a federal balance sheet because of who was not in the room. Hand
+    off to the next chapter: what they did with it.
 :::
 
 :::
 
-*Why does the railroad run where it runs?*
+::: {.chapter-question}
+Why does the railroad run where it runs?
+:::
+
+::: {.callout-warning}
+Specified. Prose is written in Phase 5a.
+:::

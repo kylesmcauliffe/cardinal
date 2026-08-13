@@ -27,4 +27,10 @@ converted to private monopoly, elite network reproduction. Be specific.*
 
 :::
 
-*When a platform becomes infrastructure, who is responsible for what it does?*
+::: {.chapter-question}
+When a platform becomes infrastructure, who is responsible for what it does?
+:::
+
+::: {.callout-warning}
+Draft skeleton. Prose is written in Phase 5c.
+:::

@@ -27,4 +27,10 @@ converted to private monopoly, elite network reproduction. Be specific.*
 
 :::
 
-*How does advertising become a surveillance infrastructure?*
+::: {.chapter-question}
+How does advertising become a surveillance infrastructure?
+:::
+
+::: {.callout-warning}
+Draft skeleton. Prose is written in Phase 5b.
+:::
