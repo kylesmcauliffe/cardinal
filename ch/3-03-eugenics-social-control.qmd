@@ -121,6 +121,174 @@ chapter underneath it.
 How does an institution justify inequality?
 :::
 
-::: {.callout-warning}
-Specified. Prose is written in Phase 5b.
-:::
+The California statute of 1909 is written in the flat administrative prose of a
+public health measure. It authorised the medical superintendents of state
+institutions to perform an operation on inmates when, in their judgment, it
+would improve the person's physical, mental, or moral condition. It required no
+consent from the patient. It required no court order.
+
+Over the following decades California sterilised more people under this
+authority than any other state in the union — by most reconstructions, something
+in the region of a third of the national total. Figures vary between
+institutional records and later studies, and the variation is itself part of the
+record: the people this was done to were not, in general, considered worth
+counting carefully.
+
+This chapter is about where the argument for it came from, and the answer
+involves the president of the university this book is about.
+
+## Jordan whole
+
+David Starr Jordan was one of the most distinguished American scientists of his
+generation. He was an ichthyologist of the first rank who described a very large
+number of fish species and whose taxonomic work is still cited. He was president
+of Indiana University at thirty-four and Stanford's first president at thirty-
+nine. He was a serious conservationist with connections to the Sierra Club. He
+was, notably and at some cost to himself, a committed pacifist who campaigned
+against American entry into the First World War.
+
+He was also chairman of the eugenics committee of the American Breeders
+Association, an early and influential advocate of sterilisation legislation, and
+the author of works arguing that the quality of a nation is a matter of heredity
+and that social policy should be organised accordingly.
+
+All of this is the same man, at the same time, and the chapter is more damning
+for refusing to separate the parts. Eugenics in the first decades of the
+twentieth century was not a fringe enthusiasm held by cranks. It was mainstream
+progressive science, held by university presidents, public health officials,
+conservationists, and social reformers, and it was attractive precisely to
+people who believed that expertise should govern.
+
+## What the argument actually claimed
+
+The structure of the eugenic argument matters more than its scientific content,
+which was wrong.
+
+It held that socially significant human characteristics — intelligence,
+criminality, pauperism, alcoholism, what was then called feeblemindedness — were
+substantially hereditary. From that premise several conclusions followed. Social
+problems were biological rather than economic. Charity that allowed the unfit to
+reproduce made things worse. And the state had a legitimate interest in who
+reproduced.
+
+Now consider what that proposition does for an institution whose endowment came
+from a railroad monopoly.
+
+It explains the distribution of wealth as a distribution of quality. If ability
+is hereditary and success tracks ability, then a class that has accumulated
+enormous advantages has done so because it is better, and its children will
+inherit both the money and the merit that justifies it. The argument converts a
+structural outcome into a natural one, which is the most useful thing any
+ideology can do for the people at the top of a hierarchy.
+
+The university did not merely educate the people who would run California. It
+supplied the scientific account of why they should. That is the most serious
+charge in this book, and it is made on the basis of the participants' own
+published work.
+
+## Conservation and vigour
+
+The link between conservation, national fitness, and racial anxiety is real, and
+it is frequently overstated, so the chapter states it precisely.
+
+A strand of early twentieth-century American conservation was explicitly
+concerned with the physical and racial quality of the population. Wilderness was
+valued partly as a corrective to the supposed degeneration produced by urban
+industrial life, and several prominent conservationists were also prominent
+eugenicists. Madison Grant, a founder of major conservation organisations, wrote
+one of the most influential racist tracts of the period.
+
+This does not mean conservation was a eugenic project, and the chapter does not
+say so. It means the two movements drew on an overlapping constituency and an
+overlapping vocabulary about national vigour, and that some of the same people
+were in both.
+
+## What was done, and to whom
+
+The 1909 law was amended and broadened in 1913 and again in 1917. The operations
+were performed in state institutions — the Sonoma State Home, Patton State
+Hospital, Stockton, and others — on people committed to them.
+
+The population sterilised was overwhelmingly poor. It included people committed
+for mental illness, for intellectual disability as then assessed, and in a
+substantial number of cases for behaviour: young women committed as sexually
+delinquent, people committed for petty criminality, and children committed
+because their families could not keep them.
+
+It was racially disproportionate. Later analyses of the institutional records
+have found that Mexican-American and Black patients were sterilised at rates
+significantly above their share of the institutional population, and that the
+assessments justifying the procedures relied on intelligence testing
+administered in English to people who did not speak it.
+
+Consent, where recorded at all, was frequently obtained from a relative or was a
+condition of release. A person could be told that the operation was the route
+out of the institution.
+
+The record preserves individual cases in enough detail to write them as people,
+and the chapter should do so, because the aggregate figure is the least
+informative thing about this.
+
+## Beyond the window
+
+Two developments fall outside this chapter's period and warrant one verified
+sentence each, because leaving them out would misrepresent the trajectory.
+
+The Human Betterment Foundation was established in Pasadena in 1928 by E. S.
+Gosney, with Jordan among the figures associated with the eugenics movement in
+California, and it promoted the state's sterilisation programme through
+published studies distributed internationally.
+
+And German officials and scientists studied California's programme in the 1920s
+and 1930s, and California's example was cited in the German debate that preceded
+the 1933 sterilisation law. The direction of influence in this period runs from
+California to Germany.
+
+## The map
+
+The same decades produced a parallel application of the sorting principle, and
+it was applied to land rather than to bodies.
+
+Restrictive covenants — clauses written into property deeds prohibiting sale or
+occupancy by specified racial and religious groups — spread widely across
+California in this period and became standard in new subdivisions. They were
+private agreements between property owners, enforceable in court, and they did
+not require any legislature to pass anything. The Supreme Court held them
+judicially unenforceable only in 1948, and their language stayed in deeds for
+decades afterwards.
+
+The federal government then systematised the logic. From the mid-1930s the Home
+Owners' Loan Corporation and the Federal Housing Administration produced
+residential security maps grading neighbourhoods for lending risk, with the
+lowest grade marked in red. Racial and ethnic composition was an explicit factor
+in the grading, and the underwriting manuals of the period recommended
+restrictive covenants as a means of maintaining neighbourhood stability.
+
+The consequence is that the geography of the Bay Area — who could buy where, who
+could accumulate housing equity, and whose neighbourhoods received investment —
+was determined by documents that ranked populations by supposed quality. When
+Act IV describes the Stanford Research Park and asks who could live within reach
+of the jobs, this is the answer, and it was drawn on a map.
+
+The same intellectual move underlies both. A class of experts identifies human
+quality, ranks it, and acts on the ranking, and the ranking is recorded in an
+instrument — a commitment order, a deed, an underwriting map — that outlasts the
+belief that produced it.
+
+## The sorting science
+
+California's sterilisation laws remained on the books until 1979. Coerced
+sterilisations in California institutions and prisons have been documented well
+beyond that date, including cases in state prisons in the first decade of this
+century, and the state established a compensation programme for survivors in
+2021.
+
+What Act III will call the science of management is, in this chapter, visibly
+the science of sorting: the claim that a class of experts can identify human
+quality, rank it, and act on the ranking, for the good of everyone.
+
+The claim will change vocabulary repeatedly over the next century. It becomes
+scientific management, then aptitude testing, then admissions, then talent
+identification, then pattern recognition about founders. When Act IV describes a
+venture capitalist explaining that he can tell within twenty minutes whether
+someone will succeed, the reader should hear this chapter underneath it.

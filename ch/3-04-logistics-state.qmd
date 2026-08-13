@@ -111,6 +111,156 @@ interpretation.
 What is power when armies cannot move without food?
 :::
 
-::: {.callout-warning}
-Specified. Prose is written in Phase 5b.
-:::
+Between 1914 and 1919 a private committee fed occupied Belgium.
+
+It negotiated simultaneously with the British Admiralty, which was blockading
+Germany, and the German occupation authorities, who were governing Belgium. It
+chartered and operated its own fleet, flying its own flag, which both
+belligerents agreed to respect. It issued instruments that functioned as
+currency. It moved several million tons of food. At its peak it was the
+principal source of subsistence for something in the region of nine million
+people in Belgium and northern France.
+
+It had no territory, no army, no sovereign authority, and no legal existence
+beyond the agreement of the parties. Its chairman was the mining engineer from
+chapter 1.
+
+## The problem
+
+The Commission for Relief in Belgium existed because of an engineering problem
+before it was a humanitarian one, and the chapter treats it that way.
+
+Belgium in 1914 imported the large majority of its food. The German invasion
+occupied the country; the British blockade cut it off from overseas supply; and
+the occupying power, under international law, bore responsibility for feeding
+the civilian population but had no intention of diverting its own supplies to do
+so. Britain's position was that food entering Belgium would free German
+resources and that the blockade was its principal weapon. Both positions were
+coherent. Between them lay a country that would starve.
+
+Hoover was in London, having just organised the evacuation of stranded American
+travellers at the outbreak of war, and was asked to take it on.
+
+## The leverage
+
+What made the Commission possible was that neither belligerent wanted the famine
+on its own ledger, and Hoover understood that this was his entire negotiating
+position.
+
+Germany did not want to be responsible for starving Belgium while claiming to be
+its lawful occupier, and did not want to feed it either. Britain did not want to
+be responsible for starving Belgium while fighting a war justified substantially
+by the invasion of Belgium. A neutral organisation that fed the population
+without materially assisting either side offered both a way out.
+
+The terms were correspondingly precise. Germany undertook not to requisition the
+imported food or the domestic harvest. Britain permitted the shipments through
+the blockade. The Commission guaranteed the distribution, and the guarantee had
+to be credible to two governments that trusted each other not at all.
+
+## The accounting
+
+Credibility was manufactured through records.
+
+The Commission's books were kept to a standard that would survive audit by
+either belligerent, and the possibility of that audit was the point. Every ton
+was tracked from purchase to distribution. A network of Belgian local
+committees, tens of thousands of people, handled the actual distribution under
+supervision, and their operations were documented in a way that allowed the
+Commission to demonstrate that food had not been diverted.
+
+This is the same insight as the mission register in Act II chapter 1 and the
+archive in the next chapter. The record is not a description of the operation.
+It is the instrument that makes the operation possible, because it is what
+allows a party with no coercive power to be believed.
+
+## What the war revealed
+
+The larger lesson of 1914 to 1918, and the reason this chapter sits where it
+does in the act, is that industrial warfare made logistics the binding
+constraint on national power.
+
+Armies of millions consumed food, ammunition, coal, and transport at rates no
+previous conflict had approached. Blockade became a decisive weapon precisely
+because economies had become interdependent. The states that managed this best
+were the ones that could count, allocate, and move, which meant that the war
+elevated a class of administrators and technical managers to positions that had
+previously belonged to soldiers and politicians.
+
+When the United States entered in 1917, Hoover was brought home to run the Food
+Administration, and the method he applied is worth noting because it is
+distinctively American and distinctively of this class. He did not ration by
+decree. He used publicity, voluntary compliance, price mechanisms, and
+purchasing power — persuading the public to observe meatless days while
+controlling the market through federal buying. It worked, and it made him a
+household name.
+
+## Russia
+
+The relief operation that followed the war was larger than the one during it,
+and it is the clearest available case of humanitarian logistics functioning as
+foreign policy.
+
+The American Relief Administration, which Hoover directed, operated across
+central and eastern Europe from 1919, feeding populations in states that in
+several cases had existed for only months. In 1921 it extended into Soviet
+Russia during the Volga famine, under an agreement negotiated at Riga, and at
+its peak was feeding something in the order of ten million people a day.
+
+Hoover was an outspoken anti-Bolshevik and said so publicly throughout. He
+argued that famine relief was the correct response anyway, and also that a fed
+population was less likely to be a revolutionary one — which is a humanitarian
+argument and a strategic argument delivered in the same sentence, and he did not
+pretend otherwise.
+
+The Soviet government accepted the aid and resented the terms, which required
+American control of distribution and the release of imprisoned Americans. Both
+sides understood that an American organisation feeding Russians was a political
+fact as well as a nutritional one.
+
+This is the chapter's argument at its sharpest. Logistical capacity is state
+capacity, and an actor who possesses it can conduct something indistinguishable
+from foreign policy without holding any office. Hoover was, in 1921, a private
+citizen running an operation with more practical effect on Soviet Russia than
+most embassies achieved in a decade.
+
+It also produced, incidentally, an enormous quantity of documentary material
+about a collapsing society, gathered by an organisation with people on the
+ground. The next chapter is about where it went.
+
+## Private capacity, public function
+
+The structural claim of this chapter is the one Act II chapter 7 introduced with
+the Committee of Vigilance, and it has now scaled to a continent.
+
+A private organisation performed a core governmental function — the subsistence
+of a population — because the governments responsible could not or would not,
+and it was honoured for doing so. Hoover emerged from the war as the most
+administratively famous American alive, with a reputation for competence that
+carried him to the Commerce Department, the presidency, and a long afterlife as
+the country's designated organiser of relief efforts.
+
+The arrangement's cost is who had no part in it. Belgian civilians were the
+object of the Commission rather than participants in it; nobody consulted them
+about the terms. The local committees that did the distribution worked in the
+credit of the men who negotiated it. And a body accountable to neither
+government made decisions about the survival of nine million people, competently
+and in good faith, with no mechanism by which those people could have influenced
+it.
+
+## What Hoover took away
+
+He came out of it with a conviction that shapes the next chapter and, through
+it, a substantial part of this book.
+
+He had watched governments dissolve. He had seen the Russian empire collapse,
+the German and Austro-Hungarian empires end, and new states appear out of the
+wreckage. He had negotiated with authorities that ceased to exist during the
+negotiation.
+
+And he had noticed that the paper was disappearing. The leaflets, the decrees,
+the ration cards, the manifestos of movements that had held power for six weeks
+— the documentary residue of the greatest political rupture in European history
+was being thrown away, because in 1919 nobody thought it was worth anything.
+
+He decided to buy it.

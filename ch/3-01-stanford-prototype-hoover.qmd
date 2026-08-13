@@ -118,6 +118,151 @@ chapters testing.
 What does the Stanford pipeline produce?
 :::
 
-::: {.callout-warning}
-Specified. Prose is written in Phase 5b.
-:::
+Herbert Hoover failed the entrance examination.
+
+He was seventeen, an orphan from an Iowa Quaker family raised by relatives in
+Oregon, working as a clerk and taking night classes in bookkeeping and typing. A
+Stanford geology professor named Joseph Swain came through Portland recruiting
+for a university that had not yet opened and encouraged him to sit the
+examination. He passed mathematics and failed everything else.
+
+He was admitted conditionally, on the understanding that he would make up the
+deficiencies, and arrived at Palo Alto in the summer of 1891 — before the
+university opened, which meant he was among the first students to be resident on
+the campus. He worked his way through, running a laundry agency and a lecture
+bureau. He graduated in the pioneer class of 1895 with a degree in geology.
+
+Fifteen years later he was one of the best-known mining engineers in the world,
+with operations on four continents and a personal fortune. Thirty-four years
+after that he had been President of the United States.
+
+He is the Stanford pipeline's first output, and this chapter is about what
+exactly the pipeline supplied him with, because it was not money and it was not
+family.
+
+## What the credential did
+
+Hoover had no capital. He had no social standing — the Quaker orphan of a
+blacksmith is not a figure the American elite of the 1890s recognised. He had no
+connections beyond the ones he made at university.
+
+What he had was a certified technical competence that a London capital market
+needed and could not easily verify for itself.
+
+The mining industry of the 1890s ran on a specific informational problem.
+Investors in London were funding operations in Western Australia, South Africa,
+Burma, and China, and they had no way of knowing whether the promoters' claims
+about a deposit were true. They needed people who could go and look, who
+understood the geology, and whose reports could be trusted. Trust was the scarce
+input, and a degree from a serious institution was the available proxy for it.
+
+Hoover's first job after graduating was pushing ore carts in a Nevada mine at
+two dollars a day, which is worth recording because it puts the credential in
+perspective: it opened a door, it did not deliver a career. What moved him was
+the recommendation of Louis Janin, a prominent San Francisco mining engineer for
+whom he clerked, to the London firm of Bewick, Moreing and Company. In 1897, at
+twenty-three, he was sent to Western Australia.
+
+Each step in this sequence is a recommendation rather than an application. That
+is what a network is, and the university is where he acquired one.
+
+## Australia and China
+
+The Western Australian goldfields were brutal country — Coolgardie and
+Kalgoorlie, inland, hot, waterless, and booming. Hoover's job was to evaluate
+properties for purchase and then manage the ones the firm bought. He recommended
+the acquisition of the Sons of Gwalia mine, which turned out extremely well and
+made his reputation.
+
+What a mining engineer actually did in this period is worth listing, because the
+list is the point. He surveyed and assessed the deposit. He priced the risk. He
+designed and procured the plant. He managed a workforce of hundreds or thousands
+in a place with no institutions. He kept accounts that London could audit. He
+negotiated with governments, landowners, and rival concerns.
+
+That is a general management education conducted under difficult conditions, and
+it produced a particular type of person: technically trained, globally mobile,
+comfortable with scale, and accustomed to solving problems that were
+simultaneously engineering, financial, and political. When the First World War
+arrives in chapter 4, this will turn out to be the only relevant skill set in
+existence.
+
+In 1899 the firm sent him to China as chief engineer for a mining concern
+operating at Kaiping, north-east of Tianjin, under a concession from the Chinese
+government.
+
+## Lou Henry
+
+He married Lou Henry in Monterey in February 1899 and they sailed for China the
+next day.
+
+She belongs in this chapter as a peer, not as a spouse. Lou Henry had entered
+Stanford in 1894 and taken a degree in geology in 1898 — the only woman in the
+programme, at a time when the field was closed to women almost everywhere. She
+was a competent geologist, spoke and read several languages, and later
+collaborated with her husband on a translation from Latin of Agricola's *De Re
+Metallica*, the sixteenth-century treatise on mining, which took the two of them
+five years and remains in print.
+
+They were both Stanford geologists. The partnership is the network operating at
+its smallest possible scale, and it was formed in a laboratory.
+
+## Tianjin
+
+In the summer of 1900 the Boxer Uprising reached Tianjin, and the foreign
+settlement was besieged for roughly a month.
+
+The Hoovers were inside it. He organised the barricades and the food and water
+supply, which was the obvious assignment for the man with the logistics
+training. She worked in the hospital, and by several accounts carried a revolver
+and rode a bicycle through streets under fire.
+
+The episode is generally told as adventure and it belongs in the chapter for a
+duller reason: it is the first occasion on which Hoover organised the survival
+of a civilian population under siege conditions. He would do it again fourteen
+years later for seven million people, and the method was recognisably the same.
+
+## Kaiping
+
+The chapter does not skip what followed, because the strongest case against
+Hoover's early career is here and the voice rule requires it be stated at full
+strength.
+
+In the aftermath of the uprising, the Chinese Engineering and Mining Company's
+assets at Kaiping were transferred to a British corporation. Hoover was closely
+involved in the transaction and became a director of the resulting company. The
+Chinese director who had signed the transfer, Chang Yen-mao, subsequently sued
+in the English courts, arguing that the transfer had been procured on
+misrepresentations and that the terms actually agreed had not been honoured.
+
+The 1905 judgment substantially favoured Chang on the central question: the
+court found that the memorandum he had relied on had not been given effect and
+ordered that it be observed. Hoover's own conduct was defended by the court in
+some respects and his role was not the principal target, but he had participated
+in and profited from a transaction in which a Chinese enterprise passed into
+British control on terms a British court found had not been kept.
+
+Hoover spent decades disputing characterisations of the affair and it followed
+him into the presidency. The honest summary is that he was a young man doing
+what his industry did, in a legal environment created by imperial power, and
+that the industry's normal practice was extractive in ways the court record
+documents.
+
+## The formula
+
+By 1901 Hoover was a partner in Bewick, Moreing. By 1908 he was running his own
+consultancy with interests worldwide. He was, in a decade and a half, one of the
+richest self-made men in the profession.
+
+Technical training, plus capital access, plus institutional network, equals
+global leverage.
+
+That is the formula, and it is the thing Stanford turned out to manufacture. Not
+scholars, not gentlemen, and not — at this stage — capitalists. Managers of
+complex systems, credentialled by an institution whose certification a distant
+market would accept, who could be dropped into any extraction economy on earth
+and produce a return.
+
+Act III spends the next twelve chapters watching that formula scale from a
+mining concession to a war economy to a research university, and the man in this
+chapter is present for most of it.

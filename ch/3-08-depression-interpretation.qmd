@@ -115,6 +115,165 @@ it. They did not make the mistake again.
 What happens when the governing story breaks down?
 :::
 
-::: {.callout-warning}
-Specified. Prose is written in Phase 5b.
-:::
+Hooverville.
+
+The word attached itself to the shanty settlements that appeared on the edges of
+American cities after 1929, and it did more political damage than any speech of
+the period. It was also, as a description of the man's actual policy, close to
+the opposite of the truth.
+
+The gap between what Herbert Hoover did and what his name came to mean is this
+chapter's subject, because that gap is where the twentieth century turned.
+
+## The most qualified man available
+
+By any reasonable assessment in 1928, Hoover was the best-prepared person ever
+to enter the American presidency.
+
+He had run a global engineering practice. He had fed occupied Belgium through
+four years of blockade, and much of central and eastern Europe after the
+armistice. He had directed the American food supply during the war. He had spent
+eight years running the Commerce Department as a national coordinating body, and
+he had managed the federal response to the Mississippi flood of 1927, which was
+the largest domestic relief operation the country had yet mounted.
+
+He was the country's designated organiser. He was elected by a very large margin
+on precisely that reputation.
+
+## What he actually did
+
+The chapter has to give this at full strength, because the argument depends on
+his competence being real.
+
+Hoover's response to the Depression was more interventionist than that of any
+previous American president facing an economic contraction. He expanded federal
+public works. He created the Reconstruction Finance Corporation in 1932 to lend
+to banks, railroads, and other institutions, which was an unprecedented
+insertion of federal credit into the private economy and which the Roosevelt
+administration subsequently kept and expanded. He signed the Federal Home Loan
+Bank Act to support mortgage lending. He convened business leaders and secured
+commitments to maintain wages, which held for a considerable period.
+
+He also did things that made it worse — signing the Smoot-Hawley tariff, and
+supporting a tax increase in 1932 in pursuit of a balanced budget — and the
+chapter should say so. But the picture of a president who believed in doing
+nothing is not supported by the record. He believed in doing a great deal,
+through voluntary coordination and indirect federal support, and he did it.
+
+It was not enough, and more importantly it was not the thing being asked for.
+
+## Solving the wrong problem correctly
+
+Hoover approached the Depression as an engineering and logistics problem,
+because that is what he was superbly good at and because every previous crisis
+of his career had been one.
+
+Belgium was a logistics problem: food existed, people needed it, and the task
+was to move it through a blockade and account for it. The Mississippi flood was
+a logistics problem. Wartime food supply was a logistics problem.
+
+The Depression was not. It was a crisis of confidence, expectation, and
+legitimacy, and by 1931 it had become a crisis about whether the American
+economic order deserved to continue. What had broken in 1929 was not only
+prices. It was the account of why the people at the top were at the top — an
+account that, as chapter 3 described, had recently been given a biological
+formulation by respectable scientists.
+
+You cannot restore confidence by convening a committee, and you cannot answer a
+question about desert with a credit facility. Hoover kept producing correct
+technical answers to a question nobody was asking.
+
+The Bonus Army made the mismatch visible. In the summer of 1932 tens of
+thousands of unemployed veterans camped in Washington seeking early payment of a
+promised bonus. The administration's handling of it ended with the army clearing
+the camps with cavalry and tanks under MacArthur, and the newsreels of that were
+the end of Hoover's political life. The administrative question — whether the
+bonus should be accelerated — was arguable. The image was not.
+
+## Roosevelt as interpretation
+
+Franklin Roosevelt's advantage in 1932 was not a superior programme. Much of the
+early New Deal was improvised, some of it contradicted the rest, and a good deal
+of it was continuous with what Hoover had already begun.
+
+His advantage was that he supplied an interpretation. He told the country that
+the crisis had causes rather than being weather, that those causes were located
+in the conduct of finance and the structure of the economy, and that government
+existed to act on them. It was an account of what institutions are for, and
+against it Hoover had a set of measures.
+
+The winning interpretation then determined the structure of American capitalism
+for fifty years. Securities regulation and the separation of investment from
+commercial banking. Federal deposit insurance. Collective bargaining rights and
+the labour law that followed. Social insurance. Federal mortgage guarantees,
+with the redlining maps described in chapter 3 built into them. Agricultural
+price supports, which in California flowed overwhelmingly to large operators
+rather than to the labour force Steinbeck was writing about.
+
+Ideas were the decisive assets of the decade. Not factories, not gold, and
+certainly not administrative capability.
+
+## California
+
+The state's exposure was acute and specific. Migration from the Dust Bowl states
+brought several hundred thousand people into California looking for agricultural
+work that did not exist in the quantity required, into a labour system built on
+the century-long sequence of recruited and discarded workforces described in Act
+II. Wages collapsed. Organising was met with force, by growers' associations
+operating with local law enforcement, in episodes that ran through the entire
+decade.
+
+And California became dependent on federal money in a way it had not been before
+— water projects, public works, and eventually defence. That dependence is the
+bridge into the second half of this act.
+
+## The dam
+
+There is a monument to the other half of Hoover's career, and it is three
+hundred and seventy miles from Palo Alto on the Colorado River.
+
+The dam at Black Canyon was authorised in 1928 and built between 1931 and 1936,
+and Hoover's role in it began long before the presidency: as Secretary of
+Commerce he had chaired the negotiations that produced the Colorado River
+Compact of 1922, the agreement among seven states that made the project legally
+possible by allocating the river's water among them.
+
+That compact is one of the most consequential documents in the history of the
+American West. It divided the river between an upper and a lower basin on the
+basis of flow measurements taken during an unusually wet period, which means it
+allocated more water than the river reliably carries — a structural error that
+the region has been managing ever since and is managing now.
+
+The dam itself did what large infrastructure does in this book. It made southern
+California's growth possible by supplying water and power, and the power
+contracts that financed it went substantially to Los Angeles. Public money and
+federal authority produced an asset whose benefits accrued to specific private
+and municipal interests, allocated by a formula negotiated in a room.
+
+It was named for Hoover, renamed by the Roosevelt administration, and renamed
+for him again by Congress in 1947.
+
+The relevance to this chapter is that the same man, in the same decade,
+succeeded completely at a logistics and negotiation problem and failed
+completely at an interpretive one. The skills were not deficient. They were the
+wrong skills for what was being asked, and there is no evidence he ever accepted
+that.
+
+## Palo Alto
+
+Hoover left office in March 1933 and returned to Stanford, where he lived on the
+campus in a house on San Juan Hill and spent the next thirty years building the
+Institution that carried his name into something with a point of view.
+
+A defeated president assembling an intellectual apparatus is a familiar figure
+and usually a pathetic one. This one worked. The Institution grew, acquired
+permanent scholars, and became a base from which a particular set of economic
+and foreign policy arguments could be developed and sustained across decades in
+which they were entirely out of fashion.
+
+The payoff arrives in 1980, with somebody else's name on the ballot. Act IV
+chapter 10 collects it.
+
+What California's elite learned in the 1930s is that administrative competence
+is not sufficient, and that whoever loses the argument about what institutions
+are for loses everything downstream of it. They did not make the mistake twice.

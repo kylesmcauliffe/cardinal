@@ -113,6 +113,149 @@ group that knows how to move anything.
 How is the pre-war elite formed?
 :::
 
-::: {.callout-warning}
-Specified. Prose is written in Phase 5b.
-:::
+A cable arrives at a London office from a minehead in Western Australia. It
+contains an assessment and a signature, and on the strength of it a share price
+moves and capital is committed.
+
+That transaction — not the digging, not the ore, not even the money — is how the
+governing class of the late nineteenth century was actually constituted, and
+this chapter is about the position occupied by the man who signs.
+
+## Information, not geology
+
+The mining engineer's product was information under conditions of extreme
+asymmetry.
+
+A promoter in London says there is gold in a Western Australian lease. He may be
+right. He may be honestly mistaken, which was common, because surface
+indications mislead. He may be lying, which was also common, and the 1890s
+Australian boom produced a great deal of it. An investor eight thousand miles
+away has no way to distinguish these cases.
+
+The engineer's job was to go, look, sample, assay, calculate, and report. His
+value was not that he could find gold — prospectors found gold. It was that his
+report was believed, by people who had no independent means of checking it and
+who were committing very large sums on the strength of it.
+
+He was, functionally, a ratings agency with a hammer. And like a ratings agency,
+his entire asset was a reputation that was expensive to build and could be
+destroyed by a single bad report, which is why the credential and the firm
+mattered so much: they underwrote the individual.
+
+## Where California came in
+
+California had been running this system on itself for fifty years, and it is why
+the state exported engineers before it exported anything else.
+
+The Gold Rush had exhausted the placers within a few years, as Act II chapter 6
+described, and what followed required capital: hydraulic operations that washed
+entire hillsides into rivers, stamp mills, and eventually deep hard-rock mining
+on the Comstock Lode in Nevada, which was financed through the San Francisco
+Stock and Exchange Board and generated some of the most spectacular speculation
+of the century.
+
+Deep mining is an engineering problem of a different order from panning. It
+required pumping, ventilation, timbering, ore processing, and enormous
+concentrated investment, and it produced in California a professional apparatus
+to match: assay offices, mining law, engineering expertise, and a legal doctrine
+of claims and water rights that was subsequently exported across the American
+West and beyond.
+
+By the 1890s, a young man trained in geology at a California university and
+apprenticed in Nevada was carrying a body of practice that London wanted and
+Britain could not supply in sufficient quantity. Stanford, Berkeley, and the
+Columbia School of Mines were feeding a global market.
+
+## Empire as the enabling condition
+
+The chapter has to be careful here, because it would be easy to describe the
+mining engineer as a purely technical figure and he was not.
+
+His authority was borrowed. A concession in Western Australia was enforceable
+because British law ran there. A concession in China was enforceable to the
+extent that the treaty port system and the threat behind it made it so — which,
+as the Kaiping litigation in the previous chapter demonstrated, was considerably
+more effective for the British party than for the Chinese one. A contract in
+Burma or Rhodesia or the Transvaal depended on an imperial legal framework that
+someone else maintained with force.
+
+Take away the framework and the valuation is worthless, because there is nothing
+to own. The engineer's expertise operated inside a structure of extraction that
+had already been established by other means, and his role was to make that
+structure legible and financeable.
+
+This is Act I chapter 8's East India Company argument in its late phase. The
+corporation no longer needs to govern the territory directly, because a state
+governs it and the corporation operates within the arrangement. That is a more
+efficient division of labour and it attracts less scrutiny.
+
+## The workforce as a cost line
+
+The people doing the work appear in the documents this chapter relies on as an
+input.
+
+Across the global extraction economy of this period — Australian goldfields,
+South African deep mines, Chinese coal, Indian and Burmese operations — the
+labour was performed by workforces that were racially stratified, paid at rates
+set by that stratification, housed in compounds, and in several jurisdictions
+subject to pass laws and criminal penalties for breach of contract.
+
+The engineer's report priced this labour. Reducing its cost was an explicit part
+of the professional function, and the correspondence discusses it in exactly
+those terms. Hoover himself, in Australia, was involved in importing Italian
+labourers in a period of industrial dispute, and in China managed a workforce
+under arrangements the subsequent litigation examined.
+
+The managerial class that this book follows for the next hundred years was
+constituted by managing these people. That is not an aside about morality; it is
+a statement about where the competence came from. The skills that will be
+applied to Belgian food relief in 1916, to a wartime laboratory in 1943, and to
+a research park in 1951 were developed on extraction sites where the workforce
+had no recourse.
+
+## The firm as an institution
+
+One more element deserves attention, because it is the direct ancestor of a
+structure Act IV will describe on Sand Hill Road.
+
+Bewick, Moreing was not a mining company in the ordinary sense. It managed mines
+on behalf of owners, took fees and participations, placed its own people as
+managers, and moved them between properties and continents. It was, in modern
+terms, a professional services firm with equity positions — and its most
+valuable asset was the roster of engineers whose judgment the London market
+accepted.
+
+Hoover became a partner in 1901 and reorganised the firm's operations
+aggressively, introducing standardised accounting and management systems across
+properties in several countries. The point of standardisation is that it makes
+operations comparable, and comparability is what lets a small central staff
+supervise assets it never visits.
+
+This is the same problem the Roman census solved and the same problem a mission
+register solved: how to administer at a distance by converting the thing being
+administered into numbers on a page. It is also, precisely, the problem a
+venture firm solves when it sits on a dozen boards, and the solution is
+recognisably the same — put your own people in, standardise the reporting, and
+judge by the comparables.
+
+The professional firm holding equity across a portfolio it does not operate is
+the organisational form this book will meet repeatedly. It appears here, in
+mining, half a century before anyone applies it to technology.
+
+## What is now available
+
+By 1914 a class exists in the English-speaking world that is technically
+educated, internationally mobile, comfortable with logistics at very large
+scale, and answerable principally to capital rather than to any state.
+
+It is not an aristocracy, and it is not the old commercial bourgeoisie. It is
+something new: a professional managerial elite whose authority derives from
+certified expertise, whose loyalty is to the enterprise, and whose members can
+be moved between continents and industries without loss of function.
+
+When the European powers go to war in 1914 and discover within months that the
+binding constraint is not weapons but food, shipping, and accounting, this is
+the only group in existence that knows how to move anything.
+
+One of them is a forty-year-old American mining engineer living in London, with
+a Stanford degree, and nothing much to do.
