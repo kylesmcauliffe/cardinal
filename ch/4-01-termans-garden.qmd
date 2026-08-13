@@ -117,6 +117,178 @@ built on top of it.
 How does a university become an operating system for an economy?
 :::
 
-::: {.callout-warning}
-Specified. Prose is written in Phase 5b.
-:::
+The Founding Grant of 1885 forbids the university to sell its land.
+
+Leland Stanford wrote that clause, or had it written, to protect his son's
+memorial from future trustees who might liquidate it. It is a grieving father's
+provision, and for sixty-six years it functioned exactly as a dead hand
+provision usually does: it locked up an asset and prevented anyone from doing
+anything useful with it.
+
+Then somebody noticed that a university which cannot sell land can still lease
+it.
+
+## The problem, restated as an opportunity
+
+By the late 1940s Stanford had eight thousand acres of the San Francisco
+Peninsula and a chronic shortage of money. The endowment was adequate rather
+than large. The land was used for grazing, agriculture, and a golf course, and
+generated very little.
+
+Terman and the university's business manager, Alf Brandin, worked out the
+implications. Long-term ground leases would produce income without violating the
+Grant. And the tenants could be chosen.
+
+That last point is the one that matters, and it is why this is a chapter about
+power rather than about real estate. A landlord who selects tenants on the basis
+of strategic fit rather than rent is exercising industrial policy over a region.
+
+## 1951
+
+The Stanford Industrial Park — later the Research Park — opened in 1951 along
+Page Mill Road, the first university-owned industrial park in the United States.
+Varian Associates was the first tenant, for the reasons the previous act
+described: it was founded by Stanford researchers on Stanford technology, and it
+was already entangled with the institution.
+
+Eastman Kodak took space. General Electric came. Hewlett-Packard moved from its
+various rented premises to the park in 1956 and stayed, which meant the company
+that had started in the garage at 367 Addison Avenue became a tenant of the
+university whose professor had told it to stay in California.
+
+The leases were long — fifty-one years and then ninety-nine — and the terms
+included restrictions on what could be built and who could occupy it. The
+university was not merely collecting rent. It was zoning.
+
+## Four roles at once
+
+Here is what makes the arrangement different in kind from any other university-
+industry relationship then in existence. Stanford occupied four distinct
+positions with respect to the firms on its land, simultaneously.
+
+It was their **landlord**, on long leases at terms it set, on land it could not
+sell and therefore had no incentive to develop for any other purpose.
+
+It was their **talent supply**, producing the engineers they hired and, through
+the Honors Cooperative Program from 1954, continuing to educate those engineers
+after they were hired. Employees of member companies could take graduate courses
+part-time, with their employers paying the fees. A university that educates a
+company's staff for the duration of their careers is not a supplier; it is
+infrastructure.
+
+It was their **research partner**, through sponsored research, consulting
+relationships, and faculty who sat on their boards or founded them.
+
+And it was their **legitimacy anchor**. A young company on Stanford land,
+staffed by Stanford graduates, doing work adjacent to Stanford research, was
+legible to federal contracting officers and to investors in a way that an
+identical company in an industrial district thirty miles away was not.
+
+No other institution in the country held all four. That combination is what the
+chapter means in calling the university an operating system for a regional
+economy: not a metaphor about influence, but a literal description of an entity
+supplying the land, the labour, the research, and the credentialling for an
+industry growing on top of it.
+
+## Follow the revenue
+
+The park's early tenants were not consumer companies and the chapter should keep
+Act III's substrate visible.
+
+Varian made klystrons and microwave equipment, and its customers were military.
+Hewlett-Packard's instrument business depended heavily on defence and aerospace
+purchasing. Lockheed's missile division would arrive in Sunnyvale in 1956, and
+Act IV chapter 4 is about what that did to the region.
+
+The private-sector face of the arrangement sat on a public-sector income stream.
+Federal procurement paid for most of it, and the park was the mechanism by which
+that money became a real estate portfolio, a graduate programme, and a set of
+private fortunes.
+
+## Steeples, tenants, and the loop
+
+The strategy from Act III chapter 10 now closes into a circuit, and it is worth
+tracing once because the rest of the act assumes it.
+
+Federal money funds research in the fields Terman selected. The research
+produces technology and trained people. Faculty and graduates found companies to
+commercialise it. The companies lease land in the park, which pays the
+university. Their employees enrol in the cooperative programme, which pays the
+university. Their research needs sponsor further work, which pays the university
+and generates the next technology. Their success attracts the next generation of
+students and faculty, which strengthens the steeples, which attracts more
+federal money.
+
+Every stage of that loop feeds the next, and the university takes a position at
+every stage.
+
+Terman became provost in 1955 and ran the university's academic strategy for a
+decade. The industrial park expanded. By the mid-1960s the region had a name for
+itself as a technology centre, and by 1971 a trade journalist had supplied the
+label that stuck.
+
+## The other university
+
+There is a comparison that clarifies what Stanford actually did, and it is
+thirty miles north.
+
+Berkeley in 1951 was the stronger institution by most measures. It had the
+Radiation Laboratory, the Manhattan Project pedigree, more Nobel laureates, and
+larger federal research funding. If you had been asked in 1951 which Bay Area
+university would anchor a technology industry, the answer would have been
+obvious and wrong.
+
+Berkeley did not build an industrial park, and could not have. It is a public
+university, embedded in a city, on a constrained site, governed by regents
+appointed through a political process and accountable to a state legislature. It
+could not have leased public land to private companies on preferential terms
+without a fight it would have lost, and its faculty consulting and spin-out
+arrangements were more restricted.
+
+Stanford was private, governed by a self-perpetuating board answerable to
+nobody, and sitting on eight thousand contiguous acres that could not be sold
+and therefore had to be used.
+
+The Founding Grant's insulation from politics, written in 1885 to protect a
+memorial, turned out sixty-six years later to be the decisive competitive
+advantage in a business nobody had imagined. Berkeley did the better science for
+decades and Stanford captured the industry, and the difference is a governance
+structure.
+
+## Who could live there
+
+The workforce for all this had to live somewhere, and where it could live had
+been determined before any of it was built.
+
+Palo Alto, Menlo Park, Atherton, and the surrounding towns operated restrictive
+covenants of the kind described in Act III, and the federal underwriting maps
+graded the area accordingly. The covenants became judicially unenforceable in
+1948 but remained in deeds and continued to be honoured informally, and the
+practices of local real estate boards and lenders sustained the pattern for
+decades afterwards.
+
+The best-documented local case is the developer Joseph Eichler, who from the
+early 1950s built subdivisions on the Peninsula and refused to discriminate,
+selling to Black and Asian buyers when almost nobody else in the region would.
+He resigned from the National Association of Home Builders over its refusal to
+adopt a non-discrimination policy. His developments were exceptional, and their
+being exceptional is the evidence.
+
+East Palo Alto, immediately across the freeway from the university and the park,
+became substantially Black in the same decades, with a very different tax base,
+different schools, and no access to the housing appreciation happening a mile
+away.
+
+The industrial park's labour force was filtered by residence before it was
+filtered by hiring. That is not incidental to the story of Silicon Valley's
+prosperity. It is a condition of it, and the boundary is still visible from the
+road.
+
+## The operating system is running
+
+By 1955 the machine has been assembled and switched on. Everything in the rest
+of this act is an application built on top of it: semiconductors, then personal
+computers, then the internet, then platforms, then models.
+
+The first application arrives the following year, when a Nobel laureate moves to
+Mountain View to be near his mother.

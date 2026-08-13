@@ -104,6 +104,158 @@ occupy a laboratory over it.
 What is Silicon Valley actually built on?
 :::
 
-::: {.callout-warning}
-Specified. Prose is written in Phase 5b.
-:::
+The first message sent over the ARPANET went from UCLA to the Stanford Research
+Institute in Menlo Park on 29 October 1969. The sender typed L, then O, and the
+system crashed.
+
+The internet's first word was "lo".
+
+It was sent between two Defense Department contractors, over a network the
+Defense Department had commissioned, to a node at an institute owned by Stanford
+University. Every element of that sentence is Act III's triangle, and this
+chapter is about the twenty-five years in which the triangle, and not the
+garage, was Silicon Valley.
+
+## Lockheed
+
+The largest employer in Santa Clara County for most of the 1960s and 1970s was
+Lockheed.
+
+Lockheed Missiles and Space Division opened in Sunnyvale in 1956, adjacent to
+Moffett Field, and grew very fast on the Polaris submarine-launched ballistic
+missile programme and on classified satellite reconnaissance work. Employment
+reached the tens of thousands. It was, by a wide margin, the region's dominant
+industrial enterprise.
+
+Almost nobody tells the story of Silicon Valley this way, and the omission is
+instructive. Lockheed made no consumer product, had one customer, and operated
+substantially in secret. It employed more people in the Valley than Hewlett-
+Packard and Fairchild combined for years, and it does not appear in the origin
+story at all, because the origin story is about garages and Lockheed was a
+procurement relationship.
+
+## SRI
+
+The Stanford Research Institute had been founded by the university in 1946 as a
+non-profit to conduct applied research for industry and government.
+
+The ownership relationship is worth stating precisely, because the next chapters
+but three turn on it entirely: SRI was established by Stanford's trustees, and
+Stanford owned it. It was located in Menlo Park, a few miles from the campus,
+and it grew through the 1950s and 1960s on contract research, a substantial and
+increasing proportion of it for military and intelligence agencies.
+
+By the late 1960s that work included research on chemical and biological warfare
+and on counterinsurgency techniques relevant to the war in Vietnam, and the
+university's ownership of the institute doing it was a matter of public record.
+
+## Ames, and the rest
+
+NASA Ames Research Center sat at Moffett Field in Mountain View, inheriting an
+aeronautics establishment that dated to the 1930s and adding wind tunnels,
+computing, and eventually space science.
+
+Around these anchors accumulated the suppliers: electronics firms, instrument
+makers, and the semiconductor companies from the previous chapter, whose early
+volume came from missile and space programmes.
+
+Follow the revenue across the region in 1965 and the picture is unambiguous.
+Defence and aerospace purchasing was the dominant source of demand. The consumer
+market for electronics existed but was small and was served largely by Japanese
+manufacturers. Silicon Valley was a military-industrial cluster with a
+university attached, and it was that for roughly a quarter of a century.
+
+## ARPANET
+
+The network came out of the same arrangement and the chapter should describe it
+as a procurement rather than as a revelation.
+
+The Advanced Research Projects Agency had been created in 1958 in response to
+Sputnik, and its Information Processing Techniques Office funded computing
+research at universities and institutes across the country. Those installations
+had incompatible machines and no way to share resources, and connecting them was
+a practical problem worth money.
+
+The first four nodes were UCLA, SRI, the University of California at Santa
+Barbara, and the University of Utah. The technical approach — packet switching,
+with no central control — had been developed independently by Paul Baran at RAND
+in Santa Monica and Donald Davies in Britain, and the redundancy that later
+proved so valuable was a design property from the start.
+
+Baran's motivation at RAND had included survivability of communications under
+nuclear attack, and the frequently repeated claim that the internet was designed
+to survive a nuclear war is an overstatement of this that the people involved
+have spent decades correcting. The chapter states the accurate version:
+survivability was one strand in the intellectual origins of packet switching,
+and the ARPANET itself was built to share expensive computers.
+
+## Engelbart
+
+The other thing happening at SRI in the 1960s was Douglas Engelbart's
+Augmentation Research Center, and it was federally funded from the same sources.
+
+In December 1968, at a conference in San Francisco, Engelbart gave a
+demonstration that has been known ever since as the Mother of All Demos. In
+ninety minutes he showed a live networked computer system with a mouse, a
+windowed display, hypertext links, real-time collaborative document editing,
+video conferencing, and version control. In 1968.
+
+Almost none of it was commercialised by SRI. The people went on to Xerox PARC, a
+few miles away, and Act IV chapter 9 describes what happened to it there. The
+mouse patent was assigned to SRI, which licensed it to Apple years later for a
+modest sum.
+
+Federal money, a Stanford-owned institute, a working demonstration of the
+interface every subsequent computer would use, and no commercial capture
+whatsoever. The invention and the fortune are separated by fifteen years and two
+changes of ownership, which is a pattern worth remembering when the industry
+explains itself.
+
+## What the arrangement produced
+
+The chapter should give the arrangement its due before turning on it, because
+the output was extraordinary.
+
+Satellite reconnaissance, developed in secret at Lockheed and elsewhere, gave
+the United States and eventually the Soviet Union the ability to verify what the
+other side actually had — which made arms control agreements possible and
+removed a category of catastrophic misjudgment. The Corona programme's imagery
+established in the early 1960s that the missile gap the 1960 election had been
+fought over did not exist.
+
+Integrated circuits reached volume production because missile and space
+programmes bought them at any price. Computing, satellite navigation, digital
+signal processing, and the network itself all came out of the same channel.
+
+None of this would have been funded by a private market on the timescales
+involved, because the returns were decades away and unappropriable. The case for
+the arrangement is strong, and Act V's chapters on AI infrastructure will have
+occasion to remember it.
+
+The chapter's argument is not that public research funding is a mistake. It is
+that this particular arrangement routed the benefits in a specific direction,
+and the direction was not chosen by anyone who could be voted out.
+
+## The grievance forming
+
+The public paid for all of this and could not look at most of it.
+
+Classification covered the Lockheed work almost entirely, a growing share of
+SRI's contracts, and a substantial fraction of Stanford's own engineering
+research, including the Applied Electronics Laboratory, which by the late 1960s
+was the campus centre of classified work.
+
+There was also a specific local grievance about land. Stanford had leased large
+tracts of the industrial park to defence contractors, and the university's
+research budget had come to depend substantially on classified contracts. The
+institution that had been endowed to serve the children of California was, by
+the late 1960s, deriving a significant part of its income from work its own
+students were not permitted to read.
+
+Terman and his generation regarded this as unremarkable — wartime practice
+continued into a cold war that showed no sign of ending. But the arrangement had
+a constituency it had not consulted, and that constituency was living on the
+campus in increasing numbers and had begun reading the budget.
+
+In April 1969 several hundred of them walked into the Applied Electronics
+Laboratory and shut it down, and chapter 7 is what happened next.
