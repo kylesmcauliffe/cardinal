@@ -11,18 +11,67 @@ Act V — The Open Era · 2020–2025
 
 **Core question.** Who governs when the systems govern themselves?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** Whoever owns the compute. The current chokepoint is not the
+model or the data but the hardware they run on, and one company designs most of
+it. Every mechanism in this book converges here: a bottleneck nobody can route
+around, public money re-entering through industrial policy, and a small
+credentialed network deciding what gets built.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** All three, and the book's closing structural argument. The
+chapter should be explicit that this is the same shape as the Central Pacific: a
+single firm astride a passage everyone must use, publicly subsidised in part,
+run by people who know each other.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Every figure in this chapter requires verification with an
+explicit date and definition. Accelerator market share depends entirely on how
+the market is defined; adoption figures depend on what counts as a user. The
+drafts carried round numbers with no sourcing. Cite filings, and state the
+definition in the text.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** A data centre. Enormous, unmarked, drawing the power of a
+small city, in a place chosen for electricity prices. The physical form of an
+abstraction.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** The workers who labelled the training data, largely outside
+the wealthy world and paid accordingly; the writers, artists, and photographers
+whose work was used without consent or payment; and the communities absorbing
+the water and electricity costs. All three are sourceable and all three belong
+in the chapter, not in the ledger that follows it.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that the mechanism is intact in its most recent
+form by showing compute occupy the same structural position as rail: a
+bottleneck, partly publicly financed, privately owned, with pricing power over
+everything downstream.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A data centre sited for the price of electricity. Begin with the
+   physical fact, because the subject invites abstraction and the book resists
+   it.
+2. **Why compute is the chokepoint.** Models are copyable, data is abundant,
+   talent is mobile. Fabrication and accelerators are neither. Follow the
+   scarcity.
+3. **Nvidia's position.** Verified share with a stated definition and date, from
+   filings. Then the historical comparison to Standard Oil, made carefully —
+   note where it holds and where it does not.
+4. **Fabrication concentration.** Carry forward from ch. 2. The chokepoint
+   behind the chokepoint.
+5. **Adoption.** ChatGPT's growth, with a defined metric and a source. State the
+   definition in the prose; it is not a digression.
+6. **The November 2023 OpenAI governance crisis.** A non-profit board attempting
+   to exercise control over a commercial entity, and losing within a week. The
+   clearest available test of whether governance structures constrain this class
+   of firm, and the answer was no.
+7. **Public money returns.** The CHIPS Act, and sovereign wealth entering AI
+   infrastructure. Act III ch. 11's triangle in its newest costume.
+8. **Stanford's position.** HAI, the faculty-to-founder route, and the
+   university's stake in the outcome. The constant, still constant.
+9. **The excluded.** Data labellers, uncompensated creators, and the water and
+   power costs. Sourced, specific, and in the chapter.
+10. **Landing.** The same shape as 1862: a passage everyone must use, publicly
+   assisted, privately owned. Hand off to the ledger.
 :::
 
 :::
@@ -32,5 +81,5 @@ Who governs when the systems govern themselves?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5c.
+Specified. Prose is written in Phase 5c.
 :::

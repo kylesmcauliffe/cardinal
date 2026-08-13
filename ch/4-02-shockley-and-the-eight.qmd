@@ -11,18 +11,59 @@ Act IV — The Silicon Valley Machine · 1956–1960
 
 **Core question.** What happens when a genius cannot manage people?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** His company fails and his industry is born. Shockley brought the
+best semiconductor minds in the world to Mountain View in 1956 and drove eight
+of them out within eighteen months, and those eight founded Fairchild. The
+Valley's reproductive mechanism is not invention. It is the spinoff — talent
+exiting bad leadership, taking the knowledge, and starting again nearby.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Elite network reproduction, running at industrial speed. The
+chapter's insight is that the departure is the mechanism, not a failure of it:
+California's weak enforcement of non-competes and its dense geography make exit
+cheap, and cheap exit is what compounds.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Shockley located in Mountain View because his mother lived
+there. The world's semiconductor industry sits on the San Francisco Peninsula in
+part because a Nobel laureate wanted to be near his mother.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** Shockley: co-inventor of the transistor, Nobel laureate,
+catastrophic manager, and later a public advocate of eugenic argument — which
+places him directly in the line that runs from Jordan in Act III ch. 3.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** Nobody, at this stage, and the chapter should say so
+plainly. The semiconductor workforce is small, credentialed, and male. The
+excluded arrive in the next decade, on the assembly lines and in the fabrication
+plants, and the chapter should name that this is the calm before that.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that the spinoff, not the invention, is the
+Valley's reproductive mechanism by showing the industry's founding firms all
+descend from one company's management failure.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** He moved there because of his mother. Open on the contingency and
+   let it sit.
+2. **Shockley's standing in 1956.** The Nobel, the transistor, and why the best
+   people in the field would move across the country for him.
+3. **The recruitment.** Who he hired and from where. The concentration of talent
+   is genuinely extraordinary and should be felt.
+4. **The management collapse.** Paranoia, lie detector tests, published
+   salaries, ranked lists. Specifics, sourced.
+5. **The eight leave, 1957.** Named. The approach to Arthur Rock and Hayden,
+   Stone; the search for a corporate parent; Fairchild Camera and Instrument.
+6. **Why California made this possible.** Non-compete enforceability, geographic
+   density, and the availability of capital that had not existed five years
+   earlier.
+7. **Shockley's later trajectory.** The eugenic advocacy. Connect explicitly to
+   Jordan and Act III ch. 3 — the same argument, the same campus, a different
+   discipline.
+8. **The excluded, named as absent.** A small credentialed male workforce. Say
+   that the cost arrives later and where.
+9. **Landing.** Eight men leaving a building is the founding event of the
+   industry. The spinoff is the mechanism, and Fairchild is about to demonstrate
+   it at scale.
 :::
 
 :::
@@ -32,5 +73,5 @@ What happens when a genius cannot manage people?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5b.
+Specified. Prose is written in Phase 5b.
 :::

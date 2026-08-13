@@ -11,18 +11,62 @@ Act IV — The Silicon Valley Machine · 1957–1980
 
 **Core question.** How does access to money become a monopoly?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** By making a road the only door. Kleiner Perkins and Sequoia both
+open in 1972, both on Sand Hill Road, both minutes from Stanford. Venture
+capital is not principally investment; it is gatekeeping. To scale, a company
+must pass through a small physical corridor and a tight social network — which
+is precisely what the Southern Pacific required of freight a century earlier.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Chokepoint control of the input that everything else depends
+on. Geography encodes it: money, talent, and legitimacy inside a two-mile
+radius. The chapter's job is to make the reader see Sand Hill Road as a toll
+gate.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Both Kleiner Perkins and Sequoia Capital were founded in 1972,
+and both located on Sand Hill Road. The capital corridor and the university sit
+within walking distance of one another, and the adjacency is not coincidental —
+it is the product.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** Sand Hill Road itself: an unremarkable suburban road with
+low buildings and a view of the foothills, through which a large share of the
+world's consequential technology funding has passed.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** Everyone outside the network, and the chapter must be
+specific rather than gestural: who did not get funded, and the documented
+demographics of founders who did. Also the pension-fund beneficiaries whose
+capital this is, and who have no say in its deployment — the 1979 ERISA
+reinterpretation is what let it in.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that access to capital became a chokepoint by
+showing funding concentrate in a small number of firms in a single physical
+corridor adjacent to one university.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A road. Describe Sand Hill Road as a place — low buildings, parking
+   lots, oaks — and then say what fraction of the industry passed through it.
+2. **Before venture capital.** How a company got funded in 1955, and why that
+   did not work for semiconductors: no collateral, no revenue, high variance.
+3. **Rock and the precedent.** Carry forward from ch. 3. The 1957 Fairchild
+   financing as the template.
+4. **1972.** Kleiner Perkins and Sequoia. Founders, and their prior careers —
+   note that both firms' founders came out of the industry rather than out of
+   finance.
+5. **The 1979 ERISA reinterpretation.** The prudent man rule clarified, pension
+   money permitted into venture funds, and the resulting scale change. This is
+   the public-money leg and it is usually omitted.
+6. **Gatekeeping as the actual function.** What a term sheet controls beyond
+   money: hiring, customers, the next round, the exit.
+7. **Geographic concentration as a feature.** Why proximity matters when the
+   asset is judgement about people.
+8. **The rail comparison, made explicit.** The Southern Pacific decided which
+   towns were viable. Sand Hill Road decides which companies are.
+9. **The excluded.** Founder demographics, sourced. Pension beneficiaries
+   without a vote.
+10. **Landing.** The capital chokepoint is now the tightest in the system, and
+   it is four minutes from the campus that supplies its deal flow.
 :::
 
 :::
@@ -32,5 +76,5 @@ How does access to money become a monopoly?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5b.
+Specified. Prose is written in Phase 5b.
 :::

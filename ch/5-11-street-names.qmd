@@ -11,18 +11,60 @@ Act V — The Open Era
 
 **Core question.** What does a civilisation look like from its street signs?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** Like a ledger written in the one medium nobody thinks to audit.
+Different societies name their streets after different things, and the Peninsula
+names its after the people who owned it — mission founders, railroad families,
+university presidents, semiconductor executives, donors. The memorial is the
+monopoly, and it is the most honest document in California.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Legitimacy, made permanent in the built environment. This
+chapter is the book's argument compressed into a walk: every mechanism it has
+described left a name on a sign, and the sequence of names is the sequence of
+chapters.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Awaiting the author's street list. The chapter is built to
+receive it and Appendix A is the reference table. The argument does not depend
+on any single name — it depends on the pattern, which is already evidenced by
+what is on the map: Serra, Stanford, Hoover, Terman, Knight, Page Mill, Sand
+Hill.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** A single walk, on foot, in one afternoon, past four
+centuries of proprietors.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** Everyone with no street. The chapter's sharpest move is the
+negative one: name the people from ch. 9's ledger and note what is named after
+them. The Muwekma Ohlone, the Central Pacific's crews, the sterilised, the farm
+workers. The absence is data.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that the built environment records the power
+structure by showing the Peninsula's street names correspond, in sequence, to
+the chapters of this book.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** One street sign. Read it as a document — who, when, why, and who
+   decided.
+2. **Comparative naming.** What other places commemorate: British streets and
+   empire, French streets and artists, most American streets and politicians or
+   trees. Establish the contrast before making the claim.
+3. **The mission layer.** Serra, Junipero Serra Boulevard, El Camino Real. Act
+   II ch. 1, still on the map.
+4. **The railroad layer.** Stanford, Crocker, Hopkins, Huntington. Where the
+   names are, and what kind of thing carries them — a university, a hotel, a
+   library, a hill.
+5. **The institutional layer.** Hoover Tower, Jordan Hall and its renaming,
+   Terman. Note the renamings specifically: what a society does when a name
+   becomes unusable is itself evidence.
+6. **The corporate layer.** Page Mill, Sand Hill, Hanover, and the named
+   buildings of the campus. Donors as toponymy.
+7. **Receive the author's list.** Slot the supplied street names into the layer
+   each belongs to, with the chapter each connects to.
+8. **The absences.** Go through ch. 9's ledger and record what is commemorated
+   and what is not. Do this without comment; the list is the argument.
+9. **Landing.** The grid is a ledger. It has been legible the whole time and
+   nobody reads it, which is what subliminal means.
 :::
 
 :::
@@ -32,5 +74,5 @@ What does a civilisation look like from its street signs?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5c.
+Specified. Prose is written in Phase 5c.
 :::

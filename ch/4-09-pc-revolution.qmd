@@ -11,18 +11,58 @@ Act IV — The Silicon Valley Machine · 1975–1985
 
 **Core question.** What happens when computing reaches the masses?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** The chokepoint moves up a layer. When computing reached
+individuals the hardware commoditised almost immediately — and the money went to
+whoever controlled the layer above it. Microsoft licensed an operating system to
+IBM while retaining the right to license it to everyone else, and that single
+contractual reservation was worth more than any factory in the industry.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Chokepoint control, relocated. The chapter's argument is that
+platform control is the same manoeuvre as Act II ch. 10's move into legal
+doctrine: get out of the visible, capital-intensive, competable layer, and into
+the invisible one that everything must route through.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** The 1980 IBM agreement was non-exclusive. IBM, the most
+powerful computer company in the world, did not insist on exclusivity for the
+operating system of its personal computer, and that omission created the
+industry's dominant firm.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** The Xerox PARC demonstration in December 1979, and Steve
+Jobs walking out of a building where a corporation had already invented the
+future and could not work out what to do with it.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** The hardware assembly workforce, increasingly offshore, and
+the homebrew culture whose free exchange of designs was enclosed within a few
+years — including the open letter about hobbyist copying that announced the
+enclosure.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that platform control supersedes hardware by
+showing an industry in which the hardware makers competed their margins away
+while the operating system licensor took the surplus.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A non-exclusive clause. The most valuable sentence in the history
+   of software, and IBM agreed to it.
+2. **The Homebrew Computer Club.** Free circulation of designs, 1975. Establish
+   what was normal before it stopped being normal.
+3. **Apple, 1976.** Wozniak's engineering and Jobs's positioning. The Apple II
+   as the first machine sold as a product rather than a kit.
+4. **PARC, December 1979.** What Xerox had — the graphical interface, the mouse,
+   networking — and the structural reason a copier company could not
+   commercialise it.
+5. **IBM enters, 1981.** Open architecture, off-the-shelf parts, and the clone
+   industry that follows. Hardware commoditises.
+6. **The MS-DOS deal.** The specific terms, the non-exclusivity, and how it
+   converted into Windows dominance. Follow the contract, not the personalities.
+7. **Bayh-Dole, 1980, noted.** One sentence; ch. 10 does the work.
+8. **Where the money ended up.** Sourced margins: assemblers against the
+   operating system licensor. The arithmetic is the argument.
+9. **The excluded.** Offshore assembly; the enclosure of the hobbyist commons.
+10. **Landing.** The lesson relearned every twenty years in this book: never own
+   the layer that can be competed. Own the one everything passes through.
 :::
 
 :::
@@ -32,5 +72,5 @@ What happens when computing reaches the masses?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5b.
+Specified. Prose is written in Phase 5b.
 :::

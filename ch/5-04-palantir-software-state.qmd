@@ -9,20 +9,64 @@ Act V — The Open Era · 2003–2020
 ::: {.callout-note collapse="true"}
 ## Pre-Draft Brief
 
-**Core question.** What happens when surveillance software sits inside government capacity?
+**Core question.** What happens when surveillance software sits inside
+government capacity?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** The distinction between vendor and government stops being
+meaningful. Palantir was founded in Palo Alto in 2003 to build analytical
+software for intelligence and security agencies, and it did not pretend
+otherwise. When a private firm supplies the system through which an agency
+perceives its own problem, the firm is not selling a tool. It is supplying a
+faculty.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Chokepoint control of state capacity itself, and the exact
+return of Act III's university-contractor-state triangle in software. Also elite
+network reproduction: the founder is from Act IV ch. 13's staff photograph, and
+the early funding included the CIA's venture arm.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Palantir received early investment from In-Q-Tel, the CIA's
+venture capital arm. The intelligence community helped capitalise the company
+that would sell it software. Verify the amount and date; the relationship is
+documented and the specifics matter.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** Peter Thiel, who appears in this book as a PayPal founder,
+a Senate campaign's principal funder, and the founder of a company embedded in
+the security state. One person occupying three of the book's mechanisms at once.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** The people the software is used to find. Immigration
+enforcement deployments belong here, sourced from contract records and
+reporting, with the company's own account of the limits of its role given fairly
+and then tested against the documents.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that the Stanford-defence pipeline reconstituted
+itself in software by showing a Palo Alto firm capitalised partly by an
+intelligence agency and selling analytical capacity back to the government.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A government agency's venture fund investing in a startup that will
+   sell it software. State the loop before commenting on it.
+2. **Founded 2003.** Thiel, Karp, Palo Alto, and the stated premise: post-9/11
+   analysis without wholesale surveillance. Give the founding argument in its
+   strongest form — the chapter is weaker if it is a straw man.
+3. **In-Q-Tel.** The investment, verified and dated. What it signals about the
+   boundary between customer and investor.
+4. **What the product does.** Data integration and analysis across incompatible
+   sources. Precise, unmystified, and without the marketing vocabulary.
+5. **The customers.** Intelligence, defence, and immigration enforcement.
+   Contracts, sourced, with values and dates.
+6. **The immigration deployments.** What the documents show, and the company's
+   response. Both, in that order.
+7. **Revenue and the public listing.** Verified figures by fiscal year from
+   filings. The drafts carried an unsourced number; replace it.
+8. **Supplying a faculty, not a tool.** The chapter's argument: when the state's
+   perception of a problem is mediated by a vendor's model, the vendor holds a
+   governmental function. Point back to Act III ch. 11.
+9. **The excluded.** The people the system is pointed at.
+10. **Landing.** The triangle is complete again, in software, and this time
+   nobody pretends the university is disinterested.
 :::
 
 :::
@@ -32,5 +76,5 @@ What happens when surveillance software sits inside government capacity?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5c.
+Specified. Prose is written in Phase 5c.
 :::

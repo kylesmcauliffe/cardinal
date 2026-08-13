@@ -9,20 +9,68 @@ Act V — The Open Era · 1776–2025
 ::: {.callout-note collapse="true"}
 ## Pre-Draft Brief
 
-**Core question.** What does a traveller see who can walk from Mission Dolores to a data centre?
+**Core question.** What does a traveller see who can walk from Mission Dolores
+to a data centre?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** Repetition. A traveller walking from Mission Dolores to a data
+centre crosses four institutional regimes and one continuous mechanism, and sees
+at every stop the same arrangement in a different costume: a bottleneck, a
+public subsidy, a private title, and a story explaining why the holder deserved
+it. California did not become powerful by accident. It was engineered into
+power, in public, over two and a half centuries.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** All three, walked rather than argued. The epilogue's form is
+a sequence of addresses, which is the book's method made physical: every claim
+it has made has a street number attached.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Every address is still standing or still identifiable, and
+every one is publicly accessible or visible. The book's final evidentiary claim
+is that the reader can check it on foot.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** The traveller: no name, no backstory, no arc. A literary
+device and nothing more, per the project's own rule. The reader is the
+traveller.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** Held to the end deliberately. The last address in the
+sequence should be one of absence — a place where something was and is not, or
+where the people from ch. 9's ledger lived and are unrecorded. The book should
+not close on a monument.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves the book's argument is checkable by locating
+every mechanism it has described at a specific surviving address.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **320 Dolores Street, San Francisco.** Mission Dolores, 1776. The register.
+   Power as legibility.
+2. **Portsmouth Square and Grant Avenue.** The Gold Rush throat and the
+   Chinatown that the exclusion campaigns targeted. Ch. 6 and ch. 11 of Act II,
+   one block apart.
+3. **Colton Hall, 570 Pacific Street, Monterey.** 1849. The constitution, and
+   who wrote it.
+4. **Nob Hill.** The Big Four's addresses, and Crocker's spite fence. What is
+   there now.
+5. **Promontory Summit, Utah.** Off the walk and necessarily so — note that the
+   one place the book cannot reach on foot is where the public money became
+   private property.
+6. **The Stanford campus.** The Founding Grant's land. Hoover Tower, the Quad,
+   Jordan Hall renamed. Ch. 12 and ch. 13 of Act II and most of Act III, in one
+   square mile.
+7. **367 Addison Avenue, Palo Alto.** The garage, 1939. State plainly what the
+   book has shown: the garage is real and it is not the explanation.
+8. **Page Mill Road.** The Research Park, 1951. The lease that the 1885 grant
+   made necessary.
+9. **Sand Hill Road, Menlo Park.** The capital corridor. Low buildings, oaks,
+   and the toll gate.
+10. **A data centre.** Unmarked, sited for electricity, drawing the power of a
+   town. The newest chokepoint, and the least visible.
+11. **The last stop: an absence.** A place with no sign. Close here rather than
+   on a monument.
+12. **Final lines.** No prescription and no prophecy. The reader closes the book
+   knowing exactly how it works, and that it was never a secret — only
+   subliminal.
 :::
 
 :::
@@ -32,5 +80,5 @@ What does a traveller see who can walk from Mission Dolores to a data centre?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5c.
+Specified. Prose is written in Phase 5c.
 :::

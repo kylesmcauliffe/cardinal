@@ -11,18 +11,61 @@ Act V — The Open Era · 2022–2025
 
 **Core question.** When does subliminal become explicit?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** In January 2025, on television. Technology founders stood on the
+inauguration platform in positions closer to the president than much of his
+cabinet, and the elite fusion this book has traced for two hundred and fifty
+years stopped requiring inference. The argument became visible, which is a
+different thing from becoming true — it was true the whole time.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Elite network reproduction, performed rather than concealed.
+The chapter's discipline is to describe rather than interpret: the proximity is
+the evidence, and it needs no embellishment. Every specific must be verifiable
+from the public record.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Peter Thiel contributed roughly $15 million to J. D. Vance's
+2022 Senate campaign, and Vance became vice president. Verify the amount from
+FEC filings. A single investor's political spending routing a PayPal colleague's
+protégé into the vice presidency is the network's most legible output.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** The seating chart. A photograph, a set of positions, and
+no commentary required.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** Everyone whose political participation consists of a vote.
+The chapter's force comes from the contrast between a $15 million contribution
+and a ballot, and it should be stated once and left alone.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that the network reached formal political power
+by tracing documented campaign finance to a specific office, without requiring
+any claim about coordination.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** The seating. Who was in front of whom, on 20 January 2025, in the
+   Capitol rotunda. Verified from the record.
+2. **How the relationships were built.** Thiel to Vance: employment, mentorship,
+   and the 2022 campaign contribution from FEC filings. Then the other founders
+   present and their documented political spending.
+3. **The 2024 cycle.** Verified contributions and endorsements from disclosure
+   filings. No inference where a filing exists.
+4. **What changed and what did not.** The relationships are not new; the
+   visibility is. This is the chapter's whole argument and it should be stated
+   plainly.
+5. **Musk's government role.** The advisory position and its remit, described
+   from official announcements and reporting. Facts, dates, authority.
+6. **The Capital One Arena gesture.** Handle under the contested-history rule:
+   the gesture occurred and was widely reported, interpretations diverged
+   sharply, and the book's interest is not in adjudicating intent. Say what is
+   documented, note the dispute, and decline to build anything on it. The
+   chapter's argument does not need it, and the drafts leaned on it far too
+   heavily.
+7. **Cut material, noted internally.** The drafts contained unverifiable 2025
+   events written as fact. They are removed; see cut-material.md. Do not
+   reintroduce.
+8. **The excluded.** A vote against $15 million.
+9. **Landing.** The mechanism is on television. It was always operating; only
+   the discretion has been withdrawn.
 :::
 
 :::
@@ -32,5 +75,5 @@ When does subliminal become explicit?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5c.
+Specified. Prose is written in Phase 5c.
 :::

@@ -9,20 +9,67 @@ Act V — The Open Era · 2004–2018
 ::: {.callout-note collapse="true"}
 ## Pre-Draft Brief
 
-**Core question.** When a platform becomes infrastructure, who is responsible for what it does?
+**Core question.** When a platform becomes infrastructure, who is responsible
+for what it does?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** Nobody, by design and then by statute. Facebook grew into the
+communications infrastructure of much of the world while insisting it was a
+neutral platform rather than a publisher, and Section 230 made that position
+legally durable. In 2018 the distinction collapsed in public, and the company
+discovered that infrastructure cannot decline responsibility indefinitely.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Chokepoint control of social connection, and the legitimacy
+layer failing under load — the same failure Act III ch. 8 documented for Hoover.
+The company's problem after 2016 was not technical or even legal. It was that
+its account of itself stopped being believed.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Every specific figure in this chapter needs independent
+verification with a date: user numbers, the Cambridge Analytica affected-account
+count, and the FTC settlement amount. The drafts carried figures without
+sourcing and several did not survive checking.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** A moderation policy document: a set of rules governing the
+speech of billions of people, written by employees, revised continuously, and
+published only in part.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** Content moderators, largely contracted and largely outside
+the United States, doing psychologically damaging work at a fraction of
+engineering pay — the externalised cost the platform's margins depend on. And
+the populations where platform-carried incitement had lethal consequences;
+Myanmar in 2017-18 belongs here, sourced from the UN investigation and the
+company's own commissioned assessment.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that platform neutrality was a legal posture
+rather than a description by showing the same firm exercising editorial control
+while claiming immunity for exercising it.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A moderation guideline. A sentence written by an employee that
+   determines what a hundred million people may say.
+2. **Growth mechanics.** 2004 to 2012: the network effect, the real-name policy,
+   and the acquisitions of Instagram and WhatsApp. Why the position became
+   unassailable.
+3. **The advertising model.** Inherited from Act IV ch. 12 and extended: not
+   stated intent but inferred disposition. Behavioural inference as the product.
+4. **The neutrality claim.** How the company described itself, in its own words
+   and dates. Then Section 230 and why the claim was legally load-bearing.
+5. **2016 and after.** The election, the Cambridge Analytica disclosures in
+   2018, the congressional testimony, and the FTC settlement. Every figure
+   verified and dated.
+6. **Myanmar.** The UN Human Rights Council findings and the company's own
+   commissioned human rights assessment. Sourced carefully and given its full
+   weight; this is the chapter's most serious material.
+7. **The moderators.** Contracted labour, location, pay, and documented
+   psychological harm. Draw the line from Act II ch. 11 explicitly: the system's
+   stability depends on people it does not employ.
+8. **The collapse of the account.** What changed after 2018 was believability,
+   not law. Compare to Hoover in 1932.
+9. **Landing.** Infrastructure that cannot refuse responsibility forever. Point
+   to ch. 4: the next company builds for the state deliberately, and never
+   claims neutrality at all.
 :::
 
 :::
@@ -32,5 +79,5 @@ When a platform becomes infrastructure, who is responsible for what it does?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5c.
+Specified. Prose is written in Phase 5c.
 :::

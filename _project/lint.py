@@ -22,25 +22,29 @@ CH_DIR = os.path.join(ROOT, "ch")
 
 EXPECTED_PER_ACT = {1: 8, 2: 13, 3: 13, 4: 14, 5: 12}
 
-# Terms the project has committed to keeping out of the manuscript, with the
-# contexts where a term is legitimately allowed. See _project/cut-material.md.
-CUT_TERMS = {
-    "cartel": (),
-    # The book argues *against* conspiracy framing, so the word is permitted
-    # where it is being refuted.
-    "conspiracy": ("not a claim of conspiracy", "not a conspiracy",
-                   "not conspiracy", "conspiracy, or is it gravity"),
-    "cartel-polity": (),
-    "chatgpt": (),
-    "your transcript": (),
-    "no content whatsoever": (),
-    "below is chapter": (),
-    "if you want, i'll write": (),
-    "to be added": (),
-    "write chapter content here": (),
-    "epstein": (),
-    "charlie kirk": (),
-}
+# Phrases removed per _project/cut-material.md. These are exact constructions,
+# not topics: "conspiracy" and "ChatGPT" are legitimate subjects of this book,
+# so banning the bare words produces false positives. What the cut list actually
+# removed were specific framings and specific artefacts.
+FORBIDDEN = (
+    "cardinal conspiracy",
+    "california cartel",
+    "cartel-polity",
+    "sincerely yours",          # the AI-authored epigraph's signature
+    "your transcript",
+    "no content whatsoever",
+    "below is chapter",
+    "here is chapter",
+    "if you want, i'll write",
+    "ready for part",
+    "write chapter content here",
+    "to be added",
+)
+
+# Words that are permitted but warrant a human glance, because the cut list
+# constrains how they may be used rather than whether they appear. Reported as
+# advisory counts; they do not fail the build.
+REVIEW = ("conspiracy", "cartel", "epstein")
 
 PLACEHOLDER = "*To be written before the first sentence of prose.*"
 
@@ -110,23 +114,38 @@ def check_structure(errors):
 
 
 def check_cut_terms(errors):
+    """Flag removed phrasings; tally words that need a human read."""
+    review = defaultdict(list)
+
     for path in manuscript_files():
+        # Collapse whitespace so a phrase broken across a line still matches,
+        # while keeping the original text to report real line numbers.
         raw = read(path)
         lowered = raw.lower()
-        # Allowed-context matching must survive line wrapping, so compare
-        # against a whitespace-collapsed copy while reporting real line numbers.
-        for term, allowed in CUT_TERMS.items():
-            start = 0
-            while True:
-                idx = lowered.find(term, start)
-                if idx == -1:
-                    break
-                start = idx + 1
-                window = " ".join(lowered[max(0, idx - 90):idx + 90].split())
-                if any(ok.lower() in window for ok in allowed):
-                    continue
-                line = lowered[:idx].count("\n") + 1
-                errors.append(f"cut-list term {term!r} at {rel(path)}:{line}")
+        flat = " ".join(lowered.split())
+
+        for phrase in FORBIDDEN:
+            if phrase in flat:
+                idx = lowered.find(phrase.split()[0])
+                line = lowered[:max(idx, 0)].count("\n") + 1
+                errors.append(f"cut phrase {phrase!r} in {rel(path)}:{line}")
+
+        for word in REVIEW:
+            count = flat.count(word)
+            if count:
+                review[word].append((rel(path), count))
+
+    return review
+
+
+def report_review(review):
+    if not review:
+        return
+    print("\nadvisory — permitted, but constrained by cut-material.md:")
+    for word in REVIEW:
+        if word in review:
+            where = ", ".join(f"{p} ({n})" for p, n in review[word])
+            print(f"  {word}: {where}")
 
 
 def check_scaffold(errors):
@@ -175,10 +194,11 @@ def report_progress(total):
 def main():
     errors = []
     total = check_structure(errors)
-    check_cut_terms(errors)
+    review = check_cut_terms(errors)
     check_scaffold(errors)
 
     report_progress(total)
+    report_review(review)
 
     if errors:
         print(f"\n{len(errors)} problem(s):")

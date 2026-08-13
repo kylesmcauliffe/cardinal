@@ -11,18 +11,62 @@ Act IV — The Silicon Valley Machine · 2000–2002
 
 **Core question.** What happens when private networks govern public life?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** They acquire the powers of government without the obligations.
+By the early 2000s California firms were operating identity systems, payment
+networks, communication infrastructure and mapping — functions that had been
+public utilities or state responsibilities. The railroad replaced the wagon
+trail. The platform replaced the public square, and it did so under terms of
+service rather than statute.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** All three, at global scale, and the act's closing argument.
+The state once built rail and ports; private platforms now build the
+architecture of daily life, and other countries depend on them, which is how
+California's power became extraterritorial.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Section 230 of the Communications Decency Act, passed in 1996,
+gave platforms immunity for user content while permitting moderation. It is the
+legal foundation of the entire platform economy, and it is twenty-six words.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** A terms-of-service document: a governing instrument with
+no elections, no appeal, and no jurisdiction, which more people are subject to
+than to most constitutions.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** Everyone governed by a platform without recourse —
+suspended, delisted, demonetised, or misidentified with no appeal that resembles
+due process. The chapter should name specific mechanisms rather than
+abstractions.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that private platforms assumed governmental
+functions without governmental accountability by showing identity, payment, and
+speech regulation transferred to firms operating under contract rather than
+statute.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** Twenty-six words. Quote Section 230 in full and note that the
+   platform economy rests on it.
+2. **What platforms took over.** Identity, payment, communication, mapping,
+   commerce. One paragraph each, concrete.
+3. **The rail comparison, discharged properly.** The Southern Pacific was
+   regulated as a common carrier because it was recognised as infrastructure.
+   Platforms achieved the position and avoided the classification. That gap is
+   the chapter.
+4. **Terms of service as governance.** No elections, no appeals, no
+   jurisdiction. And enormous populations subject to it.
+5. **Extraterritoriality.** Other nations' civic life running on Californian
+   infrastructure. Why this makes the state's power geopolitical rather than
+   merely economic.
+6. **Network effects as a moat.** Why the position is defensible without owning
+   anything physical. The lesson of ch. 9 at global scale.
+7. **Public function, private incentive.** Where the two diverge, with
+   specifics.
+8. **The excluded.** Deplatforming, demonetisation, algorithmic
+   misidentification, and the absence of due process.
+9. **Landing.** End of Act IV. The pipeline is self-reinforcing and self-
+   reproducing; the machine no longer needs to be operated. Act V is what it
+   does when nobody is steering.
 :::
 
 :::
@@ -32,5 +76,5 @@ What happens when private networks govern public life?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5b.
+Specified. Prose is written in Phase 5b.
 :::

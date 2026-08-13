@@ -11,18 +11,60 @@ Act IV — The Silicon Valley Machine · 1957–1968
 
 **Core question.** How does one firm seed an entire industry?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** By fragmenting productively. Fairchild's importance is not that
+it dominated but that it decomposed: Intel, AMD, National Semiconductor and
+dozens of others came out of it, each carrying the same techniques and the same
+assumptions. And in financing that decomposition, Arthur Rock invented the
+modern venture model — equity rather than lending, people rather than assets.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Chokepoint control, distributed, plus the birth of the
+capital chokepoint that ch. 5 will formalise. The planar process is a genuine
+bottleneck; what makes the Valley rather than merely a company is that the
+bottleneck's holders kept splitting and each split was funded.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Robert Noyce's independent development of the integrated
+circuit, and Jean Hoerni's planar process, gave Fairchild a manufacturing
+advantage that could be carried out of the building in people's heads. The asset
+was fully portable, which is exactly why the firm could not hold it.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** Arthur Rock, the least visible figure in the story,
+deciding that the thing worth buying is a group of people rather than a factory.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** The assembly and fabrication workforce, disproportionately
+women and, as the decade progresses, offshore. Fairchild's Hong Kong assembly
+operation opened in 1963 — the offshore turn happening in semiconductors at the
+same moment Knight is arranging it in shoes, two chapters later. Make the
+connection.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that recombination rather than accumulation drove
+the Valley by showing that its dominant firms are all descendants of a single
+company that lost its people.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A family tree. Open on the sheer number of companies descended from
+   one firm, then explain why the parent could not keep them.
+2. **Fairchild founded, 1957.** The deal structure with Fairchild Camera, and
+   the buyback option that will cause the trouble.
+3. **The technical breakthroughs.** Hoerni's planar process; Noyce and the
+   integrated circuit. Enough detail that the reader understands the advantage,
+   not more.
+4. **Why the advantage was portable.** Process knowledge lives in people. The
+   asset walks.
+5. **Early customers.** Defence and aerospace, including Minuteman and Apollo.
+   The military substrate again — this is not a consumer industry yet.
+6. **Arthur Rock's invention.** Equity stakes rather than loans; backing people
+   rather than collateral. Why this was novel and what it enabled.
+7. **The departures.** 1968, Noyce and Moore to Intel. Sanders to AMD. Sporck to
+   National. The Fairchildren.
+8. **Hong Kong, 1963.** Offshore assembly, the labour force, and the cost logic.
+   Flag forward to ch. 6 — the same move, in shoes, in the same years.
+9. **The excluded.** Women on the fabrication lines; offshore assembly workers.
+   Sourced specifics.
+10. **Landing.** An industry that reproduces by splitting, and a financier who
+   has worked out how to fund the splitting. The capital chokepoint is next.
 :::
 
 :::
@@ -32,5 +74,5 @@ How does one firm seed an entire industry?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5b.
+Specified. Prose is written in Phase 5b.
 :::

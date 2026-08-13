@@ -9,20 +9,64 @@ Act IV — The Silicon Valley Machine · 1945–1955
 ::: {.callout-note collapse="true"}
 ## Pre-Draft Brief
 
-**Core question.** How does a university become an operating system for an economy?
+**Core question.** How does a university become an operating system for an
+economy?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** By becoming a landlord. Stanford could not sell the eight
+thousand acres the Founding Grant gave it, so Terman leased them — and in doing
+so made the university simultaneously the landlord, the talent supply, the
+research partner, and the legitimacy anchor of the companies on its own land. A
+constraint in an 1885 legal document produced the business model of the
+twentieth century.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** All three, fused into one institution and one balance sheet.
+The Research Park is the moment the university stops mediating other people's
+power and starts holding its own: rent from the land, credentials for the
+workforce, research contracts from the state, and equity in the outcomes.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** The Founding Grant prohibited selling the land. That
+prohibition — a clause written by a grieving railroad baron to protect his
+memorial — is why Stanford leases rather than sells, and therefore why it
+captured the appreciation of the most valuable industrial real estate on earth.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** Terman as landlord and dean at once, deciding which
+companies get to be neighbours. The most consequential zoning authority in
+American economic history.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** Palo Alto and the surrounding towns, whose housing markets
+and restrictive covenants determined who could live near the jobs. The Research
+Park's labour force was filtered by residential exclusion before it was filtered
+by hiring.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that the university became the operating system
+of a regional economy by showing it simultaneously occupy the roles of landlord,
+credentialler, research partner, and legitimacy source for the firms on its
+land.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A clause in an 1885 document forbidding a sale, and the industrial
+   park it produced sixty-six years later. Begin with the legal accident.
+2. **The land problem.** Eight thousand acres, unsellable, and a university
+   short of money. Terman's solution is a lease.
+3. **1951.** The Stanford Industrial Park opens — the first university-owned
+   industrial park in the country. Varian first, then Hewlett-Packard in 1956.
+   Page Mill Road as the spine.
+4. **The four roles.** Landlord, talent pool, research partner, legitimacy
+   anchor. State them as a list and then show one company experiencing all four.
+5. **The Honors Cooperative Program, 1954.** Part-time graduate study for
+   company engineers. Education as a continuously running industrial utility.
+6. **Steeples of excellence in practice.** Where Terman concentrated hiring and
+   why: follow the federal money into electronics and microwaves.
+7. **The federal share.** How much of the park's early tenancy depended on
+   defence contracts. The park is a private-sector face on a public-sector
+   revenue stream.
+8. **The excluded.** Restrictive covenants and Palo Alto housing. Who could live
+   within reach of the jobs, in specifics.
+9. **Landing.** The operating system is running. Everything that follows in this
+   act is an application built on top of it.
 :::
 
 :::
@@ -32,5 +76,5 @@ How does a university become an operating system for an economy?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5b.
+Specified. Prose is written in Phase 5b.
 :::

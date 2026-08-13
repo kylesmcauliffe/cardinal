@@ -11,18 +11,61 @@ Act IV — The Silicon Valley Machine · 1980–1990
 
 **Core question.** How does a regional elite capture national policy?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** By supplying the personnel and the argument. Reagan's economics
+came substantially from an institution on Stanford's campus, and the Bayh-Dole
+Act of the same year let universities patent federally funded research. One
+statute turned public money into private licensing revenue, and one think tank
+turned a regional politics into a national one.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Public subsidy converted into private monopoly, now written
+into statute, and elite network reproduction operating at the level of national
+policy. This is the chapter where the Hoover Institution's function, planted in
+Act III ch. 5, finally pays off.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Bayh-Dole allowed universities to take title to inventions
+made with federal research funding. The public pays for the research; the
+university patents the result; the licensee monopolises it. Act III ch. 11's
+triangle acquired an intellectual property regime.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** George Shultz and Milton Friedman, both at the Hoover
+Institution, both routed into national power — the archive Hoover built in 1919
+functioning exactly as an archive of power should.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** The taxpayer, whose research funding became private
+licensing revenue without a corresponding return, and the industries and regions
+that Reagan-era policy did not favour. Also the biotech patients on the
+receiving end of the pricing that Genentech's model made possible.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that a regional elite captured national policy by
+showing its economic programme, its personnel, and its institutional base all
+originate in one corridor.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A statute nobody has heard of that changed what a university is.
+   Open on Bayh-Dole, not on Reagan.
+2. **What Bayh-Dole did.** Title to federally funded inventions. The mechanics
+   of technology licensing offices that follow.
+3. **Stanford's licensing revenue.** Concrete: the Cohen-Boyer patents, and what
+   they earned. Public research, private royalty stream.
+4. **The Hoover Institution in 1980.** Friedman, Shultz, and the pipeline into
+   the administration. Then look back at Act III ch. 5 and name the payoff
+   explicitly.
+5. **Capital gains and deregulation.** What changed and who benefited. Venture
+   capital's growth across the early 1980s, sourced.
+6. **Genentech's 1980 IPO.** Biology as an asset class. Recombinant DNA out of a
+   Bay Area laboratory into a public offering; the Cohen-Boyer patent underneath
+   it.
+7. **Valley ideology assembled.** Meritocratic self-description plus
+   deregulatory politics plus federal funding retained. Name the contradiction
+   without sneering at it; it is held sincerely by most of the people holding
+   it.
+8. **The excluded.** Taxpayer return; drug pricing; regions outside the favoured
+   corridor.
+9. **Landing.** The pipeline now runs to Washington in both directions. Act V's
+   inauguration platform is visible from here.
 :::
 
 :::
@@ -32,5 +75,5 @@ How does a regional elite capture national policy?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5b.
+Specified. Prose is written in Phase 5b.
 :::

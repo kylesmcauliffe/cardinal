@@ -11,18 +11,61 @@ Act IV — The Silicon Valley Machine · 1908–1990
 
 **Core question.** Why did the film industry go west?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** To escape patent enforcement. Edison's trust controlled film
+equipment patents and enforced them aggressively on the east coast, so
+filmmakers went to southern California — far from process servers, close to a
+foreign border, and blessed with light. California's second great industry was
+founded by people fleeing a monopoly, and it promptly built one of its own.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Chokepoint control, in a second medium, with an instructive
+difference: Hollywood's bottleneck is distribution and its product is narrative.
+Together with the Valley it constitutes California's dual power — whoever
+controls the code and whoever controls the story.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** The studio system was broken by an antitrust decree in 1948
+that forced the studios to divest their theatre chains. The lesson California's
+elite took from it was not to stop integrating vertically but to stop owning the
+physical layer where the courts can see it.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** A filmmaker in 1910 heading west specifically to be beyond
+the reach of a patent lawyer, and finding a place that will let him build a
+bigger version of the thing he is escaping.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** Everyone the studio system's contracts bound and its
+casting practices excluded; the blacklist; and the workers whose 1945 and 1946
+strikes are absent from every romantic account of the period.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that the same chokepoint logic operated in
+California's cultural industry by showing an industry founded to escape a patent
+monopoly reconstitute one around distribution within fifteen years.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A man travelling west to avoid a lawyer. Motive first, mythology
+   never.
+2. **The Motion Picture Patents Company.** What it controlled, how it enforced,
+   and why distance was the only defence.
+3. **Why southern California.** Light and geography, yes — but also the Mexican
+   border and the reach of process servers. Give the unromantic reasons their
+   weight.
+4. **Vertical integration.** Production, distribution, exhibition. The studios
+   rebuild the monopoly they fled, in a form the original could not have
+   managed.
+5. **The star system as an asset class.** Contracts, control, and the
+   manufacture of desirability. Compare, briefly, to the credential.
+6. **1948 and the consent decrees.** Divestiture of the theatre chains. What was
+   actually broken.
+7. **The lesson learned.** Do not own the visible physical layer. Point forward:
+   platforms will own logistics, moderation, and terms of service instead — and
+   Act V ch. 3 will show a company insisting it is not a publisher.
+8. **Dual power.** Code and story. California's two exports and the fact that
+   both are chokepoints on something that used to be free.
+9. **The excluded.** Contract labour, the blacklist, the 1945-46 strikes,
+   casting exclusion.
+10. **Landing.** Two industries, one state, one logic. The reader should now
+   expect the pattern anywhere California builds something.
 :::
 
 :::
@@ -32,5 +75,5 @@ Why did the film industry go west?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5b.
+Specified. Prose is written in Phase 5b.
 :::

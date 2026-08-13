@@ -9,20 +9,68 @@ Act V — The Open Era · 2001–2020
 ::: {.callout-note collapse="true"}
 ## Pre-Draft Brief
 
-**Core question.** What happens when the world's two largest economies share a supply chain and distrust each other?
+**Core question.** What happens when the world's two largest economies share a
+supply chain and distrust each other?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** They build one machine and two stories about it. California's
+technology economy runs on Pacific manufacturing and Pacific capital; China's
+technology economy was built partly by engineers credentialled in California.
+The relationship is mutual dependence narrated as rivalry, and the rivalry is
+what turns the defence funding pipeline back on.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Chokepoint control, contested internationally, and the return
+of public subsidy. Fabrication capacity, rare earths, and assembly are
+bottlenecks California does not own — which is the first time in the book that
+the state is on the wrong end of one. The strategic response reopens the channel
+Act III built.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** The offshore turn the book has already documented twice —
+Fairchild's Hong Kong assembly in 1963, Nike's contract factories from the 1970s
+— is the origin of this dependency. The supply chain that now looks like a
+strategic vulnerability was built deliberately, for margin, by the firms now
+alarmed by it.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** A single device: designed in California, fabricated in
+Taiwan, assembled in China, sold everywhere, and counted as an American export
+success.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** The manufacturing workforce across the Pacific supply
+chain, and the American workers whose jobs the offshore turn moved. Also
+Chinese-American and Chinese national researchers subjected to security scrutiny
+— the scapegoat mechanism from Act II ch. 11, running again with a different
+nationality.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that California's strategic vulnerability was
+self-created by tracing the supply chain to the offshore decisions the book has
+already documented in semiconductors and footwear.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** One device, four jurisdictions, one flag on the box.
+2. **How the dependency was built.** Trace it back: Fairchild 1963, Nike's
+   contract factories, Apple's assembly. This is the payoff of chs. 3 and 6 of
+   Act IV.
+3. **What China built with it.** Manufacturing capability into design
+   capability. Named firms, and the researchers trained in American
+   universities.
+4. **Fabrication as the real chokepoint.** Advanced semiconductor fabrication
+   concentrated in a handful of facilities. Verify current concentration figures
+   with dates; this is the single most consequential number in the chapter.
+5. **Capital flows both ways.** Chinese investment into the Valley and Valley
+   investment into China, and the restrictions that followed.
+6. **Rivalry restarts the subsidy.** Export controls and the CHIPS Act. Public
+   money returning to semiconductors — Act III ch. 11's triangle, reassembled
+   and renamed industrial policy.
+7. **TikTok as the inversion.** The first time a foreign platform occupied a
+   Californian chokepoint, and the reaction to it. What that reaction reveals
+   about how the position is normally understood.
+8. **The excluded.** Supply chain labour; displaced American manufacturing
+   workers; researchers under suspicion. Name the scapegoat pattern and point
+   back to Act II ch. 11.
+9. **Landing.** Two economies, one machine, and a strategic competition that
+   funds both sides of the corridor this book has been following since 1862.
 :::
 
 :::
@@ -32,5 +80,5 @@ What happens when the world's two largest economies share a supply chain and dis
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5c.
+Specified. Prose is written in Phase 5c.
 :::

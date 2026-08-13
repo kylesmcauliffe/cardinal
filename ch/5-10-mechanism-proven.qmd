@@ -11,18 +11,65 @@ Act V — The Open Era · 2025
 
 **Core question.** Is this a conspiracy, or is it gravity?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** Gravity, and that is the more troubling answer. There was no
+conspiracy because none was needed. Land, research funding, legitimacy, and
+network compound without anyone intending an outcome, and the machine runs
+whether or not its operators understand it. A conspiracy could be prosecuted.
+This cannot.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** All three, assessed. The chapter's job is to test the book's
+own thesis against the falsification criteria the Introduction set out, and to
+state honestly where the argument is strongest and where it is weakest.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** The Introduction made three testable predictions: that
+California's great fortunes would cluster around bottlenecks rather than
+inventions, that public money would precede private capture, and that the
+institutions producing the elite would be endowed by the elite they produced.
+This chapter returns a verdict on each, including any that the evidence does not
+fully support.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** The four moving parts — land, research, legitimacy,
+network — described as a mechanism rather than a plot. And the reader, who was
+told in the Introduction what would falsify the argument and is now owed the
+result.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** Nothing new. The chapter's honesty requirement is to state
+where the thesis overreaches: which chapters rest on a single source, where the
+causal chain is a correlation, and which counter-arguments remain unanswered.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves the book's thesis to the extent the evidence
+permits by returning explicit verdicts on the falsification criteria set out in
+the Introduction, including negative ones.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** Return to the falsification test. Quote the Introduction and then
+   answer it.
+2. **Prediction one: bottlenecks over inventions.** The evidence, assembled
+   across the book. Verdict.
+3. **Prediction two: public money first.** Land grants, defence contracts,
+   ARPANET, Bayh-Dole, CHIPS. Verdict.
+4. **Prediction three: the elite endows the institution that produces it.**
+   Stanford 1885, Knight 2011, the named buildings, the fellowships. Verdict.
+5. **The four moving parts.** Land, research, legitimacy, network — restated as
+   a mechanism with no author.
+6. **Why not conspiracy.** Nobody needed to intend it. Convergence is
+   sufficient, and it is harder to oppose than intention because there is no
+   defendant.
+7. **Where the argument is weakest.** State it. Chapters resting on a single
+   source; the Santa Clara headnote's actual doctrinal weight; the difficulty of
+   distinguishing selection from causation in the corridor's persistence. This
+   beat is what separates the book from a polemic and it must not be softened.
+8. **The strongest counter-argument, given its due.** That the corridor's
+   success reflects genuine productive advantage, and that talent clusters for
+   good reasons. Answer it, but answer it fairly.
+9. **What follows from the argument.** Not a programme. The Voice Guide forbids
+   prescription, and the book should end analytically rather than politically.
+10. **Landing.** Gravity, not conspiracy. The machine runs without requiring
+   anyone to intend it, which is why noticing it is the only available first
+   step.
 :::
 
 :::
@@ -32,5 +79,5 @@ Is this a conspiracy, or is it gravity?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5c.
+Specified. Prose is written in Phase 5c.
 :::

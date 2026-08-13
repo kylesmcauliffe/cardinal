@@ -11,18 +11,63 @@ Act V — The Open Era · 2010–2020
 
 **Core question.** How does a modern monopolist make power invisible?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** By giving it away on his own terms. Modern monopoly legitimacy
+is purchased through philanthropy, university endowment, and public-benefit
+storytelling — structures that convert a fortune into disinterested authority
+while leaving control with the donor. It is the Medici playbook from Act I ch.
+7, executed with better tax treatment.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Elite network reproduction and the manufacture of legitimacy,
+and the book's most direct historical rhyme. Leland Stanford endowed a
+university and the university certified the class it produced. The limited-
+liability company structured as a philanthropic vehicle does the same work
+without even the constraints of a foundation.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** The Chan Zuckerberg Initiative was structured as a limited
+liability company rather than a foundation, which permits political spending and
+investment alongside grantmaking and carries no payout requirement. The form is
+the argument.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** A building with a name on it. The chapter should return to
+Act I's donor altarpiece: the same transaction, the same permanence, the same
+eye-level placement.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** The public, which forgoes tax revenue and receives no vote
+over how the resulting funds are deployed, and the fields and regions
+philanthropic priorities do not favour. Also grant recipients whose independence
+is constrained by dependence.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that philanthropy operates as a legitimacy
+instrument by showing the same donors endowing the institutions that credential
+their own class.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A name over a door, and the Medici altarpiece from Act I. Six
+   hundred years, one transaction.
+2. **The vehicles.** Foundation, donor-advised fund, and the LLC. What each
+   permits, what each requires, and how the tax treatment differs. Be technical;
+   the mechanism lives in the structure.
+3. **The Chan Zuckerberg Initiative.** The LLC choice and its consequences.
+   State the defensible reasons for it, then the effects.
+4. **University endowment as the core move.** Knight-Hennessy from Act IV ch. 6,
+   and the buildings named for donors across the campus. The institution that
+   certifies the elite is funded by it.
+5. **The Thiel Fellowship.** Paying students to leave university — the most
+   interesting case, because it appears to contradict the credentialing thesis.
+   Then show what it actually does: substitutes one gatekeeper for another. This
+   beat should be the chapter's sharpest.
+6. **American Dynamism and narrative philanthropy.** Funding the story as well
+   as the institution. Venture capital as an ideological publisher.
+7. **What legitimacy buys.** Regulatory forbearance, press access, and the
+   presumption of good faith. Concrete examples.
+8. **The excluded.** Forgone tax revenue without a public vote; constrained
+   grantees; unfunded fields.
+9. **Landing.** The most efficient way to become untouchable is to become
+   indispensable to the institutions that decide who is respectable. Stanford
+   learned it in 1885; the Valley relearned it with better accountants.
 :::
 
 :::
@@ -32,5 +77,5 @@ How does a modern monopolist make power invisible?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5c.
+Specified. Prose is written in Phase 5c.
 :::

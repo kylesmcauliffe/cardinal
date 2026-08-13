@@ -11,18 +11,56 @@ Act IV — The Silicon Valley Machine · 1956–1970
 
 **Core question.** What is Silicon Valley actually built on?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** On military money, and for its first twenty-five years on almost
+nothing else. Lockheed in Sunnyvale, SRI in Menlo Park, NASA Ames in Mountain
+View: the early Valley was a defence cluster with a university attached. The
+internet's first transmission went to a Stanford-adjacent laboratory on Defense
+Department funding, and that is the least surprising fact in this book.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Public subsidy, at a scale that dwarfs everything private in
+the region for a generation. The chapter's function is corrective: it removes
+the garage from the centre of the story and puts the procurement office there,
+which is what Act III ch. 11 promised it would do.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** The first ARPANET message was sent on 29 October 1969 from
+UCLA to SRI in Menlo Park. The system crashed after two letters. The internet's
+first word was 'lo'.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** Lockheed Missiles and Space in Sunnyvale, which by the
+1960s was the largest employer in the county — a fact that the Valley's own
+origin story has almost entirely forgotten.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** The public, again, through classification — and this time
+the exclusion produces a response. The chapter should end pointing at ch. 7,
+because the students who occupied the Applied Electronics Laboratory were
+objecting to precisely what this chapter describes.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that Silicon Valley was a military-industrial
+cluster before it was a consumer one by showing employment, revenue, and
+research funding concentrated in defence work through 1970.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** 'Lo'. The first two letters of the internet, and then a crash. Then
+   the address: SRI, Menlo Park, on Defense money.
+2. **Lockheed, 1956.** Missiles and Space in Sunnyvale. Employment figures. The
+   largest employer in the county and the least remembered.
+3. **SRI.** Founded 1946 by Stanford, and what it was for. Establish the
+   ownership relationship precisely — ch. 7 turns on it.
+4. **NASA Ames.** Mountain View, and the aeronautics inheritance from Moffett
+   Field.
+5. **Where the revenue came from.** Sourced proportions for the region's major
+   firms. The consumer market barely exists yet.
+6. **ARPANET.** The funding agency, the purpose, the nodes, and 29 October 1969.
+   Resist the mythology; describe a procurement.
+7. **Engelbart at SRI.** The 1968 demonstration. Federally funded, and the
+   interface ideas that Act IV ch. 9 will find at PARC.
+8. **Classification and its consequences.** The public pays and cannot look.
+   Name this as the grievance it will become.
+9. **Landing.** The substrate is military. Point directly at ch. 7: some of the
+   people on this campus are about to notice.
 :::
 
 :::
@@ -32,5 +70,5 @@ What is Silicon Valley actually built on?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5b.
+Specified. Prose is written in Phase 5b.
 :::

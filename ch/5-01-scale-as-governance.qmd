@@ -9,20 +9,65 @@ Act V — The Open Era · 2000–2010
 ::: {.callout-note collapse="true"}
 ## Pre-Draft Brief
 
-**Core question.** What does monopoly look like when it controls attention rather than track?
+**Core question.** What does monopoly look like when it controls attention
+rather than track?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** It looks like a default setting. A railroad monopoly announced
+itself with a rate card; an attention monopoly arrives as a pre-installed
+application and a search box that is already selected. By 2010 the pattern was
+fixed: scale first, capture the category, then convert the resulting position
+into influence over the rules that might otherwise constrain it.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Chokepoint control at a scale that makes the chokepoint
+invisible. This chapter replaces the drafts' cartel framing, which asserted
+coordination the evidence does not support; the retitling is recorded in
+`cut-material.md`. What the evidence supports is convergence — five firms
+independently arriving at the same structural position because that position is
+where the returns are.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Whatever combined market capitalisation figure this chapter
+uses must carry its date, because the number moves daily and a stale figure is
+the fastest way to lose a reader's trust. Cite as of a stated date, from filings
+or index data.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** A default. The browser that comes with the phone, the
+search engine that comes with the browser, the payment method already entered.
+Power exercised as the path of least resistance.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** Everyone for whom the default is not a choice, and the
+small firms and publishers whose access to customers runs through an
+intermediary that also competes with them. Specifics, from antitrust filings and
+inquiries.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that scale itself became a governing power by
+showing firms setting terms for markets they also participate in, without
+needing to coordinate with one another.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A default setting. Something so small nobody notices choosing it,
+   and the revenue that flows from it.
+2. **Rename the thesis explicitly.** State why this book does not use the word
+   cartel: it implies coordination, and the evidence shows convergence. Gravity
+   is not a conspiracy — and it is worse, because there is nobody to indict.
+3. **The five positions.** Apple, Google, Amazon, Microsoft, Facebook, and the
+   distinct chokepoint each occupies. One paragraph each, structural not
+   narrative.
+4. **Scale as governance.** What it means to set terms for a market you also
+   compete in. The app store as the clearest case.
+5. **Acquisition as a strategy.** Buying the competitor before it is a
+   competitor. Named deals with dates and prices.
+6. **Policy influence.** Lobbying expenditure, sourced and dated, and the
+   revolving door. Follow the disclosures, not the anecdotes.
+7. **The comparison to rail, held honestly.** The Southern Pacific was
+   eventually regulated; these firms mostly were not. Ask why, and answer
+   structurally.
+8. **The excluded.** Publishers, sellers, and developers dependent on an
+   intermediary that competes with them.
+9. **Landing.** The railroad barons are back, and the reason nobody stopped them
+   is that nobody could point at a rate card.
 :::
 
 :::
@@ -32,5 +77,5 @@ What does monopoly look like when it controls attention rather than track?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5c.
+Specified. Prose is written in Phase 5c.
 :::

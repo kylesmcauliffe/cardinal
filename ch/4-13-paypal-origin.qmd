@@ -11,18 +11,60 @@ Act IV — The Silicon Valley Machine · 1998–2002
 
 **Core question.** How does a failed startup become a ruling class?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** By selling early and staying together. PayPal was not a large
+success by later standards — eBay bought it for about $1.5 billion in 2002 — but
+its alumni went on to found or fund a substantial share of the next quarter-
+century's consequential companies. The product was the payment system. The
+durable asset was the address book.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Elite network reproduction, in its purest modern form, and
+the chapter where the book's thesis becomes almost embarrassingly literal. A
+single company's staff list becomes a governing class because they keep funding
+each other.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** The PayPal alumni network produced Tesla, SpaceX, LinkedIn,
+Palantir, YouTube, Yelp and Affirm, and supplied partners to Sequoia and
+Founders Fund. One mid-sized exit capitalised an entire generation.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** The 2007 *Fortune* photograph of the group — a magazine
+feature that named them a mafia and, in doing so, told them they were one. Self-
+description as a network-formation event.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** The competitors and the founders outside the network, for
+whom the same capital was not available on the same terms. The chapter should
+resist admiration: the network's efficiency at reproducing itself is precisely
+the barrier.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that networks outlast products by showing a
+modest financial outcome produce an enduring concentration of capital and
+influence.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A photograph of a group of men dressed as a crime family, and the
+   fact that the joke described something real.
+2. **Confinity and X.com, 1998-2000.** Thiel and Levchin; Musk's parallel
+   company; the merger and the management fight.
+3. **The actual business.** Fraud, float, and eBay dependence. Keep it
+   unromantic — the company was in trouble more often than not.
+4. **The 2002 IPO and acquisition.** About $1.5 billion. By the standards of
+   what follows, small.
+5. **The distribution of proceeds.** Who got what, and what they did with it.
+   This is the chapter's engine and it should be concrete.
+6. **What came next.** Tesla, SpaceX, LinkedIn, Palantir, YouTube, Yelp,
+   Founders Fund. Founding dates and cross-investments, so the network is
+   visible as a structure rather than an anecdote.
+7. **Why the network is the asset.** Shared risk assessment, lowered transaction
+   costs, and trust as capital. Return to Act I ch. 2 and Act I ch. 6: this is a
+   credentialing system with no examination and no institution.
+8. **Ideology.** A coherent and consequential set of political views, held in
+   common and funded in common. Describe accurately; Act V ch. 4 and ch. 7 will
+   show the consequences.
+9. **The excluded.** Founders outside the address book.
+10. **Landing.** A ruling class assembled from one company's payroll. The book's
+   thesis, running at the scale of a staff photograph.
 :::
 
 :::
@@ -32,5 +74,5 @@ How does a failed startup become a ruling class?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5b.
+Specified. Prose is written in Phase 5b.
 :::

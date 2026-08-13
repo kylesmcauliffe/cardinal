@@ -11,18 +11,61 @@ Act V — The Open Era · 2016–2023
 
 **Core question.** What happens when the legitimacy engine loses credibility?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** The pipeline keeps running and the trust does not. Stanford's
+president resigned in July 2023 after a review of research he had co-authored;
+the Hoover Institution's political role became a campus fight; and admissions
+litigation reached the Supreme Court. None of it changed the machine. All of it
+changed whether the machine's outputs are taken on faith.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** The legitimacy layer under strain — the third instance in
+this book, after the Reformation in Act I ch. 7 and the Depression in Act III
+ch. 8. The pattern each time: the mechanism survives, the story does not, and
+the institution's response is restructuring rather than reform.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Marc Tessier-Lavigne resigned as president on 19 July 2023
+following a Stanford-commissioned review of papers he co-authored. Cite the
+review's actual findings rather than the headlines; the distinction between
+manipulation by others in his laboratories and misconduct by him is precisely
+where the reporting was loosest and where the book must be exact.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** A student journalist at the *Stanford Daily*, whose
+reporting initiated the sequence that ended a presidency. The institution's own
+newspaper as the effective mechanism of accountability.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** Junior researchers in the laboratories where the image
+problems arose, whose careers depend on principal investigators, and the
+applicants on the wrong side of admissions decisions in either direction.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that institutional trust and institutional
+function are separable by showing the credential retain its market value through
+a period of sustained reputational damage.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A student newspaper. The most consequential piece of accountability
+   journalism about Stanford in a decade, written by undergraduates.
+2. **The reporting and the review.** The sequence, the Stanford-commissioned
+   panel, its actual findings, and the resignation on 19 July 2023. Precision
+   here is the chapter's integrity.
+3. **Why it mattered structurally.** Not scandal for its own sake: the
+   credential's value rests on the institution's claim to verify. A failure of
+   verification at the top is a failure of the product.
+4. **The Hoover Institution as a flashpoint.** The tension between a politically
+   committed research institute and a university claiming disinterest. Both
+   positions stated fairly.
+5. **Admissions.** The 2023 Supreme Court decision and the earlier admissions
+   scandal. What the credential is actually screening for, and who believes the
+   answer.
+6. **Replication and incentives.** The structural conditions that produce image
+   problems in high-prestige laboratories. This is the honest version and it is
+   more damning than the personal story.
+7. **What did not change.** Applications, endowment, licensing revenue,
+   placement. Sourced. The machine is intact.
+8. **The excluded.** Junior researchers dependent on principal investigators.
+9. **Landing.** The pipeline is the same. The trust in the pipeline is not.
+   Point at ch. 7: when trust erodes, the elite stops bothering to be subtle.
 :::
 
 :::
@@ -32,5 +75,5 @@ What happens when the legitimacy engine loses credibility?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5c.
+Specified. Prose is written in Phase 5c.
 :::

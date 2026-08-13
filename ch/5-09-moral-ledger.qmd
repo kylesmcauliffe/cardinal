@@ -11,18 +11,63 @@ Act V — The Open Era · 1769–2025
 
 **Core question.** What does California's ascent cost, and who bears that cost?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** It costs a specific set of people a specific set of things, and
+the book can name them. Every phase of California's ascent had an excluded class
+that made the system work and was denied its returns: Indigenous Californians,
+Chinese railroad labour, the sterilised, farm workers, offshore factory workers,
+contractors, moderators, data labellers. The chokepoint always externalises its
+cost downward.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** The cost side of all three mechanisms, accounted for in one
+place. This chapter is not a moral appendix — the preceding chapters have
+carried the excluded throughout, as the briefs require. Its function is to show
+the pattern as a series, because the recurrence is the evidence that it is
+structural rather than incidental.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** The pattern is not a series of unrelated injustices. In each
+generation the same structural position is occupied by a different population:
+legally at arm's length, economically indispensable, and absent from the balance
+sheet. That consistency is the argument.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** A ledger, literally. The chapter should be structured as
+an accounting document, because the book's method is bioeconomic and this is
+where the surplus and its sources are finally set against each other.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** The chapter's entire subject. The discipline is to write
+each group as agents with names, actions, and resistance — not as a catalogue of
+victims. Every entry should include what these people did, not only what was
+done to them.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that exclusion is structural rather than
+incidental to California's model by showing the same position filled by a
+different population in every generation across two hundred and fifty years.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** Two columns. Surplus on one side, its source on the other. Let the
+   form carry the argument.
+2. **The method, stated.** Who controlled the inputs, who captured the surplus,
+   who was excluded, how the system reproduced. The Introduction's four
+   questions, now answered in aggregate.
+3. **Indigenous Californians.** Mission labour, the Gold Rush killings, and
+   dispossession. Sourced, with the resistance included.
+4. **Chinese labour.** The Central Pacific, the 1867 strike, and Exclusion. What
+   they built and what they were paid, side by side.
+5. **The sterilised.** The 1909 law's subjects, with a sourced range and
+   individual cases.
+6. **Farm labour.** From the ranchos through the Bracero programme to the UFW.
+   Steinbeck's subjects from Act III ch. 7, and their own organising.
+7. **Offshore manufacturing.** Fairchild's Hong Kong assembly, Nike's contract
+   factories, and electronics assembly. The same position, relocated.
+8. **Contract and platform labour.** Drivers, warehouse workers, moderators, and
+   data labellers. Classification as the mechanism.
+9. **The structural observation.** Legally at arm's length, economically
+   essential, absent from the ledger. Every generation, the same position, a
+   different population.
+10. **Landing.** The cost was never hidden. It was accounted for elsewhere. This
+   chapter is where it is accounted for here.
 :::
 
 :::
@@ -32,5 +77,5 @@ What does California's ascent cost, and who bears that cost?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5c.
+Specified. Prose is written in Phase 5c.
 :::

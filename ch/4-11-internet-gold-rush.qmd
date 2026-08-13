@@ -11,18 +11,60 @@ Act IV — The Silicon Valley Machine · 1993–1999
 
 **Core question.** How does a research network become a commercial empire?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** By being handed over. The network was built with public money
+for thirty years and then commercialised in about thirty months, and the
+question that drove the era was who would own the interface between people and
+information. Netscape and Yahoo both came out of universities; both were funded
+from Sand Hill Road; and both were answers to a question that search would
+answer better.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Public subsidy converted into private monopoly, in the most
+literal form in the book: a federally funded network transferred to commercial
+operation. Then chokepoint control contested — browser, portal, directory, and
+finally search.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Netscape's browser descended from Mosaic, developed at a
+federally funded supercomputing centre at a public university. The company that
+opened the commercial internet was built on software the public had already paid
+for.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** Marc Andreessen, a student programmer on a federal grant,
+becoming the face of an initial public offering that had no profits and was
+worth billions by the afternoon.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** The public that funded the network's construction and
+received no equity in its commercialisation, and the retail investors who bought
+the top of the bubble. Also the alternative architectures — public, municipal,
+or common-carrier — that were foreclosed without being debated.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that thirty years of public network investment
+was converted into private ownership without compensation by tracing Mosaic's
+funding to Netscape's valuation.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** Mosaic's funding line. A federal grant at a public university, and
+   then a market capitalisation.
+2. **The handover.** The NSF backbone, the acceptable use policy, and
+   commercialisation in 1995. What was decided and by whom, with almost no
+   public deliberation.
+3. **Netscape, 1994.** Andreessen and Clark. The August 1995 IPO and what it
+   signalled.
+4. **Yahoo, 1994-95.** Yang and Filo, a directory built on Stanford machines.
+   The portal as an attempt at the chokepoint.
+5. **What the contest was actually about.** The interface between humans and
+   information — the same position the mission register, the railroad timetable,
+   and the operating system each occupied.
+6. **The bubble mechanics.** How the capital chokepoint of ch. 5 behaved when
+   public markets would buy anything. Underwriting, lock-ups, and flipping.
+7. **Why portals lost.** Curation does not scale. State the structural reason
+   rather than narrating the horse race.
+8. **The excluded.** No public equity in a public asset; retail investors at the
+   top; the foreclosed alternatives.
+9. **Landing.** Search is the chokepoint, and two Stanford doctoral students
+   have already written the paper. Hand off.
 :::
 
 :::
@@ -32,5 +74,5 @@ How does a research network become a commercial empire?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5b.
+Specified. Prose is written in Phase 5b.
 :::
