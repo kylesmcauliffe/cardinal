@@ -172,8 +172,41 @@ sourcing, and several of their late claims did not survive scrutiny.
   Stanford-commissioned review
 - Combined market capitalisation claims — state the date, they move daily
 
-### The Event Ledger
+### The Event Ledger — rebuilt
 
-`event-ledger.csv` carries 47 events tagged `[S1]`–`[S87]` with no key. Either
-reconstruct the key or re-source every row. Until then the ledger is a working
-chronology, not a citable apparatus.
+The inherited ledger carried 47 events tagged `[S1]`–`[S87]`. The key those tags
+referred to was not preserved with the drafts and could not be reconstructed, so
+the tags were removed rather than left as decoration or replaced with an invented
+key.
+
+`event-ledger.csv` now holds 78 events with a verification status against each:
+70 `VERIFIED`, 7 `NEEDS SOURCE`, 1 `CONTESTED`. Two rows were cut because they
+were not events — a company anniversary and a firm restating its own founding
+date, both artefacts of the drafting process. The ledger was extended back to
+1769, since the original began at the Gold Rush and the book's argument begins
+eighty years earlier, and the secession-and-route sequence of 1853–1862 was
+added.
+
+Appendix B renders it, grouped into eight eras.
+
+**The seven outstanding rows.** Central Pacific incorporation date against the
+articles; Southern Pacific completion to Los Angeles; SRI's founding instrument;
+Stanford Industrial Park authorisation and opening (sources give 1951 and 1953
+and the discrepancy is unresolved); Lockheed Sunnyvale employment figures;
+Fairchild's Hong Kong opening; and the IBM–Microsoft contract date and terms.
+
+---
+
+## Corrections made during drafting
+
+Recorded so they are not silently reintroduced.
+
+| Claim | Correction |
+|---|---|
+| Chapter 9 of *The Cold War and American Science* attributed to Rebecca Lowen | It is Stuart W. Leslie, *The Cold War and American Science* (Columbia, 1993). Both authors wrote on Stanford in this period and the bibliography now carries both, correctly attributed. |
+| ARPANET designed to survive nuclear war | Overstated. Survivability was one strand in Baran's work at RAND on packet switching; the ARPANET itself was built to share expensive computers. The people involved have spent decades correcting this. |
+| Muybridge's commission invented cinema | Declined. One contributing line among several; motion photography developed from multiple directions over two decades. |
+| The 1862 Act designated the 32nd parallel | An error on the National Archives' summary page, contradicted by the statute printed beneath it and by the Senate Historical Office. Cite the statute. |
+| ChatGPT reached 100 million users in two months | Originates in an investment bank's estimate from third-party traffic data, not a company disclosure. Repeated everywhere without that qualification. |
+| Palantir revenue figures from the drafts | Did not correspond to any reported figure. Removed; cite filings by fiscal year. |
+| Leland Stanford Jr. died in 1885 | He died 13 March 1884. 1885 is the year of the Founding Grant. |

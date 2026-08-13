@@ -14,18 +14,44 @@ which draft carried which scheme and what was mined from each.
 
 ## Word Budget
 
-| Act | Chapters | Words/chapter | Act total |
-|---|---|---|---|
-| Front matter + Introduction | — | — | 3,500 |
-| Act I — The World Before California | 8 | 1,900 | 15,200 |
-| Act II — Land, Monopoly, and Institution | 13 | 2,500 | 32,500 |
-| Act III — Hoover, War, and the Archive State | 13 | 2,500 | 32,500 |
-| Act IV — The Silicon Valley Machine | 14 | 2,500 | 35,000 |
-| Act V — The Open Era | 12 | 2,500 | 30,000 |
-| **Total** | **60** | — | **~148,700** |
+The planning target was roughly 2,400 words per chapter, landing near 148,000.
+The first complete draft came in shorter, and the table records both so the gap
+is visible rather than quietly forgotten.
 
-Trade narrative nonfiction length. Short, propulsive chapters. Act I runs
-deliberately leaner than the rest: it establishes the pattern and gets out.
+| Act | Chapters | Target/ch | Drafted total |
+|---|---|---|---|
+| Introduction | 1 | 3,500 | ~1,150 |
+| Act I — The World Before California | 8 | 1,900 | ~10,900 |
+| Act II — Land, Monopoly, and Institution | 13 | 2,500 | ~17,500 |
+| Act III — Hoover, War, and the Archive State | 13 | 2,500 | ~16,800 |
+| Act IV — The Silicon Valley Machine | 14 | 2,500 | ~18,200 |
+| Act V — The Open Era | 12 | 2,500 | ~16,300 |
+| **Total** | **60** | — | **~80,800** |
+
+Run `make lint` for current figures.
+
+**What this means.** Eighty thousand words is a real book — the short end of
+trade narrative nonfiction, and a length several comparable histories occupy. The
+manuscript is complete at this length: every chapter has an argument, an opening
+fact, a structural claim, an excluded-voices accounting, and a landing.
+
+**Where the remaining sixty thousand words belong**, if the book is to reach its
+original target. Not spread evenly, which would pad it. Three specific places:
+
+1. **Scene and character.** The draft is argument-dense and thin on people
+   in rooms. Judah in Washington in the winter of 1861. Jane Stanford selling
+   property to make a payroll. The nine days inside the Applied Electronics
+   Laboratory. Each of these is currently a paragraph and could carry two
+   thousand words without dilution.
+2. **Primary quotation.** Huntington's letters, the Founding Grant's actual
+   language, the 1909 statute, the *Declassified* newsletter, the PageRank
+   appendix. The book cites these and mostly does not quote them.
+3. **The verification queue.** The chapters that are currently shortest are
+   generally the ones whose load-bearing claims are still marked `NEEDS SOURCE`
+   in the research log. Sourcing them will lengthen them, and in the right way.
+
+Act I stays deliberately leaner than the rest: it establishes the pattern and
+gets out.
 
 ---
 

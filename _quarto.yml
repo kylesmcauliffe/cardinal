@@ -89,6 +89,11 @@ book:
 
 bibliography: references.bib
 
+# Citations do not appear in the prose (see references.qmd), so nothing would
+# otherwise reach the bibliography. Include every entry.
+nocite: |
+  @*
+
 format:
   html:
     theme:

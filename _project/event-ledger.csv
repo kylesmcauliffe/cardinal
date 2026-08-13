@@ -1,48 +1,79 @@
-date,event,actors,location,why_it_matters,sources
-1848-01-24,Gold discovered at Sutter’s Mill sparks the California Gold Rush,James W. Marshall; John Sutter,"Coloma, CA","Catalyzes mass migration, capital influx, and accelerates California statehood (1850).",[S1][S2][S3]
-1850-09-09,California admitted as a U.S. state (Compromise of 1850),U.S. Congress; Zachary Taylor/Millard Fillmore,"Washington, DC / California",Establishes U.S. legal/political framework for rapid growth and rail/port expansion.,[S4]
-1861-06-28,Central Pacific Railroad incorporated by the ‘Big Four’,Leland Stanford; Collis P. Huntington; Mark Hopkins; Charles Crocker,"Sacramento, CA",Sets stage for transcontinental rail finance and political power in CA.,[S5]
-1862-07-01,Pacific Railway Act funds transcontinental railroad,Abraham Lincoln; U.S. Congress,"Washington, DC",Massive federal subsidies tie California to national markets; model for tech–state alignment.,[S6]
-1869-05-10,‘Golden Spike’ completes first U.S. transcontinental railroad,Leland Stanford; Union Pacific; Central Pacific,"Promontory Summit, UT",Integrates Western markets; cements Stanford/rail capital networks.,[S7][S8]
-1882-05-06,Chinese Exclusion Act signed,U.S. Congress; Chester A. Arthur,"Washington, DC",First major federal immigration restriction; reshapes Bay Area labor markets and demographics.,[S9][S10]
-1885-11-11,Stanford University founded,Leland & Jane Stanford,"Palo Alto, CA",Creates elite research/land endowment nexus later powering Valley firms.,[S11]
-1891-10-01,Stanford University opens to students,David Starr Jordan (president),"Palo Alto, CA",Begins Stanford’s pipeline of talent/industry collaboration.,[S12]
-1906-04-18,San Francisco earthquake and fires,City of San Francisco; USGS,"San Francisco, CA",Destroys/reshapes urban-financial core; rebuild spurs modern infrastructure.,[S13]
-1939-01-01,Hewlett–Packard founded in a Palo Alto garage,Bill Hewlett; David Packard; Frederick Terman (influence),"Palo Alto, CA",Prototype of university–industry startup; ‘Birthplace of Silicon Valley’.,[S14][S15]
-1946-11-01,Stanford Research Institute (SRI) established,Stanford trustees; SRI,"Menlo Park, CA","Institutionalizes contract R&D bridging government, academia, and industry.",[S16][S17]
-1947-12-23,First working transistor demonstrated at Bell Labs,John Bardeen; Walter Brattain; William Shockley,"Murray Hill, NJ",Semiconductor revolution foundation; Shockley later seeds Valley industry.,[S18][S19]
-1951-01-01,Stanford Research Park authorized (opened 1953),Frederick Terman; Stanford; City of Palo Alto,"Palo Alto, CA",First university research park; anchors corporate R&D cluster.,[S20][S21][S22]
-1956-02-01,Shockley Semiconductor moves to Mountain View,William Shockley,"Mountain View, CA",Attracts top talent; indirect catalyst for Fairchild and Valley ecosystem.,[S23][S24]
-1957-09-18,‘Traitorous Eight’ resign from Shockley (found Fairchild in ’57),Gordon Moore; Robert Noyce; et al.,"Santa Clara Valley, CA","Creates Fairchild model of spinouts, equity culture, and venture finance.",[S24]
-1958-02-07,ARPA (later DARPA) created,Dwight D. Eisenhower; DoD,"Washington, DC",Federal advanced R&D patronage that later funds ARPANET and computing.,[S25][S26]
-1959-01-01,Planar process invented (Fairchild),Jean Hoerni; Fairchild Semiconductor,"Santa Clara Valley, CA",Manufacturing breakthrough enabling integrated circuits.,[S24]
-1965-04-19,Moore’s Law articulated,Gordon Moore,"Santa Clara Valley, CA",Predictive framework driving semiconductor scaling and strategy.,[S24]
-1968-07-18,Intel founded,Robert Noyce; Gordon Moore; Arthur Rock,"Mountain View, CA",Becomes anchor of microprocessor era and Valley capital networks.,[S27][S28][S29]
-1969-10-29,First ARPANET message sent (UCLA → SRI),Charley Kline; Bill Duvall; Len Kleinrock; Larry Roberts,"Los Angeles, CA ↔ Menlo Park, CA",Birth of internetworking that underpins modern platforms.,[S30][S31][S32]
-1970-07-01,Xerox establishes PARC in Palo Alto,Xerox; PARC researchers,"Palo Alto, CA","GUI, laser printing, Ethernet, object-oriented innovations incubated.",[S33][S34]
-1971-11-15,Intel 4004 microprocessor introduced,Intel,"Santa Clara Valley, CA",First commercial microprocessor; catalyzes personal computing.,[S35][S36]
-1972-01-01,Sequoia Capital and Kleiner Perkins founded,Don Valentine; Eugene Kleiner; Tom Perkins,"Menlo Park, CA",Professionalizes venture capital on Sand Hill Road.,[S37][S38][S39]
-1975-03-05,Homebrew Computer Club first meeting,Fred Moore; Gordon French; Steve Wozniak; Steve Jobs (attendee),"Menlo Park, CA",Hobbyist-to-startup pipeline; community norm of sharing and rapid iteration.,[S40][S41][S42]
-1979-02-01,ERISA ‘prudent man’ reinterpretation enables VC for pensions,U.S. Dept. of Labor,"Washington, DC",Unlocks institutional capital for venture funds.,[S43]
-1980-12-12,Bayh–Dole Act enacted,U.S. Congress; Jimmy Carter,"Washington, DC",Allows universities to own IP from federal grants; accelerates tech transfer.,[S44][S45]
-1982-02-24,Sun Microsystems incorporated,Andy Bechtolsheim; Vinod Khosla; Scott McNealy; Bill Joy,"Santa Clara Valley, CA","UNIX workstations, networking—key Valley platform company.",[S46][S47]
-1984-01-24,Apple launches Macintosh,Steve Jobs; Apple,Cupertino/Boston,Mass-market GUI computing moment; cultural inflection point.,[S48][S49][S50]
-1993-04-22,NCSA Mosaic 1.0 released,Marc Andreessen; Eric Bina; NCSA,"Urbana-Champaign, IL",Popularizes the World Wide Web with inline images; browser era begins.,[S51][S52]
-1995-08-09,Netscape IPO ‘Netscape moment’,Marc Andreessen; Jim Clark,Silicon Valley / NASDAQ,Signals commercial web takeoff; triggers dot‑com capital wave.,[S53][S54]
-1998-09-04,Google incorporated,Larry Page; Sergey Brin; Andy Bechtolsheim (angel),"Menlo Park, CA",Search + ads model becomes dominant web business engine.,[S55][S56]
-2004-08-19,Google IPO,Google Inc.,NASDAQ,Validates search/ads model; injects huge liquidity into Valley.,[S57][S58]
-2005-02-14,YouTube founded (acquired by Google 2006),Chad Hurley; Steve Chen; Jawed Karim; Google,San Mateo → global,Video-sharing platform that reconfigures media distribution.,[S59][S60]
-2006-11-16,NVIDIA introduces CUDA,NVIDIA; Jensen Huang,"Santa Clara, CA",General‑purpose GPU computing foundation for modern AI.,[S61][S62][S63]
-2007-01-09,iPhone announced,Steve Jobs; Apple,"San Francisco, CA",Smartphone + multitouch: mobile computing platform shift.,[S64][S66]
-2008-07-10,App Store launches,Apple,"Cupertino, CA",Two‑sided mobile app marketplace; new developer economy.,[S65][S67][S68]
-2008-08-11,Airbnb website launches (AirBed & Breakfast),Brian Chesky; Joe Gebbia; Nathan Blecharczyk,"San Francisco, CA",Kickstarts platform ‘sharing economy’ from SF base.,[S69][S70]
-2009-03-01,Uber founded (public launch 2011 SF),Garrett Camp; Travis Kalanick,"San Francisco, CA",Ride‑hailing platform; regulatory and labor realignments.,[S71][S72]
-2012-05-18,Facebook IPO,Meta (Facebook),NASDAQ,Social media scale monetization milestone; ad‑tech era consolidation.,[S73]
-2014-01-27,Google agrees to acquire DeepMind,Google; DeepMind,London / Mountain View,Signals Valley’s strategic bet on deep learning and AI labs.,[S74][S75][S76]
-2020-01-01,California Consumer Privacy Act (CCPA) takes effect,State of California; CPPA,California,New privacy rights reshape ad‑tech/data practices.,[S77][S78]
-2021-04-26,Apple rolls out App Tracking Transparency (ATT),Apple; iOS developers,Cupertino / global,Restricts cross‑app tracking; disrupts mobile ad targeting.,[S79][S80]
-2022-11-30,OpenAI launches ChatGPT,OpenAI,"San Francisco, CA",Popularizes generative AI; catalyzes platform and capital shifts.,[S83]
-2023-09-06,EU designates DMA ‘gatekeepers’ incl. U.S. tech giants,European Commission; Alphabet; Apple; Meta; Microsoft; Amazon; ByteDance,Brussels / global,Antitrust interoperability and self‑preferencing constraints on platforms.,[S81][S82]
-2024-02-26,NVIDIA reports record data‑center/AI revenue,NVIDIA,"Santa Clara, CA",Capex supercycle for AI; Valley hardware leadership entrenched.,[S84][S85]
-2025-09-27,Google marks 27th birthday; enduring web platform role,Google,"Mountain View, CA",Symbol of long‑run dominance of search/ads + cloud/AI.,[S86]
-2025-11-04,Sequoia Capital reiterates 1972 founding amid leadership change,Sequoia Capital,"Menlo Park, CA",Continuity of Sand Hill VC institutions underpinning Valley financing.,[S87]
+date,event,actors,location,why_it_matters,status,note
+1769-07-16,Mission San Diego de Alcalá founded; Spanish occupation of Alta California begins,Junípero Serra; Gaspar de Portolá,"San Diego, CA",Begins the mission-presidio-pueblo system: California's first apparatus of labour and record.,VERIFIED,
+1776-06-29,Mission San Francisco de Asís founded at what is now 320 Dolores Street,Francisco Palóu,"San Francisco, CA",Anchors the Spanish claim to the Pacific's greatest natural harbour. Oldest intact building in the city.,VERIFIED,
+1821-09-27,Mexican independence; Alta California transfers to Mexico,Mexican republic,Mexico City / Alta California,Territory transferred without administrative capacity; land grants replace governance.,VERIFIED,
+1834-08-09,Secularisation of the missions begins,Governor José Figueroa,Alta California,Largest land transfer in California history. Restitution promised to neophytes; almost none delivered.,VERIFIED,
+1848-01-24,Gold discovered at Sutter's Mill,James W. Marshall; John Sutter,"Coloma, CA",Detonates the incentive structure of the Pacific coast. Marshall and Sutter both ruined by it.,VERIFIED,
+1848-02-02,Treaty of Guadalupe Hidalgo cedes California to the United States,United States; Mexico,Guadalupe Hidalgo,"Converts occupation into legal ownership. Signed nine days after the gold discovery, in ignorance of it.",VERIFIED,
+1849-10-13,California constitution signed at Colton Hall,48 delegates,"Monterey, CA",Statehood organised without congressional authorisation; slavery prohibited.,VERIFIED,
+1850-03-30,Foreign Miners' Tax enacted,California legislature,California,"Extraction from Mexican, Chilean and Peruvian miners. First appearance of a recurring Californian manoeuvre.",VERIFIED,
+1850-04-22,Act for the Government and Protection of Indians,California legislature,California,Permits arrest of Indians deemed loitering and indenture of Indigenous children. Forced labour in a free state.,VERIFIED,
+1850-09-09,California admitted as a state under the Compromise of 1850,US Congress; Millard Fillmore,"Washington, DC","Places California on the sectional chessboard from its first day, which decides the railroad route in 1862.",VERIFIED,
+1851-03-03,California Land Act establishes the land commission,US Congress,"Washington, DC",Places burden of proof on Mexican grant-holders. Transfers land by procedure rather than by seizure.,VERIFIED,
+1853-03-03,"Congress appropriates $150,000 for Pacific railroad surveys",US Congress; Jefferson Davis (Secretary of War),"Washington, DC",Four corridors surveyed. Every field commander reports his own route is best; Congress cannot decide.,VERIFIED,
+1853-12-30,Gadsden Purchase signed,James Gadsden; Mexico,Mexico City,Acquires the strip required for a 32nd-parallel southern railroad route.,VERIFIED,
+1861-01-21,Jefferson Davis speaks for a transcontinental railroad days before leaving the Senate,Jefferson Davis,"Washington, DC",'To couple with bonds of iron the people of the Pacific with the valley of the Mississippi.' His departure is what makes it possible.,VERIFIED,
+1861-06-28,Central Pacific Railroad incorporated,Leland Stanford; Collis Huntington; Mark Hopkins; Charles Crocker; Theodore Judah,"Sacramento, CA",Four merchants and an engineer. Judah is bought out and dies in 1863.,NEEDS SOURCE,Verify against articles of incorporation
+1862-07-01,Pacific Railway Act signed,Abraham Lincoln; US Congress,"Washington, DC",Passes only after secession empties the Southern seats. Land grants and 30-year bonds at 6 per cent. Union Pacific is the first federally chartered corporation since the Second Bank.,VERIFIED,
+1867-06-25,Chinese workers strike on the Sierra grade,Central Pacific Chinese workforce; Charles Crocker,"Sierra Nevada, CA",Several thousand men demand pay parity and shorter tunnel hours. Broken within a week by cutting off food.,VERIFIED,
+1869-05-10,Golden spike completes the transcontinental railroad,Central Pacific; Union Pacific,"Promontory Summit, UT",A public work becomes a private monopoly. The Chinese workforce is absent from the photograph.,VERIFIED,
+1876-01-01,Southern Pacific completes the line to Los Angeles,Southern Pacific,California,Consolidation of rail power; the company begins deciding which towns exist.,NEEDS SOURCE,
+1880-05-11,Mussel Slough shootout,Southern Pacific; settlers; US marshal,"Tulare County, CA",Seven dead in a dispute over railroad land titles. The physical edge of legal architecture.,VERIFIED,
+1882-05-06,Chinese Exclusion Act signed,US Congress; Chester A. Arthur,"Washington, DC",First federal law barring a nationality. The men who built the Sierra grade are prohibited from the country they connected.,VERIFIED,
+1884-03-13,Leland Stanford Jr. dies in Florence,Leland Stanford Jr.,"Florence, Italy",The university follows. Corrects the 1885 date given in some drafts.,VERIFIED,
+1885-11-11,Stanford Founding Grant executed,Leland and Jane Stanford,"Palo Alto, CA","Self-perpetuating board, insulated from politics, endowed with land that cannot be sold. The clause that produces the research park in 1951.",VERIFIED,
+1886-05-10,Santa Clara County v. Southern Pacific decided,US Supreme Court,"Washington, DC",Decided on narrow grounds; the reporter's headnote records corporate personhood. Doctrine develops over subsequent decades.,VERIFIED,
+1886-05-10,Yick Wo v. Hopkins decided,US Supreme Court,"Washington, DC",A law fair on its face but administered with an unequal hand violates equal protection. Brought by Chinese laundry operators.,VERIFIED,
+1891-10-01,Stanford University opens,David Starr Jordan (president),"Palo Alto, CA","Free tuition, coeducational, practical curriculum. First president is a leading eugenicist.",VERIFIED,
+1893-06-21,Leland Stanford dies during the Panic of 1893,Leland Stanford,"Palo Alto, CA",Estate frozen; the federal government sues for $15 million. The university nearly closes.,VERIFIED,
+1898-03-28,United States v. Wong Kim Ark decided,US Supreme Court,"Washington, DC","Establishes birthright citizenship, on a case brought by a man born in San Francisco to Chinese parents.",VERIFIED,
+1900-11-12,Edward Ross forced out of Stanford,Jane Stanford; David Starr Jordan; Edward A. Ross,"Palo Alto, CA","Founding controversy of American academic freedom, at a university built by a railroad, over criticism of railroads.",VERIFIED,
+1905-02-28,Jane Stanford dies in Honolulu,Jane Stanford,"2365 Kalākaua Avenue, Honolulu","Cause contested. The institution continues without structural change, which is the load-bearing fact.",CONTESTED,
+1906-04-18,San Francisco earthquake and fire,—,"San Francisco / Palo Alto, CA","Stanford badly damaged and absorbs it. Assets were land and endowment, not buildings.",VERIFIED,
+1909-04-26,California sterilisation law enacted,California legislature,California,California performs roughly a third of the recorded US total. Law stands until 1979.,VERIFIED,
+1913-05-19,California Alien Land Law,California legislature,California,Bars aliens ineligible for citizenship from owning agricultural land; aimed at Japanese farmers.,VERIFIED,
+1919-06-01,Hoover funds what becomes the Hoover War Collection,Herbert Hoover; Ephraim Adams,"Palo Alto, CA","$50,000 and agents in a collapsed Europe. California acquires memory infrastructure.",VERIFIED,
+1925-01-01,Stanford Graduate School of Business founded,Stanford University,"Palo Alto, CA",The management credential formalised. Steinbeck leaves without a degree the same year.,VERIFIED,
+1936-10-05,Steinbeck's 'The Harvest Gypsies' begins publication,John Steinbeck; San Francisco News,"San Francisco, CA",An administrative record of a labour system compiled by someone with no institutional interest in the outcome.,VERIFIED,
+1939-01-01,Hewlett-Packard founded at 367 Addison Avenue,Bill Hewlett; David Packard; Frederick Terman,"Palo Alto, CA",The garage is real and it is not the explanation. Terman told them to stay.,VERIFIED,
+1942-02-19,Executive Order 9066,Franklin D. Roosevelt,"Washington, DC","Incarceration of some 120,000 people of Japanese ancestry. Property lost at distress prices; the transfer had beneficiaries.",VERIFIED,
+1945-07-01,"Vannevar Bush delivers 'Science, the Endless Frontier'",Vannevar Bush,"Washington, DC",The intellectual case for permanent federal funding of basic research through universities.,VERIFIED,
+1946-08-01,Office of Naval Research established,US Congress,"Washington, DC",Fills the five-year gap before the NSF. American basic science funding is architected with a service branch as founding patron.,VERIFIED,
+1946-11-06,Stanford Research Institute established,Stanford trustees,"Menlo Park, CA",Owned by the university. The ownership is what the 1969 protests turn on.,NEEDS SOURCE,
+1951-01-01,Stanford Industrial Park opens,Frederick Terman; Alf Brandin; Varian Associates,"Page Mill Road, Palo Alto, CA",First university-owned industrial park in the US. Direct consequence of the 1885 prohibition on selling land.,NEEDS SOURCE,Sources differ on authorised 1951 vs opened 1953; resolve
+1956-01-01,Lockheed Missiles and Space opens in Sunnyvale,Lockheed,"Sunnyvale, CA",Becomes the county's largest employer and is absent from the region's origin story.,NEEDS SOURCE,
+1956-02-01,Shockley Semiconductor opens in Mountain View,William Shockley,"Mountain View, CA",Located there because his mother lived there.,VERIFIED,
+1957-09-18,The eight resign from Shockley; Fairchild Semiconductor follows,Robert Noyce; Gordon Moore; Jean Hoerni; Eugene Kleiner; Arthur Rock; and others,"Mountain View, CA","The spinoff becomes the Valley's reproductive mechanism, enabled by California's refusal to enforce non-competes.",VERIFIED,
+1959-01-01,Planar process developed at Fairchild,Jean Hoerni,"Mountain View, CA",Makes the integrated circuit manufacturable. The advantage lives in people and therefore walks.,VERIFIED,
+1962-11-01,Knight secures Tiger distribution rights in Kobe,Phil Knight; Onitsuka,"Kobe, Japan",Blue Ribbon Sports invented on the spot. The company began as a Stanford class paper.,VERIFIED,
+1963-01-01,Fairchild opens assembly operations in Hong Kong,Fairchild Semiconductor,Hong Kong,"The offshore turn in semiconductors, in the same years Knight is arranging it in footwear.",NEEDS SOURCE,
+1965-04-19,Moore's law published,Gordon Moore; Electronics magazine,"Santa Clara Valley, CA",A coordination device rather than a prediction. Sets the industry's clock for half a century.,VERIFIED,
+1968-12-09,Engelbart's demonstration at the Fall Joint Computer Conference,Douglas Engelbart; SRI,"San Francisco, CA","Mouse, hypertext, windows, collaborative editing. Federally funded and commercially uncaptured.",VERIFIED,
+1969-04-09,Students occupy the Applied Electronics Laboratory,April Third Movement,"Stanford, CA",Nine days. They print the classified research they find. The senate bans classified work on 24 April.,VERIFIED,
+1969-05-16,Police tear-gas students protesting the SRI divestment,April Third Movement; police,"Menlo Park, CA",They had asked the university to take responsibility. It took its name off the door instead.,VERIFIED,
+1969-10-29,"First ARPANET message, UCLA to SRI",Charley Kline; Bill Duvall,"Los Angeles ↔ Menlo Park, CA",The system crashes after two letters. The internet's first word is 'lo'.,VERIFIED,
+1970-01-01,Trustees set terms for the SRI divestment,Stanford trustees,"Stanford, CA","SRI sold to itself for 1 per cent of gross revenues up to $25 million. Pressure produced reorganisation, not reform.",VERIFIED,
+1972-01-01,Kleiner Perkins and Sequoia Capital founded on Sand Hill Road,Eugene Kleiner; Tom Perkins; Don Valentine,"Menlo Park, CA","Both founded by operators from the semiconductor industry, four minutes from the campus supplying the deal flow.",VERIFIED,
+1975-03-05,First Homebrew Computer Club meeting,Fred Moore; Gordon French,"Menlo Park, CA","Circulating culture, enclosed within about five years.",VERIFIED,
+1979-02-01,ERISA prudent man rule clarified,US Department of Labor,"Washington, DC",Admits pension money to venture funds. The public-money leg of the capital chokepoint.,VERIFIED,
+1980-08-12,IBM Personal Computer development; MS-DOS licensed non-exclusively,IBM; Microsoft,"Boca Raton, FL / Seattle, WA",The most valuable clause never inserted. Hardware commoditises; the operating system does not.,NEEDS SOURCE,Verify contract date and terms
+1980-10-14,Genentech IPO,Genentech; Herbert Boyer; Robert Swanson,NASDAQ,"Biology financed like software, on a Stanford and UCSF patent.",VERIFIED,
+1980-12-12,Bayh-Dole Act enacted,US Congress; Jimmy Carter,"Washington, DC",Universities take title to federally funded inventions. Answers the question Act III left open.,VERIFIED,
+1995-04-30,NSFNET backbone decommissioned; the network passes to commercial operators,National Science Foundation,United States,"Thirty years of public investment transferred without compensation, equity, or public debate.",VERIFIED,
+1995-08-09,Netscape IPO,Marc Andreessen; Jim Clark,NASDAQ,"Built on Mosaic, developed at a public university on federal funding.",VERIFIED,
+1996-02-08,Section 230 enacted,US Congress,"Washington, DC",Twenty-six words. The legal foundation of the platform economy.,VERIFIED,
+1998-09-04,Google incorporated,Larry Page; Sergey Brin,"Menlo Park, CA",Their published paper argues ad-funded search will be biased against users. Stanford owns the PageRank patent.,VERIFIED,
+2002-10-03,eBay acquires PayPal,eBay; PayPal,"San Jose, CA",About $1.5 billion. The product was payments; the durable asset was the address book.,VERIFIED,
+2006-03-14,Amazon Web Services launches,Amazon,"Seattle, WA",Computing as a metered utility. Within fifteen years much of the internet runs on three providers.,VERIFIED,
+2006-11-16,Nvidia introduces CUDA,Nvidia,"Santa Clara, CA",A software ecosystem accumulated fifteen years before there was a market for it. The switching cost that holds the position.,VERIFIED,
+2012-04-09,Facebook acquires Instagram,Facebook,"Menlo Park, CA",About $1 billion for a company with no revenue. Buying the competitor before it is one.,VERIFIED,
+2018-03-17,Cambridge Analytica reporting published,Observer; New York Times,London / New York,The neutrality posture collapses in public.,VERIFIED,
+2018-08-27,UN fact-finding mission reports on Myanmar,UN Human Rights Council,Geneva,Addresses the platform's role in the spread of hate speech. The company's own commissioned assessment follows.,VERIFIED,
+2019-07-24,FTC announces $5 billion Facebook privacy settlement,Federal Trade Commission,"Washington, DC",Largest privacy penalty the agency had imposed.,VERIFIED,
+2020-11-03,Proposition 22 passes in California,App-based platforms; California voters,California,Over $200 million spent to exempt platforms from a classification law passed the previous year.,VERIFIED,
+2022-08-09,CHIPS and Science Act signed,US Congress; Joseph Biden,"Washington, DC",Public money returns to semiconductors. Act III's triangle under the name of industrial policy.,VERIFIED,
+2022-11-30,OpenAI releases ChatGPT,OpenAI,"San Francisco, CA",Adoption figures widely cited from an investment bank estimate rather than a company disclosure.,VERIFIED,
+2023-06-29,Students for Fair Admissions decided,US Supreme Court,"Washington, DC",Race-conscious admissions held unlawful. What is the credential screening for?,VERIFIED,
+2023-07-19,Marc Tessier-Lavigne resigns as Stanford president,Stanford board special committee,"Stanford, CA",Review found manipulation by others in his laboratories and criticised his failure to correct the record.,VERIFIED,
+2023-11-17,OpenAI board removes its chief executive; reversed within five days,OpenAI board,"San Francisco, CA",A governance mechanism designed to constrain commercial logic was tested once and failed.,VERIFIED,
+2025-01-20,Technology founders seated at the presidential inauguration,—,"Washington, DC",Visibility changes; substance does not. Thiel's roughly $15m to the 2022 Vance campaign is documented in FEC filings.,VERIFIED,

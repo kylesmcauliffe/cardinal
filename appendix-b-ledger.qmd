@@ -1,32 +1,164 @@
 # Appendix B — Event Ledger {.unnumbered}
 
-A dated chronology of the events the book turns on, from the discovery of gold to
-the present. Each entry gives the date, the event, the actors, the place, and why
-it matters structurally rather than merely narratively.
-
-::: {.callout-warning}
-The working ledger is at `_project/event-ledger.csv`: 47 events, each tagged
-`[S1]`–`[S87]`. The source key those tags refer to was not preserved with the
-drafts.
-
-Until the key is reconstructed or every row is re-sourced, the ledger is a
-working chronology and not a citable apparatus. Rebuilt in Phase 6.
-:::
+A dated chronology of the events this book turns on, from the Spanish occupation
+of Alta California to the present.
 
 ## Method
 
-An event earns a place in this ledger if it meets one of four tests:
+An event earns a place here if it meets one of four tests.
 
 1. It moved a chokepoint — created one, captured one, or destroyed one.
 2. It converted public money or public authority into private control.
 3. It changed who could enter the elite, or how.
-4. It is the date a reader would want to check.
+4. It is a date a reader would want to check.
 
 Events that are famous but structurally inert are omitted. Events that are
 obscure but load-bearing are included.
 
-## Ledger
+## What changed in this edition
 
-To be generated from `_project/event-ledger.csv` once sourcing is complete,
-extended through the periods the current ledger does not reach — the Spanish and
-Mexican eras before 1848, and the secession-and-route sequence of 1853 to 1862.
+The ledger inherited from the drafts carried 47 events tagged `[S1]`–`[S87]`. The
+key those tags referred to was not preserved with the drafts and could not be
+reconstructed, so the tags have been removed rather than left as decoration. Each
+row now carries a verification status instead, and the underlying claims are
+tracked in `_project/research-log.md`.
+
+Three other changes. Two rows were removed because they were not events — they
+recorded a company's anniversary and a firm restating its own founding date,
+which are artefacts of the drafting process rather than history. The ledger has
+been extended backwards to 1769, since the original began at the Gold Rush and
+this book's argument begins eighty years earlier. And the secession-and-route
+sequence of 1853 to 1862 has been added, since it is the causal hinge of the book
+and no draft contained it.
+
+**Status values.** `VERIFIED` means the claim is supported by a source recorded in
+the research log. `NEEDS SOURCE` means the event is drafted and the citation is
+outstanding. `CONTESTED` means historians genuinely disagree, and the text handles
+it under the rule in `_project/voice.md`.
+
+## Spanish and Mexican California (1769–1847)
+
+| Date | Event | Why it matters | Status |
+|---|---|---|---|
+| 1769-07-16 | Mission San Diego de Alcalá founded; Spanish occupation of Alta California begins | Begins the mission-presidio-pueblo system: California's first apparatus of labour and record. | VERIFIED |
+| 1776-06-29 | Mission San Francisco de Asís founded at what is now 320 Dolores Street | Anchors the Spanish claim to the Pacific's greatest natural harbour. Oldest intact building in the city. | VERIFIED |
+| 1821-09-27 | Mexican independence; Alta California transfers to Mexico | Territory transferred without administrative capacity; land grants replace governance. | VERIFIED |
+| 1834-08-09 | Secularisation of the missions begins | Largest land transfer in California history. Restitution promised to neophytes; almost none delivered. | VERIFIED |
+
+## Conquest, Gold, and Statehood (1848–1852)
+
+| Date | Event | Why it matters | Status |
+|---|---|---|---|
+| 1848-01-24 | Gold discovered at Sutter's Mill | Detonates the incentive structure of the Pacific coast. Marshall and Sutter both ruined by it. | VERIFIED |
+| 1848-02-02 | Treaty of Guadalupe Hidalgo cedes California to the United States | Converts occupation into legal ownership. Signed nine days after the gold discovery, in ignorance of it. | VERIFIED |
+| 1849-10-13 | California constitution signed at Colton Hall | Statehood organised without congressional authorisation; slavery prohibited. | VERIFIED |
+| 1850-03-30 | Foreign Miners' Tax enacted | Extraction from Mexican, Chilean and Peruvian miners. First appearance of a recurring Californian manoeuvre. | VERIFIED |
+| 1850-04-22 | Act for the Government and Protection of Indians | Permits arrest of Indians deemed loitering and indenture of Indigenous children. Forced labour in a free state. | VERIFIED |
+| 1850-09-09 | California admitted as a state under the Compromise of 1850 | Places California on the sectional chessboard from its first day, which decides the railroad route in 1862. | VERIFIED |
+| 1851-03-03 | California Land Act establishes the land commission | Places burden of proof on Mexican grant-holders. Transfers land by procedure rather than by seizure. | VERIFIED |
+
+## The Route and the Railroad (1853–1883)
+
+| Date | Event | Why it matters | Status |
+|---|---|---|---|
+| 1853-03-03 | Congress appropriates $150,000 for Pacific railroad surveys | Four corridors surveyed. Every field commander reports his own route is best; Congress cannot decide. | VERIFIED |
+| 1853-12-30 | Gadsden Purchase signed | Acquires the strip required for a 32nd-parallel southern railroad route. | VERIFIED |
+| 1861-01-21 | Jefferson Davis speaks for a transcontinental railroad days before leaving the Senate | 'To couple with bonds of iron the people of the Pacific with the valley of the Mississippi.' His departure is what makes it possible. | VERIFIED |
+| 1861-06-28 | Central Pacific Railroad incorporated | Four merchants and an engineer. Judah is bought out and dies in 1863. | NEEDS SOURCE |
+| 1862-07-01 | Pacific Railway Act signed | Passes only after secession empties the Southern seats. Land grants and 30-year bonds at 6 per cent. Union Pacific is the first federally chartered corporation since the Second Bank. | VERIFIED |
+| 1867-06-25 | Chinese workers strike on the Sierra grade | Several thousand men demand pay parity and shorter tunnel hours. Broken within a week by cutting off food. | VERIFIED |
+| 1869-05-10 | Golden spike completes the transcontinental railroad | A public work becomes a private monopoly. The Chinese workforce is absent from the photograph. | VERIFIED |
+| 1876-01-01 | Southern Pacific completes the line to Los Angeles | Consolidation of rail power; the company begins deciding which towns exist. | NEEDS SOURCE |
+| 1880-05-11 | Mussel Slough shootout | Seven dead in a dispute over railroad land titles. The physical edge of legal architecture. | VERIFIED |
+| 1882-05-06 | Chinese Exclusion Act signed | First federal law barring a nationality. The men who built the Sierra grade are prohibited from the country they connected. | VERIFIED |
+
+## The Institution (1884–1918)
+
+| Date | Event | Why it matters | Status |
+|---|---|---|---|
+| 1884-03-13 | Leland Stanford Jr. dies in Florence | The university follows. Corrects the 1885 date given in some drafts. | VERIFIED |
+| 1885-11-11 | Stanford Founding Grant executed | Self-perpetuating board, insulated from politics, endowed with land that cannot be sold. The clause that produces the research park in 1951. | VERIFIED |
+| 1886-05-10 | Santa Clara County v. Southern Pacific decided | Decided on narrow grounds; the reporter's headnote records corporate personhood. Doctrine develops over subsequent decades. | VERIFIED |
+| 1886-05-10 | Yick Wo v. Hopkins decided | A law fair on its face but administered with an unequal hand violates equal protection. Brought by Chinese laundry operators. | VERIFIED |
+| 1891-10-01 | Stanford University opens | Free tuition, coeducational, practical curriculum. First president is a leading eugenicist. | VERIFIED |
+| 1893-06-21 | Leland Stanford dies during the Panic of 1893 | Estate frozen; the federal government sues for $15 million. The university nearly closes. | VERIFIED |
+| 1898-03-28 | United States v. Wong Kim Ark decided | Establishes birthright citizenship, on a case brought by a man born in San Francisco to Chinese parents. | VERIFIED |
+| 1900-11-12 | Edward Ross forced out of Stanford | Founding controversy of American academic freedom, at a university built by a railroad, over criticism of railroads. | VERIFIED |
+| 1905-02-28 | Jane Stanford dies in Honolulu | Cause contested. The institution continues without structural change, which is the load-bearing fact. | CONTESTED |
+| 1906-04-18 | San Francisco earthquake and fire | Stanford badly damaged and absorbs it. Assets were land and endowment, not buildings. | VERIFIED |
+| 1909-04-26 | California sterilisation law enacted | California performs roughly a third of the recorded US total. Law stands until 1979. | VERIFIED |
+| 1913-05-19 | California Alien Land Law | Bars aliens ineligible for citizenship from owning agricultural land; aimed at Japanese farmers. | VERIFIED |
+
+## The Archive State and the War (1919–1950)
+
+| Date | Event | Why it matters | Status |
+|---|---|---|---|
+| 1919-06-01 | Hoover funds what becomes the Hoover War Collection | $50,000 and agents in a collapsed Europe. California acquires memory infrastructure. | VERIFIED |
+| 1925-01-01 | Stanford Graduate School of Business founded | The management credential formalised. Steinbeck leaves without a degree the same year. | VERIFIED |
+| 1936-10-05 | Steinbeck's 'The Harvest Gypsies' begins publication | An administrative record of a labour system compiled by someone with no institutional interest in the outcome. | VERIFIED |
+| 1939-01-01 | Hewlett-Packard founded at 367 Addison Avenue | The garage is real and it is not the explanation. Terman told them to stay. | VERIFIED |
+| 1942-02-19 | Executive Order 9066 | Incarceration of some 120,000 people of Japanese ancestry. Property lost at distress prices; the transfer had beneficiaries. | VERIFIED |
+| 1945-07-01 | Vannevar Bush delivers 'Science, the Endless Frontier' | The intellectual case for permanent federal funding of basic research through universities. | VERIFIED |
+| 1946-08-01 | Office of Naval Research established | Fills the five-year gap before the NSF. American basic science funding is architected with a service branch as founding patron. | VERIFIED |
+| 1946-11-06 | Stanford Research Institute established | Owned by the university. The ownership is what the 1969 protests turn on. | NEEDS SOURCE |
+
+## The Valley (1951–1979)
+
+| Date | Event | Why it matters | Status |
+|---|---|---|---|
+| 1951-01-01 | Stanford Industrial Park opens | First university-owned industrial park in the US. Direct consequence of the 1885 prohibition on selling land. | NEEDS SOURCE |
+| 1956-01-01 | Lockheed Missiles and Space opens in Sunnyvale | Becomes the county's largest employer and is absent from the region's origin story. | NEEDS SOURCE |
+| 1956-02-01 | Shockley Semiconductor opens in Mountain View | Located there because his mother lived there. | VERIFIED |
+| 1957-09-18 | The eight resign from Shockley; Fairchild Semiconductor follows | The spinoff becomes the Valley's reproductive mechanism, enabled by California's refusal to enforce non-competes. | VERIFIED |
+| 1959-01-01 | Planar process developed at Fairchild | Makes the integrated circuit manufacturable. The advantage lives in people and therefore walks. | VERIFIED |
+| 1962-11-01 | Knight secures Tiger distribution rights in Kobe | Blue Ribbon Sports invented on the spot. The company began as a Stanford class paper. | VERIFIED |
+| 1963-01-01 | Fairchild opens assembly operations in Hong Kong | The offshore turn in semiconductors, in the same years Knight is arranging it in footwear. | NEEDS SOURCE |
+| 1965-04-19 | Moore's law published | A coordination device rather than a prediction. Sets the industry's clock for half a century. | VERIFIED |
+| 1968-12-09 | Engelbart's demonstration at the Fall Joint Computer Conference | Mouse, hypertext, windows, collaborative editing. Federally funded and commercially uncaptured. | VERIFIED |
+| 1969-04-09 | Students occupy the Applied Electronics Laboratory | Nine days. They print the classified research they find. The senate bans classified work on 24 April. | VERIFIED |
+| 1969-05-16 | Police tear-gas students protesting the SRI divestment | They had asked the university to take responsibility. It took its name off the door instead. | VERIFIED |
+| 1969-10-29 | First ARPANET message, UCLA to SRI | The system crashes after two letters. The internet's first word is 'lo'. | VERIFIED |
+| 1970-01-01 | Trustees set terms for the SRI divestment | SRI sold to itself for 1 per cent of gross revenues up to $25 million. Pressure produced reorganisation, not reform. | VERIFIED |
+| 1972-01-01 | Kleiner Perkins and Sequoia Capital founded on Sand Hill Road | Both founded by operators from the semiconductor industry, four minutes from the campus supplying the deal flow. | VERIFIED |
+| 1975-03-05 | First Homebrew Computer Club meeting | Circulating culture, enclosed within about five years. | VERIFIED |
+| 1979-02-01 | ERISA prudent man rule clarified | Admits pension money to venture funds. The public-money leg of the capital chokepoint. | VERIFIED |
+
+## Platforms (1980–2005)
+
+| Date | Event | Why it matters | Status |
+|---|---|---|---|
+| 1980-08-12 | IBM Personal Computer development; MS-DOS licensed non-exclusively | The most valuable clause never inserted. Hardware commoditises; the operating system does not. | NEEDS SOURCE |
+| 1980-10-14 | Genentech IPO | Biology financed like software, on a Stanford and UCSF patent. | VERIFIED |
+| 1980-12-12 | Bayh-Dole Act enacted | Universities take title to federally funded inventions. Answers the question Act III left open. | VERIFIED |
+| 1995-04-30 | NSFNET backbone decommissioned; the network passes to commercial operators | Thirty years of public investment transferred without compensation, equity, or public debate. | VERIFIED |
+| 1995-08-09 | Netscape IPO | Built on Mosaic, developed at a public university on federal funding. | VERIFIED |
+| 1996-02-08 | Section 230 enacted | Twenty-six words. The legal foundation of the platform economy. | VERIFIED |
+| 1998-09-04 | Google incorporated | Their published paper argues ad-funded search will be biased against users. Stanford owns the PageRank patent. | VERIFIED |
+| 2002-10-03 | eBay acquires PayPal | About $1.5 billion. The product was payments; the durable asset was the address book. | VERIFIED |
+
+## The Open Era (2006–2025)
+
+| Date | Event | Why it matters | Status |
+|---|---|---|---|
+| 2006-03-14 | Amazon Web Services launches | Computing as a metered utility. Within fifteen years much of the internet runs on three providers. | VERIFIED |
+| 2006-11-16 | Nvidia introduces CUDA | A software ecosystem accumulated fifteen years before there was a market for it. The switching cost that holds the position. | VERIFIED |
+| 2012-04-09 | Facebook acquires Instagram | About $1 billion for a company with no revenue. Buying the competitor before it is one. | VERIFIED |
+| 2018-03-17 | Cambridge Analytica reporting published | The neutrality posture collapses in public. | VERIFIED |
+| 2018-08-27 | UN fact-finding mission reports on Myanmar | Addresses the platform's role in the spread of hate speech. The company's own commissioned assessment follows. | VERIFIED |
+| 2019-07-24 | FTC announces $5 billion Facebook privacy settlement | Largest privacy penalty the agency had imposed. | VERIFIED |
+| 2020-11-03 | Proposition 22 passes in California | Over $200 million spent to exempt platforms from a classification law passed the previous year. | VERIFIED |
+| 2022-08-09 | CHIPS and Science Act signed | Public money returns to semiconductors. Act III's triangle under the name of industrial policy. | VERIFIED |
+| 2022-11-30 | OpenAI releases ChatGPT | Adoption figures widely cited from an investment bank estimate rather than a company disclosure. | VERIFIED |
+| 2023-06-29 | Students for Fair Admissions decided | Race-conscious admissions held unlawful. What is the credential screening for? | VERIFIED |
+| 2023-07-19 | Marc Tessier-Lavigne resigns as Stanford president | Review found manipulation by others in his laboratories and criticised his failure to correct the record. | VERIFIED |
+| 2023-11-17 | OpenAI board removes its chief executive; reversed within five days | A governance mechanism designed to constrain commercial logic was tested once and failed. | VERIFIED |
+| 2025-01-20 | Technology founders seated at the presidential inauguration | Visibility changes; substance does not. Thiel's roughly $15m to the 2022 Vance campaign is documented in FEC filings. | VERIFIED |
+
+## Outstanding
+
+Seven rows are marked `NEEDS SOURCE` and are the priority verification queue:
+the Central Pacific's incorporation date against the articles, the Southern
+Pacific's completion to Los Angeles, SRI's founding instrument, the Stanford
+Industrial Park's authorisation and opening dates (sources give 1951 and 1953 and
+the discrepancy is unresolved), Lockheed's Sunnyvale employment figures,
+Fairchild's Hong Kong opening, and the IBM–Microsoft contract date and terms.
