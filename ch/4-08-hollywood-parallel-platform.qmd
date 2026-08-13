@@ -112,6 +112,154 @@ should expect the pattern anywhere California builds anything.
 Why did the film industry go west?
 :::
 
-::: {.callout-warning}
-Specified. Prose is written in Phase 5b.
-:::
+The film industry went west to get away from a lawyer.
+
+Thomas Edison held the core patents on motion picture equipment, and in 1908 he
+consolidated them with the other significant holders into the Motion Picture
+Patents Company — a trust that licensed cameras, projectors, and film stock, set
+the terms of the business, and enforced its position aggressively through
+litigation and, by numerous accounts, through methods that did not involve
+courts.
+
+Independent producers who would not take a licence needed distance. Southern
+California offered it: three thousand miles from the trust's enforcement
+apparatus, and close enough to the Mexican border that a production could cross
+it if a process server arrived.
+
+The light was genuinely good and the landscape genuinely varied, and both
+feature in every account. They are not why the industry moved. It moved to
+escape a monopoly, and within fifteen years it had built a larger one.
+
+## The trust broken, the structure rebuilt
+
+The Patents Company was dissolved by antitrust action in the mid-1910s, having
+already been overtaken commercially by the independents it had tried to
+suppress.
+
+What replaced it was the studio system, and it was integrated more completely
+than the trust had ever managed. The major studios owned production — the lots,
+the equipment, the crews. They owned distribution. And critically they owned
+exhibition: chains of theatres, including the first-run houses in major cities
+where a film made most of its money.
+
+That last link is the chokepoint. A film that cannot get into theatres does not
+exist commercially, and the studios owned the theatres. The practice of block
+booking required an exhibitor who wanted a studio's desirable pictures to take
+its undesirable ones as a package, which meant independent producers could not
+get screens even in theatres the studios did not own.
+
+The mechanism is identical to the Southern Pacific deciding which Central Valley
+towns would exist. Control the passage and you control everything that must
+pass.
+
+## Contracts
+
+The other asset was people, held under long-term contracts of a kind that would
+now be unlawful.
+
+A studio contract player was paid a salary, assigned to pictures, loaned to
+other studios at a profit, and suspended without pay for refusing a role — with
+the suspension period added to the end of the contract, so that refusal extended
+the term indefinitely. Names were changed, biographies invented, appearances
+managed, and personal conduct governed by morals clauses.
+
+Olivia de Havilland sued Warner Bros. over the suspension practice and won in
+1944, in a California decision that limited personal service contracts to seven
+calendar years and is still known in the industry by her name. It was one of the
+few successful challenges to the system from inside it.
+
+The parallel to a credential is exact enough to be worth stating. A studio, like
+a university, took raw material, certified it, and controlled the terms on which
+it reached the market. Stardom was manufactured, and the manufacturer kept the
+plant.
+
+## 1948
+
+The system was broken by *United States v. Paramount Pictures*, decided in 1948,
+which held the studios' practices unlawful and led to consent decrees requiring
+them to divest their theatre chains.
+
+The chapter should be precise about what that broke. It broke ownership of the
+physical distribution layer — the buildings with seats in them, which anyone
+could see and a court could point at. It did not break the studios' control of
+finance, of distribution relationships, or of the talent pipeline, and the
+industry reorganised around those within a decade.
+
+The lesson California's cultural industry took is the same lesson its railroad
+had taught in Act II chapter 10: do not own the visible physical layer, because
+that is the layer a court can reach.
+
+Hold that against Act V, where a company will argue at length that it is not a
+publisher and therefore not responsible for what it distributes, while operating
+the largest distribution system in human history. The studios owned theatres and
+were forced to sell them. The platforms own no theatres, and there is nothing to
+divest.
+
+## Water, and the other thing Los Angeles took
+
+The film industry could not have grown where it did without a supply of water
+that southern California does not have, and the acquisition of that water is the
+same story as everything else in this act.
+
+The Los Angeles Aqueduct, completed in 1913, brought water two hundred and
+thirty miles from the Owens Valley on the eastern side of the Sierra. The city's
+agents had bought land and water rights in the valley, in some cases without
+disclosing who they represented or what the purpose was, and the diversion
+progressively destroyed the valley's agriculture. Owens Lake dried to a salt
+flat that has been a source of dust pollution ever since. Valley residents
+dynamited sections of the aqueduct in the 1920s and lost.
+
+Public infrastructure, built with municipal bonds, delivered water whose first
+and largest beneficiaries included landowners in the San Fernando Valley who had
+bought property in advance of the route being announced, and who then had it
+annexed to the city so it could be irrigated.
+
+This is Act II chapter 9 with a pipe instead of a rail line: public money, a
+route determined by people with prior positions along it, and a resource
+transferred from a place with no political weight to a place with all of it.
+
+Los Angeles then grew from a modest city to the second largest in the country,
+and the industry that had come west to escape a patent lawyer grew with it.
+
+## Dual power
+
+California ended up with two industries built on the same logic in different
+media, four hundred miles apart, and the pairing is the chapter's argument.
+
+The Valley controls the code: the operating systems, the networks, the search
+index, the models. Hollywood controls the story: the narrative forms and the
+distribution of attention that shape what a culture believes about itself.
+
+Both are chokepoints on something that used to be free. Anyone could tell a
+story before there was a studio system, and anyone could compute before there
+was a platform. Both industries interposed themselves between a capability and
+its audience, and both became extremely profitable by charging for the passage.
+
+They also converged. Media and technology companies have been buying each other
+since the 1980s, streaming has moved distribution wholly onto the Valley's
+infrastructure, and the largest film financier and the largest search company
+now run on the same kind of recommendation system. By the 2010s the distinction
+was substantially a matter of headquarters.
+
+## Who paid
+
+The costs of the studio system are documented in the industry's own records.
+
+Contract labour below the line — crews, technicians, extras — worked hours that
+produced the strikes of 1945 and 1946, which were broken with force and with the
+cooperation of rival unions. Casting practice excluded most of the American
+population from appearing in its own national cinema except in stereotyped
+roles, under a production code that among other things prohibited depicting
+relationships across racial lines. And from 1947 the blacklist removed hundreds
+of writers, directors, and performers from employment on political grounds,
+enforced not by statute but by studios acting in concert with each other.
+
+That last point is worth registering. The blacklist was a private arrangement
+among companies, administered through informal clearance procedures, with no
+legal authority and no appeal. It is the Committee of Vigilance from Act II
+chapter 7 in a different industry: private actors performing a governmental
+function, competently and with the approval of respectable opinion, because the
+formal apparatus was too slow.
+
+Two industries, one state, one logic. By the end of this chapter the reader
+should expect the pattern anywhere California builds anything.
