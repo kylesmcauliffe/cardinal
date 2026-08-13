@@ -1,0 +1,27 @@
+project:
+  type: book
+
+book:
+  title: "Cardinal"
+  author: "Kyle McAuliffe"
+  date: "8/13/2026"
+  cover-image: cover.png
+  repo-url: https://github.com/kylesmcauliffe/cardinal
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

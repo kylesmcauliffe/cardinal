@@ -1,0 +1,10 @@
+# Preface {.unnumbered}
+
+Welcome to **Cardinal**, a book written in [Quarto](https://quarto.org/docs/books).
+
+This project is built from markdown, executable R code, and a bibliography, so figures, tables, and results stay in sync with the source. Chapters are listed in `_quarto.yml` and rendered together as HTML and PDF.
+
+```{r}
+# A small check that the book environment is working
+sessionInfo()$R.version$version.string
+```
