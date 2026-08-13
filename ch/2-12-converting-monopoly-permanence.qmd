@@ -120,6 +120,170 @@ can do that without its founders is the next chapter.
 How does power outlive its founders?
 :::
 
-::: {.callout-warning}
-Specified. Prose is written in Phase 5a.
-:::
+Leland Stanford Jr. died of typhoid fever in Florence on 13 March 1884, two
+months short of his sixteenth birthday. He was the Stanfords' only child. They
+had been travelling in Europe, as they often did, and he had been collecting
+antiquities with the seriousness of a boy who intended to have a museum.
+
+His father is supposed to have said, on recovering from the collapse that
+followed, that the children of California would be their children.
+
+Twenty months later, on 11 November 1885, Leland and Jane Stanford executed the
+Founding Grant of the Leland Stanford Junior University. It opened on 1 October
+1891 on some eight thousand acres of the family's Palo Alto farm.
+
+## Take the grief seriously
+
+There is a cynical version of this chapter available and it is the wrong one.
+
+The grief was real, and the family's response to it was consistent with how they
+had behaved before. Stanford had been a trustee of other institutions. Jane
+Stanford's involvement in the university over the following two decades was
+sustained, detailed, and personally costly in a way that no public-relations
+motive would explain.
+
+The argument of this book does not require the motive to be false. It requires
+only that the mechanism operate, and mechanisms do not care about intentions. A
+sincere man converting a monopoly fortune into a permanent institution produces
+the same structure as a calculating one, which is precisely what makes it a
+mechanism rather than a scheme.
+
+## What the instrument actually did
+
+The Founding Grant is a legal document and it repays close reading, because
+almost every feature that makes Stanford what it is was decided in it.
+
+It created a private corporation governed by a board of trustees. The trustees,
+after the founders' deaths, would fill their own vacancies. There is no
+electorate, no legislative oversight, and no external appointing authority. The
+board is self-perpetuating, which means the institution's governance is
+insulated from politics permanently and by design.
+
+It endowed the university with land — the Palo Alto farm, together with holdings
+elsewhere in California — and it directed that the land not be sold. Income was
+to come from its use, not its disposal.
+
+That prohibition is the single most consequential clause in the document, and
+its consequences would not be visible for sixty-six years. A university that
+cannot sell its land can only lease it, and in 1951 a dean of engineering will
+notice that leasing eight thousand acres of the San Francisco Peninsula to
+technology companies is an extraordinarily good business. Act IV opens on it.
+
+The Grant also specified the university's purposes in broad terms, provided for
+coeducation, and directed that tuition be free — which it was for the first
+several decades.
+
+## Why a university
+
+Consider the alternatives available to a man in Stanford's position in 1885.
+
+He could leave the money to heirs. He had no heir. He could leave it as a
+foundation making grants, though the modern grant-making foundation barely
+existed yet. He could endow a hospital, a library, a museum — all of which he
+and his wife also did, at smaller scale.
+
+A railroad fortune, meanwhile, was a depreciating political asset. The Southern
+Pacific was the most detested institution in California. It was subject to a
+constitutional convention called largely to control it, to a federal government
+that would shortly sue his estate, and to continuous public hostility. Anything
+directly attached to it was contestable.
+
+A university is different in kind. It is permanent, it is admired, it is
+extremely difficult to tax or regulate, and its output is people. An institution
+that produces the next generation's lawyers, engineers, and administrators
+acquires a form of influence that does not appear on any balance sheet and
+cannot be broken up by an antitrust action.
+
+Six hundred years earlier a Florentine banking family had reached the same
+conclusion about altarpieces, for the same reason: private capital converting
+accumulated rent into public meaning, permanently, with the donor's name on it.
+Act I chapter 7 described the transaction. This is the same transaction at
+industrial scale, and the name is on the institution rather than on a painting.
+
+## The genuinely admirable parts
+
+The chapter has to hold two things at once here, and the way to do it is to
+state both without hedging.
+
+The university that opened in 1891 was, in several respects, more progressive
+than its eastern models. It was coeducational from the first day, when most
+elite American institutions were not. Tuition was free. The curriculum was
+practical and elective rather than a fixed classical course, and engineering and
+the sciences were central rather than peripheral. It admitted students without
+regard to religious affiliation, and it was non-denominational at a time when
+that was unusual.
+
+Those features are real and they benefited a great many people. They are also
+the legitimacy, and the two facts do not cancel.
+
+## Jordan
+
+The first president was David Starr Jordan, an ichthyologist recruited from
+Indiana University, thirty-nine years old and already among the most prominent
+scientists in the country.
+
+He was also, by the turn of the century, one of the most prominent eugenicists
+in the United States — chairman of the eugenics committee of the American
+Breeders Association, an advocate of sterilisation legislation, and the author
+of works arguing that human quality was hereditary and that social policy should
+act on the fact.
+
+Act III chapter 3 takes this up properly and this chapter does not resolve it.
+What matters here is the sequence: the institution built to reproduce
+California's elite selected as its first head a man whose scientific work was
+about which people should reproduce.
+
+## The horses, and a bet about photography
+
+There is one more thing on the farm worth recording, because it is the most
+frequently repeated Stanford anecdote and it is usually told wrong.
+
+Stanford bred and raced trotting horses at Palo Alto, seriously and at
+considerable expense, and he wanted to know whether a trotting horse ever has
+all four feet off the ground at once. In the 1870s he engaged the photographer
+Eadweard Muybridge to find out. Muybridge eventually rigged a line of cameras
+triggered in sequence by the horse itself, and in 1878 produced the sequential
+photographs that answered the question. The horse does leave the ground.
+
+The standard version has this inventing cinema. It did not. Motion photography
+developed from many directions over the following two decades, and Muybridge's
+sequences were one contributing line among several. The claim is frequently
+overstated and this book will not repeat it.
+
+What the episode does demonstrate is something the rest of the chapter is about.
+A private fortune of sufficient size can commission the answer to a question
+nobody else has the resources to ask, and the resulting knowledge carries the
+patron's name and serves his interest — in this case a stock farm, a scientific
+curiosity, and a reputation for enlightened patronage. Muybridge did the work.
+Stanford paid, took the credit in the resulting publication, and the two of them
+fell out over it.
+
+That is the Medici transaction again, in a paddock, with cameras. And the
+university is the same transaction with a charter.
+
+## What is inside the endowment
+
+The eight thousand acres came from the farm. The farm and the fortune came from
+the railroad. The railroad was built with federal land grants, federal bonds,
+and a workforce paid a differential that was never made up.
+
+Inside the endowment of Stanford University, in a precise and traceable sense,
+sits the money that was not paid to the men who drove the Summit Tunnel.
+
+Beneath it is land that was a Mexican rancho, and before that was the territory
+of the Muwekma Ohlone, who appear in the mission registers of chapter 1 and in
+the Founding Grant not at all.
+
+## The sentence
+
+Rail controlled movement. Stanford was built to control succession.
+
+That is the transaction: an extractive fortune, held in a form that was
+politically vulnerable and legally exposed, converted into an institution that
+is neither — governed by a board that appoints itself, funded by land that
+cannot be sold, and producing, indefinitely, the people who will run the state.
+
+Whether it could survive its founders was not yet established. Within eight
+years both of them would be dead, the estate would be frozen, the federal
+government would be suing for fifteen million dollars, and the university would
+nearly close.

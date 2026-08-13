@@ -109,6 +109,155 @@ sovereign is the next chapter.
 How does monopoly form before capitalism?
 :::
 
-::: {.callout-warning}
-Specified. Prose is written in Phase 5a.
-:::
+The decrees said the land would go to the Indians.
+
+Mexican secularisation legislation of the early 1830s provided that the mission
+estates would be broken up and that a portion — in some formulations half —
+would be distributed to the neophyte communities that had worked them, with the
+remainder passing to the state. The Franciscans would be reduced to parish
+clergy. The mission holdings, which comprised most of the productive coastal
+land in California, would be returned to the people who had been compelled to
+develop them.
+
+Almost none of it happened. Within a decade the mission lands were in private
+hands, the neophyte communities held essentially nothing, and the labour force
+was working the same ground for new owners.
+
+Putting the promise beside the outcome is the whole chapter, and the gap between
+them establishes a pattern this book will document for the next two centuries:
+inclusion announced, exclusion delivered, with a paper trail showing that
+somebody meant it at the time.
+
+## Why it was done
+
+The motives were real and the chapter gives them fairly.
+
+The missions were an anomaly in a liberal republic: a clerical corporation
+holding vast estates and controlling a subject labour force, exempt from
+ordinary civil authority, loyal to a religious order many of whose members had
+opposed independence and remained Spanish nationals. Mexican liberals objected
+to this on principle and had been objecting for a decade.
+
+There was also a fiscal argument and a settlement argument. The territory
+generated almost no revenue. Land in private hands would be taxed, developed,
+and defended by owners with an interest in defending it, and settlement was the
+only real answer to the strategic problem of a coastline that Russia, Britain,
+and increasingly the United States were eyeing.
+
+None of this is pretextual. The mission system was indefensible on the terms the
+Mexican republic professed, and dismantling it was a coherent policy.
+
+## What actually happened
+
+Administration was placed in the hands of commissioners appointed by the
+governor, who were to inventory the estates, distribute the allotments, and
+manage the remainder.
+
+The commissioners were, very often, the same men who stood to receive the land.
+The neophytes, who were not literate in Spanish, had no experience of individual
+title, no capital, no legal representation, and no way to pay the taxes and
+debts attached to the allotments they received. Those who did receive land
+generally lost it quickly — sold under pressure, seized for debt, or simply
+occupied by a neighbour with more retainers.
+
+Mission livestock was slaughtered in enormous numbers for immediate hide and
+tallow sales during the transition. Vineyards and orchards went untended.
+Buildings were stripped. The physical capital that six decades of coerced labour
+had accumulated was substantially destroyed within a few years, which suited
+nobody's stated intentions and served the interests of whoever could convert an
+asset to cash fastest.
+
+And the land moved. The pace of private grants accelerated sharply through the
+late 1830s and 1840s, and the recipients were the Californio families of the
+previous chapter and the naturalised foreign merchants who had married into
+them. By 1846 several hundred ranchos held most of the coastal land in
+California.
+
+## The rancho economy
+
+What emerged was an economy of extraordinary simplicity. Cattle grazed on
+enormous unfenced properties. Once a year they were slaughtered for hides and
+tallow, which were traded to visiting ships for manufactured goods. There was
+little agriculture beyond subsistence, almost no manufacturing, and no currency
+worth the name.
+
+It was also, for the families who held the land, a comfortable and in some
+respects admirable society, and the chapter should not caricature it. Californio
+ranch culture was hospitable, skilled, and genuinely attached to the place.
+
+It ran on Indigenous labour. Former neophytes and other Indigenous Californians
+worked the ranchos as vaqueros, field hands, and domestic servants, under
+arrangements that ranged from waged employment to debt peonage to something
+closely resembling the mission system with a private owner in place of a priest.
+Mexican-era vagrancy provisions permitted the arrest of unemployed Indians and
+their assignment to labour, which is a mechanism the American state of
+California will adopt and extend after 1850.
+
+The legal fiction had changed. The arrangement had not.
+
+## Assets before markets
+
+Here is the structural claim the chapter exists to make, and it inverts the
+sequence most people assume.
+
+The standard story of concentration runs: a market develops, participants
+compete, some win, and wealth concentrates as a result. Concentration is the
+outcome of market activity.
+
+California ran it backwards. Its land was concentrated into a few hundred
+holdings before it had a commercial economy at all — before the Gold Rush,
+before statehood, before there was a currency, a bank, a court that could
+enforce a contract, or a market in anything but hides. Monopoly was not produced
+by California's capitalism. It preceded it, and California's capitalism was
+built on top of it.
+
+This matters for everything that follows. When the Americans arrive in 1846 and
+the gold is found in 1848 and half the world turns up looking for it, they are
+arriving in a place where the land is already spoken for. The conflicts of the
+1850s — squatters against grant-holders, the land commission, the litigation
+that consumed the Californio fortunes — are conflicts over a distribution that
+was settled in the 1830s by a small number of men, several of whom were
+administering the process and receiving its proceeds.
+
+## What the ranchos became
+
+It is worth following the properties forward, because the boundaries drawn in
+the 1830s are still visible on a map of California today.
+
+Rancho boundaries became city boundaries. The grants were surveyed, contested,
+confirmed, subdivided, and sold, but the original lines frequently survived the
+process as property lines, and property lines become streets, and streets become
+municipal limits. A great many towns in coastal California occupy the footprint
+of a single Mexican-era grant and are named after it — the Ranchos San Antonio,
+Las Pulgas, San Francisquito, and dozens of others persist in the names of
+neighbourhoods, roads, parks, and shopping centres.
+
+One of them matters more than the rest for this book. The land that became the
+Stanford campus, and the towns of Palo Alto and Menlo Park around it, was
+assembled in the 1870s from parcels that had been part of Mexican-era grants on
+the San Francisco Peninsula, including Rancho San Francisquito. The eight
+thousand acres a railroad baron will give to a university in 1885 were laid out
+as cattle country by a Mexican governor's signature fifty years earlier.
+
+This is not mysticism about land. It is an observation about how property
+persists. A boundary, once recorded, tends to survive every subsequent change of
+sovereignty, currency, language, and land use, because each new owner acquires
+the previous owner's description and it is cheaper to keep it than to redraw it.
+The mission road became the Peninsula's main street; the rancho lines became the
+Peninsula's parcels; and the parcels became a research park.
+
+## The second dispossession
+
+The people the decrees named received nothing.
+
+That sentence should be allowed to stand without elaboration, because the
+documents are explicit. The legislation specified allotments for the neophytes.
+Officials in Mexico City intended it. The provisions existed, were published,
+and were not carried out, and the men who did not carry them out ended up with
+the land.
+
+It is the second dispossession of the same population within seventy years:
+first of their territory by the mission system, then of the restitution the
+dismantling of that system had promised. And it will be followed by a third,
+after 1848, under a new flag and a different legal theory, which the next
+chapters describe.

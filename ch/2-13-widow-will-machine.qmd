@@ -119,6 +119,171 @@ II ends with California's machinery complete and ready to think.
 What happens when the founders disappear but the institution remains?
 :::
 
-::: {.callout-warning}
-Specified. Prose is written in Phase 5a.
-:::
+Leland Stanford died on 21 June 1893. The university he had founded was twenty-
+one months old, had no endowment income it could actually reach, and had a
+payroll.
+
+The timing could hardly have been worse. The Panic of 1893 had begun in the
+spring and was becoming the most severe depression the United States had yet
+experienced. The estate went into probate, which froze it. And in 1894 the
+federal government sued the estate for fifteen million dollars, claiming that
+Stanford was personally liable for the Central Pacific's unpaid debts to the
+United States under the terms of the Pacific Railway Act.
+
+Until that suit was resolved, no money could come out of the estate. The
+university had four hundred students, a faculty, and buildings under
+construction, and its founder's fortune was legally unavailable.
+
+## Jane Stanford, executive
+
+What Jane Stanford did over the following six years is the part the inherited
+drafts underplayed, and it deserves the plain description.
+
+She kept the institution open. She argued successfully that faculty were her
+personal servants so that their salaries could be paid from the household
+allowance the probate court permitted her, which is a lawyer's device and an
+effective one. She cut expenditure to the bone, closed the university's
+construction programme, sold personal property, and at one point offered her
+jewels — a gesture that has been romanticised, though the jewel collection was
+genuinely enormous and its eventual sale did fund a library.
+
+She travelled to Washington in connection with the case. She dealt with the
+trustees, the president, the creditors, and the press. She was, functionally,
+the chief executive of a distressed institution for six years, and the
+institution survived because she was competent at it.
+
+The government's suit was decided in the estate's favour in 1895 and affirmed by
+the Supreme Court in 1896: the government's claim was against the corporation,
+not against the stockholder personally. Probate closed in 1898. The endowment
+was released.
+
+## The Ross affair
+
+In 1900 she removed a professor, and the case became the founding controversy of
+academic freedom in the United States.
+
+Edward Alsworth Ross was a young economist and sociologist, popular, productive,
+and outspoken. He advocated municipal ownership of utilities. He supported free
+silver, in a state where the university's benefactress held very different
+views. He spoke publicly in favour of restricting Japanese immigration, in terms
+that were racist and that were also, awkwardly for later accounts, the terms of
+the labour movement he was addressing.
+
+And he criticised railroad monopoly, and the use of coolie labour to build it,
+from a Stanford lectern.
+
+Jane Stanford wrote to President Jordan demanding Ross's removal, repeatedly and
+over a period of years. Jordan resisted for a while and then complied. Ross
+resigned in November 1900, and seven members of the faculty resigned in protest
+over the following months, including the head of the history department.
+
+The case was reported nationally. It became the standard example in the long
+argument that produced the American Association of University Professors in 1915
+and, eventually, the modern apparatus of tenure and academic freedom. Ross went
+to Nebraska and then to Wisconsin, where he had a long and distinguished career
+and published *Social Control* in 1901.
+
+The first great academic freedom case in the United States occurred at a
+university built by a railroad, over criticism of railroads, and was resolved by
+the removal of the critic. The chapter states it and moves on.
+
+## Honolulu
+
+Jane Stanford died at the Moana Hotel on Waikiki, at 2365 Kalākaua Avenue, on 28
+February 1905.
+
+What happened is genuinely contested, and the Voice Guide's rule for contested
+history governs: state the strongest version of each position, name the
+uncertainty, say which reading this book finds persuasive and why.
+
+The case for poisoning. In January 1905, in San Francisco, Jane Stanford drank
+from a bottle of Poland Spring water, found it tasted bitter, and induced
+vomiting. The bottle was analysed and found to contain strychnine. This is
+documented, and it was investigated at the time as an attempted murder. Six
+weeks later, in Honolulu, she took bicarbonate of soda before bed, was seized
+with convulsions, and died. She said, according to those present, that she
+thought she had been poisoned. The physicians who attended her and conducted the
+autopsy concluded that she had died of strychnine poisoning, and a coroner's
+inquest agreed. Analysis found strychnine in the bicarbonate bottle.
+
+The case against. David Starr Jordan travelled to Honolulu, engaged another
+physician, and produced an account attributing the death to heart failure. The
+university adopted that account and it stood for most of a century. Defenders of
+it point to the elderly patient's known health problems, to the difficulty of
+toxicological analysis in 1905, and to the absence of any prosecution or
+credible identified suspect.
+
+Later scholarship has largely favoured the poisoning conclusion, on the grounds
+that the Honolulu physicians examined the patient and the evidence directly,
+that their finding was contemporaneous and unanimous, and that Jordan's
+intervention came from someone with an obvious institutional interest in a quiet
+natural death. There is a further and more speculative literature about who
+might have been responsible, including arguments implicating Jordan himself, and
+this book does not find that literature persuasive.
+
+Cardinal's reading: the medical evidence for strychnine poisoning is stronger
+than the heart failure account, and the heart failure account was produced by a
+party with a motive to produce it. Who administered the poison is unknown and,
+on the surviving evidence, unknowable.
+
+And the chapter's argument does not depend on the answer, which is why it can
+afford to leave it open.
+
+## The earthquake
+
+One further test arrived within a year, and the institution passed it too.
+
+At a little after five in the morning on 18 April 1906, the San Andreas Fault
+ruptured a few miles from the campus. Stanford was badly damaged. The new
+library and gymnasium, nearly finished, were destroyed. The memorial arch came
+down. The church's spire collapsed and its façade was wrecked. Two people were
+killed on campus. The physical loss was estimated in the millions of dollars at
+a time when that was a very large sum, and much of it was uninsured.
+
+San Francisco, thirty miles north, burned for three days.
+
+The university closed for the remainder of the academic year and reopened in the
+autumn. It rebuilt, though some structures were never replaced and the church
+was not fully restored for years. It did not seek to relocate, did not reduce
+its programme permanently, and did not, so far as the record shows, seriously
+consider whether it should continue.
+
+The reason it could absorb this is the reason it had absorbed the previous two
+shocks. Its assets were land and an endowment, not buildings; its governance was
+a board that did not require anyone's permission to act; and its income did not
+depend on any particular structure standing up. An institution built to be
+indifferent to the death of its founders turned out to be substantially
+indifferent to the destruction of its campus.
+
+## What did not happen
+
+Because the argument is about what followed, and what followed was nothing.
+
+The university did not close. Governance did not change. The self-perpetuating
+board carried on, filling its own vacancies as the Founding Grant provided. The
+endowment, released from probate seven years earlier, continued to appreciate.
+Jordan remained president until 1913. Enrolment grew.
+
+Both founders were now dead. One had died in a financial panic with the federal
+government suing his estate; the other had died in circumstances that were at
+minimum suspicious and were quietly recharacterised by her own university. The
+institution absorbed both events and continued without a structural alteration
+of any kind.
+
+That is what permanence means, and it is exactly what the 1885 instrument had
+been designed to produce. Alexander's empire fragmented because he named no
+successor. The Church solved the problem by making bishoprics offices. Imperial
+China solved it by examination. Leland Stanford solved it with a clause
+specifying that the trustees would appoint their own replacements, and it worked
+on the first serious test.
+
+The machine did not collapse. It became quieter and more powerful, which is
+harder to argue with.
+
+Act II ends here. California's machinery is complete: land concentrated before
+markets existed, title established by conquest and confirmed by litigation, a
+chokepoint monopoly financed with public money, a legal apparatus to defend it,
+a social settlement that displaced the cost onto the people who built it, and an
+institution designed to reproduce the resulting elite indefinitely.
+
+It is ready to think.

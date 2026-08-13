@@ -111,6 +111,168 @@ benefactors. That premise underwrites everything in Act IV.
 Who governs when the state cannot?
 :::
 
-::: {.callout-warning}
-Specified. Prose is written in Phase 5a.
-:::
+In 1856 San Francisco had a mayor, a sheriff, courts, a jail, and a fortified
+building on Sacramento Street from which several thousand organised businessmen
+conducted arrests, held trials, and carried out hangings.
+
+They called it Fort Gunnybags, after the sandbags stacked against its walls. It
+had cannon. The Committee of Vigilance that occupied it enrolled somewhere in
+the region of six to eight thousand members, organised into companies, drilled
+them, and operated for roughly three months in open defiance of the state
+government, which declared the county in a state of insurrection and could do
+nothing about it.
+
+The Committee was not a mob. It was the city's commercial elite, acting as a
+parallel state, and when it dissolved itself its members went into ordinary
+politics and were widely regarded as having saved the city.
+
+## The formal apparatus
+
+The formal institutions had arrived first, and quickly.
+
+California's constitutional convention met at Colton Hall in Monterey in
+September and October of 1849 — forty-eight delegates, meeting on the upper
+floor of a two-storey stone building that is still standing at 570 Pacific
+Street. They had no authorisation from Congress. Military government had been in
+place since the occupation, the treaty had transferred sovereignty, and Congress
+had failed to organise a territorial government because it could not agree about
+slavery. So the delegates organised one themselves.
+
+They produced a constitution in six weeks. It prohibited slavery, which was the
+central decision and was reached with less argument than expected — partly on
+principle, partly because free miners did not want to compete against enslaved
+labour gangs. It established the eastern boundary. It recognised existing
+property rights, which mattered enormously to the Californio delegates present.
+
+Statehood followed on 9 September 1850, as part of the Compromise of 1850 —
+California admitted as a free state, in exchange for a stronger fugitive slave
+act and territorial organisation elsewhere on terms the South could accept. The
+territory had gone from foreign soil to statehood in under three years, without
+passing through the territorial stage that every other part of the Mexican
+Cession endured for decades.
+
+That speed is a fact about gold and about congressional arithmetic, and it puts
+California on the sectional chessboard from its first day in the Union. Two
+senators from a free state, in a chamber balanced on exactly that count. Hold
+it; chapter 8 depends on it.
+
+## Why the institutions did not work
+
+A state government existed on paper and had almost no capacity.
+
+San Francisco in the early 1850s was a city of tens of thousands, most of them
+transient, most of them men, most of them armed, in a place with no established
+policing, an overwhelmed and corruptible court system, and a municipal
+government that was both incompetent and demonstrably dishonest. The city burned
+down repeatedly. Municipal debt and land scandals were continuous. Elections
+were contested by organised groups who understood that whoever controlled the
+count controlled the contracts.
+
+Into that gap stepped whoever was organised enough to fill it, which is the
+finding of this chapter and the reason it sits where it does in the act.
+
+## 1851 and 1856
+
+The first Committee of Vigilance formed in June 1851 after a series of fires and
+a wave of robberies attributed to a group of Australian arrivals known as the
+Sydney Ducks. It held trials, hanged four men, deported others, and disbanded
+after a few months.
+
+The second, in May 1856, was much larger and much more political. Its immediate
+occasion was the shooting of a newspaper editor, James King of William, by a
+county supervisor named James Casey, following the paper's publication of
+Casey's criminal record. The Committee took Casey and another prisoner from the
+sheriff, tried them, and hanged them on the day of King's funeral.
+
+It then kept going for three months, hanging two more men, deporting a number of
+others, and effectively running the city. It maintained a headquarters, a
+membership roll, and an executive committee, and it was funded and led by
+merchants and property owners. William Tecumseh Sherman, then a banker in San
+Francisco, was appointed by the governor to raise the militia against it and
+resigned when he could not obtain arms.
+
+The targets are the part that gets left out of the civic-virtue version. The
+Committee's activity was substantially directed against the Irish and Catholic
+immigrant population and against the Democratic political organisation that
+depended on it. Both hanged men in the 1856 episode were Irish Catholics. The
+Committee's members were overwhelmingly Protestant merchants, many of them from
+New England, and the political movement that emerged from it took control of the
+city's government at the next election.
+
+It was, in other words, a factional instrument wearing the costume of civic
+order, and it worked.
+
+## The important detail
+
+The important thing is not the violence. It is the respectability.
+
+These men were not outlaws and were never treated as such. They were the city's
+leading businessmen, they operated openly with published membership, they kept
+records, and they emerged from the episode with enhanced standing rather than
+criminal liability. Nobody was prosecuted. The Committee's leaders went on to
+prominent careers, and the episode entered San Francisco's account of itself as
+a moment when decent men restored order.
+
+Private organisation substituted for public authority, and was honoured for it.
+
+That is the premise this book will need repeatedly. It is the premise underlying
+the Hoover Commission for Relief in Belgium in Act III, which fed a country
+without being a state. It is the premise underlying the university-contractor
+arrangement, in which public functions are performed by private institutions
+because the private institutions are better at them. It is the premise
+underlying every platform that now performs a governmental function under terms
+of service, and it is the reason those arrangements attract so little objection:
+California decided in 1856 that competent private governance was preferable to
+incompetent public governance, and it has never seriously revisited the
+question.
+
+## The water and the land
+
+Two other decisions of these years determined more about California's future
+than the hangings did, and both followed the same logic.
+
+The first was water. California adopted, largely from mining practice, the
+doctrine of prior appropriation: the first party to divert water to a beneficial
+use acquires a right to continue doing so, superior to later claimants, whether
+or not they own land adjoining the stream. This is not how water law worked in
+the eastern states, where riparian rights attached to the land itself, and
+California ended up with an awkward hybrid of both.
+
+What prior appropriation does is convert a common resource into a form of
+property allocated by speed. It rewarded whoever arrived first with capital
+enough to build a diversion, which in practice meant hydraulic mining companies
+and, later, large agricultural operators. The rule that would determine who
+could farm the Central Valley was made by miners in the 1850s for reasons that
+had nothing to do with farming.
+
+The second was land, in the form of the state's disposal of the federal acreage
+it received on admission. Substantial holdings passed in large blocks to a small
+number of buyers through mechanisms that were loosely administered and
+frequently abused, including the swampland grants, which allowed a purchaser to
+acquire land at a nominal price by declaring it wet. Vast tracts of the Central
+Valley were acquired this way.
+
+By the 1870s a handful of individuals and companies held agricultural properties
+of a scale unknown anywhere in the eastern United States. Henry George, writing
+in California in 1871, made the concentration of land the centre of his argument
+about poverty amid progress, and he was describing what he could see out of the
+window.
+
+Concentration preceded the market here as it had under the ranchos, and the
+instruments were public.
+
+## Who had no standing
+
+The men hanged had no appeal, and two of them had colourable defences that a
+court would have had to consider.
+
+Beyond that, entire populations stood outside both the formal order and the
+informal one. Chinese residents were subject to a statute, upheld by the state
+supreme court in 1854, holding that Chinese witnesses could not testify against
+a white defendant. Indigenous Californians were subject to the labour and
+vagrancy provisions described in the previous chapter. Californio landholders
+were in court defending titles the treaty had promised to protect.
+
+The Committee of Vigilance is remembered as a story about order. It was a story
+about who counted, and the answer was decided by the people who had the
+sandbags.

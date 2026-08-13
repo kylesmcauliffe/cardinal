@@ -115,6 +115,167 @@ clause.
 How is monopoly made permanent?
 :::
 
-::: {.callout-warning}
-Specified. Prose is written in Phase 5a.
-:::
+The most consequential sentence in nineteenth-century American corporate law was
+written by a court reporter, and it was not part of the decision.
+
+In 1886 the Supreme Court decided *Santa Clara County v. Southern Pacific
+Railroad*, a dispute about whether a California county had correctly assessed
+taxes on railroad property, including the value of fences alongside the track.
+The Court decided it on narrow grounds concerning the assessment and did not
+rule on the constitutional question the railroad had raised.
+
+The court reporter, J. C. Bancroft Davis, prefaced the opinion with a headnote
+recording that before argument the Chief Justice had stated the Court's view
+that the Fourteenth Amendment's equal protection clause applied to corporations.
+That sentence was not the holding. It was a reporter's note about a remark from
+the bench.
+
+It was cited, and cited again, and within a generation the proposition that
+corporations are persons for purposes of the Fourteenth Amendment was settled
+American law.
+
+## Getting this right
+
+This episode is one of the most overstated in American legal history, and the
+precision matters more than the punchline.
+
+The strongest sceptical account runs as follows. Corporate personhood did not
+originate in 1886 and was not created by a headnote. Corporations had been
+recognised as legal persons for many purposes for centuries; the question was
+which constitutional protections attached. The doctrine developed through
+subsequent decided cases over decades, in which the Court did rule on the
+question, and it would very likely have developed in a similar direction without
+Davis's note. Treating a clerical artefact as the cause of a fifty-year
+doctrinal movement is a good story and bad legal history.
+
+All of that is correct, and this chapter concedes it.
+
+What remains is still remarkable, and it is structural rather than dramatic. An
+amendment ratified in 1868 to secure the rights of people freed from slavery
+became, within two decades, an instrument regularly and successfully invoked by
+the largest corporation in the western United States. In the decades following
+*Santa Clara*, Fourteenth Amendment cases brought by corporations vastly
+outnumbered those brought by Black litigants, and the corporations won far more
+often. Whatever the mechanism, the result is that a protection written for the
+most vulnerable class in the country did its most consistent work for the most
+powerful.
+
+That is the migration this chapter is about: monopoly moving out of the physical
+layer and into the legal one.
+
+## The octopus
+
+By the 1880s the Central Pacific and its affiliate the Southern Pacific
+controlled substantially all the rail traffic in California, along with much of
+the coastal shipping and the ferry connections that might have offered an
+alternative.
+
+What this meant in practice was that a private company decided which towns
+existed. A community that met the railroad's terms received a station and became
+a market centre. A community that resisted found the line surveyed a few miles
+away, and within a decade its buildings were being moved to the new town or
+abandoned. This happened repeatedly across the Central Valley, and the pattern
+is still legible in the distribution of settlements.
+
+Rates were set on the principle of charging what the traffic will bear, which
+the company defended in public without embarrassment. A grower's shipping cost
+was calculated not from the cost of carriage but from an estimate of what he
+could pay and remain in business. The effect is a tax on agricultural
+production, collected by a private party, with the rate set individually.
+
+Frank Norris published *The Octopus* in 1901, and the image stuck because it was
+apt: an organism with a grip on every part of the state's economy at once.
+
+## Buying the government
+
+The political operation was continuous and reasonably open.
+
+The Southern Pacific maintained a political bureau that worked the legislature,
+the conventions, and the county organisations of both parties. It funded
+candidates, drafted legislation, and employed a very large number of attorneys —
+a standing legal capacity that no opponent could match.
+
+Collis Huntington ran the Washington end from a permanent office, and his
+correspondence with the company's western agent survives because it was produced
+in litigation and published. In it he discusses the purchase of congressional
+votes with a flatness that startled contemporaries and still does. The letters
+are the best single primary source on how the operation actually worked, and
+they should be quoted from the published correspondence rather than from the
+century of paraphrase that followed.
+
+California's 1879 constitutional convention was called substantially to bring
+the railroad under control. It produced a constitution with a railroad
+commission empowered to set rates. The commission was promptly captured, and for
+most of its early existence it functioned as an instrument of the company it was
+created to regulate. This is the earliest fully documented instance in this book
+of a regulator becoming a client of the regulated, and it happened within three
+years of the commission's creation.
+
+## The edge of the armour
+
+Legal architecture is not bloodless when it meets people who cannot afford
+lawyers.
+
+At Mussel Slough in Tulare County in 1880, settlers had occupied railroad land
+under an understanding — promoted in the company's own advertising — that they
+would be able to buy it at a modest price reflecting its unimproved value. When
+the railroad set prices reflecting the improvements the settlers had made, they
+refused to pay or leave. A federal marshal arrived with a purchaser to take
+possession. Shooting started. Seven men died.
+
+The settlers who survived the aftermath were prosecuted and imprisoned. The
+railroad kept the land.
+
+The company had done nothing illegal, which is the point. Its title was good,
+its prices were its own to set, and the marshal was enforcing a lawful judgment.
+When the fortress is built in the law, the people outside it have no lawful move
+left.
+
+## The other legal instrument
+
+Alongside the constitutional arguments, the railroad era produced a quieter
+innovation that had a longer future: the corporate form itself, used as a
+container for things that would be embarrassing if held directly.
+
+The Contract and Finance Company from the previous chapter is the model. A
+corporation with public obligations transacts with a corporation without them,
+both controlled by the same men, and the profit is realised in the entity that
+faces no scrutiny. When Congress began investigating, the company's books had
+been destroyed, and the destruction of records held by a dissolved private
+entity is not the same offence as the destruction of records held by a chartered
+railroad.
+
+The Southern Pacific was itself reorganised repeatedly across these decades —
+leases, holding companies, and reincorporation in Kentucky in 1884, which moved
+the corporate person out of California's jurisdiction while the track stayed
+exactly where it was. A state attempting to regulate a railroad within its own
+borders found itself litigating against an out-of-state corporation with a
+federal charter for part of its system.
+
+None of this is fraud. Every step is a lawful use of an available instrument.
+And the cumulative effect is that the entity a citizen would like to hold
+responsible is not the entity that holds the assets, and the entity that holds
+the assets is incorporated somewhere else.
+
+Act IV will show a research institute sold to itself, and Act V will show
+platform workforces held at arm's length through contracting firms and drivers
+classified as independent contractors. The instrument is the same and the
+purpose is the same: put a legal boundary between the activity and the party
+benefiting from it.
+
+## The rule
+
+What California's elite took from the railroad era is a rule that recurs through
+the rest of this book.
+
+Visibility is a liability. A depot can be picketed, a rate card can be published
+and denounced, and a monopoly that everyone can see attracts constitutional
+conventions and federal commissions. Legal architecture attracts nothing,
+because almost nobody reads it and hardly anyone can litigate against it.
+
+Software patents, licensing terms, employment classification, arbitration
+clauses, and terms of service are the same instrument in later costume. Act IV
+will show a research institute being restructured rather than reformed, and Act
+V will show a platform arguing that it is not a publisher. Each time, the fight
+that could have been had in public is relocated into a document that the other
+party has already agreed to.

@@ -112,6 +112,172 @@ plainest prose in the book belongs here.
 How does power stabilise itself socially?
 :::
 
-::: {.callout-warning}
-Specified. Prose is written in Phase 5a.
-:::
+Denis Kearney addressed unemployed men on a vacant lot beside the half-built
+city hall in San Francisco, in what were called the sandlot meetings, and he
+ended his speeches with the same line: the Chinese must go.
+
+Nob Hill was visible from where he was standing. The mansions of Stanford,
+Crocker, Hopkins, and Huntington were up there, built with the proceeds
+described in the previous two chapters, and Crocker had constructed a forty-foot
+fence around a neighbour's house on three sides after the man refused to sell —
+the Spite Fence, which became a standing local grievance and a perfect symbol
+available to anyone who wanted one.
+
+Kearney did attack the railroad. He also attacked the Chinese, and it was the
+second attack that produced legislation.
+
+## Take the grievance seriously
+
+This chapter fails if the men on the sandlots are caricatured, so it starts with
+what was actually happening to them.
+
+The 1870s were bad in California. The completion of the transcontinental line
+had released thousands of construction workers into the labour market at the
+same moment it exposed California manufacturers to eastern competition for the
+first time. The Comstock silver bonanza collapsed. Drought killed the cattle.
+The national depression that began in 1873 arrived, and unemployment in San
+Francisco was severe and sustained.
+
+The Southern Pacific was, on the merits, an excellent target. Its rates were
+extractive, its land holdings were enormous, its political operation was
+notorious, and it had paid the men who built its line a differential it never
+made up. A movement organised against the railroad in the 1870s would have had
+ample material and a genuine constituency.
+
+## What was built instead
+
+The Workingmen's Party of California formed in 1877, with Kearney as its most
+prominent voice, and it grew very fast. Its programme included legitimate labour
+demands — the eight-hour day, an end to convict labour competition, regulation
+of the railroad and the banks — and it included, as its most effective and most
+emphasised element, the exclusion of the Chinese.
+
+Anti-Chinese violence was extensive and it was specific. There had been a
+massacre in Los Angeles in 1871 in which a mob killed some seventeen or eighteen
+Chinese residents, one of the largest mass lynchings in American history. In San
+Francisco in July 1877 crowds attacked Chinese laundries and businesses over
+several nights. Chinese communities were driven out of towns across California
+and the wider West over the following decade, in Eureka, in Tacoma, in Seattle,
+and at Rock Springs in Wyoming in 1885, where at least twenty-eight Chinese
+miners were killed. These were not disturbances. They were expulsions, and they
+were frequently organised by people who announced them in advance.
+
+The party won substantial representation at California's 1879 constitutional
+convention and shaped the resulting document, which contained provisions
+targeting Chinese residents directly — prohibiting their employment by
+corporations and by public bodies, and authorising municipalities to remove them
+from city limits. Most of these were struck down in federal court, which is
+itself part of the story.
+
+The campaign culminated federally. The Chinese Exclusion Act of 1882 suspended
+the immigration of Chinese labourers for ten years, barred Chinese residents
+from naturalisation, and was renewed and extended repeatedly over the following
+six decades. It was the first federal statute in American history to bar a
+specific nationality from entering the country.
+
+The men who built the Sierra grade became the first people specifically
+prohibited from the country they had connected.
+
+## Not victims
+
+The Chinese communities of California were not passive in any of this, and a
+chapter that presents them only as objects of violence gets the history wrong as
+well as the ethics.
+
+Chinatown in San Francisco — centred on Dupont Street, now Grant Avenue, and
+around Portsmouth Square — sustained businesses, family and district
+associations, newspapers, temples, theatres, and a formidable body of legal
+action. The Chinese Six Companies functioned as a governing and mutual-aid body
+and retained prominent attorneys continuously for decades.
+
+And they won cases that are still load-bearing in American constitutional law.
+
+In *Yick Wo v. Hopkins*, in 1886 — the same year as *Santa Clara* — the Supreme
+Court struck down a San Francisco ordinance regulating laundries that was
+neutral on its face and had been enforced almost exclusively against Chinese
+operators. The Court held that a law fair in its terms but administered with an
+evil eye and an unequal hand violates the Fourteenth Amendment. It is one of the
+foundational cases on discriminatory enforcement and it is cited constantly.
+
+In *United States v. Wong Kim Ark*, in 1898, the Court held that a man born in
+San Francisco to Chinese parents was a United States citizen by birth,
+notwithstanding that his parents were barred from naturalisation. That decision
+is the basis of American birthright citizenship as it is currently understood.
+
+The Fourteenth Amendment, in the same decade, was being used by a railroad to
+resist taxation and by Chinese laundrymen to establish the principle of equal
+administration of the laws. Both litigants were in California. Only one of them
+had a permanent legal department.
+
+## What exclusion did to the state
+
+The Act's effects were not confined to the people it barred, and the second-
+order consequences are worth tracing because they run directly into later
+chapters.
+
+Chinatown became a legal necessity as well as a community. With residence
+restricted, employment closed off in most trades, and testimony against white
+defendants barred in California courts until 1873, concentration offered
+protection that dispersal did not. The density that the anti-Chinese press
+described as evidence of degeneracy was substantially produced by the exclusion
+it advocated.
+
+Agriculture had to find a different workforce, and did — repeatedly, in a
+sequence that continued for a century. Japanese labour came first, and was
+subjected to the Gentlemen's Agreement of 1907 and then to the California Alien
+Land Law of 1913, which barred aliens ineligible for citizenship from owning
+agricultural land and was aimed squarely at Japanese farmers who had begun to
+acquire it. Then Filipino workers, who were United States nationals and
+therefore could not be excluded as aliens, until the Tydings-McDuffie Act of
+1934 changed their status and made them excludable. Then Mexican labour,
+recruited when needed and deported in large numbers during the 1930s, including
+many United States citizens.
+
+The pattern is stable across a hundred years and four nationalities. Recruit a
+workforce that has no political standing, depend on it, and remove its members'
+ability to accumulate property or claim protection. When resentment builds,
+direct it at the workforce. When the workforce is expelled or restricted,
+recruit the next one.
+
+Act III's Steinbeck chapter is about the people at the end of this sequence in
+the 1930s. Act V's ledger closes the account.
+
+## The ledger
+
+The outcome ledger for the anti-Chinese movement is short and worth setting out
+plainly.
+
+Exclusion: achieved, federally, for sixty-one years. Chinese population of
+California: sharply reduced, communities destroyed, an entire class of workers
+removed from the labour market.
+
+Railroad rates: unchanged. Land concentration: unchanged. The Southern Pacific's
+political operation: unchanged, and in fact strengthened, because the
+Workingmen's Party burned out within a few years and the constitutional
+convention it had forced produced a railroad commission that the railroad
+captured.
+
+The energy generated by a genuine grievance about monopoly was expended on
+immigration restriction, and the monopoly emerged from the decade untouched.
+
+## The mechanism
+
+The chapter's structural claim is not that anyone planned this. There is no
+evidence that the railroad orchestrated the anti-Chinese movement, and it had in
+fact been the largest employer of Chinese labour in the state.
+
+The claim is that misdirected anger is the cheapest available settlement of a
+distributive conflict, and that it wins elections. A politician who proposes to
+regulate the Southern Pacific takes on an opponent with unlimited legal
+resources and a captured commission. A politician who proposes to exclude the
+Chinese takes on a population that cannot vote, cannot naturalise, and in most
+California courtrooms could not testify against a white man.
+
+The second campaign is easier, and it delivers something visible. That is why it
+happens, and why it keeps happening.
+
+This is the moral centre of Act II. Every generation of California power in this
+book has an excluded class that makes the system possible and is denied its
+rewards, and in every generation the resentment generated by the system is
+directed at that class rather than at the system. Act V keeps the full
+accounting.
