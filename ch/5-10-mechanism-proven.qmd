@@ -119,6 +119,181 @@ only first step available.
 Is this a conspiracy, or is it gravity?
 :::
 
-::: {.callout-warning}
-Specified. Prose is written in Phase 5c.
-:::
+The Introduction made three predictions and said the book would be wrong if they
+failed. This is where the verdicts are returned.
+
+## Prediction one: bottlenecks, not inventions
+
+*California's great fortunes should cluster around control of bottlenecks rather
+than around invention.*
+
+The evidence across five acts is that they do, and consistently enough that the
+exceptions are worth noting individually.
+
+Sam Brannan bought the shovels; James Marshall found the gold and died poor. The
+Big Four were merchants who owned the only line, not engineers; Theodore Judah,
+who surveyed the route and drafted the legislation, was bought out and died at
+thirty-seven. Microsoft licensed the operating system and the hardware makers
+competed their margins to nothing. Douglas Engelbart demonstrated the interface
+of the next fifty years in 1968 at a federally funded institute and captured
+none of it. Xerox invented the graphical workstation and could not sell it.
+Google's technical contribution was real, and the money came from the auction
+rather than from PageRank. Nvidia's position rests as much on a software
+ecosystem accumulated over fifteen years as on the chips.
+
+The genuine counter-examples exist and should be stated. Hewlett-Packard, Intel,
+Genentech, and Apple's hardware businesses were built substantially on products
+rather than on positions, at least initially. The pattern is strong, not
+universal.
+
+**Verdict: supported.**
+
+## Prediction two: public money first
+
+*Public investment should precede private capture rather than follow it.*
+
+The land grants and thirty-year bonds of the Pacific Railway Act. The mission
+system's imperial subsidy. Federal purchasing of the entire early output of the
+integrated circuit industry. ARPANET. The National Science Foundation backbone,
+transferred to commercial operators in 1995 without compensation. Federally
+funded research assigned to universities by Bayh-Dole and licensed onward. The
+1979 ERISA reinterpretation that admitted pension capital to venture funds. The
+CHIPS Act.
+
+In every case public money or public authority came first and private ownership
+followed, and in most cases the transfer was accomplished through an instrument
+rather than a payment.
+
+**Verdict: supported, and more strongly than the first.**
+
+## Prediction three: the institution is endowed by what it produces
+
+*The institutions that produce the elite should be endowed by the elite they
+produced.*
+
+The Founding Grant of 1885, from a railroad fortune. Hoover's archive in 1919,
+from a mining fortune, by a graduate of the first class. The Knight Management
+Center in 2011, from a footwear fortune, by a man who wrote the company as a
+class paper in the school the building houses. Named buildings, institutes,
+professorships, and fellowship programmes across the campus, funded by graduates
+whose companies the university helped create and in several cases holds equity
+in.
+
+**Verdict: supported.**
+
+## Where the argument is weakest
+
+A book that only reports confirmations is a polemic. Here is where this one is
+most exposed.
+
+**The Santa Clara headnote.** Act II chapter 10 gives prominence to an episode
+that specialists consider substantially overstated. Corporate personhood
+developed over decades through decided cases, and the headnote did not create
+it. The chapter concedes this and still uses the episode, and a reader is
+entitled to think it is doing more work than the evidence supports.
+
+**Selection versus causation.** The book's central structural claim is that the
+corridor persists because chokepoints reproduce there. The competing explanation
+is that talent and capital cluster for straightforwardly productive reasons —
+agglomeration effects, thick labour markets, tacit knowledge — and that the
+chokepoint reading is a moralised description of an ordinary economic
+phenomenon. This is the strongest objection in existence to this book and it
+cannot be fully answered, because the two explanations predict most of the same
+observations.
+
+**Single-source chapters.** Several chapters rest more heavily than is ideal on
+one account, particularly in Act I and in the parts of Act IV that depend on
+institutional histories written by participants.
+
+**Counterfactuals.** The book argues that secession chose the railroad route and
+that the route created the Big Four and therefore Stanford. That chain is well
+evidenced at each link and is still a chain, and chains of counterfactuals get
+weaker with length.
+
+## The strongest counter-argument
+
+Stated fairly: California's corridor produced the transistor, the integrated
+circuit, the personal computer, the internet's commercialisation, modern
+biotechnology, and the current generation of machine learning. Whatever the
+distributional consequences, the productive achievement is real, enormous, and
+has raised living standards worldwide. Talent clusters because clustering works,
+capital follows returns, and describing this as chokepoint rent extraction is a
+way of not saying that the place is unusually good at making things.
+
+The answer this book gives is that both are true and they are not in tension.
+Agglomeration is real and it explains why an industry concentrates somewhere. It
+does not explain why the surplus accrues to the position rather than to the
+invention, why public money precedes private capture with such regularity, or
+why the institution that certifies the participants is endowed by them. Those
+are distributional facts, and they are what the book is about.
+
+## The Weber question, answered
+
+The Introduction set this book against Max Weber, who argued in 1905 that
+capitalism's animating spirit was Protestant asceticism — worldly discipline
+read as evidence of divine election.
+
+The point of the doctrine was never economic. Its function was moral: it made
+prosperity legible as virtue, so that a man who had accumulated a great deal
+could understand the accumulation as a sign rather than as an appetite. It
+answered the question every durable system of inequality has to answer, which is
+why the winner deserved to win.
+
+California's version keeps the structure and inverts the content. Not thrift but
+leverage. Not the monastery but the garage. Not election but merit — a story in
+which the fortune is evidence of insight, nerve, and willingness to work in a
+shed.
+
+And the garage story does exactly the work the doctrine of election used to do.
+It is sincerely held, it is frequently true at the level of the individual, and
+it systematically obscures the thing this book has spent five acts documenting:
+that the shed was near a university with unsellable land, that the university
+was endowed by a railroad built with public money, that the customer for the
+first products was the federal government, and that the professor who told them
+to stay had a written plan.
+
+So the answer to the Introduction's question is that California's spirit of
+capitalism is chokepoint rent extraction wearing frontier merit as a costume.
+Not because the people in it are frauds — most of them are not — but because a
+system that requires an account of its own justice will generate one, and the
+one it generates will be the flattering version.
+
+Weber thought the spirit came first and the accumulation followed. In California
+it runs the other way. The accumulation came first, and the spirit was assembled
+afterwards to explain it.
+
+## Not a conspiracy
+
+There was no conspiracy because none was required, and this is the conclusion
+the whole book has been arriving at.
+
+Land, research funding, legitimacy, and network compound on each other without
+anyone intending an outcome. A dean concentrates resources where federal money
+is going. A landowner leases to tenants who will hire his graduates. An investor
+funds the founder he already knows. A donor endows the school that certified
+him. Each decision is individually rational, locally defensible, and entirely
+unremarkable, and the aggregate is a machine that reproduces an elite across a
+hundred and forty years.
+
+That is a more troubling finding than a conspiracy, and it is the true one. A
+conspiracy has participants who can be prosecuted, documents that can be
+subpoenaed, and a decision that could have gone the other way. This has none of
+those. It has gravity.
+
+## What this book does not offer
+
+A programme.
+
+The Voice Guide of this project forbids moralising, and there is a better reason
+than style. Every remedy that suggests itself — antitrust, public ownership of
+research outputs, a common carrier classification for platforms, taxation of
+endowments, reclassification of contract workers — is a live political argument
+on which reasonable people disagree, and none of them follows automatically from
+the analysis.
+
+What the analysis supports is narrower and more useful. If the mechanism is
+structural rather than intentional, then remedies aimed at individuals will not
+work, and remedies aimed at structures might. That is the whole of the advice.
+
+The rest is the reader's, and the last two chapters are about learning to see
+it.
