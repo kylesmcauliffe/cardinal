@@ -108,6 +108,157 @@ that nobody ever decides they should.
 What changes when a state becomes strategically indispensable?
 :::
 
-::: {.callout-warning}
-Specified. Prose is written in Phase 5b.
-:::
+When the shipyard gates at Richmond opened for the last shift, they released a
+workforce that had not existed four years earlier.
+
+Kaiser's yards on that stretch of the bay had employed something in the region
+of ninety thousand people at peak, in a city whose pre-war population was under
+twenty-five thousand. Across the state the wartime industrial expansion had
+drawn in well over a million new residents. They had come for jobs created by
+federal contracts, into housing built with federal money, in an economy that
+existed because Washington had decided it should.
+
+The war ended. Most of them stayed.
+
+## The arithmetic
+
+This chapter is largely arithmetic, and the arithmetic is the argument.
+
+California's population grew by roughly a third during the war years and kept
+growing afterwards. Federal spending in the state during the war ran into the
+tens of billions of dollars, a disproportionate share of the national total
+relative to the state's population. Shipbuilding, aircraft manufacturing, and
+electronics capacity were built essentially from nothing on a scale that made
+California one of the industrial centres of the world within five years.
+
+The universities were transformed in the same period. Federal research money,
+which had been a marginal component of university budgets before the war, became
+a principal one, and the physical plant and staffing built to handle it did not
+disappear when the contracts ended.
+
+Before 1940, California was a large agricultural state with an aircraft industry
+and a naval presence. By 1945 it was the strategic platform for American power
+in the Pacific, and the Pacific had just become the theatre in which American
+power would be contested for the rest of the century.
+
+## The counterfactual that did not happen
+
+Wartime expansions normally revert. That is what happened after 1918: the
+shipping programme was cancelled, the plants closed, the agencies were wound up,
+and the federal government withdrew from the economy it had temporarily
+directed.
+
+It did not happen after 1945, and the chapter's central move is to notice this
+rather than to assume it.
+
+The bases stayed. Moffett Field, Alameda, Mare Island, Hunters Point, Travis,
+the southern California installations, and the Pacific fleet's shore
+establishment remained, because the Pacific remained contested and then, from
+1950, actively so. The research contracts continued, for the reasons the
+previous chapter described. The aircraft industry converted to aerospace and
+missiles rather than to civilian production alone, and its customer remained the
+government.
+
+And the people stayed, because there was work, and because California in 1946
+was a more attractive place to have arrived than most of the places they had
+left.
+
+The relationship between California and the federal government established in
+five years has never subsequently been renegotiated. Strategic indispensability
+is not a status a state relinquishes, and no one in Sacramento or Washington
+wanted to.
+
+## Who the settlement excluded
+
+The expansion had beneficiaries and it had discards, and they were not the same
+people.
+
+Black workers had been recruited into wartime industry in very large numbers,
+particularly into the shipyards, under the anti-discrimination requirements
+described in the previous chapter. The recruitment was real and the jobs were
+real. What did not follow was access to the postwar settlement.
+
+The mechanisms were the ones already in place: restrictive covenants in deeds,
+federal underwriting maps that graded mixed neighbourhoods as poor risks, and
+segregated war housing that was built as temporary and was demolished or allowed
+to decay. When the shipyard work ended, the workers had no accumulated housing
+equity, were confined to neighbourhoods that could not expand, and were excluded
+from the union apprenticeships that controlled entry to the skilled trades. Some
+unions maintained separate auxiliary locals for Black members with no voting
+rights, an arrangement the California Supreme Court struck down in 1944 and
+which did not disappear immediately after it did.
+
+The postwar suburban expansion of the Bay Area — the tract housing, the
+federally insured mortgages, the accumulation of household wealth across a
+generation — was substantially closed to them. That is the origin of a wealth
+gap that is still measurable, and it was produced by identifiable instruments
+rather than by diffuse prejudice.
+
+Women who had entered industrial employment were removed from it. Employment in
+the shipyards and aircraft plants had been presented as a wartime duty, and the
+withdrawal was organised: layoffs were structured to remove women first, the
+federally funded childcare centres that had made the work possible were closed,
+and the returning veterans had statutory reemployment rights.
+
+## The G.I. Bill
+
+One federal programme did more to build the postwar Californian middle class
+than any other, and it demonstrates the same pattern as everything else in this
+chapter: enormous public investment, distributed through mechanisms that
+determined who benefited.
+
+The Servicemen's Readjustment Act of 1944 provided returning veterans with
+tuition and stipends for education, and with access to guaranteed home loans on
+terms no private lender would have offered. Millions used it. University
+enrolments doubled and then doubled again; Stanford's postwar student body was
+transformed by veterans, older and more serious than the pre-war intake, and the
+engineering programmes Terman was building filled with them.
+
+It was also, in effect, the largest single transfer of wealth to a generation in
+American history, and it built the suburbs.
+
+The administration of it was left substantially to the states and to local
+institutions, and that is where the distribution was decided. In much of the
+country Black veterans found the education benefits usable only at under-
+resourced institutions and the loan guarantees unusable because banks would not
+lend and covenants would not permit purchase in the neighbourhoods being built.
+The benefit was universal on paper and delivered through channels that were not.
+
+California received an enormous share of the programme's effects because so many
+servicemen had passed through the state and stayed. The universities that
+expanded on it, the suburbs that were financed by it, and the technical
+workforce it trained are the substrate on which Act IV operates.
+
+The Master Plan for Higher Education, which formalised California's three-tier
+public system, follows in 1960 and rests on the demand this created.
+
+## Reclassified
+
+The word in the chapter's title is deliberate. California did not grow into its
+position; it was reclassified into it, by decisions taken in Washington under
+wartime conditions and never revisited afterwards.
+
+Frontier to arsenal. A state whose nineteenth-century power came from land,
+extraction, and a railroad now derived it from federal procurement, and the
+transition took five years.
+
+Consider what that meant for the state's politics. A California congressional
+delegation now had a direct constituency interest in defence procurement, and it
+grew as the state's population grew, which it did faster than any other. By the
+1960s California was the largest recipient of federal defence contracts in the
+country by a wide margin, and its delegation was correspondingly attentive to
+the committees that allocated them.
+
+The state's economy and the federal budget had been fused, and the fusion was
+bipartisan and permanent. This is worth holding onto for Act IV chapter 10,
+where a political movement built substantially in California will campaign
+against federal spending while representing its largest single beneficiary, and
+will not experience the contradiction as one.
+
+What remained was the question the final chapter of this act answers. The war
+was over, the country wanted to demobilise, and there was an apparatus in place
+— funding channels, managerial practices, university relationships, security
+clearances, and an industrial base with one customer — that had been built for
+an emergency that had ended.
+
+Nobody decided to keep it. That is what happened to it.

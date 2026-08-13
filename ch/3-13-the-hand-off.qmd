@@ -109,6 +109,165 @@ is about to produce its first self-sustaining industry.
 How does a temporary emergency become a permanent structure?
 :::
 
-::: {.callout-warning}
-Specified. Prose is written in Phase 5b.
-:::
+The United States demobilised almost everything after 1945.
+
+The army went from eight million to under two million within two years. Ships
+were mothballed in reserve fleets, including several hundred in Suisun Bay,
+north of San Francisco, where they sat for decades. Contracts were cancelled by
+the tens of thousands, in some cases by telegram, within weeks of the surrender.
+Plants converted or closed. The wartime agencies that had allocated materials
+and set prices were wound up.
+
+The research funding channels were renewed.
+
+## Two things at once
+
+Washington wanted incompatible outcomes and got both, which is the chapter's
+subject.
+
+It wanted to demobilise, for reasons that were fiscal, political, and
+constitutional. The wartime state had been enormous and intrusive, the debt was
+unprecedented, and there was no appetite for a permanent garrison economy.
+
+It also wanted to keep the scientific advantage the war had produced. Radar,
+proximity fuses, computing, jet propulsion, and above all the bomb had
+demonstrated that research capability was decisive, and no one in a position of
+responsibility proposed giving that up while the Soviet Union existed.
+
+These two desires were reconciled by leaving the research apparatus in place
+while dismantling everything around it. The funding channels stayed. The
+managerial practices stayed. The relationships between agencies, universities,
+and contractors stayed, along with the security clearances, the classification
+system, and the personnel who understood how to work them.
+
+## Bush's argument, and the gap
+
+*Science, the Endless Frontier* made the case for permanence in July 1945, and
+it was a good case.
+
+Bush argued that basic research was the wellspring of applied advance, that
+industry would systematically underinvest in it because the returns were diffuse
+and unappropriable, and that a federal agency should therefore fund it
+indefinitely — allocating by peer review, through universities, with the
+scientific community itself deciding what was worth doing.
+
+Congress then spent five years arguing about the details. Bush wanted an agency
+insulated from political control; others wanted accountability, geographic
+distribution, and public ownership of resulting patents. The National Science
+Foundation was not established until 1950.
+
+The gap mattered enormously, because it was filled by the military.
+
+The Office of Naval Research, established in 1946, became the principal funder
+of American basic science in the late 1940s. It was generous, it was fast, it
+did not require the research to be obviously military, and it built
+relationships with university departments that outlasted the period. When the
+NSF finally arrived, the architecture of American science funding had already
+been established, and it had been established by a service branch.
+
+That is a substantial fact about the character of postwar American research, and
+it is not usually the headline. The system Bush proposed as a civilian
+enterprise came into being with the Navy as its founding patron, and the Korean
+War and the subsequent defence build-up ensured that military funding remained
+dominant for a generation.
+
+## The decision nobody made
+
+Here is the chapter's central observation, and it is a negative one.
+
+At no point did the United States decide, as a matter of deliberate public
+policy, to establish permanent federal funding of scientific research, routed
+through private universities, with classified outputs, whose commercial value
+would eventually be captured by private firms.
+
+There was no debate on that proposition. There was no vote on it. There was no
+review at which somebody asked whether the wartime arrangement was still
+appropriate now that the war had ended.
+
+What there was instead is a constituency. The agencies wanted to keep their
+programmes. The universities wanted to keep the overhead. The contractors wanted
+to keep the orders. Every party to the triangle benefited from continuation, and
+none had an interest in raising the question.
+
+And there was no counter-constituency, because the costs were diffuse — spread
+across taxpayers who did not know the sums — while the benefits were
+concentrated in institutions that knew them precisely.
+
+A temporary arrangement with a constituency and no opposition is not temporary.
+It is permanent, and it becomes permanent without anyone experiencing themselves
+as having made it so.
+
+## Paperclip
+
+One further transfer belongs in this chapter, because it demonstrates how far
+the commitment to retaining wartime scientific capacity actually went.
+
+Operation Paperclip brought German scientists and engineers to the United States
+after the war — rocket specialists, aerodynamicists, chemists, and physicians —
+under an arrangement that in a substantial number of cases involved sanitising
+records of Nazi party membership and, in some, of involvement in the use of
+forced labour. Wernher von Braun and his team from Peenemünde are the best-known
+group. Von Braun's rockets had been built at Mittelwerk by concentration camp
+prisoners under conditions that killed thousands, and he went on to direct the
+Marshall Space Flight Center and to become a public face of the American space
+programme.
+
+The justification offered at the time was that the alternative was the Soviet
+Union recruiting them, which was true and was also happening.
+
+The chapter's interest is not moral accounting, though the moral accounting is
+straightforward. It is that the postwar American state was prepared to make
+extremely uncomfortable trades to retain scientific capability, and that the
+willingness to make those trades tells you how the capability was valued. A
+government that will absorb this in 1946 is not a government that intends to
+allow its research establishment to lapse.
+
+The same logic ran domestically in a different register. The loyalty programmes
+and security clearance regimes of the late 1940s and 1950s removed people from
+research on political grounds — Oppenheimer's clearance revocation in 1954 is
+the famous case, and at Berkeley the loyalty oath controversy of 1949 to 1951
+cost the university a number of faculty.
+
+Scientific capability was being treated as a strategic asset, which meant it was
+being managed like one: acquired regardless of provenance, and policed for
+reliability.
+
+## Real estate
+
+By 1951 the arrangement had acquired property.
+
+The Stanford Industrial Park opened that year on university land — the first
+university-owned industrial park in the United States. It is one paragraph here
+because Act IV chapter 1 opens on it, but note what it represents. An
+arrangement that began as an emergency measure in 1940 had, within eleven years,
+become sufficiently permanent that a university was willing to build a business
+model on the assumption that it would continue indefinitely.
+
+That assumption has held for seventy-five years.
+
+Note also what the park was for. Terman's stated purpose was not primarily
+revenue. It was proximity: companies near the campus would employ Stanford
+graduates, sponsor Stanford research, send their engineers to Stanford courses,
+and generate the industrial demand that justified the university's programmes.
+The rent was a by-product of an arrangement designed to make the university
+indispensable to an industry that did not yet exist.
+
+That is a considerable bet, made in 1951, on the permanence of a funding
+arrangement that had never been formally agreed.
+
+## End of Act III
+
+California has learned to think at the scale of empire.
+
+It has land, concentrated before markets existed and confirmed by conquest and
+litigation. It has capital, accumulated from a chokepoint monopoly financed with
+public money. It has an institution designed to reproduce an elite, endowed with
+land it cannot sell. It has an archive of how power moves. It has a credential
+that a distant market accepts. It has a permanent federal funding channel and
+the managerial practice to work it. And it has a dean of engineering with a
+written plan and eight thousand acres.
+
+The machinery is complete and the money is permanent. What it has not yet
+produced is an industry of its own.
+
+Act IV is about the forty years in which it produces four.

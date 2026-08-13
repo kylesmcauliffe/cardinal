@@ -116,6 +116,167 @@ unsellable land. Everything Act IV needs is now in place.
 How does wartime research become peacetime monopoly?
 :::
 
-::: {.callout-warning}
-Specified. Prose is written in Phase 5b.
-:::
+Frederick Terman spent the Second World War in Cambridge, Massachusetts, running
+a laboratory of some eight hundred people with a budget larger than the whole of
+Stanford's pre-war engineering programme.
+
+The Radio Research Laboratory, established at Harvard in 1942, worked on radar
+countermeasures — jamming, deception, and the detection of enemy radar. It was a
+serious operation with a serious product; Allied bombing operations depended on
+its output, and the aluminium chaff dropped to blind German radar came out of
+this work.
+
+Terman came back to Palo Alto in 1946 to a department of a few dozen people,
+carrying a management playbook and a grievance.
+
+## The grievance
+
+The grievance matters more than the playbook, because it explains the intensity
+of what followed.
+
+Stanford had been a bystander to the largest scientific mobilisation in history.
+The contracts had gone to MIT, to Harvard, to Caltech, and to Bell Laboratories.
+Berkeley, thirty miles away, had built cyclotrons and staffed the Manhattan
+Project. Stanford had contributed individuals — Terman among them — to other
+people's laboratories.
+
+Terman's diagnosis was not that Stanford had been unlucky. It was that Stanford
+had been the wrong shape. Federal science money went to institutions that were
+already visibly excellent in the fields the government needed, and it went to
+people the men making the decisions already knew. Stanford was adequate across
+many fields and pre-eminent in none, which meant that when a decision-maker in
+Washington needed a laboratory, Stanford was on nobody's list.
+
+He wrote it down and he said it repeatedly for the next twenty years.
+
+## What the war actually taught
+
+The operational education was the more valuable part, and it consisted of things
+that cannot be learned from outside.
+
+He learned how federal research money actually moved: who decided, on what
+timetable, against what criteria, and what a proposal had to look like. He
+learned procurement and classification, and how to run an organisation in which
+most of the staff cannot discuss most of the work. He learned how to recruit and
+manage several hundred technical people at speed, which almost nobody in
+American academic life had ever done.
+
+And he learned the thing that made the rest of it worth knowing: that the
+funding would not stop. Total war had established that scientific capability was
+a strategic asset, and no government that had learned that lesson was going to
+unlearn it.
+
+Vannevar Bush made the intellectual case in *Science, the Endless Frontier*,
+delivered to the president in July 1945. Bush argued that basic research was the
+source of practical advance, that it would be underfunded by private industry
+because its returns were unappropriable, and that the federal government should
+therefore fund it permanently — through universities, with the scientists
+themselves controlling the allocation.
+
+That report is the founding document of the postwar American research system,
+and Terman read it as a business plan.
+
+## Steeples of excellence
+
+His strategy had a name, and it was the opposite of what most universities were
+attempting.
+
+The conventional postwar ambition was breadth: build up every department, become
+comprehensive, cover the field. Terman argued for concentration. Identify a
+small number of areas where federal money was going and where Stanford could
+plausibly become pre-eminent, and put everything into those. He called them
+steeples of excellence — narrow, tall, and visible from a distance.
+
+He chose electronics and microwave physics, which is where the defence money was
+going, and he recruited accordingly: senior people poached from other
+institutions with the promise of resources, and money to build around them.
+
+The method had two features that made it work and that generalise. It followed
+the funding rather than the discipline, which meant the university's research
+agenda was substantially set by federal priorities. And it was ruthless about
+what it declined to support, which is why it succeeded where more equitable
+strategies did not.
+
+Stanford's engineering and physics departments moved into the front rank within
+about fifteen years. The Microwave Laboratory and then the linear accelerator
+followed. By the 1960s Stanford was one of the largest recipients of federal
+research funding in the country, having received essentially none of the wartime
+contracts twenty years earlier.
+
+## The asset nobody had used
+
+There is one more piece, and Terman appears not to have recognised its full
+value immediately.
+
+The university owned eight thousand acres of the San Francisco Peninsula, and
+under the Founding Grant of 1885 it could not sell any of it. For sixty years
+this had been treated as a constraint. The land was leased for grazing, used for
+agriculture, and otherwise sat there, an enormous illiquid asset generating
+almost nothing.
+
+An asset that cannot be sold can be leased. And a university that leases land to
+companies whose staff it trains, whose research it partners on, and whose
+legitimacy it underwrites is not a landlord in any ordinary sense.
+
+Act IV opens on the day someone acts on this.
+
+## Recruiting
+
+The method deserves a section, because it is the mechanism by which a regional
+university became a national one and because it is not what universities
+normally do.
+
+Terman recruited the way a company acquires a business. He identified
+individuals whose presence would attract federal funding and other researchers,
+and he offered them resources rather than salary — laboratory space, equipment
+budgets, graduate students, and the freedom to build a group. He then used their
+arrival to recruit the next tier, on the argument that the field was moving to
+Palo Alto.
+
+The clearest single instance is the Varian brothers, Russell and Sigurd, who
+with William Hansen had developed the klystron tube at Stanford before the war
+under an arrangement that gave the university a share of the royalties. The
+klystron mattered enormously to radar and later to microwave communications and
+to accelerators. Varian Associates was founded in 1948, and in 1951 it became
+the first tenant of the industrial park.
+
+That sequence is the whole model in one company: university research, a
+licensing arrangement that pays the university, a spin-out firm founded by the
+researchers, and a lease on university land. Every element of Act IV is present
+in 1951, in a single tenancy agreement.
+
+Terman also encouraged faculty to consult for industry and to found companies,
+at a time when most universities regarded both as distractions or conflicts. He
+regarded them as the point. A professor with a company brings in contracts,
+places graduates, and generates the reputation that attracts the next recruit.
+
+## The classified problem
+
+The chapter has to name the cost, and here it is structural rather than
+personal.
+
+A substantial and growing fraction of the research Terman built was classified.
+The public funded it, the university performed it, and the public could not
+examine the results. There was no mechanism by which a citizen, a journalist, or
+a legislator could evaluate what was being done with the money, and the people
+best placed to evaluate it were the people receiving it.
+
+Terman regarded this as unproblematic and most of his contemporaries agreed. It
+was wartime practice continued into a cold war that appeared to be permanent,
+and the alternative — a research establishment that discussed its work in public
+— was not on offer while the Soviet Union existed.
+
+It became a problem in 1969, when a few hundred students walked into a building
+and shut it down. Act IV chapter 7 is that chapter, and the target they chose
+was the laboratory Terman built.
+
+## The plan and its author
+
+Silicon Valley is not an emergence and it is not an accident. It is a plan,
+written down in advance by a dean of engineering who had spent three years
+watching the federal government spend money on other people's universities and
+had worked out precisely why.
+
+He had the diagnosis by 1945, the strategy by the late 1940s, the land by
+inheritance, and the funding channel by act of Congress. What he needed next was
+tenants.
