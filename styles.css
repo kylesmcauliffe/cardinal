@@ -1,0 +1,27 @@
+/* Chapter dateline: act, act title, and period, set quietly under the title. */
+.chapter-meta {
+  font-variant: small-caps;
+  letter-spacing: 0.04em;
+  font-size: 0.85rem;
+  opacity: 0.7;
+  margin-top: -0.5rem;
+  margin-bottom: 2rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.25);
+}
+
+/* The core question, carried as an epigraph beneath the dateline. */
+.chapter-question {
+  font-style: italic;
+  opacity: 0.8;
+  margin-bottom: 2rem;
+}
+
+/* Section break within a chapter, where a scene changes but the argument
+   continues. Renders as a centred ornament rather than a rule. */
+.break {
+  text-align: center;
+  margin: 2.5rem 0;
+  opacity: 0.5;
+  letter-spacing: 0.6em;
+}

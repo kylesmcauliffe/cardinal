@@ -1,0 +1,32 @@
+# Appendix B — Event Ledger {.unnumbered}
+
+A dated chronology of the events the book turns on, from the discovery of gold to
+the present. Each entry gives the date, the event, the actors, the place, and why
+it matters structurally rather than merely narratively.
+
+::: {.callout-warning}
+The working ledger is at `_project/event-ledger.csv`: 47 events, each tagged
+`[S1]`–`[S87]`. The source key those tags refer to was not preserved with the
+drafts.
+
+Until the key is reconstructed or every row is re-sourced, the ledger is a
+working chronology and not a citable apparatus. Rebuilt in Phase 6.
+:::
+
+## Method
+
+An event earns a place in this ledger if it meets one of four tests:
+
+1. It moved a chokepoint — created one, captured one, or destroyed one.
+2. It converted public money or public authority into private control.
+3. It changed who could enter the elite, or how.
+4. It is the date a reader would want to check.
+
+Events that are famous but structurally inert are omitted. Events that are
+obscure but load-bearing are included.
+
+## Ledger
+
+To be generated from `_project/event-ledger.csv` once sourcing is complete,
+extended through the periods the current ledger does not reach — the Spanish and
+Mexican eras before 1848, and the secession-and-route sequence of 1853 to 1862.

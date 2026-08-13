@@ -1,0 +1,30 @@
+# The Hand-Off: From War Capacity to System Design {#sec-3-13}
+
+::: {.chapter-meta}
+Act III — Hoover, War, and the Archive State · 1945
+:::
+
+::: {.content-visible when-profile="draft"}
+
+::: {.callout-note collapse="true"}
+## Pre-Draft Brief
+
+**Core question.** How does a temporary emergency become a permanent structure?
+
+**The answer.** *To be written before the first sentence of prose.*
+
+**The mechanism.** *Which of the three: chokepoint control, public subsidy
+converted to private monopoly, elite network reproduction. Be specific.*
+
+**The key fact.** *The one thing the reader must walk away knowing.*
+
+**The human anchor.** *Who makes this a story rather than a lecture.*
+
+**Excluded voices.** *Who paid the cost of the power described here.*
+
+**Proof.** This chapter proves that _____ by showing _____.
+:::
+
+:::
+
+*How does a temporary emergency become a permanent structure?*

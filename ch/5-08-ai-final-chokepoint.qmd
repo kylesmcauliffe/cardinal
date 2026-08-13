@@ -1,0 +1,30 @@
+# AI and the Final Chokepoint {#sec-5-08}
+
+::: {.chapter-meta}
+Act V — The Open Era · 2020–2025
+:::
+
+::: {.content-visible when-profile="draft"}
+
+::: {.callout-note collapse="true"}
+## Pre-Draft Brief
+
+**Core question.** Who governs when the systems govern themselves?
+
+**The answer.** *To be written before the first sentence of prose.*
+
+**The mechanism.** *Which of the three: chokepoint control, public subsidy
+converted to private monopoly, elite network reproduction. Be specific.*
+
+**The key fact.** *The one thing the reader must walk away knowing.*
+
+**The human anchor.** *Who makes this a story rather than a lecture.*
+
+**Excluded voices.** *Who paid the cost of the power described here.*
+
+**Proof.** This chapter proves that _____ by showing _____.
+:::
+
+:::
+
+*Who governs when the systems govern themselves?*

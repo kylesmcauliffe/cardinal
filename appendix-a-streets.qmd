@@ -1,0 +1,58 @@
+# Appendix A — The Grid {.unnumbered}
+
+A gazetteer of the addresses and street names that carry the argument, with what
+happened at each and who it is named for.
+
+The book's claim is that the street grid of the San Francisco Peninsula is a
+record of who held power and in what order. This appendix is the evidence for
+that claim, laid out so a reader can check it — or walk it.
+
+::: {.callout-warning}
+Awaiting the author's street list. The structure below is built to receive it.
+
+Chapter V.11 argues the case; Chapter V.12 walks the route. This appendix is the
+reference table both draw on.
+:::
+
+## Addresses recovered from the drafts
+
+| Address | Event | Date |
+|---|---|---|
+| 320 Dolores Street, San Francisco | Mission San Francisco de Asís founded | 1776 |
+| The Presidio, San Francisco | Spanish military anchor of the Bay | 1776 |
+| Sutter's Mill, Coloma | James Marshall finds gold in the tailrace | 24 January 1848 |
+| Colton Hall, 570 Pacific Street, Monterey | California constitutional convention | 1849 |
+| California Street, Nob Hill | Big Four mansions; Crocker's spite fence | 1870s |
+| Dupont Street (now Grant Avenue), San Francisco | Chinatown's principal street | 1870s–1880s |
+| Portsmouth Square, San Francisco | Centre of Chinatown | 1870s–1880s |
+| Promontory Summit, Utah | The golden spike | 10 May 1869 |
+| 2365 Kalākaua Avenue, Honolulu | Jane Stanford's death | 28 February 1905 |
+| 367 Addison Avenue, Palo Alto | The Hewlett-Packard garage | 1938–1939 |
+| Page Mill Road, Palo Alto | Stanford Research Park spine | 1951– |
+| El Camino Real | The mission road become the Valley's main street | 1769– |
+| Sand Hill Road, Menlo Park | Venture capital corridor | 1972– |
+| Mountain View | Shockley Semiconductor Laboratory | 1956 |
+| Sunnyvale | Lockheed Missiles and Space | 1956 |
+| Menlo Park | SRI; second ARPANET node | 1946; 1969 |
+
+## Names to trace
+
+Each of these is a street, building, or place name on or near the Stanford
+campus that carries a person from this book. For each: who, when, what they did,
+and which chapter they belong to.
+
+- Serra Street and Junipero Serra Boulevard
+- Hoover Tower and Hoover Institution
+- Terman Engineering Center
+- Knight Management Center and Knight-Hennessy Scholars
+- Jordan Hall
+- Lathrop, Escondido, Galvez, Palm Drive
+- Arboretum Road and the original Stanford farm boundaries
+
+## What the grid records
+
+To be written with Chapter V.11: the observation that different civilisations
+name their streets after different things — British streets after empire, French
+after artists, most American streets after politicians and trees — and that the
+Peninsula names its streets after the people who owned it. The memorial is the
+monopoly.

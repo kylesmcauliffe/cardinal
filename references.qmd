@@ -1,4 +1,15 @@
-# References {.unnumbered}
+# Sources {.unnumbered}
+
+Every specific claim in this book — every date, dollar figure, name, address,
+and quotation — is traceable to a source recorded in the project research log.
+
+Wikipedia appears nowhere in these sources. It was used to navigate toward
+primary and scholarly material, which is what is cited.
+
+Where historians genuinely disagree, the text says so, gives the strongest
+version of each position, and identifies which reading this book finds more
+persuasive and why. Those passages are marked in the research log as contested.
+No chapter's argument rests on a contested fact.
 
 ::: {#refs}
 :::

@@ -1,0 +1,30 @@
+# The Shoe Paper: Phil Knight, Nike, and the Offshore Turn {#sec-4-06}
+
+::: {.chapter-meta}
+Act IV — The Silicon Valley Machine · 1962–1980
+:::
+
+::: {.content-visible when-profile="draft"}
+
+::: {.callout-note collapse="true"}
+## Pre-Draft Brief
+
+**Core question.** Does the mechanism work outside technology?
+
+**The answer.** *To be written before the first sentence of prose.*
+
+**The mechanism.** *Which of the three: chokepoint control, public subsidy
+converted to private monopoly, elite network reproduction. Be specific.*
+
+**The key fact.** *The one thing the reader must walk away knowing.*
+
+**The human anchor.** *Who makes this a story rather than a lecture.*
+
+**Excluded voices.** *Who paid the cost of the power described here.*
+
+**Proof.** This chapter proves that _____ by showing _____.
+:::
+
+:::
+
+*Does the mechanism work outside technology?*

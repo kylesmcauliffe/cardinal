@@ -4,8 +4,10 @@
 .Ruserdata
 .DS_Store
 /_book/
+/_book-draft/
 /_freeze/
 *.html
+*.pdf
 !cover.png
 
 /.quarto/

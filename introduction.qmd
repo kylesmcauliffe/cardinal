@@ -1,0 +1,77 @@
+# Introduction: The Spirit and the Chokepoint {.unnumbered}
+
+::: {.content-visible when-profile="draft"}
+
+::: {.callout-note collapse="true"}
+## Pre-Draft Brief
+
+**Core question.** What is California's spirit of capitalism, and how would we
+know it if we saw it?
+
+**The answer.** Not asceticism. Rent. California's spirit of capitalism is
+chokepoint rent extraction wearing frontier merit as a costume — and the story
+of the garage does the work that the doctrine of election once did, explaining
+why the winner deserved to win.
+
+**The mechanism.** Introduces all three: chokepoint control, public subsidy
+converted to private monopoly, elite network reproduction. Names the analytical
+lens (who controls the inputs, who captures the surplus, who is excluded, how
+the system reproduces) without making the reader learn a vocabulary.
+
+**The key fact.** The corridor. Talent, capital, and legitimacy have routed
+through the same forty miles of the San Francisco Peninsula for a hundred and
+forty years, across four unrelated technologies.
+
+**The human anchor.** The reader, walking. The introduction is written as an
+orientation, not a narrative — the one place in the book where the author is
+permitted to explain the method.
+
+**Excluded voices.** States the moral ledger as a standing commitment: every
+generation of California power has an excluded class that makes the system
+possible while being denied its rewards, and the book tracks that class in every
+chapter rather than sequestering it in one.
+
+**Proof.** This chapter proves that the book has a method by showing what the
+method predicts and what would falsify it.
+:::
+
+:::
+
+*What is California's spirit of capitalism, and how would we know it if we saw
+it?*
+
+::: {.content-visible when-profile="draft"}
+
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Opens on Weber in 1905 arguing that capitalism's animating spirit was Protestant
+asceticism — worldly discipline read as evidence of divine election. Sets against
+it California's version, which inverts the content while keeping the structure:
+not thrift but leverage, not the monastery but the garage, and a story about
+merit doing precisely the work that the doctrine of election used to do.
+
+Then states the mechanism in three parts and gives one example of each drawn
+from a different century, so the reader sees the repetition before being asked
+to believe in it. Introduces the analytical habit — who controls the inputs, who
+captures the surplus, who is excluded, how the system reproduces itself — as a
+way of reading rather than a theory to accept.
+
+Establishes falsifiability, which is the section that earns the sceptic. If the
+argument is right, California's great fortunes should cluster around bottlenecks
+rather than inventions; public money should precede private capture rather than
+follow it; and the institutions that produce the elite should be endowed by the
+elite they produced. If those three things are not true, the book is wrong. They
+are checkable, and the rest of the book checks them.
+
+Closes on the corridor: the same forty miles, four unrelated technologies, one
+university. Not because the Peninsula has unusual soil, but because that is
+where the returns are, and the returns are there because that is where
+everything routes.
+:::
+
+:::
+
+::: {.callout-warning}
+Draft skeleton. Prose is written in Phase 5.
+:::
