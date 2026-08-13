@@ -116,6 +116,160 @@ no rate card to point at.
 What does monopoly look like when it controls attention rather than track?
 :::
 
-::: {.callout-warning}
-Specified. Prose is written in Phase 5c.
-:::
+A railroad monopoly announced itself with a rate card. You could read it, object
+to it, and eventually convene a constitutional convention about it.
+
+An attention monopoly arrives as a default setting. The browser that came with
+the phone. The search engine that came with the browser. The payment method
+already entered. Nobody remembers choosing any of it, because nobody did.
+
+## Why this book does not say cartel
+
+The drafts of this project used the word cartel for what follows, and it is
+being retired here.
+
+Cartel asserts coordination — an agreement among firms to act together. The
+evidence does not support that, and the antitrust cases brought against these
+companies over twenty-five years have not generally alleged it. What the
+evidence supports is convergence: a small number of firms independently arriving
+at structurally similar positions, because those positions are where the returns
+are, and the returns are there because everything routes through them.
+
+That is a worse finding rather than a softer one. A cartel can be prosecuted.
+There is a meeting to expose, a document to produce, a defendant to name.
+Convergence has none of these. It is the outcome of many separate rational
+decisions, none of which is unlawful, producing an aggregate that nobody chose
+and nobody can be held responsible for.
+
+Gravity is not a conspiracy, and it is much harder to argue with.
+
+## Five positions
+
+By 2010 the pattern was legible, and the useful way to see it is as five
+distinct chokepoints rather than five large companies.
+
+**Apple** held the device and the store on it. Having watched the personal
+computer commoditise around Microsoft in Act IV chapter 9, it built the opposite
+architecture: integrated hardware and software, and after 2008 a single
+distribution channel for applications, with a commission on transactions passing
+through it. Every developer reaching an iPhone user does so on Apple's terms.
+
+**Google** held intent, through the mechanism the previous act described, and
+then extended into the browser, the mobile operating system, video, and mapping
+— each of which feeds the advertising system.
+
+**Amazon** held the marketplace, and then the logistics beneath it, and then the
+computing infrastructure beneath that. Amazon Web Services, launched in 2006, is
+the most consequential of the three: a very large share of the internet's
+applications run on infrastructure owned by a company that also competes with
+many of them.
+
+**Microsoft** held the enterprise estate — the operating systems, the
+productivity software, and the directory services that corporate computing is
+built on — and converted it to subscription and cloud.
+
+**Facebook** held the social graph, and the next chapter is about it.
+
+## Operating the market you compete in
+
+The common structure is the one that matters, and it is the structure antitrust
+law was originally built to address.
+
+Each of these firms operates a market and participates in it. Apple runs the app
+store and sells applications in it. Amazon runs the marketplace and sells
+products in it, with access to data about how its competitors' products are
+performing. Google runs the search index and ranks its own services within it.
+
+This is not a novel arrangement. It is exactly what the Southern Pacific did
+when it set rates on a line it owned for freight in which it had an interest,
+and it is what the studios did with block booking in Act IV chapter 8. The
+remedy in both historical cases was structural: regulate the carrier, or divest
+the theatres.
+
+Competition authorities have reached findings along these lines repeatedly over
+the last decade — in Brussels, in Washington, and in national courts. The
+remedies have been slower and smaller than the findings.
+
+## Buying the future
+
+Acquisition became a strategy rather than an event, and it is the cleanest
+evidence that the firms understood their own positions.
+
+Google bought YouTube in 2006 and DoubleClick in 2007, acquiring the video
+platform and the advertising infrastructure that would otherwise have competed
+with it. Facebook bought Instagram in 2012 for about a billion dollars and
+WhatsApp in 2014 for around nineteen billion — prices that looked absurd against
+either company's revenue and were rational against the threat each posed.
+
+The pattern is to buy the competitor before it is a competitor, at a price that
+is unjustifiable on current earnings and trivial against the value of the
+position being defended. Regulators reviewed several of these transactions and
+cleared them, and have since revisited that judgment.
+
+## The market capitalisation problem
+
+Any figure this chapter gives for the combined value of these firms is wrong by
+the time it is read, and the chapter says so rather than pretending otherwise.
+
+The numbers move daily, they moved by trillions during the period this book was
+written, and a stale figure is the fastest available way to lose a careful
+reader's confidence. What can be stated durably is the shape: by the 2020s a
+handful of firms headquartered within a few dozen miles of each other accounted
+for a share of total American equity market value with no precedent in the post-
+war era, and the concentration increased rather than diminished across two
+decades of scrutiny.
+
+## Lobbying
+
+The political operation followed the position, as it had for the railroad.
+
+Technology companies were negligible presences in Washington in 2000. Over the
+following two decades they became among the largest corporate lobbying spenders
+in the United States, with disclosed expenditures rising by orders of magnitude,
+alongside trade associations, funded academic work, and a steady traffic of
+personnel between the firms and the agencies that oversee them.
+
+Act II chapter 10 described Collis Huntington's permanent office in Washington
+and his candour about what he was doing there. The modern version is larger,
+entirely lawful, fully disclosed, and considerably more effective.
+
+## The cloud beneath everything
+
+One of the five positions deserves separate treatment, because it is the least
+visible and the most infrastructural.
+
+Amazon Web Services launched in 2006, offering computing and storage as a
+metered utility. Microsoft and Google followed. Within fifteen years a very
+large share of the world's software — including much of the public sector's, and
+a substantial part of the intelligence and defence establishment's — was running
+on infrastructure owned by three companies.
+
+This is the purest form of the arrangement this book has been tracking. It is
+literally infrastructure: metered, essential, and impossible to replicate. Its
+customers include competitors of the firms that own it. And it attracted almost
+no regulatory attention for most of that period, because it was sold to
+businesses rather than to the public and therefore generated no constituency.
+
+Note what it does to the earlier chapters. The Southern Pacific owned the only
+line and everyone shipping had to use it. A modern company that wishes to avoid
+the cloud providers must build data centres, which almost none can afford. The
+2023 outages and the periodic regional failures that take down large fractions
+of the consumer internet at once are the clearest demonstration of how
+concentrated the dependency has become.
+
+Act III chapter 1 opened on the Late Bronze Age and the observation that the
+most connected system is the most brittle. Three providers is a small number.
+
+## Who is squeezed
+
+The excluded here are not a workforce. They are the firms and individuals whose
+access to customers runs through an intermediary that competes with them.
+
+Publishers whose traffic depends on a search ranking. Sellers whose sales depend
+on a marketplace that also sells. Developers whose businesses depend on a store
+taking a commission and setting the rules. App makers whose functionality is
+absorbed into the operating system in the next release.
+
+Each of them is in the position of a Central Valley grower shipping on the only
+line. And the reason nobody stopped it is the reason this chapter began with a
+default setting: there was no rate card to point at.
