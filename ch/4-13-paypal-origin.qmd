@@ -108,6 +108,148 @@ at the scale of a staff photograph.
 How does a failed startup become a ruling class?
 :::
 
-::: {.callout-warning}
-Specified. Prose is written in Phase 5b.
-:::
+In 2007 *Fortune* photographed a group of former PayPal employees dressed as a
+crime family — cigars, tracksuits, a card table — and ran the picture under the
+label the PayPal Mafia.
+
+It was a joke about a real thing, and by naming it the magazine made it more so.
+A network that has been told it is a network behaves like one.
+
+## The company itself
+
+PayPal was not, by the standards of what its alumni went on to build, a large
+success.
+
+Confinity was founded in 1998 by Max Levchin and Peter Thiel, initially to do
+cryptography and payments on handheld devices, and it developed a way to send
+money by email. X.com was founded by Elon Musk in 1999 as an online financial
+services company. Both were in Palo Alto, both were chasing the same emerging
+market in payments for online auctions, and in 2000 they merged.
+
+The merged company then had a difficult year. There was a management fight; Musk
+was removed as chief executive while he was on a plane, and Thiel took over.
+Fraud losses were severe enough to threaten the business, and Levchin's team
+built the detection systems that eventually contained them. The company depended
+almost entirely on eBay for transaction volume, and eBay was building a
+competitor.
+
+PayPal went public in February 2002 and was acquired by eBay in October of that
+year for roughly one and a half billion dollars in stock.
+
+That is a good outcome and an unremarkable one. Several dozen companies of the
+period did comparably well, and most of their alumni went on to ordinary
+careers.
+
+## The distribution
+
+What made this one different is what the participants did with the proceeds and
+with each other.
+
+Musk put most of his share into SpaceX, founded in 2002, and into Tesla, where
+he led the Series A in 2004 and became chairman. Thiel founded Palantir in 2003
+and the hedge fund Clarium, and in 2004 made the first outside investment in
+Facebook, half a million dollars for a stake that eventually returned around a
+billion. Reid Hoffman, who had been chief operating officer, founded LinkedIn in
+2002. Chad Hurley, Steve Chen, and Jawed Karim, who had worked at the company,
+founded YouTube in 2005. Jeremy Stoppelman and Russel Simmons founded Yelp in
+2004, with Levchin backing it. Levchin later founded Affirm. Roelof Botha became
+a partner at Sequoia and then its senior steward. Keith Rabois invested and
+operated across a dozen of the others. Thiel and others founded Founders Fund in
+2005.
+
+They invested in each other's companies, sat on each other's boards, recruited
+from each other, and introduced each other to capital. Facebook's first outside
+money came from this group. So did a substantial share of the early rounds of a
+generation of companies.
+
+## Why a network beats a product
+
+The chapter's argument is that the durable asset was never the payment system.
+
+Consider what the group actually held after 2002. They had capital, which is
+useful and replaceable. They had shared operating experience of scaling a
+business through fraud, regulation, and a near-death funding environment, which
+is rarer. And they had a calibrated view of each other: they knew who was good
+at what, who could be relied on, and who could be backed without diligence.
+
+That last item is the valuable one. The fundamental problem in early-stage
+investing is that there is no information — no revenue, no product, sometimes no
+company. Everything turns on an assessment of people, and assessment is
+expensive. A group that has already assessed each other under pressure can move
+faster and with more conviction than anyone outside it, and speed and conviction
+are what win competitive deals.
+
+This is a credentialling system with no examination and no institution. Act I
+chapter 2 described a school converting a method into a certificate that states
+would buy; Act I chapter 6 described an empire administering the certificate at
+industrial scale. This is the same function performed by a shared employment
+history and a photograph.
+
+## The politics
+
+The group also holds, in substantial part, a coherent set of political
+commitments, and they are consequential enough that Act V cannot be understood
+without them.
+
+Thiel has been explicit for two decades: a scepticism about the compatibility of
+democracy and freedom as he defines them, a conviction that competition is
+overrated and monopoly is the correct objective for a business, and a belief
+that technological progress has stalled outside computing. His 2014 book states
+the monopoly argument directly, and it is a coherent position rather than a
+slip.
+
+He funded a Senate campaign in 2022 that reached the vice presidency two years
+later. Others in the group have funded candidates, founded political
+organisations, and acquired media. Musk bought a communications platform in 2022
+and subsequently took a role in the federal government.
+
+The chapter records this without alarm, because alarm is not the register, and
+because the facts are on public disclosure filings. What it records is that a
+group of colleagues from one company's payroll in 2002 held, twenty years later,
+positions in defence software, space launch, electric vehicles, social
+networking, payments, venture capital, and national politics.
+
+## What the company was actually for
+
+There is a reading of PayPal's founding that is easy to miss and that explains a
+great deal about what its alumni did next.
+
+Thiel has said repeatedly that the original ambition was not to build a
+convenient way to pay for auction items. It was to create a currency outside the
+control of governments — a means of moving value that monetary authorities could
+not devalue or block. The payments business was what that ambition became when
+it met regulation, the card networks, and the need for revenue.
+
+The company that resulted was thoroughly conventional: it settled in dollars,
+partnered with banks, complied with money transmission rules in fifty states,
+and was eventually bought by an auction site. The founding intention survived as
+disposition rather than as product.
+
+That disposition — a conviction that existing institutions are obstacles rather
+than frameworks, and that a sufficiently well-designed private system can route
+around them — is visible in almost everything the group built afterwards. A
+private launch company competing with a national space programme. A software
+firm supplying capabilities that governments could not build themselves. A
+currency movement several of them backed early. A social platform acquired and
+reoriented by one of them on explicitly political grounds.
+
+The chapter's point is not that the disposition is wrong. It is that a coherent
+view about the inadequacy of public institutions, held by people with the
+capital and the network to act on it, produces a systematic pattern of private
+substitution — and that Act V is largely a record of what that substitution
+looks like when it succeeds.
+
+## The barrier
+
+The efficiency of the network is precisely the problem for everyone outside it.
+
+A founder inside it raises on a phone call. A founder outside it raises through
+a process, if at all, and the previous chapters have described what the
+composition of that process looks like. The network lowers transaction costs for
+its members by raising them, relatively, for everybody else, which is what a
+network always does and is the reason concentration compounds.
+
+Act I chapter 6 described an examination that was formally open to all and
+practically available to families who could support years of preparation. This
+is the same structure with the examination removed. A ruling class assembled
+from one company's staff list, reproducing by introduction.

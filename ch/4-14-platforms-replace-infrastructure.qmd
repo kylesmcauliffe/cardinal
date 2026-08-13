@@ -116,6 +116,180 @@ steering it.
 What happens when private networks govern public life?
 :::
 
-::: {.callout-warning}
-Specified. Prose is written in Phase 5b.
-:::
+Section 230 of the Communications Decency Act is twenty-six words long.
+
+No provider or user of an interactive computer service shall be treated as the
+publisher or speaker of any information provided by another information content
+provider.
+
+Passed in 1996, it is the legal foundation of the platform economy. It means
+that a company hosting other people's content is not liable for that content the
+way a newspaper is liable for what it prints, and a companion provision means
+the company does not lose that protection by moderating. Host everything, remove
+what you choose, and answer for none of it.
+
+## What platforms took over
+
+By the early 2000s a list of functions that had been public, regulated, or
+common carriage had migrated to private firms operating under contract.
+
+Identity: an account with a large platform became, in practice, the way a person
+proved who they were to third parties, through login systems that displaced
+independent credentials.
+
+Payment: card networks and then payment platforms became the mechanism by which
+almost all commerce settled, with the ability to refuse service to a category of
+business entirely and no obligation to explain.
+
+Communication: email, then messaging, then social distribution, replacing postal
+and telephone systems that had operated for a century under common carrier
+obligations.
+
+Mapping and navigation, replacing state cartography. Commerce, replacing high
+streets. And news distribution, where a ranking algorithm came to determine what
+a substantial fraction of the population encountered as current events.
+
+Each of these had previously been provided by a government, a regulated utility,
+or a competitive market of small firms. Each ended up with a small number of
+private operators.
+
+## The comparison this book has been building
+
+The Southern Pacific was eventually regulated as a common carrier. That is the
+point, and it took Act II two chapters to establish it.
+
+A common carrier holds itself out to serve the public generally, and in exchange
+for the position it accepts obligations: to serve all comers, to charge
+reasonable and non-discriminatory rates, and to submit to a regulator. The
+obligations followed from the recognition that the railroad was infrastructure —
+that its position was not an ordinary market position and that competition would
+not discipline it.
+
+Platforms achieved the infrastructural position and avoided the classification.
+The gap between those two facts is the subject of this chapter and of most of
+Act V.
+
+The reasons are partly technical and partly rhetorical. Technically, a platform
+is not a natural monopoly in the way a rail line is; entry costs are low and
+competitors exist. Rhetorically, the industry has argued consistently that it
+provides a service rather than infrastructure, that switching is easy, and that
+regulation would suppress innovation. Both arguments had force in 1998 and
+progressively less thereafter, but the classification was set early and has
+proved extremely durable.
+
+## Governing by contract
+
+What replaced regulation was the terms of service, and the chapter should be
+plain about what kind of instrument that is.
+
+It is a contract of adhesion: presented on a take-it-or-leave-it basis, drafted
+entirely by one party, and modifiable by that party at will. It governs speech,
+commerce, identity, and association for populations larger than most nations. It
+provides no appeal that a lawyer would recognise as due process, and in the
+United States it routinely requires disputes to go to individual arbitration
+rather than to court.
+
+There are no elections. There is no jurisdiction in the ordinary sense. And the
+entity administering it is accountable to shareholders, whose interest in
+consistent enforcement is real but limited.
+
+Compare a rate card filed with a regulator and published. The railroad's terms
+were extractive and they were visible, contestable, and eventually subject to a
+commission. Terms of service are none of these, which is why Act II chapter 10's
+rule holds: build the fortress in the law, because nobody protests a clause.
+
+## Extraterritoriality
+
+The consequence that makes California's power geopolitical rather than merely
+economic is that other countries' civic life came to run on this infrastructure.
+
+Elections are contested on platforms headquartered in a single American state.
+Small businesses in dozens of countries depend for their customers on a search
+index maintained there. National conversations happen inside products whose
+moderation policies are written in Menlo Park and Mountain View, in English, by
+staff with limited knowledge of the societies affected.
+
+Governments noticed, and Act V describes what they did about it. What matters
+here is the structural fact: a set of private firms in one metropolitan area
+became the operating layer of public life in most of the world, without any
+country having decided that this should happen.
+
+## Network effects as the moat
+
+The position was defensible without owning anything physical, which is the
+lesson of chapter 9 operating at global scale.
+
+A social network is valuable in proportion to who is already on it, which means
+a better competitor with fewer users is not a better product. A marketplace with
+more sellers attracts more buyers, which attracts more sellers. A search index
+that handles more queries learns more about which results are good.
+
+These are not conspiracies and they are not even strategies. They are properties
+of the products, and they mean that the first firm to reach sufficient scale
+acquires a position that superior competitors cannot take. The chokepoint forms
+itself.
+
+## Who is governed without recourse
+
+The ledger for this chapter is specific.
+
+People and businesses removed from platforms — suspended, delisted, demonetised,
+or algorithmically misidentified — with an appeals process consisting of a form
+and, if anything, an automated reply. For a business dependent on a platform for
+customers, that is a commercial death sentence issued without a hearing.
+
+Content moderators, largely employed by contracting firms rather than by the
+platforms, doing work with documented psychological consequences at a fraction
+of engineering pay, in the Philippines, in Kenya, in India, and in Texas.
+
+And, structurally, the public — which has no mechanism to set the terms of
+instruments that govern its speech, its commerce, and its identity.
+
+## The workforce that is not employed
+
+One more instrument completes the picture, and it is an employment
+classification.
+
+The platform model depends on large numbers of people doing work that the
+platform organises, prices, and supervises, without those people being
+employees. Drivers, couriers, warehouse contractors, moderators, and raters are
+engaged through contracting firms or classified as independent contractors,
+which means the platform is not responsible for minimum wage, overtime,
+unemployment insurance, workers' compensation, or collective bargaining.
+
+The legal argument for the classification is that these workers control their
+own hours and use their own equipment. The argument against is that the platform
+sets the price, allocates the work, monitors performance, and deactivates people
+who underperform, which is what an employer does.
+
+California fought this out directly. A state supreme court decision in 2018
+tightened the test for independent contractor status, and legislation followed
+in 2019. The platform companies then spent more than two hundred million dollars
+— by a wide margin the most expensive ballot measure campaign in the state's
+history — on Proposition 22 in 2020, which exempted app-based drivers from the
+new rules and which passed.
+
+That is a chokepoint holder buying a change in the law that governs it, at a
+scale no opposing interest could match, through a direct democratic mechanism
+designed to route around the legislature.
+
+Act II chapter 10 described the Southern Pacific's political bureau and its
+capture of the railroad commission created to regulate it. The instrument is
+different and the manoeuvre is identical: when the rules become inconvenient,
+buy different rules.
+
+## End of Act IV
+
+The pipeline is now self-reinforcing and self-reproducing.
+
+The university supplies the founders and the research, holds the patents, takes
+the equity, and leases the land. The capital corridor selects who scales. The
+network reproduces itself by introduction. The federal government funds the
+substrate and buys the early output. And the resulting firms operate
+infrastructure that public authority once provided, under contracts they write
+themselves.
+
+The machine no longer needs to be operated. It operates itself.
+
+Act V is what it does when nobody is steering, and when it stops bothering to be
+subtle.
