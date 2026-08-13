@@ -45,6 +45,46 @@ self-created by tracing the supply chain to the offshore decisions the book has
 already documented in semiconductors and footwear.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+A device is designed in California, fabricated in Taiwan, assembled in China,
+sold everywhere, and counted as an American technology success. The chapter
+starts with the object and then follows it backwards, because the supply chain
+that now looks like a strategic vulnerability was built deliberately, for
+margin, by the firms now alarmed by it.
+
+The book has already documented the offshore turn twice. Fairchild opened
+assembly in Hong Kong in 1963; Nike moved to contract factories through the
+1970s. Apple's manufacturing arrangements are the mature form of a decision made
+sixty years earlier, and the chapter's first argument is that the dependency was
+self-created.
+
+Its second argument is that the relationship is mutual and is narrated as
+rivalry. China built manufacturing capability into design capability, partly
+with engineers trained in American universities and often in this corridor.
+Capital moved in both directions until restrictions closed it. And the genuine
+chokepoint — advanced semiconductor fabrication, concentrated in a very small
+number of facilities — is one that California does not own, which is the first
+time in this book that the state is on the wrong end of a bottleneck.
+
+The strategic response reopened the channel Act III built. Export controls, and
+then industrial policy: public money returning to semiconductors at scale,
+routed through the same triangle of state demand, corporate production, and
+university research, under a new name.
+
+TikTok is the inversion and the chapter treats it as the diagnostic case. It was
+the first time a foreign-owned platform occupied a Californian chokepoint, and
+the speed and character of the reaction reveal how that position is normally
+understood by the people who hold it.
+
+Three groups pay. The supply chain workforce across the Pacific. The American
+manufacturing workers whose jobs the offshore turn moved. And Chinese and
+Chinese-American researchers placed under security suspicion — Act II's
+scapegoat mechanism running again, with a different nationality and the same
+structure.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

@@ -41,6 +41,43 @@ showing an industry in which the hardware makers competed their margins away
 while the operating system licensor took the surplus.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+The most valuable sentence in the history of software is a clause in a 1980
+agreement stating that Microsoft's licence of an operating system to IBM was not
+exclusive. IBM, then the most powerful computer company in the world, did not
+insist on exclusivity for the operating system of its personal computer. That
+omission created the industry's dominant firm.
+
+The chapter builds to it through what came before. The Homebrew Computer Club in
+1975 circulated designs freely, and the chapter establishes that as the normal
+condition so the reader can see the enclosure when it happens. Apple, founded in
+1976, paired Wozniak's engineering with Jobs's insistence that a computer be a
+product rather than a kit. And in December 1979 Xerox PARC demonstrated the
+graphical interface, the mouse, and networked computing to visitors from Apple —
+a corporation that had invented the future and could not work out what a copier
+company was supposed to do with it.
+
+Then IBM entered in 1981 with an open architecture built from off-the-shelf
+parts, the clone manufacturers arrived, and the hardware commoditised almost
+immediately. Margins in assembly collapsed toward nothing while the operating
+system licensor took the surplus, and by the early 1990s Windows ran on the
+overwhelming majority of personal computers in the world.
+
+The structural argument is that the chokepoint moved up a layer. It is the same
+manoeuvre as the Southern Pacific's move into legal doctrine in Act II: get out
+of the visible, capital-intensive layer where competitors can reach you, and
+into the invisible one that everything must route through. Bayh-Dole passed the
+same year as the IBM agreement, and the next chapter takes it up.
+
+The costs are offshore hardware assembly, and the enclosure of a commons — a
+transition that was announced at the time, in an open letter complaining that
+hobbyists were copying software rather than paying for it.
+
+Never own the layer that can be competed. Own the one everything passes through.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

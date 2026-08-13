@@ -41,6 +41,45 @@ organisation becomes government by showing Mexican California governed by grant-
 holders rather than by administrators.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+A Mexican land grant map describes a boundary as a creek and an oak tree, and
+carries the signature of a governor whose authority to give the land away is
+itself uncertain. Property as an assertion nobody is in a position to check is
+the condition of California in the 1820s, and it is the founding condition of
+every fortune in this book.
+
+Mexican independence in 1821 transferred Alta California without transferring
+any capacity to govern it. Monterey became the capital of a territory the
+capital could not reach. The distance that had defeated Spanish administration
+defeated Mexican administration more thoroughly, because the new republic had
+less to spend and more urgent problems closer to home.
+
+Authority therefore devolved to whoever was physically present and organised.
+Land grants replaced institutional discipline as the instrument of governance,
+and the grantees became the government — local strongmen adjudicating disputes,
+commanding what force existed, and holding title from an authority too distant
+to enforce or revoke it. California became a place where showing up with
+organisation was sufficient.
+
+The chapter also introduces the foreigners: hide-and-tallow traders, mostly
+American and British, operating inside Mexican law, marrying into grantee
+families, and accumulating the local knowledge and the local relationships that
+will matter enormously in 1846. They are not yet conquerors. They are merchants,
+and they are learning the terrain.
+
+For Indigenous Californians, independence changed the paperwork and nothing
+else. Their status was revised in law and unrevised in practice, and they were
+now subject to landholders rather than to an order — which, as the next chapter
+shows, was about to get worse.
+
+By 1834 the territory is organised around private title under weak enforcement,
+held by a small class with local power and distant legitimacy. That is precisely
+the arrangement that secularisation is about to exploit, and the largest
+transfer of land in California's history is about to run through it.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

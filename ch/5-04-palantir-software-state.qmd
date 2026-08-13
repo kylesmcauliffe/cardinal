@@ -43,6 +43,46 @@ itself in software by showing a Palo Alto firm capitalised partly by an
 intelligence agency and selling analytical capacity back to the government.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+In its early years Palantir received investment from In-Q-Tel, the Central
+Intelligence Agency's venture capital arm. An intelligence service helped
+capitalise a company that would go on to sell it software. The chapter states
+the loop before commenting on it.
+
+Palantir was founded in Palo Alto in 2003 by Peter Thiel and Alex Karp, and
+unlike the platforms in the surrounding chapters it never claimed to be neutral
+infrastructure. Its founding argument was that the alternative to wholesale
+surveillance was better analysis of data already lawfully held, and the chapter
+gives that argument in its strongest form, because it is a serious position and
+the chapter is weaker against a straw man.
+
+What the product does is integrate and analyse data across systems that were
+never designed to talk to one another. Described plainly and without the
+marketing vocabulary, it is a way of making an institution's own information
+legible to itself — which places it in a line running back to the mission
+register in Act II and the Hoover archive in Act III.
+
+Its customers are intelligence agencies, defence departments, and immigration
+enforcement, and the chapter works from contract records with values and dates.
+The immigration deployments get the documents first and the company's response
+second, in that order. Revenue figures come from filings rather than from the
+unsourced number the drafts carried.
+
+The structural claim is that when the state's perception of a problem is
+mediated by a vendor's model, the vendor is not selling a tool but supplying a
+faculty. Act III's university-contractor-state triangle has reassembled in
+software, with the same three parties and the same flow of public money.
+
+Peter Thiel appears in this book as a PayPal founder, the principal funder of a
+Senate campaign that reached the vice presidency, and the founder of a company
+embedded in the security state — one person occupying three of its mechanisms at
+once.
+
+The excluded are the people the software is used to find.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

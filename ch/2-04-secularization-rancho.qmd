@@ -39,6 +39,47 @@ by showing the largest transfer of land in the territory's history completed
 before there was a commercial economy to allocate it.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+The secularisation decrees said the mission lands would return to the Indigenous
+neophytes who had worked them. Almost none of it did. Putting the promise and
+the outcome next to each other is the whole chapter, and the gap between them
+established a pattern that this book will document for the next two hundred
+years: inclusion announced, exclusion delivered.
+
+From 1834 Mexico transferred enormous landholdings out of Church control. The
+stated motives were real and defensible — reducing clerical power, generating
+revenue, settling the frontier — and the chapter gives them fairly. The result
+was not distribution but concentration. The number and size of private grants
+expanded sharply, and the recipients were the class the previous chapter
+created: grantees with local power, distant legitimacy, and now vastly more
+land.
+
+What emerged was the rancho economy, running on hides and tallow for export, and
+on a labour system that carried over from the missions with a new owner's name
+on it. The people who had been compelled to work mission land were now compelled
+to work private land, and the legal fiction had changed while the arrangement
+had not.
+
+The structural claim is the one the chapter exists to make, and it inverts the
+usual sequence. In the standard account, markets develop and then some
+participants win and concentration follows. California did it backwards. Its
+land was concentrated in a few hands before it had a commercial economy at all,
+which means that everything after 1848 — the Gold Rush, statehood, the railroad
+— was dealt from a stacked deck. Monopoly here is a precondition, not a by-
+product.
+
+The cost falls on the mission Indians, dispossessed twice: first of their
+territory by the mission system, then of the restitution the secularisation
+decrees explicitly promised them. The provisions existed. The land went
+elsewhere.
+
+By 1846 a landholding elite exists in California, holding title from a
+government about to lose the territory. What happens to that title under a new
+sovereign is the next chapter.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

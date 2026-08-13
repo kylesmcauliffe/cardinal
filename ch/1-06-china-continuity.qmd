@@ -43,6 +43,45 @@ repeated dynastic collapse because its governing class was credentialed rather
 than inherited.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+A candidate sits in an examination cell writing on a text a thousand years older
+than he is, competing for a post in a state that has already outlived several
+ruling families. That image is the most durable arrangement of power in recorded
+history, and it is the chapter's whole argument.
+
+The Chinese imperial system was optimised for persistence rather than growth,
+which makes it nearly illegible to a culture that assumes expansion is the
+point. Its central mechanism was the examination. The scholar-official class
+reproduced itself by tested competence in a shared canon rather than by
+inheritance, which produced a governing class with common reference points, no
+independent power base, and no loyalty to any particular dynasty. Dynasties
+fell. The bureaucracy continued, because the bureaucracy was never owned by the
+dynasty.
+
+This is elite network reproduction with the pretence removed. The state said
+outright that it was selecting and ranking people, published the criteria, and
+administered the test. Every institution in the rest of this book does the same
+thing while describing it as something else.
+
+The chapter takes the treasure fleets seriously rather than using them as a
+morality tale. Discontinuing long-range naval expansion looks like a
+catastrophic error from a European vantage point and looks rational inside a
+system whose objective is continuity: the voyages were expensive, they returned
+prestige rather than revenue, and the northern frontier was the actual threat.
+
+Its cost is a filter disguised as an opening. The examination was formally
+available to almost anyone and practically available to very few, because the
+real entry requirement was years of literacy and leisure that only some families
+could fund. Formal openness concealing an economic filter is a pattern this book
+will meet again, in an admissions office, described as merit.
+
+The contrast with founder-cult capitalism is total and instructive. The most
+durable power system in human history was a credentialing system, and Act III
+will need that sentence.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

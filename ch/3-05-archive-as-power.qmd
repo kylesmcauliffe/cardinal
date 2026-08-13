@@ -40,6 +40,44 @@ interpretation by showing a private fortune determine, through acquisition
 choices, what evidence about the war and the revolutions would survive.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+In 1919 a collector walked through a European city buying revolutionary leaflets
+off a table with American money, at the moment when nobody thought they were
+worth anything. Some of those sheets are now the only surviving copies.
+
+Hoover had spent five years watching governments dissolve, and he understood
+something that the governments did not: the paper was about to disappear. He
+committed fifty thousand dollars to Stanford and dispatched agents into a Europe
+still in chaos with an instruction to take everything — ration documents,
+occupation decrees, underground presses, the ephemera of collapse that no
+ministry considered worth filing. What became the Hoover War Collection was
+built on precisely the material that had no value to anyone else.
+
+The chapter's argument is that an archive is a chokepoint. What later
+generations can prove, cite, or deny is determined by what was collected, and
+collection decisions are made by people with interests. This is not a claim
+about falsification; nothing in the collection is forged. It is a claim about
+gravitational fields. Research follows sources, sources sit inside institutions,
+and institutions have points of view.
+
+There is something genuinely strange about the location, and the chapter names
+it before explaining it: a world archive of European collapse, assembled on a
+former horse farm in California. The explanation is the book's whole thesis in
+miniature. The collection followed the donor, and the donor followed the
+credential. California was now accumulating memory infrastructure alongside
+land, capital, and institutions, and memory infrastructure is the input to every
+future argument about what happened.
+
+The chapter's honesty requirement is to name what was not collected, and to
+concede that this book's own evidence base was shaped by acquisition decisions
+made in 1919 by people with a view about what mattered.
+
+By the end of the chapter California holds four things: land, capital,
+credentials, and memory. The fourth is the one nobody thinks to count.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

@@ -42,6 +42,46 @@ instrument by showing the same donors endowing the institutions that credential
 their own class.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Six hundred years after a Florentine banker had his face painted into an
+altarpiece, the same transaction is conducted with a building and a tax
+deduction. The chapter opens by returning to Act I and then examines the
+instruments.
+
+Modern legitimacy is purchased through philanthropy, university endowment, and
+public-benefit storytelling, and the structures matter more than the sums. A
+private foundation carries a minimum payout requirement and disclosure
+obligations. A donor-advised fund carries neither and can hold assets
+indefinitely. And the Chan Zuckerberg Initiative was constituted as a limited
+liability company rather than a foundation, which permits political spending and
+for-profit investment alongside grantmaking and imposes no payout requirement at
+all. The chapter states the defensible reasons for that choice and then examines
+its effects, because the form is the argument.
+
+University endowment remains the core move, and the book has already documented
+it twice: Leland Stanford in 1885, and Phil Knight with the management centre
+and the scholars programme. The institution that certifies the elite is funded
+by the elite it certifies, and the names over the doors are the receipt.
+
+The Thiel Fellowship is the chapter's sharpest case, because it appears to
+contradict the thesis by paying students to leave university. What it actually
+does is substitute one gatekeeper for another — a smaller, less accountable, and
+more personal one — which strengthens the argument rather than weakening it.
+
+Venture capital as ideological publisher belongs here too: funding the narrative
+about what technology is for, alongside the companies.
+
+What all of it buys is regulatory forbearance, press access, and the presumption
+of good faith.
+
+The public forgoes tax revenue and receives no vote over how the resulting funds
+are deployed, and grantees dependent on continued funding are not free to say
+so. The most efficient route to being untouchable is to become indispensable to
+the institutions that decide who is respectable.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

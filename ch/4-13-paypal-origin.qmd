@@ -40,6 +40,41 @@ modest financial outcome produce an enduring concentration of capital and
 influence.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+In 2007 *Fortune* photographed a group of former PayPal employees dressed as a
+crime family and called them a mafia. The joke described something real, and by
+naming it the magazine helped make it more so.
+
+PayPal was not, by the standards of what followed, a large success. Confinity
+and Elon Musk's X.com merged in 2000 after a difficult period, the combined
+company went public in 2002, and eBay acquired it later that year for roughly
+$1.5 billion. The business itself was frequently in trouble — fraud losses,
+dependence on a single marketplace, and a management fight that removed Musk as
+chief executive while he was on a plane.
+
+The durable asset was the address book. The proceeds and the relationships from
+that one exit capitalised Tesla, SpaceX, LinkedIn, Palantir, YouTube, Yelp, and
+Affirm, and supplied partners to Sequoia and Founders Fund. Peter Thiel, Reid
+Hoffman, Max Levchin, David Sacks, Roelof Botha, Keith Rabois, and Musk have
+funded, advised, and recruited for one another for a quarter of a century.
+
+The chapter's argument is that networks outlast products. What this group has is
+shared risk assessment, dramatically lowered transaction costs, and trust as a
+form of capital — which is a credentialing system with no examination and no
+institution, and Act I's chapters on Greek schools and Chinese examinations are
+the comparison the chapter reaches for. It also has a coherent and consequential
+politics held largely in common, and Act V will show what that produces.
+
+The chapter resists admiration. The efficiency with which the network reproduces
+itself is precisely the barrier facing everyone outside it, and founders without
+access to that address book were not raising money on the same terms.
+
+A ruling class assembled from one company's payroll. This book's thesis, running
+at the scale of a staff photograph.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

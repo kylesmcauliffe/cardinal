@@ -44,6 +44,46 @@ showing firms setting terms for markets they also participate in, without
 needing to coordinate with one another.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+A railroad monopoly announced itself with a rate card. An attention monopoly
+arrives as a default setting — the browser that came with the phone, the search
+engine that came with the browser, the payment method already entered. The
+chapter opens on something so small that nobody remembers choosing it, and then
+follows the revenue.
+
+It also states plainly why this book does not describe the result as a cartel.
+That word asserts coordination, and the evidence does not support coordination.
+It supports convergence: five firms independently arriving at the same
+structural position because that position is where the returns are, and the
+returns being there because everything routes through it. That is a worse
+finding rather than a softer one, because there is no meeting to expose and no
+defendant to name.
+
+The five positions are distinct and the chapter takes them one at a time — an
+operating system and an app store, a search index and an ad auction, a
+marketplace and its logistics, an enterprise software estate, a social graph.
+Each is a bottleneck, and each firm both operates its market and competes inside
+it, which is the specific arrangement that antitrust law was originally built to
+prevent.
+
+Acquisition became a strategy rather than an event: buying the competitor before
+it is a competitor, at prices that look absurd until the position is understood.
+The chapter names the deals with dates and figures.
+
+Any combined market capitalisation figure it uses carries an explicit date,
+because the number moves daily and a stale one is the fastest way to forfeit a
+reader's trust.
+
+The excluded are the publishers, sellers, and developers whose access to
+customers runs through an intermediary that also competes with them, and the
+chapter draws on antitrust filings for specifics rather than complaint.
+
+The railroad barons are back. The reason nobody stopped them is that there was
+no rate card to point at.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

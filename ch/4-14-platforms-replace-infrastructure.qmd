@@ -42,6 +42,47 @@ speech regulation transferred to firms operating under contract rather than
 statute.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Section 230 of the Communications Decency Act is twenty-six words long. It
+provides that no provider of an interactive computer service shall be treated as
+the publisher of information provided by someone else, and it is the legal
+foundation of the entire platform economy. The chapter opens by quoting it in
+full.
+
+What platforms had taken over by the early 2000s reads like a list of public
+utilities: identity verification, payment processing, communication, mapping,
+commerce, and the distribution of news. These were functions that had been
+provided by states, regulated monopolies, or common carriers, and they moved
+into private hands governed by contract rather than statute.
+
+The rail comparison, which this book has been building since Act II, is finally
+discharged here. The Southern Pacific was eventually regulated as a common
+carrier because it was recognised as infrastructure, and the obligations
+followed the recognition. Platforms achieved the infrastructural position and
+avoided the classification, and the gap between the two is what the chapter is
+about.
+
+Terms of service became a governing instrument with no elections, no appeals
+process resembling due process, and no jurisdiction, applying to populations
+larger than most nations. And because other countries' civic life increasingly
+ran on Californian infrastructure, the state's power became geopolitical rather
+than merely economic — an extraterritoriality that Act V's chapter on China
+examines from the other end.
+
+Network effects made the position defensible without owning anything physical,
+which is the lesson of the personal computer chapter operating at global scale.
+
+The excluded are everyone governed without recourse: suspended, delisted,
+demonetised, or algorithmically misidentified, with no appeal that a lawyer
+would recognise as one.
+
+Act IV ends here. The pipeline is self-reinforcing and self-reproducing, and the
+machine no longer needs to be operated. Act V is what it does when nobody is
+steering it.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

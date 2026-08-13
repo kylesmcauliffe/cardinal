@@ -43,6 +43,47 @@ decides legitimacy crises by showing the most technically capable president of
 the era lose office having implemented more intervention than his predecessors.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Hooverville is a word that did political work the record does not support, and
+the chapter begins there, because the gap between what Hoover did and what his
+name came to mean is its subject.
+
+He was arguably the most administratively accomplished man ever to hold the
+presidency. He had fed a continent, run a federal department as a national
+clearing house, and built a reputation as the era's outstanding manager of
+complex systems. His response to the Depression was more interventionist than
+any predecessor's: the Reconstruction Finance Corporation, the Federal Home Loan
+Bank system, expanded public works. The chapter gives that case at full
+strength, because the argument requires it.
+
+And it failed, because the crisis was not an engineering problem and he governed
+it as one. He kept solving the wrong problem correctly. What had broken in 1929
+was not only prices but the account of why the winners had won, and the country
+was asking a question about legitimacy to which administrative competence was
+not an answer.
+
+Roosevelt supplied the competing story first and the policy programme second.
+The New Deal is best understood in this chapter as an interpretation of what
+institutions are for, and the chapter's structural claim is that the winning
+interpretation determined the shape of labour law, securities regulation, and
+capital formation for the next fifty years. Ideas were the decisive assets of
+the decade, not factories.
+
+California's exposure was acute: migration into the state, agricultural labour
+conflicts met with force, and a growing dependence on federal water and public
+works.
+
+The chapter ends with Hoover in Palo Alto, a defeated president assembling an
+intellectual apparatus for a comeback. It arrives in 1980 with somebody else's
+name on it, and Act IV chapter 10 collects the payment.
+
+The lesson California's elite absorbed is that administrative competence is not
+sufficient, and that whoever loses the argument loses everything downstream of
+it. They did not make the mistake again.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

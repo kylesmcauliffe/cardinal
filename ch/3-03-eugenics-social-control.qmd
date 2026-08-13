@@ -44,6 +44,47 @@ hierarchy alongside the hierarchy by showing its founding president advancing a
 biological argument for social sorting while the state enacted it in law.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+California's 1909 sterilisation law is written in flat administrative prose, and
+the chapter opens by quoting it. Under that statute and its successors the state
+performed roughly a third of all recorded sterilisations in the United States.
+The figures vary between institutional records and later studies, and the
+chapter cites a range with its basis rather than a round number, because the
+disagreement about how many is part of what the record does to people.
+
+David Starr Jordan is presented whole. He was a serious ichthyologist,
+Stanford's first president, a conservationist with Sierra Club connections, a
+committed peace campaigner, and one of the most prominent eugenicists in America
+— all of it genuinely, and all of it in the same paragraph rather than in
+separate ones. The chapter is more damning for refusing to simplify him.
+
+The intellectual structure is what matters. Eugenics made heredity explain
+poverty, which meant that social hierarchy could be described as biological
+rather than economic. For an institution whose endowment came from monopoly
+rent, that is an extraordinarily useful proposition: it explains the
+distribution of wealth as a distribution of fitness. The university did not
+merely educate the people who would lead. It supplied the scientific argument
+for why they should, and this is the most serious charge the book makes.
+
+The chapter traces the connection between conservation, national vigour, and
+racial exclusion carefully, because it is real and it is frequently overstated.
+It notes Berkeley's parallel track in urban planning and restrictive covenants —
+the science of sorting applied to a map. And it makes one verified forward
+reference, no more, to what lies outside its window: the Human Betterment
+Foundation in 1928, and German officials studying California's programme in the
+following decade.
+
+The longest section belongs to the people sterilised — overwhelmingly poor,
+disproportionately Mexican and Black, institutionalised at Sonoma and Patton,
+unable to consent. They are the chapter's subject, and the record preserves
+enough to write them as people.
+
+When Act IV calls this talent identification, the reader should hear this
+chapter underneath it.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

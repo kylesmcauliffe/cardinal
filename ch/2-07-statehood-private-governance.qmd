@@ -42,6 +42,43 @@ operating courts and gallows in 1856 and emerging with enhanced political
 authority.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+In 1856 San Francisco had a mayor, a sheriff, courts, and a fortified building
+in the middle of the city from which several thousand organised businessmen
+conducted arrests, trials, and executions. The Committee of Vigilance was not a
+mob. It was a parallel state, run by the city's commercial elite, and it was
+widely regarded afterwards as having restored order.
+
+The chapter starts with the formal institutions. California's constitution was
+drafted at Colton Hall, 570 Pacific Street, Monterey, in 1849, and statehood
+arrived on 9 September 1850 as part of the Compromise of 1850 — which places
+California on the sectional chessboard from its first day in the Union, a fact
+that becomes decisive in chapter 8.
+
+But institutions lagged reality badly. A new state government with almost no
+capacity was responsible for a city growing faster than any in American history,
+and the gap was filled by whoever was organised enough to fill it. The
+Committees of Vigilance of 1851 and 1856 did exactly that. The second was much
+larger, drilled as a military organisation, held its own proceedings, and
+carried out hangings — and its targets were substantially the Irish and Catholic
+immigrants and the Democratic political machine that its members wished to
+displace. It was a factional instrument wearing the costume of civic order.
+
+The important detail is not the violence but the respectability. These were the
+city's merchants and property owners, and they emerged from the episode with
+enhanced political authority rather than criminal liability. Private
+organisation substituted for public authority and was honoured for it.
+
+Those hanged had no appeal. Californio and Chinese residents had no standing in
+either the formal order or the informal one.
+
+California has now established, within six years of statehood, that private
+actors can govern in the shadow of the state and be praised as public
+benefactors. That premise underwrites everything in Act IV.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

@@ -43,6 +43,46 @@ its founders by showing it surviving bankruptcy proceedings, a national panic,
 and the deaths of both founders without structural change.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Leland Stanford died on 21 June 1893, in the middle of a national financial
+panic, with the federal government suing his estate for fifteen million dollars
+in railroad debts. The university he had founded two years earlier had no
+independent income, no endowment it could access, and a payroll. It very nearly
+did not survive, and the chapter opens on the balance sheet rather than the
+funeral.
+
+Jane Stanford held it together, and the chapter gives her the competence the
+drafts denied her. She sold personal property, cut expenditure, paid faculty
+salaries out of her own funds where she could, argued the university's case
+against the government's claim, and kept the institution open through six years
+of litigation and depression. She was, functionally, its chief executive.
+
+She also removed a professor. Edward Alsworth Ross was forced out in 1900 after
+criticising railroad monopoly — and Asian immigration policy — from a Stanford
+lectern, with Jordan complying in the removal. The episode became the founding
+controversy of American academic freedom and contributed to the eventual
+formation of the American Association of University Professors. Ross went to
+Wisconsin, thrived, and published *Social Control* the following year. The first
+great academic freedom case in the United States arose at the university built
+by a railroad, over criticism of railroads, and the chapter lets that stand
+without annotation.
+
+Jane Stanford died in Honolulu on 28 February 1905, at 2365 Kalākaua Avenue.
+Whether she was poisoned is genuinely contested: there had been a strychnine
+incident in San Francisco weeks earlier that is better documented than the
+Honolulu death, the attending physicians and the university's subsequent account
+diverge, and serious scholarship exists on both sides. The chapter states each
+position at its strongest, names the uncertainty, gives its own reading and the
+reasons for it, and rests no part of its argument on the answer.
+
+Because the argument is what did not happen. No collapse, no dissolution, no
+change of governance. The self-perpetuating board simply continued. Both
+founders were dead and the machine was intact — quieter, and more powerful. Act
+II ends with California's machinery complete and ready to think.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

@@ -41,6 +41,44 @@ the Valley by showing that its dominant firms are all descendants of a single
 company that lost its people.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Draw the family tree of the American semiconductor industry and almost every
+branch runs back to one company that could not keep its people. Intel, AMD,
+National Semiconductor, and dozens more came out of Fairchild, and the chapter
+begins with that fan-out and then explains why the parent could not prevent it.
+
+Fairchild Semiconductor was founded in 1957 by the eight who had left Shockley,
+under a deal with Fairchild Camera and Instrument that included a buyback option
+which later caused most of the trouble. Its technical achievements were real and
+consequential: Jean Hoerni's planar process, and Robert Noyce's independent
+development of the integrated circuit. Together they gave the firm a
+manufacturing advantage over everyone else in the industry.
+
+That advantage was also completely portable, which is the chapter's structural
+point. Process knowledge lives in the people who hold it, and people can walk. A
+company whose competitive position consists of things its engineers know cannot
+prevent those engineers from founding competitors, particularly in a state that
+will not enforce a non-compete. Noyce and Gordon Moore left for Intel in 1968;
+Jerry Sanders founded AMD; Charlie Sporck went to National. The Valley grew by
+recombination, splitting and re-forming faster than any regulator could follow.
+
+The early customers were military and aerospace, including Minuteman and Apollo.
+This is not yet a consumer industry, and the chapter keeps Act III's substrate
+visible.
+
+Arthur Rock's contribution runs alongside. He took equity rather than issuing
+loans, and backed groups of people rather than collateral, which was genuinely
+novel and which is what made funding the fragmentation possible.
+
+Fairchild opened assembly operations in Hong Kong in 1963. That is the offshore
+turn happening in semiconductors at the same moment Phil Knight is arranging it
+in footwear three chapters later, and the workforce — largely young women, paid
+a fraction of American wages — is the cost the margins depend on. Women on the
+domestic fabrication lines belong in the same accounting.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

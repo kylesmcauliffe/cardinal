@@ -43,6 +43,47 @@ capital by showing a man with no money and no standing convert a degree into
 access to international mining finance within a decade.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Herbert Hoover failed Stanford's entrance examination in everything except
+mathematics. He was admitted conditionally, in 1891, to a university that had
+opened that month and was not yet finished being built. Four years later he
+graduated in the pioneer class with a geology degree, no money, and no family
+standing — and within fifteen years he was managing mining operations on four
+continents.
+
+The chapter's claim is that the credential did work that neither birth nor
+capital could have done. An orphan from Iowa was made legible to London mining
+finance by a piece of paper from a new university in California, and that
+legibility is the entire asset. Act I promised that knowledge would become a
+portable monopoly; this is the first chapter in which someone carries one out of
+a building and cashes it.
+
+The route is worth tracing precisely, because each step is a recommendation
+rather than an application. Ore carts in Nevada, then a clerkship, then Louis
+Janin, then Bewick, Moreing in London, then Australia in 1897 and the Sons of
+Gwalia mine at Coolgardie. What a mining engineer actually does is survey,
+account, price risk, manage labour, arrange logistics, and negotiate with
+governments — which is the same skill set Act IV's laboratory directors will
+need, and the chapter names it as such.
+
+Lou Henry Hoover belongs in the chapter as a peer rather than a spouse. She took
+a geology degree at Stanford in 1898, the only woman in her programme, and the
+partnership is the network at its smallest scale. They were together in Tianjin
+during the siege of 1900, two Stanford geologists treating a war as a logistics
+problem.
+
+The chapter does not skip the Kaiping controversy. The disputed transfer of the
+Chinese mines produced litigation that followed Hoover for years, and the
+strongest version of the case against him is given before the record is
+assessed.
+
+By 1901 he is a partner in the firm. Technical training plus capital access plus
+institutional network equals global leverage — the formula Act III spends twelve
+chapters testing.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

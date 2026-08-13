@@ -42,6 +42,44 @@ bottleneck rather than to whoever does the work by showing that the Gold Rush's
 lasting fortunes were made in supply and finance, not in mining.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Sam Brannan bought every pick, pan, and shovel he could find, and then walked
+through San Francisco holding up a bottle of gold dust and shouting about the
+discovery. The order of operations is the entire book in one anecdote.
+
+The Gold Rush is remembered as a story about miners and it was a story about
+suppliers. James Marshall found the gold and got nothing; John Sutter, on whose
+land it was found, was overrun and ruined. Meanwhile the durable fortunes went
+to merchants, shippers, landlords, and bankers — the people positioned on the
+throat of the trade rather than at the diggings. San Francisco, not Coloma, is
+where the money stayed, because the harbour was the only realistic way in and
+everything had to pass through it. Ships were abandoned in the bay in such
+numbers that the waterfront was filled in around them and sold as real estate.
+
+The arithmetic punctures the myth. For most miners, returns amounted to
+something like wages, and for many to ruin, while the men selling them equipment
+at inflated prices compounded steadily. California's capitalism was logistical
+from birth, and the extractive story obscured the infrastructural reality —
+which is itself part of the mechanism, because a myth of luck explains the
+winners as fortunate rather than as positioned.
+
+The Foreign Miners' Tax of the early 1850s shows the state joining in:
+extraction from the extractors, aimed at Chinese and Latin American miners, and
+the first appearance of a manoeuvre California will repeat.
+
+The cost was catastrophic and specific. Indigenous Californians suffered the
+sharpest dispossession and population collapse of the entire period, under
+violence that was organised, state-sanctioned, and in some cases publicly
+funded. Californio landholders watched squatters overrun property faster than
+any court could respond.
+
+The lesson California learned and never forgot is the one Brannan demonstrated:
+own the chokepoint, not the commodity. Twelve years later, four Sacramento
+merchants applied it to a railroad.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

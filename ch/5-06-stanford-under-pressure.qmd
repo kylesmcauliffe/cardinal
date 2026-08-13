@@ -41,6 +41,44 @@ function are separable by showing the credential retain its market value through
 a period of sustained reputational damage.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+The most consequential piece of accountability journalism about Stanford in a
+decade was written by undergraduates at the *Stanford Daily*, and it ended a
+presidency. Marc Tessier-Lavigne resigned on 19 July 2023 following a
+university-commissioned review of papers he had co-authored.
+
+The chapter is exact about the findings, because this is precisely where the
+reporting was loosest and the distinction matters: the review addressed
+manipulated images in work from laboratories he led, and the question of what he
+personally knew and did is not the same question as whether the papers were
+sound. The chapter cites the review rather than the headlines.
+
+Its structural interest is not the scandal. The credential's entire value rests
+on the institution's claim to verify — to check work, to certify people, to be
+the thing a stranger can rely on. A verification failure at the top of the
+institution is a failure of the product, which is why this episode belongs in a
+book about chokepoints rather than in a book about misconduct.
+
+Two other pressures run alongside. The Hoover Institution's political role
+became a campus fight over whether a university claiming disinterest can house
+an explicitly committed research institute, and the chapter states both
+positions fairly. And admissions came under sustained scrutiny, through the 2019
+admissions bribery scandal and the 2023 Supreme Court decision, raising the
+question of what the credential screens for and who still believes the answer.
+
+The chapter also gives the honest structural version, which is more damning than
+the personal story: the incentives operating in high-prestige laboratories
+reliably produce this class of problem, and the individuals are somewhat
+incidental to it. Junior researchers dependent on principal investigators bear
+most of the risk.
+
+Then it reports what did not change. Applications, endowment, licensing revenue,
+and placement all held. The pipeline is the same; the trust in the pipeline is
+not. When trust erodes, the elite stops bothering to be subtle.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

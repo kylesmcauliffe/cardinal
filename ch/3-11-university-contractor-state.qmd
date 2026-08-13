@@ -41,6 +41,47 @@ because universities laundered its legitimacy by showing what each of the three
 parties contributed and what each extracted.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+The founding document of Silicon Valley is a contract file, and this chapter
+opens on it rather than on a garage.
+
+Its argument is schematic, and deliberately so: three parties, three
+contributions, one flow of public money. The state supplies demand and
+classification. Contractors supply production. Universities supply talent and,
+more valuably, legitimacy. Each party gets something it cannot obtain elsewhere,
+and the arrangement is stable because all three have an interest in its
+continuation.
+
+The interesting question is why the money routes through universities at all,
+and the chapter gives two answers. The state cannot fund firms directly at this
+scale without the appearance of favouritism, and a university's disinterest is
+an asset worth paying for. And it cannot do the work in-house because civil
+service salaries and hiring timelines cannot compete for the people it needs.
+
+The unglamorous heart of the chapter is indirect cost recovery. Overhead — the
+percentage of every research grant that goes to the institution rather than the
+project — is the university's actual revenue model, and following it explains
+far more about institutional behaviour than any statement of academic mission.
+Universities compete for grants because grants are income, and the income
+arrives whether or not the research succeeds.
+
+Classification is what makes the arrangement unaccountable. The public funds
+research it is not permitted to read, and the commercial value of the results
+accrues to private firms. The taxpayer and the legislature are structurally
+excluded — the legislature appropriates in aggregate and cannot see the
+allocation.
+
+California ended up with a disproportionate share because it hosted all three
+layers in one metropolitan area: Moffett Field and the aviation industry, the
+Pacific theatre, and two major research universities within forty miles of each
+other.
+
+This diagram is the machine. Every subsequent chapter in this book is the same
+triangle with different company names in the second box.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

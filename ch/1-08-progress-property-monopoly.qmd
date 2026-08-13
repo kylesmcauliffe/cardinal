@@ -44,6 +44,44 @@ the American revolution was substantially a property settlement by showing who
 held the franchise afterwards.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+John Jacob Astor died in March 1848, the richest man in America, having made his
+fortune in furs and kept it in Manhattan real estate. Nine days earlier a
+carpenter had found gold in a millrace at Coloma, California. Neither event knew
+about the other. The old model of American fortune ended in the same season the
+new one began, and Act I ends on that seam.
+
+Before it gets there the chapter does two jobs. The first is the Enlightenment,
+whose effect was not to topple kings but to make their authority intellectually
+indefensible, which is slower and more dangerous. The American Revolution
+succeeded as a property settlement conducted in natural-rights language, and the
+propertied class won it — a claim the chapter supports with the franchise
+records rather than by assertion, after giving the idealist reading its
+strongest form. The French Revolution was more honest about being a transfer of
+sovereignty and therefore more violent. Napoleon resolved the contradiction by
+colonising republican vocabulary while concentrating imperial power, which is
+precisely what Augustus did, and the pattern is holding.
+
+The second job is monopoly in its modern form. Steam, rail, and coal produced
+firms with structural control over the preconditions of economic life rather
+than mere advantages within it. Whoever owns the rails sets the prices; whoever
+controls the ports controls the trade. And the East India Company demonstrated
+the end state: a chartered corporation with an army, a tax base, and
+administrative authority over tens of millions of people. Corporate sovereignty
+is not a twenty-first-century anxiety. It is a documented eighteenth-century
+fact.
+
+The cost is in the inputs. Enslaved labour financed much of the industrial
+economy's raw material, and Company policy ruined the Bengali weaving industry
+that had been the world's largest.
+
+The pattern is now established across three thousand years and four continents.
+Act II runs it again from the beginning, in one place, within a single lifetime,
+and on the record.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

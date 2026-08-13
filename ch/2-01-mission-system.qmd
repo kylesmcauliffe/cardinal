@@ -41,6 +41,42 @@ power by showing that Spain controlled Alta California for fifty years with
 almost no settlers, using records rather than markets.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+A page in a mission baptismal register records a name assigned, a date, and a
+parentage. The name the person was born with is not there. One line contains the
+whole mechanism, and California's first form of power is visible in it: the
+conversion of human lives into administrative entries by an institution that
+owned the only pen.
+
+Spain took Alta California from 1769 without a settler population, an economy,
+or a market, and held it with a system rather than a settlement. Three
+institutions did the work. The presidio supplied force. The pueblo supplied
+provisions. And the mission supplied labour and record, which made it the
+important one. Mission San Francisco de Asís was founded in 1776 at what is now
+320 Dolores Street, in the same season as a declaration on the other coast; the
+building is still standing, and it was an accounting office as much as a church.
+
+The strategic object was never conversion for its own sake. It was keeping
+Russia and Britain off the Pacific coast, and specifically holding the greatest
+natural harbour on it. Everything else was instrumentation around that.
+
+What the registers did was make the population legible. A baptism was an
+administrative event with labour consequences: it created an obligation, a
+location, and a name that could be tracked. This is a chokepoint on the record
+itself, and it is the same position the archive will occupy in Act III and the
+platform will occupy in Act V.
+
+The cost is the chapter's centre and not a footnote to it. The Ohlone, Chumash,
+and dozens of other peoples appear in California's founding documents almost
+exclusively as entries, enumerated and renamed and set to work in an economy
+they were not free to leave, and the population collapse in the mission
+districts is the defining fact of the period. It is also, awkwardly for the
+institution, documented in the institution's own books — the archive contains
+the evidence against the archivist, including the records of flight and revolt.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

@@ -42,6 +42,46 @@ credential by showing engineers, rather than owners, setting the terms on which
 imperial capital was allocated.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+A cable arrives in a London office from a minehead on another continent. It
+carries a valuation and a man's signature, and on the strength of it shares will
+move. That transaction is how the late-nineteenth-century elite was actually
+constituted.
+
+The mining engineer's product was not geology but information. London capital
+wanted to know whether a deposit on the far side of the world was worth what its
+promoters claimed, and it had no way to find out except to send someone it could
+trust and believe what he reported. Hoover was, functionally, a ratings agency
+with a hammer. Trust was the scarce input, and the credential was its proxy —
+which is why a Stanford degree could substitute for a family name.
+
+California had been running this model on itself for fifty years. Hydraulic
+mining, the Comstock, and the litigation and accounting apparatus the goldfields
+generated had produced a professional class that knew how to value, finance, and
+manage extraction at scale. The state exported that expertise before it exported
+anything else, and the men who carried it out were doing abroad what their
+fathers had done in the Sierra foothills.
+
+Hoover's circuit — Australia, China, Burma, Russia — shows the scale and the
+mechanics of managing assets across a telegraph network, and shows something
+else the chapter is careful to name: the engineer's authority was borrowed.
+Extraction depended on imperial legal frameworks that made contracts enforceable
+and concessions durable, and without those frameworks the valuation was
+worthless. Technical expertise was governing capital because empire had cleared
+the ground for it.
+
+The people being valued do not appear as people. Across the global extraction
+economy the workforces — Indigenous Australian, Chinese, African — enter the
+documents as a cost line, and the chapter establishes that the managerial class
+this book follows was constituted by managing them.
+
+By 1914 a class exists that is technically trained, globally mobile, and
+answerable principally to capital. When the war arrives it will be the only
+group that knows how to move anything.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

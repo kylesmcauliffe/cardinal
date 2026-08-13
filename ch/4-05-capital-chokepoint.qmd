@@ -42,6 +42,44 @@ showing funding concentrate in a small number of firms in a single physical
 corridor adjacent to one university.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Sand Hill Road is an unremarkable suburban road in Menlo Park with low
+buildings, parking lots, oak trees, and a view of the foothills. A very large
+share of the world's consequential technology funding has passed through it, and
+the chapter begins by describing it as a place before saying what it is.
+
+What it is, is a toll gate. Kleiner Perkins and Sequoia Capital were both
+founded in 1972, both on that road, both minutes from Stanford, and their
+founders came out of the industry rather than out of finance. Venture capital is
+described as investment and functions as gatekeeping: a term sheet controls not
+only money but hiring, customers, the next round, and the exit. To scale, a
+company had to pass through a small physical corridor and a tight social
+network, which is precisely what the Southern Pacific required of freight a
+century earlier.
+
+The chapter explains why the form was necessary. A semiconductor startup in 1957
+had no collateral, no revenue, and enormous variance, which made it unfundable
+by a bank. Arthur Rock's equity model from chapter 3 solved that, and the 1972
+firms industrialised it.
+
+The public-money leg is the part the drafts omitted and the chapter restores. In
+1979 the Department of Labor clarified the prudent man rule under ERISA in a way
+that permitted pension funds to invest in venture capital, and the scale of
+available capital changed by an order of magnitude within a few years. The
+retirement savings of American workers became the raw material of the Valley's
+capital chokepoint, and those workers have no say in its deployment.
+
+Proximity matters because the asset being traded is judgement about people,
+which does not travel well. Geographic concentration is a feature of the
+mechanism, not an accident of it.
+
+The chapter closes on who is not funded, with sourced founder demographics
+rather than gestures. The tightest chokepoint in the system is now four minutes
+from the campus that supplies its deal flow.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

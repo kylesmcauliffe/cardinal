@@ -43,6 +43,46 @@ was designed rather than emergent by showing its designer state the plan before
 executing it.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Frederick Terman spent the war running Harvard's Radio Research Laboratory, an
+organisation of several hundred people working on radar countermeasures with a
+budget larger than Stanford's entire pre-war engineering programme. He returned
+to Palo Alto in 1946 to a department of a few dozen, carrying a management
+playbook and a grievance.
+
+The grievance matters. Stanford had been a bystander to the largest scientific
+mobilisation in history while MIT and Harvard captured the contracts, and
+Terman's diagnosis of why is the origin of everything in Act IV. Silicon Valley
+is not an accident or an emergence. It is a plan, written down in advance,
+executed by its author over three decades.
+
+What the war taught him was operational: how federal money actually moved, how
+procurement and classification worked, how to staff a technical organisation at
+speed, and — most importantly — that the government would fund science
+indefinitely if the science was necessary. Vannevar Bush's *Science, the Endless
+Frontier* made the intellectual case for permanence in 1945, and the funding
+channel it proposed was going to exist whether or not Stanford was on it.
+
+Terman's answer was concentration. Rather than becoming adequate across many
+fields, Stanford would build what he called steeples of excellence — a small
+number of areas where federal money was flowing, in which the university would
+make itself indispensable. Electronics and microwaves first. Follow the money
+and then become the bottleneck it must pass through.
+
+The chapter also plants the asset that Act IV will pay off, and does not explain
+it yet: eight thousand acres of land that the Founding Grant forbids the
+university to sell.
+
+The public paid for most of the research and, because much of it was classified,
+could not examine it. The chapter names that as a structural exclusion, and
+points forward to the campus revolt it eventually produces.
+
+A designer, a plan, a permanent funding channel, and an enormous piece of
+unsellable land. Everything Act IV needs is now in place.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

@@ -43,6 +43,43 @@ them by showing that Greek political independence ended in 338 BCE while Greek
 intellectual authority was still being purchased by empires centuries later.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Athens lost. In 338 BCE, at Chaeronea, Macedonian infantry ended Greek political
+independence, and it never returned. The city that invented public reasoning was
+finished as a power within a century and a half of its greatest period, and the
+world then spent the next thousand years paying for its ideas.
+
+That gap is the chapter. Athens had built something more durable than an army:
+an institutional chain that converted a method of argument into a credential
+other states would buy. Socrates supplied the method and was executed for it.
+Plato turned the method into a school. Aristotle turned the school into a system
+with a library, a research programme, and a curriculum. And then Aristotle was
+hired to tutor the son of the king whose army had just extinguished Athenian
+independence. Three generations converted a capital offence into an imperial
+qualification.
+
+Alexander is the distribution mechanism. He did not simply conquer; he
+installed. Local customs and local gods were left in place while Greek language,
+architecture, and administrative prestige were embedded above them — a common
+operating system running on top of diverse local arrangements, which is the
+first thing in this book that behaves like a platform. It worked so well that
+Greek remained the language of administration and science across the eastern
+Mediterranean for centuries after any Greek state mattered.
+
+It also failed immediately in one specific way. Alexander designated no heir.
+The empire fragmented within a generation, because a founder who does not
+institutionalise leaves a story rather than a system — a lesson Silicon Valley
+will rediscover roughly every fifteen years.
+
+The chapter is careful about what the agora rested on. Athenian citizens had the
+leisure to argue in public because enslaved people worked, and women and
+resident foreigners were excluded from the citizenship Athens is celebrated for
+inventing. Knowledge became the first portable monopoly, and it was portable
+because someone else was in the fields.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

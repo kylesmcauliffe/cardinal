@@ -42,6 +42,47 @@ permits by returning explicit verdicts on the falsification criteria set out in
 the Introduction, including negative ones.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+The Introduction made three predictions and said the book would be wrong if they
+failed. This chapter returns the verdicts.
+
+The first was that California's great fortunes would cluster around bottlenecks
+rather than inventions. The evidence across five acts is that they did:
+Brannan's shovels rather than Marshall's gold, the Central Pacific's rates
+rather than its engineering, the operating system rather than the computer, the
+ad auction rather than the search algorithm, the accelerator rather than the
+model.
+
+The second was that public money would precede private capture rather than
+follow it. Land grants and federal bonds, wartime research funding, ARPANET,
+Bayh-Dole, and now industrial policy for semiconductors. The sequence holds.
+
+The third was that the institutions producing the elite would be endowed by the
+elite they produced. The Founding Grant in 1885, the Hoover archive in 1919, the
+Knight Management Center in 2011, and the names over most of the doors on the
+campus.
+
+Then the chapter does the thing that separates a book from a polemic, and states
+where the argument is weakest. Some chapters rest on a single source. The Santa
+Clara headnote's actual doctrinal weight is genuinely disputed and this book has
+given it a prominent place. And distinguishing selection from causation in the
+corridor's persistence is hard: it is possible that talent and capital cluster
+there for straightforwardly productive reasons, and that the chokepoint reading
+overstates a real advantage. The chapter gives that counter-argument its full
+force before answering it.
+
+Its conclusion is that there was no conspiracy because none was required. Land,
+research funding, legitimacy, and network compound without anyone intending an
+outcome, and the machine runs whether or not its operators understand it. That
+is the more troubling answer rather than the more reassuring one: a conspiracy
+could be prosecuted, and this cannot.
+
+Gravity, not conspiracy. The book offers no programme, because noticing is the
+only first step available.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

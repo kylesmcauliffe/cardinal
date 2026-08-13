@@ -42,6 +42,45 @@ was converted into private ownership without compensation by tracing Mosaic's
 funding to Netscape's valuation.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Mosaic, the browser that made the web usable, was written at a federally funded
+supercomputing centre at a public university. Netscape was built on its
+foundations, went public in August 1995 without profits, and was worth billions
+by the afternoon. Thirty years of public network investment were converted into
+private ownership in about thirty months, and the chapter traces the funding
+line from the grant to the valuation.
+
+The handover itself received almost no public deliberation. The National Science
+Foundation backbone's acceptable use policy had restricted commercial traffic;
+it was lifted, the backbone was decommissioned in 1995, and the network passed
+to commercial operators. Alternative architectures — common carriage, municipal
+provision, public utility treatment — were foreclosed without being seriously
+debated, and the chapter names them because their absence was a choice.
+
+What followed was a contest over the interface between people and information,
+which is the same position the mission register held in Act II and the operating
+system held two chapters ago. Netscape held the browser. Yahoo, built by two
+Stanford graduate students on university machines, held the directory. Both were
+answers to the right question, and both were about to be beaten by a better one.
+
+Portals lost for a structural reason rather than a competitive one: human
+curation does not scale with the web's growth rate, and a directory of the
+internet becomes impossible somewhere around the point it becomes useful.
+
+The bubble mechanics belong to the previous chapter's capital chokepoint
+operating in public markets that would buy anything — underwriting practices,
+lock-up expirations, and retail investors arriving last.
+
+The public that funded the network received no equity in its commercialisation.
+That is the chapter's ledger entry, and it is the largest single instance of the
+book's second mechanism.
+
+Search is the chokepoint, and two Stanford doctoral students have already
+published the paper.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

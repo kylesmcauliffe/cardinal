@@ -42,6 +42,43 @@ contracts, and institutional relationships continued without a policy
 determination to continue them.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+The United States demobilised almost everything after 1945. Ships were
+mothballed, divisions dissolved, and factories converted. The research funding
+channels were renewed.
+
+The chapter's argument is institutional inertia rather than conspiracy.
+Washington wanted two incompatible things — to cut the military and to keep the
+scientific advantage the war had produced — and resolved the contradiction by
+leaving the funding arrangements, the managerial playbooks, the university
+relationships, and the security clearances exactly where they were. Vannevar
+Bush's case for permanent federal support of basic research was a good argument
+and it largely prevailed, though the National Science Foundation took five years
+to arrive and the Office of Naval Research filled the gap in the interim, which
+mattered enormously for who got funded and on what terms.
+
+At no point did the country decide to make permanent federal science funding,
+routed through private institutions, with classified outputs and privately
+captured commercial value. There was no debate, no vote, and no review. There
+was a constituency for continuation — the universities, the contractors, and the
+agencies — and no constituency at all for asking whether the arrangement should
+persist. A temporary arrangement with a constituency is not temporary.
+
+By 1951 it had acquired real estate. The Stanford Research Park opened that
+year, the first university-owned industrial park in the United States, and the
+chapter gives it a single paragraph because the next one opens on it.
+
+The public conversation that never happened is the chapter's excluded party, and
+naming it is the point: the most consequential structural decision in postwar
+American science was made by nobody, in no room, on no date.
+
+Act III ends here. California has learned to think at the scale of empire, the
+funding is permanent, the institutional architecture is built, and the machinery
+is about to produce its first self-sustaining industry.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

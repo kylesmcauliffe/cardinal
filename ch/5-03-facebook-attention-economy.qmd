@@ -44,6 +44,47 @@ rather than a description by showing the same firm exercising editorial control
 while claiming immunity for exercising it.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+A moderation guideline is a sentence written by an employee that determines what
+a hundred million people may say. The chapter opens there because it is the most
+accurate available description of what the company had become, and because the
+company spent a decade insisting it was something else.
+
+Facebook grew from a dormitory to global communications infrastructure between
+2004 and 2012 through network effects, a real-name policy that made the graph
+unusually valuable, and the acquisitions of Instagram and WhatsApp, which
+neutralised the two credible challengers. Its advertising model extended
+Google's: not stated intent, as in a search query, but inferred disposition
+assembled from behaviour.
+
+Throughout, the company described itself as a neutral platform rather than a
+publisher, and Section 230 made that position legally durable. The chapter's
+argument is that neutrality was a legal posture rather than a description,
+because the same firm was continuously exercising editorial control through
+ranking and moderation while claiming immunity for the consequences of
+exercising it.
+
+In 2018 the distinction collapsed in public. The Cambridge Analytica
+disclosures, congressional testimony, and the FTC settlement that followed are
+given with every figure independently verified and dated, because the drafts
+carried numbers that did not survive checking.
+
+The most serious material is Myanmar. The chapter uses the UN Human Rights
+Council's findings and the company's own commissioned human rights assessment,
+and gives the episode its full weight rather than a paragraph.
+
+The excluded are the content moderators — largely contracted, largely outside
+the United States, doing documented psychological harm to themselves at a
+fraction of engineering pay. The line from Act II's Chinese railroad crews is
+direct: the system's stability depends on people it does not employ.
+
+What changed after 2018 was believability rather than law, which is the same
+failure Hoover suffered in 1932. Infrastructure cannot decline responsibility
+indefinitely, and the next company does not try.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

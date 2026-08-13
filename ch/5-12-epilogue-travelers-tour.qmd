@@ -40,6 +40,44 @@ not close on a monument.
 every mechanism it has described at a specific surviving address.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+The epilogue is a walk, and every stop on it has a street number. A traveller —
+no name, no backstory, a device and nothing more — crosses four institutional
+regimes in a single afternoon and finds the same arrangement at every one: a
+bottleneck, a public subsidy, a private title, and a story explaining why the
+holder deserved it.
+
+It begins at 320 Dolores Street, at the mission founded in 1776, where power
+took the form of a register. Then Portsmouth Square and Grant Avenue, where the
+Gold Rush's throat and the Chinatown that the exclusion campaigns targeted sit a
+block apart — two chapters of Act II within sight of each other. Then Colton
+Hall at 570 Pacific Street in Monterey, where a constitution was written in 1849
+by men whose names are on the rest of the walk. Then Nob Hill, the Big Four's
+addresses, and what stands there now.
+
+Promontory Summit is the one place the walk cannot reach, and the epilogue says
+so: the site where the public money became private property is eight hundred
+miles away in Utah, which is its own kind of fact.
+
+Then the Stanford campus, where most of Acts II and III fit inside a square mile
+— the Founding Grant's land, Hoover Tower, and a hall that has been renamed.
+Then 367 Addison Avenue and the garage, where the epilogue states plainly what
+the book has shown: the garage is real, and it is not the explanation. Then Page
+Mill Road and the Research Park that an unsellable inheritance made necessary.
+Then Sand Hill Road, low buildings and oak trees and a toll gate. Then an
+unmarked data centre, sited for electricity, drawing the power of a town.
+
+The last stop is a place with no sign, because the book should not close on a
+monument.
+
+What the traveller sees is repetition rather than mystery. California did not
+become powerful by accident; it was engineered into power, in public, across two
+and a half centuries. The reader closes the book knowing exactly how it works,
+and that it was never a secret — only subliminal.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

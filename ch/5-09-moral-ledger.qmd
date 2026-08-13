@@ -43,6 +43,47 @@ incidental to California's model by showing the same position filled by a
 different population in every generation across two hundred and fifty years.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+This chapter is laid out as an accounting document, with surplus in one column
+and its sources in the other, because the book's method is bioeconomic and this
+is where the two are finally set against each other.
+
+It is not a moral appendix. Every preceding chapter has carried its excluded
+population as part of the structural argument, and this one assembles them in
+sequence, because the recurrence is the evidence. In each generation the same
+structural position is occupied by a different group: legally at arm's length,
+economically indispensable, and absent from the balance sheet. That consistency
+is the argument, and it is what distinguishes a pattern from a list of
+injustices.
+
+The entries run in order. Indigenous Californians, through mission labour, the
+state-sanctioned killings of the Gold Rush decade, and dispossession. The
+Chinese workforce of the Central Pacific, their 1867 strike, and the Exclusion
+Act that followed their work. The people sterilised under the 1909 law, cited as
+a range with its basis. Farm labour from the ranchos through the Bracero
+programme to the United Farm Workers — Steinbeck's subjects from Act III, and
+their own organising. Offshore manufacturing, from Fairchild's Hong Kong
+assembly through Nike's contract factories to electronics assembly across Asia.
+And contract and platform labour: drivers, warehouse workers, content
+moderators, and data labellers, with employment classification as the mechanism
+that holds them at arm's length.
+
+The chapter's discipline is to write each group as agents rather than victims.
+Every entry includes what these people did — struck, litigated, organised,
+published, won cases that changed American constitutional law — and not only
+what was done to them. A ledger of passive suffering would be both bad history
+and bad argument.
+
+The Introduction's four questions are answered here in aggregate: who controlled
+the inputs, who captured the surplus, who was excluded, and how the system
+reproduced itself.
+
+The cost was never hidden. It was accounted for elsewhere. This is where it is
+accounted for here.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

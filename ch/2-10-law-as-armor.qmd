@@ -41,6 +41,48 @@ legal control by showing the Southern Pacific replacing coercion with litigation
 and acquiring a constitutional shield in the process.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+The most consequential sentence in nineteenth-century American corporate law was
+written by a court reporter. In the headnote to an 1886 railroad tax case, Santa
+Clara County v. Southern Pacific Railroad, J. C. Bancroft Davis recorded that
+the Court considered corporations to be persons under the Fourteenth Amendment.
+The Court's actual holding decided a narrow question about the taxation of
+fences.
+
+The chapter handles this with care, because it is one of the most overstated
+episodes in American legal history and the precision is the point. Corporate
+personhood developed over subsequent decades through many cases; the headnote
+did not single-handedly create it. The chapter gives that sceptical reading its
+full force first. What remains true, and what matters structurally, is that a
+procedural artefact became a doctrinal foundation, and that an amendment
+ratified to protect people freed from slavery became a shield for the largest
+corporation in the West.
+
+That is the chapter's argument: mature monopolies migrate from physical control
+to legal control. By the 1880s the Southern Pacific had consolidated nearly all
+of California's rail traffic and had learned that lawyers were cheaper and more
+durable than force. Rate-setting determined which towns were viable. Political
+influence ran through legislatures and constitutional conventions, and
+Huntington's surviving correspondence about the business of buying Congress
+should be cited from the originals rather than from a century of repetition.
+
+The armour did have a physical edge. At Mussel Slough in 1880, a dispute over
+land titles the railroad claimed ended in gunfire and seven deaths, which is
+what happens when legal architecture meets people who cannot afford to litigate
+against it.
+
+Access to law is itself a chokepoint. Farmers, shippers, and small towns faced a
+company with a permanent legal department and no comparable resources of their
+own.
+
+The rule California's elite extracted from this is one the book will watch
+applied to software patents, terms of service, and arbitration clauses: build
+the fortress in the law rather than on the ground, because nobody protests a
+clause.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

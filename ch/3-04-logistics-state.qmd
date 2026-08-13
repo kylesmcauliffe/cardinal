@@ -42,6 +42,45 @@ capacity by showing a private commission perform a sovereign function across a
 blockade, recognised by both belligerents.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Between 1914 and 1919 a private committee fed occupied Belgium. It negotiated
+with the British blockade and the German occupation simultaneously, operated
+shipping under its own flag, issued what amounted to its own currency, and held
+recognised standing with two empires at war. It had no territory, no army, and
+no sovereign authority. Its chairman was a mining engineer from California.
+
+The chapter presents the Commission for Relief in Belgium as an engineering
+problem before a moral one. Occupation and blockade had severed a food system,
+and several million people were on the wrong side of the break. Hoover's
+leverage was that neither belligerent wanted a famine on its ledger, and he was
+able to hold both to that.
+
+What made it work was accounting. The Commission's credibility rested on books
+that either side could audit, and auditable records are what buy trust from
+enemies. This is the same insight as the mission register in Act II and the
+archive in the next chapter: the record is not a description of the operation,
+it is the instrument that makes the operation possible.
+
+The First World War revealed that the binding constraint on modern power was
+calories, shipping, and bookkeeping rather than weapons, and Hoover then applied
+the same method with sovereign authority behind it as head of the US Food
+Administration from 1917 — voluntary compliance, publicity, and price mechanisms
+rather than rationing by decree.
+
+The chapter names what this is structurally: private capacity performing a
+governmental function, which is the San Francisco Committee of Vigilance from
+Act II scaled to a continent and with much better bookkeeping. It also names who
+is absent from the arrangement. Belgian civilians are the object of it and had
+no part in designing it, and the local committees that did the actual
+distribution worked in the credit of the man in London.
+
+Hoover emerges as the most administratively famous American alive, and with a
+conviction that shapes the next chapter: whoever holds the documents holds the
+interpretation.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

@@ -40,6 +40,46 @@ Valley's reproductive mechanism by showing the industry's founding firms all
 descend from one company's management failure.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+William Shockley moved to Mountain View in 1956 because his mother lived there.
+The world's semiconductor industry is located on the San Francisco Peninsula in
+substantial part because a Nobel laureate wanted to be near his mother, and the
+chapter opens on that contingency and lets it sit.
+
+He had the standing to do it. He had co-invented the transistor, he had just won
+the Nobel Prize, and the best young semiconductor physicists and engineers in
+the country would move across the continent to work with him. He recruited an
+extraordinary group.
+
+He was also a catastrophic manager — paranoid, publicly ranking his staff,
+publishing salaries, and at one point requiring lie detector tests over a
+trivial workplace injury. Eight of his best engineers left in 1957, approached
+Hayden, Stone, and were introduced to Arthur Rock, who found them a corporate
+parent in Fairchild Camera and Instrument. Shockley called them traitors and the
+name stuck.
+
+The chapter's argument is that the departure is the mechanism rather than a
+failure of it. The Valley reproduces by spinoff: talent exits bad leadership,
+carries the knowledge out in its heads, and starts again a few miles away. What
+makes that possible in California specifically is that non-compete agreements
+are largely unenforceable there, that the geography is dense enough for a new
+firm to recruit from an old one without anyone relocating, and that a form of
+capital had just appeared which would fund people rather than assets.
+
+There is almost nobody excluded at this stage, and the chapter says so plainly.
+The semiconductor workforce in 1957 is small, credentialed, and male. The cost
+arrives in the next decade, on the fabrication lines and in offshore assembly
+plants, and the chapter names where it is coming.
+
+Shockley's later career as a public advocate of eugenic argument places him
+directly in the line running from David Starr Jordan in Act III — the same
+claim, the same campus, a different discipline, fifty years apart.
+
+Eight men walking out of a building is the founding event of the industry.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

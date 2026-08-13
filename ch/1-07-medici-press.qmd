@@ -42,6 +42,43 @@ controlling reproduction, by showing the Medici succeed for two centuries and
 then the press break the monopoly in twenty years.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+There is a Florentine altarpiece with the donor's face painted into it, at eye
+level, permanently, inside the sacred image he paid for. That is the most
+efficient statement of a mechanism this book will spend five acts documenting.
+
+The Medici began as money changers and produced four popes. Their method was a
+sequence: fund the institution you wish to control, then staff it, then become
+it. The Medici Bank's most valuable product was not lending but the papal
+accounts, and holding an institution's balance sheet makes you its constituency.
+Patronage worked the same way. Leonardo, Michelangelo, and Botticelli were
+commissioned, not discovered, and what the commissions bought was legitimacy.
+The Renaissance, on this reading, is what happens when private capital controls
+the commissioning of public meaning. Leland Stanford will build a university for
+the same reason, and this book will say so again in Act II.
+
+Then the chapter's second half destroys the thing the first half describes. The
+printing press did not create literacy; it collapsed the cost of copying.
+Luther's arguments in 1517 were not novel — earlier versions had been made and
+their authors burned. What was new was that the theses could not be caught. An
+institution whose authority rested on controlling the reproduction of text lost
+that control in about twenty years.
+
+What followed was a century of war that was not really about theology. It was
+about who controlled the narrative layer of European civilisation. The Peace of
+Westphalia ended it in 1648 by inventing a new unit of legitimacy: the sovereign
+state. Everything after that is a fight over who controls states and whom states
+protect.
+
+The surplus that paid for the altarpieces came from Florentine wool workers, and
+the wars ran through populations that had no part in starting them.
+
+Two facts leave this chapter and both matter later: a monopoly on meaning can be
+purchased, and it can be destroyed by a change in the cost of copying.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

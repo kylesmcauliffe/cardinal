@@ -43,6 +43,47 @@ concentrated authority by showing the same division of physical and symbolic
 power arising independently in Latin Christendom and the Abbasid world.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+A medieval coronation required two people who each needed the other to be what
+he claimed to be: a king who could not be legitimate without a bishop's
+blessing, and a bishop whose blessing meant nothing without a king to bestow it
+on. That mutual dependence is the chapter's subject, and it is a solution rather
+than a weakness.
+
+The medieval arrangement divided power by layer. Kings held land and force. The
+Church held meaning and record. Neither could displace the other, and because
+neither could, both lasted. Feudal authority was delegated downward not out of
+generosity but because enforcement at distance was impossible — and
+subcontracting power creates vassals with independent interests, which is why
+the arrangement constrained the centre it was meant to serve. The papacy
+centralised for the opposite reason: Latin and canon law travelled where armies
+could not, so the institution whose medium was portable could afford to
+concentrate.
+
+The chapter then turns east, because the whole argument of this book depends on
+the pattern not being European. The Abbasid Caliphate ran on a commercial
+network, a single portable text, and no priestly class mediating access to God,
+and it imposed no uniform administrative language. Baghdad became the world's
+centre of mathematics, astronomy, and philosophy, preserving and extending Greek
+work that Latin Europe had lost.
+
+The theology is different, the institutions are different, and the structural
+result is the same: chokepoint control, elite reproduction, and authority
+divided between those who hold the physical and those who hold the symbolic.
+That convergence is the evidence that we are looking at a structure rather than
+a culture.
+
+The cost sits in the records. The peasantry were the entire economic base of
+both systems and appear in their documents mainly as quantities. Minority
+populations in each had their legal position defined by systems they had no part
+in writing.
+
+Two layers, two institutions, one durable arrangement — and the pair this book
+is heading toward. Rail will control movement. Stanford will control succession.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

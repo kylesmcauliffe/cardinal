@@ -40,6 +40,41 @@ institutions rather than replace them by showing that Rome's transition from
 republic to empire required no change to the republic's formal structure.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Augustus held no office that had not existed under the Republic. That is the
+most important fact about the Roman revolution: it left the constitution in
+place. The offices were preserved, the titles retained, the vocabulary kept
+intact, and the man who held all of it called himself *princeps* — first citizen
+— rather than king. The form was the alibi, and it worked so well that Romans
+argued for centuries about whether the Republic had ended.
+
+Before that, the chapter establishes what Rome was actually good at, which was
+not conquest. Plenty of states conquered. Rome made territory legible. Roads
+that ran straight and were measured. Law that was written down and applied at
+distance. Citizenship graded into tiers, so that inclusion became an instrument
+of control rather than a gift. A census that counted people and property on a
+schedule. These are administrative technologies, and together they convert land
+into something that can be taxed, moved through, and governed by someone who has
+never seen it.
+
+Whoever administers that system sets its terms. The roads carried movement,
+information, and tax collection along the same route, and the state that
+maintained them priced access to them. A Roman milestone carries three pieces of
+information — the distance, the direction, and the name of the emperor who paid
+— and the third is the reason for the first two.
+
+The chapter is direct about the cost. Citizenship was graded because grading was
+useful. The villa economy ran on enslaved labour. Provinces were taxed to build
+roads they were not free to travel as equals, and many of those roads were built
+to reach peoples the roads then helped destroy.
+
+Rome's most durable export was not an empire but a manoeuvre: replace the logic,
+keep the language. The reader should remember it, because Stanford will perform
+it with academic freedom and a platform will perform it with terms of service.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

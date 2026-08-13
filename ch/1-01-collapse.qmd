@@ -39,6 +39,42 @@ structure rather than strength by showing that the most connected economies of
 the Late Bronze Age failed first.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Around 1200 BCE the palace economies of the eastern Mediterranean stopped
+working. The Hittite state disappeared. The Mycenaean palaces burned. Ugarit, a
+wealthy trading city on the Syrian coast, was destroyed so completely that its
+clay tablets were baked hard by the fire — which is why we can still read the
+letters its officials were writing as the end arrived, asking for grain and
+reporting ships on the horizon.
+
+The chapter's interest is not the catastrophe but its unevenness. Egypt absorbed
+the same shock and continued. The Levantine coastal towns survived and in some
+cases prospered. The difference was structural. The palace economies were
+redistribution systems: grain in, rations out, everything recorded, nothing
+happening outside the ledger. That design is efficient, and efficiency in this
+context means the absence of slack. They depended on tin arriving overland from
+the east, copper from Cyprus, grain by sea — several long dependencies, each of
+them a single point of failure, and no alternative for any of them.
+
+What came through the collapse were the systems holding fewer chokepoints and
+holding them harder, with storage distributed rather than centralised and with
+more than one way to obtain the things they could not do without.
+
+The chapter also introduces the methodological point the rest of the book runs
+on. We know a great deal about the palaces and almost nothing about the people
+who worked for them, because the palaces employed scribes and their labourers
+did not. Survival in the archive is itself a form of advantage, and every claim
+made in this book rests on evidence that somebody, for reasons of their own,
+chose to preserve.
+
+The Late Bronze Age closes on a proposition that will be tested for the next
+three thousand years and then in a forty-mile corridor in California: the most
+connected system is the most brittle one, and collapse is not an ending but a
+redistribution of control.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

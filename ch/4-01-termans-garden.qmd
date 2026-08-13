@@ -44,6 +44,48 @@ credentialler, research partner, and legitimacy source for the firms on its
 land.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+The Founding Grant of 1885 forbade Stanford from selling its land. A grieving
+railroad baron wrote that clause to protect his son's memorial from future
+trustees, and sixty-six years later it produced the business model of the
+twentieth century — because a university that cannot sell land can still lease
+it.
+
+The Stanford Industrial Park opened in 1951, the first university-owned
+industrial park in the United States, with Varian as its first tenant and
+Hewlett-Packard arriving in 1956. Page Mill Road became its spine. What made it
+more than a property development was that the university now occupied four
+positions at once with respect to the companies on its land. It was their
+landlord. It was their talent supply. It was their research partner. And it was
+their legitimacy anchor, because a company adjacent to Stanford was a company
+that federal agencies and private investors took seriously.
+
+No other institution in the country held all four. That combination is what the
+chapter means by calling the university an operating system for a regional
+economy.
+
+Terman extended it through the Honors Cooperative Program in 1954, which let
+engineers at local companies take graduate courses part-time while employed. The
+university thereby became a continuously running industrial utility rather than
+a place people left at twenty-two, and the firms became permanently entangled
+with the institution that credentialed their staff.
+
+The chapter follows the revenue honestly. Much of the park's early tenancy
+depended on defence contracts, which means the private-sector face of the
+arrangement sat on a public-sector income stream — Act III's triangle with a
+lease attached.
+
+Who could take the jobs was determined before hiring began. Palo Alto and the
+surrounding towns operated restrictive covenants and exclusionary practices that
+filtered the residential population within reach of the park, and the chapter
+names them specifically.
+
+The operating system is running. Everything else in Act IV is an application
+built on top of it.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

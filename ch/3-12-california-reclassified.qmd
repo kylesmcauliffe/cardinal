@@ -42,6 +42,42 @@ permanently altered by showing that its wartime population, industrial capacity,
 and research funding did not revert after 1945.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+When the shipyard gates at Richmond and Sausalito opened on the last day of the
+war, they released a workforce of hundreds of thousands of people whose presence
+in California was a federal decision. Most of them stayed, and that is the
+chapter.
+
+In 1940 California was a large agricultural state with an aircraft industry. By
+1945 it was the strategic platform for American power in the Pacific, and the
+chapter's arithmetic — population growth, federal dollars, industrial capacity,
+university research funding — is the substance rather than the background. The
+Pacific theatre had made the state's geography indispensable, and installations,
+shipyards, airfields, and laboratories had been built accordingly.
+
+The central move is a counterfactual that did not happen. Wartime expansions
+usually revert; this one did not. Bases remained, contracts were renewed,
+populations stayed, and the universities kept the research capacity the war had
+paid for. The relationship between California and the federal government
+established in five years has never subsequently been renegotiated, because
+strategic indispensability is not a status a state gives up and no one in
+Washington or Sacramento wanted to reverse it.
+
+The chapter is precise about who benefited and who did not, because they are not
+the same people. Black workers recruited into wartime industry from the South
+found the post-war settlement closed to them by restrictive covenants and
+redlining, and the chapter names the specific instruments rather than describing
+the outcome. Women who had entered industrial employment were removed from it.
+The expansion had beneficiaries and discards, and the discards are traceable.
+
+California has been reclassified from frontier to arsenal, permanently. The
+question the final chapter of the act answers is what happens when wartime
+research methods and wartime budgets simply do not go away — and the answer is
+that nobody ever decides they should.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

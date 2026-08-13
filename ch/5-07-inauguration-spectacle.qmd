@@ -39,6 +39,46 @@ by tracing documented campaign finance to a specific office, without requiring
 any claim about coordination.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+On 20 January 2025 the founders of several of the largest technology companies
+in the world were seated at the presidential inauguration in positions closer to
+the president than much of his incoming cabinet. The chapter begins with the
+seating, verified from the record, and largely declines to interpret it. The
+proximity is the evidence.
+
+Its documented core is campaign finance. Peter Thiel contributed roughly fifteen
+million dollars to J. D. Vance's 2022 Senate campaign — a figure taken from FEC
+filings — and Vance became vice president. Thiel had employed Vance, mentored
+him, and funded him. That is the network described in Act IV chapter 13
+producing its most legible output, and it requires no claim about coordination
+whatsoever, only disclosure documents.
+
+The chapter works the same way through the rest: contributions and endorsements
+in the 2024 cycle from filings, and Musk's subsequent advisory role in
+government described from official announcements with its actual remit and
+authority.
+
+What changed in January 2025 was visibility rather than substance, and that is
+the chapter's whole argument. These relationships had been building for two
+decades in public disclosure filings that almost nobody read. The book's thesis
+stopped requiring inference and started being televised, and it was equally true
+the morning before.
+
+The gesture at Capital One Arena is handled under the contested-history rule. It
+occurred, it was widely reported, interpretations of it diverged sharply and
+immediately, and this book does not attempt to adjudicate intent. It says what
+is documented, notes the dispute, and builds nothing on it — the drafts leaned
+on the episode heavily and the argument does not need it.
+
+Several events the drafts narrated as fact for 2025 could not be verified and
+have been removed; the reasoning is in the project's cut-material log.
+
+The contrast the chapter states once and then leaves alone is between fifteen
+million dollars and a vote.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

@@ -41,6 +41,43 @@ selected rather than inevitable by showing the specific institutional and
 geographic criteria that federal science funding applied before 1941.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Two of Frederick Terman's students rented a garage at 367 Addison Avenue in Palo
+Alto in 1939 and started a company with about five hundred dollars. The chapter
+uses the most famous image in American business history and then deflates it:
+the garage matters because of what was already around it, and specifically
+because a professor had told them to stay.
+
+The deflation is the point. Every electronics company of consequence was on the
+east coast in 1939, and Hewlett and Packard remained in California on Terman's
+advice — the first appearance of the man who allocates talent, and the first
+demonstration that the allocation is deliberate. Their early business was
+instruments, and their early customers were substantially military.
+
+The chapter's main work is anti-deterministic. Rearmament money from 1938 onward
+did not spread evenly across the country; it went where laboratories,
+engineering schools, and industrial capacity already sat next to one another,
+and it was directed by identifiable people applying identifiable criteria.
+California was behind at that point. MIT and Harvard captured the major early
+contracts, and nothing about the outcome was obvious in 1940. The state's
+advantage was readiness rather than destiny: a growing technical education base,
+industrial capacity, and the Pacific — geography becoming an asset for the first
+time since Spain claimed the Bay in Act II.
+
+That contingency makes the eventual result more interesting rather than less.
+The corridor was selected, and it could have been selected elsewhere.
+
+The chapter also places Japanese American incarceration here, in 1942, rather
+than deferring the whole subject to Act V's ledger. Farms, businesses, and homes
+were lost, and property that is lost is property that someone else acquires. The
+transfer had beneficiaries, and the chapter names the mechanisms.
+
+By 1941 the state is positioned and the money is about to arrive in quantities
+nobody has seen. The next chapter is about the man who had a plan for it.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

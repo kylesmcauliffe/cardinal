@@ -44,6 +44,48 @@ bottleneck, partly publicly financed, privately owned, with pricing power over
 everything downstream.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+A data centre sited for the price of electricity, drawing the power of a small
+city, is the physical form of the current chokepoint. The chapter begins there
+because the subject invites abstraction and this book resists it.
+
+Its argument is that the bottleneck is neither the model nor the data. Models
+are copyable and are copied within months. Data is abundant. Talent is mobile
+and well paid precisely because it can leave. What is scarce is compute — the
+accelerators that training requires, and behind them the handful of facilities
+capable of fabricating the chips at all. Every figure the chapter uses about
+market share or adoption carries an explicit date and a stated definition, in
+the prose rather than a note, because accelerator share depends entirely on how
+the market is drawn and adoption depends on what counts as a user. The drafts
+carried round numbers with no sourcing, and they have been replaced with
+filings.
+
+The comparison to Standard Oil is made carefully, with attention to where it
+holds and where it does not: a single firm astride a passage that everyone
+downstream must use, with pricing power over an entire industry, is the correct
+part.
+
+The November 2023 OpenAI governance crisis is the chapter's most revealing
+episode, because it was a genuine test. A non-profit board attempted to exercise
+the control its own charter gave it over a commercial entity, and lost within a
+week. That is the clearest available evidence about whether governance
+structures constrain this class of firm.
+
+Public money has returned through the CHIPS Act and sovereign investment, which
+is Act III's triangle in its newest costume. Stanford's institute, its faculty-
+to-founder route, and its stake in the outcomes make the constant constant.
+
+The excluded are the data labellers, largely outside the wealthy world and paid
+accordingly; the writers, artists, and photographers whose work was used without
+consent or payment; and the communities absorbing the water and electricity
+costs.
+
+The same shape as 1862: a passage everyone must use, publicly assisted,
+privately owned.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

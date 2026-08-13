@@ -40,6 +40,44 @@ California's cultural industry by showing an industry founded to escape a patent
 monopoly reconstitute one around distribution within fifteen years.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Filmmakers went to southern California to get away from a lawyer. Thomas
+Edison's Motion Picture Patents Company controlled the equipment patents and
+enforced them aggressively on the east coast, and distance from process servers
+— with a foreign border nearby if the distance proved insufficient — was the
+only reliable defence. The light and the varied landscape were real advantages
+and they were not the reason.
+
+California's second great industry was therefore founded by people fleeing a
+monopoly, and it built a larger one within fifteen years. The studios integrated
+vertically across production, distribution, and exhibition, and the chokepoint
+they held was distribution: whoever controls the screens determines what gets
+made. The star system turned performers into contracted assets whose
+desirability was manufactured and whose careers were owned, which is a
+credential of a different kind.
+
+In 1948 the antitrust consent decrees forced the studios to divest their theatre
+chains, and the chapter is precise about what that broke. It broke ownership of
+the physical layer, which was the visible part. The lesson California's elite
+drew was not to stop integrating but to stop owning the layer a court can point
+at — and the chapter points forward to platforms that will control logistics,
+moderation, and terms of service while insisting they are not publishers.
+
+Together with the Valley this constitutes California's dual power. One industry
+controls the code and the other controls the story, and both are chokepoints on
+something that used to be free.
+
+The costs are well documented and rarely included in the romance: the contract
+system that bound workers to studios, the casting practices that excluded most
+of the country from appearing in its own films, the strikes of 1945 and 1946
+that were broken with force, and the blacklist that followed.
+
+Two industries, one state, one logic. By the end of this chapter the reader
+should expect the pattern anywhere California builds anything.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

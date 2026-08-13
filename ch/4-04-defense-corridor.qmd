@@ -40,6 +40,41 @@ cluster before it was a consumer one by showing employment, revenue, and
 research funding concentrated in defence work through 1970.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+The first message sent over the ARPANET, on 29 October 1969, went from UCLA to
+SRI in Menlo Park. The system crashed after two letters, so the internet's first
+word was "lo". It was sent between two Defense Department contractors on Defense
+Department money, and it is the least surprising fact in this book.
+
+The chapter's job is corrective. The garage sits at the centre of the Valley's
+story about itself; the procurement office is what actually happened, and this
+is where Act III's promise gets discharged. Lockheed Missiles and Space arrived
+in Sunnyvale in 1956 and became the largest employer in the county — a fact the
+region's origin mythology has almost entirely forgotten. SRI had been founded by
+Stanford in 1946 and was still owned by the university, a detail this act's
+seventh chapter turns on entirely. NASA Ames sat at Moffett Field in Mountain
+View, inheriting an aeronautics establishment that predated all of it.
+
+Follow the revenue and the picture is unambiguous. Through the 1960s the
+region's major firms depended overwhelmingly on defence and aerospace contracts,
+and the consumer market barely existed. Silicon Valley was a military-industrial
+cluster with a university attached, and it was that for roughly twenty-five
+years.
+
+Douglas Engelbart's 1968 demonstration at SRI — the mouse, hypertext, windowed
+displays, collaborative editing — was federally funded, and the interface ideas
+in it reappear at Xerox PARC and then in a personal computer five chapters
+later.
+
+The exclusion here is the public, through classification. It paid for the
+research and was not permitted to examine it, and the chapter names that as the
+grievance it is about to become. Some of the people on that campus are beginning
+to work out what their university is building, and in three chapters they will
+occupy a laboratory over it.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

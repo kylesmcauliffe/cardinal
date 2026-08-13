@@ -44,6 +44,46 @@ the root of the Stanford endowment by showing the land grants, the bond terms,
 and the construction-company mechanism that captured them.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+The photograph taken at Promontory Summit on 10 May 1869 shows the men who
+financed and managed the transcontinental railroad. The men who built the
+western half of it are almost entirely absent from it. That absence is where
+this chapter begins.
+
+The Big Four — Leland Stanford, Collis Huntington, Mark Hopkins, Charles Crocker
+— were Sacramento merchants, not engineers. They were the shovel-sellers of the
+Gold Rush operating at national scale, and they understood that the money was in
+the chokepoint rather than the commodity. Theodore Judah, the engineer whose
+survey made the enterprise possible and whose lobbying secured the 1862 Act, was
+bought out and died in 1863.
+
+What they received was public: land grants measured in square miles per mile of
+track, and thirty-year federal bonds. What they built was private. And the
+mechanism that transferred the public money into their personal accounts was the
+Contract and Finance Company — a construction firm they owned, contracting with
+a railroad they controlled, at prices they set on both sides. The margin was
+captured at the point of transfer, which is a manoeuvre this book will see again
+in Act IV when a university divests a research institute to itself.
+
+Stanford was Governor of California while the Central Pacific was organised,
+advocating the railroad as a public necessity while holding its presidency.
+There was no conflict-of-interest framework to violate. The roles were simply
+held at once.
+
+The work was done by a Chinese workforce that at its peak was the overwhelming
+majority of the labour force, paid less than white workers, housed worse, and
+killed in numbers the company did not trouble to count. They struck in 1867 for
+equal pay and shorter hours, and the company broke the strike by cutting off
+their food supply.
+
+What emerged was a private monopoly on the only rail connection between
+California and the rest of the country, and it began setting rates. Whoever owns
+the rails sets the prices — Act I's sentence, now with a California address, and
+one of these men will spend part of the proceeds on a university.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

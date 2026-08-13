@@ -43,6 +43,44 @@ advance by the people who built it by quoting their own published warning
 against it.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Larry Page and Sergey Brin's original paper on their search engine contains an
+appendix arguing that advertising-funded search engines are structurally biased
+against their users, that the incentives push toward degrading results, and that
+a transparent, academically oriented engine is therefore necessary. They then
+built the largest advertising-funded search engine in history. It is the
+clearest self-indictment in the history of technology, and it is a citable
+primary document.
+
+The chapter is genuinely sympathetic, which is what makes it work. The technical
+insight was real: link structure was a far better relevance signal than keyword
+matching, and PageRank produced results that were obviously superior. Stanford
+held the patent, licensed it to the company, and took shares — Bayh-Dole from
+the previous chapter, with a number attached. The funding came from Kleiner
+Perkins and Sequoia, both of them, which returns the story to Sand Hill Road.
+
+And the revenue problem was real too. They tried licensing search to portals and
+it did not generate enough. The chapter walks through what was attempted before
+advertising, because that is what makes the turn credible rather than cynical.
+
+AdWords, refined between 2000 and 2002 into an auction with quality scoring and
+cost-per-click pricing, was elegant and enormously effective. Its significance
+is what it made tradeable. A search query is a stated desire, timestamped and
+addressable, which is worth far more than a magazine page — and the chapter's
+argument is that the chokepoint here is human intention itself, a resource
+nobody had previously identified as ownable.
+
+Then the appendix is set against the outcome, without editorial comment. The
+juxtaposition is the argument.
+
+The excluded are the users whose behavioural data constitutes the asset without
+compensation or meaningful consent, the publishers whose content became index
+material, and the advertisers bidding inside an auction whose rules they cannot
+inspect.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

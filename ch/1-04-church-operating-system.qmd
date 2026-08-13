@@ -43,6 +43,44 @@ power structure are the ones that survive collapse by showing that the Church
 inherited Rome's administrative geography intact.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+In 476 the western Roman state ended, and the Church's dioceses kept
+corresponding. They were still using Roman administrative geography, still
+following Roman procedural forms, still functioning as a network — and they
+would continue to do so for a thousand years after the state that designed that
+geography had stopped collecting taxes. The empire's map survived inside the
+institution that succeeded it.
+
+The chapter treats this as a problem in institutional design rather than a
+mystery. Christianity scaled on infrastructure it had not built: Roman roads
+carried the message, and Roman administrative structure supplied the model for
+Church governance. Persecution intended as deterrence functioned as recruitment.
+And when Constantine adopted the network in the fourth century, the transaction
+ran in both directions — the state acquired a legitimating institution, and the
+institution acquired the state's reach.
+
+Then comes the distinction the chapter turns on. A tax state requires territory:
+if it cannot collect, it cannot exist. A meaning state requires only continuity.
+The Church's authority was not fiscal, which meant that the loss of any
+particular political order did not threaten it. It could survive the
+disappearance of the Roman state, and later of every dynasty in Europe, because
+it had never depended on one.
+
+Its most consequential design choice was succession. A bishopric was an office,
+not an inheritance. Celibacy and appointment meant that the institution
+reproduced its own governing class rather than transmitting it through families
+— which made it immune to the failure mode that destroyed Alexander's empire in
+the previous chapter, and that will destroy several fortunes later in this book.
+
+The chapter's cost accounting is the definition of heresy. Consolidating meaning
+requires deciding what is outside it, and the groups placed outside are the
+reason the word exists. What the Church proves is that an institution can
+outlast every state it serves. Stanford's self-perpetuating board is the same
+idea with a different endowment.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

@@ -43,6 +43,43 @@ economic transformation dates from the treaty and the land commission, not from
 the fighting.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Gold was found at Sutter's Mill on 24 January 1848. The Treaty of Guadalupe
+Hidalgo was signed on 2 February. For nine days the United States negotiated for
+California without knowing it had become the most valuable territory on the
+continent, and Mexico ceded it on the same terms.
+
+The chapter's argument is that the treaty mattered and the fighting did not. The
+Bear Flag Revolt and the California campaign were small, confused, and largely
+decided elsewhere. What converted military occupation into something investable
+was a legal instrument: a document establishing that title could be held,
+transferred, and enforced under American law. California became capital not
+because it was conquered but because it was documented, and the fifteen million
+dollars paid to Mexico purchased a framework rather than a landscape.
+
+The hinge is Article X. The treaty as negotiated contained a provision
+protecting existing Mexican land grants, and it was struck before ratification.
+What replaced it was a promise of protection without a mechanism, and the
+mechanism turned out to be the Land Act of 1851 and a commission before which
+grant-holders had to prove their title — in English, in an American court,
+against a boundary drawn as a creek and an oak tree.
+
+The result was a transfer of land accomplished procedurally rather than by
+seizure. Californio families spent years and, frequently, the land itself paying
+lawyers to establish ownership of property they already occupied. Some won and
+were ruined by the cost of winning. That is a more durable method than
+confiscation, and a much harder one to protest.
+
+Indigenous title was recognised by neither sovereign, before or after.
+
+The chapter's structural point closes Act II's first movement: capital requires
+enforceable title, the United States supplied it, and that was the actual
+acquisition. The legal framework is now in place, and the gold is already in the
+river.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

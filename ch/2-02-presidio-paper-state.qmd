@@ -39,6 +39,45 @@ economic activity that would justify it by showing Spain holding San Francisco
 Bay for decades without developing it.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+The Presidio's supply ship came when it came. That is the appropriate place to
+start a chapter about an empire holding a coastline the length of Italy with a
+garrison and a filing system.
+
+Spanish California existed as a paper appendage of empire. Authority travelled
+through maps, manifests, and correspondence rather than through courts or
+population, and the binding constraint was distance: a letter to Mexico City and
+back took months, which meant that whatever happened in Alta California was
+decided in Alta California and ratified later, if at all. At the end of Spanish
+rule the non-Indigenous population numbered in the low thousands.
+
+What Spain was actually holding was the Golden Gate — a narrow entrance to an
+enormous protected anchorage, which is a chokepoint of the kind that does not
+need to be built, only claimed and defended. The Presidio was founded within
+weeks of the mission in 1776, force and record sited together, and the missions
+strung up the coast functioned as nodes of supply and documentation linked by
+the road that became El Camino Real. That road is still there and still the
+Peninsula's main street, which is the first hint of the argument the book's last
+chapters make from street signs.
+
+Coastal charting did much of the work. Mapping was an act of possession; the
+chart was the title deed, and it was aimed at rival empires rather than at
+anyone living there.
+
+The chapter's structural claim is that control of a chokepoint can precede any
+economic activity that would justify it. Spain held San Francisco Bay for
+decades without developing it, on the correct assessment that it would matter
+eventually, and everyone who arrives later inherits that claim — Mexico, then
+the United States, then everyone in this book.
+
+Two groups paid for it: the shoreline peoples whose territory was designated a
+strategic asset in documents they never saw, and the garrison itself, badly
+supplied and effectively expendable, an instrument of empire rather than a
+beneficiary of it.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 

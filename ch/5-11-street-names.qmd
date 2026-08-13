@@ -41,6 +41,44 @@ structure by showing the Peninsula's street names correspond, in sequence, to
 the chapters of this book.
 :::
 
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Read a street sign as a document and it tells you four things: who, when, why,
+and who decided. The Peninsula's signs answer all four consistently, and the
+answer is the argument of this book.
+
+Different societies commemorate different things. British streets carry empire.
+French streets carry artists and writers. Most American streets carry
+politicians and trees. The Peninsula names its streets after the people who
+owned it, and it does so in layers that correspond, in order, to the chapters
+here.
+
+The mission layer is oldest and still on the map: Serra, Junipero Serra
+Boulevard, and El Camino Real, which is a Spanish supply road that became the
+region's main street. The railroad layer sits on top of it — Stanford, Crocker,
+Hopkins, Huntington — and the chapter notes what kind of thing carries each
+name: a university, a hotel, a library, a hill. Then the institutional layer,
+with Hoover Tower, Terman, and Jordan Hall, which was renamed. Renamings are
+themselves evidence; what a society does when a name becomes unusable says more
+than the original naming did. And then the corporate layer: Page Mill, Sand
+Hill, and the donor names on the buildings of the campus.
+
+The author's street list slots into whichever layer each name belongs to, with
+the chapter it connects to. Appendix A is the reference table, and the argument
+does not depend on any single name — it depends on the sequence, which is
+already legible from what is on the map.
+
+The chapter's sharpest section is the negative one. It works through the
+previous chapter's ledger and records what is commemorated and what is not: the
+Muwekma Ohlone, the Central Pacific's crews, the people sterilised under the
+1909 law, the farm workers. The absences are recorded without comment, because
+the list is the argument.
+
+The grid is a ledger. It has been legible the entire time and nobody reads it,
+which is what subliminal means.
+:::
+
 ::: {.callout-caution collapse="true"}
 ## Beats
 
