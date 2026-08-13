@@ -119,6 +119,171 @@ is heading toward. Rail will control movement. Stanford will control succession.
 How is authority shared when no one can hold it alone — and is the pattern European?
 :::
 
-::: {.callout-warning}
-Specified. Prose is written in Phase 5a.
-:::
+A medieval coronation required two men who could not do without each other.
+
+The king brought an army, a claim, and control of land. The bishop brought oil,
+a liturgy, and the assertion that this particular man's authority came from
+somewhere other than his ability to enforce it. Neither could produce what the
+other supplied. A king crowned by nobody was a warlord with good prospects. A
+bishop blessing nobody was a functionary with no constituency. The ceremony was
+a transaction, and both parties knew it.
+
+That mutual dependence is the medieval settlement, and this chapter's argument
+is that it was a solution rather than a failure — an arrangement that lasted the
+better part of a thousand years because neither party could eliminate the other.
+
+## Why authority was divided
+
+The division was not designed. It emerged from a physical constraint: in the
+early medieval west, nobody could enforce anything at distance.
+
+Roman roads had decayed, and the fiscal apparatus that maintained them was gone.
+Moving an army was slow and expensive; moving a tax collector was pointless if
+there was no way to compel payment once he arrived. A king in these conditions
+cannot govern territory directly. What he can do is grant land to men who will
+govern it on his behalf and turn up with soldiers when required, and that is
+what feudal tenure was: power subcontracted because it could not be exercised
+centrally.
+
+Subcontracting has a predictable consequence. The subcontractors acquire
+interests of their own, and within a few generations those interests are
+hereditary. Much of medieval political history is kings attempting to recover
+authority they had been obliged to give away, from vassals whose grandfathers
+had received it as a favour and who now regarded it as property. Magna Carta in
+1215 is a document about exactly this.
+
+The Church faced the same distances and solved them differently, because its
+instruments were different. Latin travelled. Canon law travelled. A letter
+carrying an authoritative interpretation of a rule weighed nothing and could be
+copied. An institution whose medium is portable can afford to centralise, and
+the papacy did — building, over the eleventh and twelfth centuries, a genuinely
+international legal system with a court of final appeal, at a time when no
+secular ruler in Europe could reliably collect a tax two hundred miles from his
+capital.
+
+So the two layers had opposite geometries. Secular power was strongest locally
+and weakened with distance. Ecclesiastical power was weak locally, where the
+bishop depended on the goodwill of whoever had the soldiers, and strong at
+distance, where Rome's writ genuinely ran.
+
+## The contest that reveals the structure
+
+The clearest evidence for how this worked is what happened when it broke down.
+
+The Investiture Controversy of the late eleventh century was, formally, a
+dispute about who appointed bishops. The emperor said he did, since bishops held
+enormous lands and secular authority and he could not permit them to be chosen
+by someone else. The pope said he did, since bishops were officers of the Church
+and a lay ruler had no standing to appoint them. In 1077 Henry IV stood outside
+the castle at Canossa waiting for Gregory VII to lift his excommunication, and
+the image has survived for a thousand years because it inverted the expected
+order so completely.
+
+What the controversy exposes is that the two layers were competing for the same
+appointments, which means both understood that appointments were where the power
+actually sat. Not doctrine, not territory — personnel. The right to decide who
+occupies an office is the most valuable single power in any institution, and Act
+II's chapter on a self-perpetuating board of trustees is the same fight in a
+different costume.
+
+## The other axis
+
+If the pattern here were merely European it would be a cultural observation
+rather than a structural one. It is not merely European, and this is the reason
+the chapter travels.
+
+The Abbasid Caliphate, from the mid-eighth century, ran a civilisation on
+different premises and arrived at recognisably similar arrangements. There was
+no priestly caste mediating access to God; Islam has no equivalent of ordination
+in the Christian sense. There was no attempt to impose a single administrative
+language everywhere, though Arabic became the language of scholarship across an
+enormous area. The legal scholars, the *ulama*, were not appointed by the state
+and derived their authority from learning rather than office — which made them
+harder for a caliph to control than a bishop was for a king, not easier.
+
+And yet: an institution holding the interpretive layer, a ruler holding the
+coercive layer, each needing the other's endorsement, and a persistent contest
+over who could appoint whom. Baghdad in the ninth century was the most important
+centre of mathematics, astronomy, medicine, and philosophy in the world. Greek
+texts that had disappeared from Latin Europe were translated, preserved,
+criticised, and extended there, and returned to Europe centuries later through
+Spain and Sicily in Arabic versions with Arabic commentary attached. Al-
+Khwarizmi gave his name to the algorithm. The word algebra comes from the title
+of his book.
+
+The theology is different. The institutions are different. The structural result
+is the same: chokepoint control, elite reproduction through a system of training
+and certification, and authority layered between those who hold the physical and
+those who hold the symbolic.
+
+Convergence of that kind is the evidence that we are looking at a structure
+rather than a culture. Where two civilisations with almost nothing in common
+arrive independently at similar arrangements, the arrangements are probably
+responses to a shared problem rather than expressions of a shared tradition.
+
+## What the layers produced
+
+One institution born of this arrangement deserves particular attention in this
+book, because it is the direct ancestor of its subject.
+
+The university is a medieval invention. Bologna in the late eleventh century,
+Paris in the twelfth, Oxford shortly after: they emerged from cathedral and
+monastic schools, and they emerged specifically in the space between the two
+layers. A university was chartered by pope or emperor or both, which gave it
+standing that no local lord could easily override. It held privileges — its own
+jurisdiction over its members, exemption from certain taxes and obligations, and
+the right to grant a licence to teach that was recognised across Christendom.
+
+That last item is the important one. The *licentia ubique docendi*, the licence
+to teach anywhere, is a credential issued by an institution and honoured by
+institutions that had no part in issuing it. A master certified at Paris was a
+master at Oxford. This is a portable qualification backed by an international
+authority, which is precisely what Act I chapter 2 described the Greek schools
+groping toward and could not achieve because they had no institution capable of
+underwriting it.
+
+Universities also solved succession the way the Church had: by examination and
+incorporation rather than by inheritance. A degree was earned. A faculty co-
+opted its own members. The corporation persisted while its members turned over,
+which is why some of these bodies are still operating nine hundred years later
+and why the university is, along with the Church, among the oldest continuously
+functioning institutional forms in the world.
+
+They were not independent in any modern sense, and the chapter should not
+pretend otherwise. They trained clergy, lawyers, and administrators for the two
+layers that had chartered them, and their curricula were policed. But the form
+was established: a self-governing corporation with the power to certify,
+protected by charter, outlasting the rulers who granted it.
+
+Seven centuries later a railroad monopolist in California will endow one, and
+almost every feature he builds into it will have been invented here.
+
+## Who paid
+
+The peasantry were the entire economic base of both systems, and they appear in
+the documents of both as quantities.
+
+Manorial records count hides of land, days of labour owed, rents in kind, and
+heads of household. They are, structurally, the same kind of document as the
+Linear B tablets from chapter 1 and the mission registers of Act II: an
+institution counting what it extracts. The people counted were not free to
+leave, in most places for most of the period, and the terms of their obligation
+were recorded by the party that benefited from them.
+
+Minority populations in both systems had their legal status defined by systems
+they had no part in writing. Jewish communities in Latin Europe lived under
+charters granted by rulers who could revoke them, and periodically did, with
+expulsions from England in 1290 and France repeatedly through the fourteenth
+century. Non-Muslims under Islamic rule occupied a defined legal category with
+specified obligations and protections, which was more secure than the Latin
+European arrangement in some periods and places and less in others, and which
+was in both cases a status assigned rather than negotiated.
+
+## The pair
+
+What leaves this chapter is a shape rather than a story: two institutions, two
+kinds of authority, each durable because the other exists.
+
+Hold it. Six hundred years later, in California, a railroad will control
+movement and a university will control succession, and the same division will
+make both of them harder to dislodge than either would have been alone.

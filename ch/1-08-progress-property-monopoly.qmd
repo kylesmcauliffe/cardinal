@@ -116,6 +116,164 @@ and on the record.
 How does infrastructure become sovereignty?
 :::
 
-::: {.callout-warning}
-Specified. Prose is written in Phase 5a.
-:::
+John Jacob Astor died in New York on 29 March 1848, the richest man in America.
+He had made the fortune in furs and moved it into Manhattan real estate, on the
+correct assessment that the island would fill up and that rent was more reliable
+than beaver.
+
+Nine days earlier and three thousand miles west, at a sawmill on the American
+River, a carpenter named James Marshall had picked flakes of metal out of a
+tailrace. Neither man knew about the other. Astor died without hearing of the
+discovery, and Marshall spent the rest of his life failing to profit from it.
+
+The old model of the American fortune ended in the same season the new one
+began. Act I ends on that seam, and everything before it in this chapter is the
+explanation of why the new one would look the way it did.
+
+## The Enlightenment's actual effect
+
+The eighteenth century did not topple kings by argument. It did something slower
+and more corrosive: it made their authority intellectually indefensible, and
+left the institutions standing while the justification eroded underneath them.
+
+Once sovereignty is understood as deriving from the consent of the governed
+rather than from God, every existing arrangement becomes a question rather than
+a fact. This does not immediately change who holds power. It changes what
+defenders of power have to say, and once they are obliged to argue on the new
+terms they have already conceded the important point.
+
+The American Revolution is the case this book cares about, and the honest
+reading requires giving the idealist version its full weight first. The
+Declaration asserts a general principle in universal language, the
+constitutional settlement that followed was a genuine achievement in
+institutional design, and a great many people who fought believed what they
+said. None of that is decoration.
+
+It is also true that the revolution was, in substantial part, a dispute about
+property conducted in the vocabulary of natural rights, and that the propertied
+won it. The grievances that mobilised the colonial elite were about taxation,
+western land claims, and commercial regulation. The settlement that followed
+extended the franchise to property-holding white men and to nobody else. Slavery
+was preserved and constitutionally accommodated. The western territories whose
+disposition had been a central grievance were opened to speculation, and the men
+who had led the revolution were frequently the speculators.
+
+The French Revolution was more honest about being a transfer of sovereignty and
+was therefore more violent, because a transfer of sovereignty has losers who
+understand themselves as such. And Napoleon resolved the contradiction the way
+it had been resolved before: he retained the republican vocabulary, the codes,
+the plebiscites, and the language of the nation, while concentrating imperial
+power in one person.
+
+Augustus did this in 27 BCE. Chapter 3 described it. The pattern is holding.
+
+## Infrastructure becomes sovereignty
+
+The economic transformation running alongside all of this produced something
+genuinely new, and this book's whole argument depends on getting the novelty
+right.
+
+Merchants had always sought advantage. What steam, coal, and rail produced was
+different in kind: firms with structural control over the preconditions of
+economic activity rather than an edge within it. A textile manufacturer with a
+better machine has an advantage that competitors can copy. A railway company
+that owns the only line between a mining district and a port has something else
+entirely. It does not need to make anything. It sets the terms on which everyone
+else's making reaches a market.
+
+Whoever owns the rails sets the prices. Whoever controls the ports controls the
+trade. The distinguishing feature of this kind of position is that it does not
+have to compete, because the competition would have to reproduce the
+infrastructure first, and the infrastructure is expensive, slow, and frequently
+protected by a charter.
+
+Britain built the first version of it and exported the model, and the capital
+requirements pushed the corporate form into general use: the joint-stock company
+with limited liability, which allows an enterprise to outlive its founders and
+to raise money from people with no involvement in running it. This is the
+vehicle that carries everything in the rest of this book.
+
+## The company that governed a subcontinent
+
+The end state was already visible, and it had been for decades.
+
+The English East India Company was chartered in 1600 as a trading concern. By
+the middle of the eighteenth century it maintained its own armies, and after the
+grant of the *diwani* in 1765 it held the right to collect the land revenue of
+Bengal, Bihar, and Orissa — which is to say that a joint-stock company with
+shareholders in London was the tax authority for tens of millions of people. It
+administered justice, waged war, negotiated treaties, and set trade policy in
+its own interest.
+
+The results were what one would expect from an arrangement in which the taxing
+authority and the principal trader were the same body. The Bengal famine of 1770
+killed a large fraction of the population of the region while revenue collection
+continued. The Bengali textile industry, which had been the largest in the
+world, was systematically disadvantaged in favour of British manufactures.
+
+Parliament spent the following decades trying to bring the Company under
+control, which is itself informative: the state that had chartered the
+corporation discovered that recovering authority from it was difficult,
+expensive, and protracted. Corporate sovereignty is not a twenty-first-century
+anxiety. It is a documented eighteenth-century fact, and everyone in the
+nineteenth century knew it.
+
+## The American variation
+
+Britain built its railways with private capital and fought about the resulting
+monopolies afterwards. The United States, with more territory than capital and a
+government that owned enormous quantities of land it could not otherwise
+monetise, invented a different instrument.
+
+The land grant worked like this. A company undertaking to build a line through
+unsettled territory received, in addition to the right of way, alternate
+sections of public land along the route — typically in a checkerboard pattern
+extending some miles on either side. The company could sell the land to finance
+construction, and the land became valuable precisely because the railway was
+being built across it. The government retained the intervening sections, which
+also appreciated, and this was the official justification: the public would
+recover its contribution through the increased value of what it kept.
+
+The Illinois Central received the first major federal grant of this kind in
+1850, and the model was then applied on a far larger scale to the
+transcontinental lines. Its elegance is that it appears to cost the treasury
+nothing. No appropriation is required. No tax is raised. Land that was
+generating no revenue is exchanged for infrastructure, and the transaction shows
+up in no budget as an expenditure.
+
+It is nonetheless a subsidy, and an enormous one, and it has two features worth
+carrying into Act II. The land was public, which is to say it had been taken
+from somebody, and the taking is not recorded in the grant. And the resulting
+asset was private and permanent — a corporation ended up owning a substantial
+fraction of the American West outright, with no obligation to the public beyond
+running trains.
+
+Every element of the machine that will make four Sacramento merchants into the
+wealthiest men on the Pacific coast is now in existence. What is missing is a
+decision about where the line should run, and that decision will be made in
+Washington by subtraction.
+
+## The seam
+
+Which returns us to Astor.
+
+His fortune began in the fur trade, which is extraction — take a resource from a
+territory, using the labour and knowledge of people who live there, and sell it
+somewhere else. He then converted the proceeds into Manhattan land and collected
+rent on the growth of a city he had no part in building. Extraction converted
+into rent: the oldest American pattern, and the one about to be run again on a
+much larger scale on the other side of the continent.
+
+Because on 24 January 1848 James Marshall found gold in the tailrace at Coloma,
+and nine days later, on 2 February, the Treaty of Guadalupe Hidalgo transferred
+California to the United States. The negotiators in Mexico did not know. Nobody
+in Washington knew. For several weeks the most valuable real estate on the
+continent changed hands at a price set in ignorance.
+
+The pattern this act has traced — chokepoint control, public authority converted
+to private benefit, institutions reproducing the class that endows them — took
+three thousand years to establish across four continents and a dozen
+civilisations. In California it runs again from the beginning, in one place,
+compressed into a single lifetime, and this time the documents survive.
+
+Act II is the proof.

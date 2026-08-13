@@ -114,6 +114,143 @@ idea with a different endowment.
 How does a persecuted movement become the most powerful institution in the world?
 :::
 
-::: {.callout-warning}
-Specified. Prose is written in Phase 5a.
-:::
+In 476 the last Roman emperor in the west was deposed, and the bishops kept
+writing to each other.
+
+They wrote using Roman roads and the remains of the Roman postal system. They
+addressed their letters to sees organised on Roman provincial boundaries. They
+used Roman legal vocabulary, Roman administrative procedure, and Latin. A bishop
+in Gaul in the late fifth century corresponded with Rome as a matter of routine,
+in an empire that had stopped collecting taxes, using a geography that no longer
+described a political reality and would continue not to describe one for the
+next thousand years.
+
+The map of the Roman Empire survived inside the institution that succeeded it.
+That is not a metaphor. Diocesan boundaries in parts of Europe still follow late
+Roman provincial divisions, which means the administrative geography of a state
+that ended fifteen centuries ago is still legible on a modern map, preserved by
+an organisation that was itself illegal within living memory of that state's
+peak.
+
+This chapter is about how that happened, and the answer is not primarily
+theological.
+
+## Scaling on someone else's infrastructure
+
+Christianity spread along the routes the empire had built, at the speed the
+empire had made possible, using the languages the empire had standardised. The
+letters of Paul are addressed to communities in cities connected by Roman roads
+and Roman shipping, written in Greek, moving through a postal geography created
+for tax and military purposes. A missionary religion arriving three centuries
+earlier or in a differently organised world would have propagated differently
+and probably more slowly.
+
+It also borrowed the empire's organisational forms. The Church did not invent
+the diocese; it adopted an existing Roman administrative unit and put a bishop
+in charge of it. Synods and councils operated on procedural lines that would
+have been familiar to any Roman magistrate. Canon law developed as a
+recognisably legal system, with texts, precedents, jurisdictions, and appeals,
+because the people building it had been trained in a culture that thought about
+authority that way.
+
+Persecution, meanwhile, functioned poorly as deterrence. This should be stated
+carefully rather than romantically: persecution was intermittent, regionally
+uneven, and at times severe, and most of the people subject to it were not
+volunteers. But a movement that produces martyrs acquires a documented history
+of people who chose it over their lives, and that is an unusually strong signal
+of sincerity in a crowded religious market. The empire was attempting to
+suppress a network by making examples, and the examples became the recruitment
+material.
+
+Then, in the fourth century, Constantine reversed the policy, and the
+transaction ran in both directions. The Church acquired legal standing, imperial
+patronage, and access to the machinery of the state. The state acquired an
+organisation with reach into every city in the empire and a claim to legitimacy
+that did not depend on military success — which was becoming a problem for
+emperors whose military success was intermittent.
+
+## Tax states and meaning states
+
+Here is the distinction that makes the rest of the chapter work.
+
+A tax state requires territory. Its authority is fiscal: it exists because it
+can assess, collect, and enforce, and if it loses the ability to do those things
+within a defined space, it ceases to exist in any practical sense. The western
+Roman state stopped being able to collect, and stopped being.
+
+The Church's authority was not fiscal. It collected revenue, held property, and
+became extremely wealthy, but none of that was the source of its claim. What it
+offered was an account of what things mean — of what a death signifies, what an
+oath binds, what a marriage is, and who has the standing to say. That is a
+different kind of asset, and it has a different failure mode. A meaning state
+cannot be defeated by losing a war. It can only be defeated by ceasing to be
+believed, which takes considerably longer and, as Act I chapter 7 will show,
+requires a change in the cost of copying documents.
+
+So when the political order failed, the Church did not. It had never depended on
+any particular political order, and within two centuries it was the only
+institution operating continuously across the whole of the former western empire
+— negotiating with Germanic kings, preserving Latin literacy, running what
+schools existed, and providing the administrative class that successor states
+could not produce themselves.
+
+## The succession problem, solved
+
+The most consequential design decision was about how the institution replaced
+its own leadership, and it is worth setting against the previous chapters.
+
+Alexander's empire fragmented immediately because he named no heir. Dynastic
+states are perpetually one bad generation from crisis, and much of medieval
+political history is the working out of that vulnerability. The Church avoided
+it by making its offices offices.
+
+A bishopric was not inherited. It was filled by appointment or election within
+the institution, from a pool of candidates the institution had trained. Clerical
+celibacy — enforced unevenly for centuries before being made general in the
+Latin Church — removed the incentive to convert an office into a family
+possession, and removed the possibility of legitimate heirs with claims on it.
+The result is an organisation that reproduces its own governing class
+indefinitely, selecting for people who have risen inside it, with no dependence
+on the fertility or competence of any particular family.
+
+This is elite reproduction as an explicit institutional design, and it is the
+oldest continuously operating example in the world. Imperial China had arrived
+at a comparable solution by a different route, as the next chapters will show.
+Both outlasted every dynasty around them, and for the same structural reason.
+
+Leland Stanford, in 1885, will attempt something similar with a board of
+trustees empowered to appoint its own successors, insulated from the electorate
+and from the legislature. He is solving Alexander's problem with the Church's
+answer, almost certainly without knowing it.
+
+## What consolidation costs
+
+Deciding what a thing means requires deciding what it does not mean, and the
+groups placed on the wrong side of those decisions are the reason the word
+heresy exists.
+
+The councils that established Christian orthodoxy — Nicaea in 325, Chalcedon in
+451, and the rest — were doing institutional work as much as theological work.
+They were producing a single authoritative account where several had been
+circulating, and the communities whose accounts were rejected did not simply
+change their minds. Some persisted for centuries; some were suppressed; some
+separated permanently, and the churches that resulted still exist. Older local
+religious practice across Europe was variously absorbed, rebranded, and
+prohibited.
+
+The point is not that consolidation was uniquely brutal. It is that a monopoly
+on meaning is still a monopoly, and it is built the way monopolies are built: by
+eliminating the alternatives.
+
+## The lesson
+
+What the Church demonstrates, and what no institution before it had demonstrated
+so completely, is that an organisation can be more durable than any state it
+serves — provided its authority does not depend on the state's survival, and
+provided it has solved succession.
+
+The rest of this book is, in one sense, a search for the institution that
+occupies that position in California. It will turn out to be a university, and
+the university will turn out to have been endowed by a railroad, and the
+railroad will turn out to have been built with public money by men who
+understood none of this and reproduced it anyway.

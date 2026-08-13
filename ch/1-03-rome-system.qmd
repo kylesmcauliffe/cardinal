@@ -111,6 +111,146 @@ it with academic freedom and a platform will perform it with terms of service.
 How does a republic turn empire without admitting it?
 :::
 
-::: {.callout-warning}
-Specified. Prose is written in Phase 5a.
-:::
+Augustus never held an office that had not existed under the Republic.
+
+This is the single most important fact about the transformation of Rome from a
+republic into an empire, and it is the reason Romans argued for the next three
+centuries about whether the transformation had happened. The Senate continued to
+meet. Consuls were still elected, and the years were still named after them.
+Tribunes still held their veto. The magistracies, the priesthoods, the ancient
+formulae — all of it stayed in place, and the man who controlled the whole
+apparatus declined the title of king with such consistency that declining it
+became part of his authority. He called himself *princeps*, first citizen. He
+described the settlement of 27 BCE as the restoration of the Republic, and he
+was not obviously lying, because on paper it was.
+
+The form was the alibi. Power that looks like continuity does not have to be
+defended, because there is nothing visible to attack. This manoeuvre — replace
+the logic, keep the language — is Rome's most durable export, and this book will
+watch a university perform it with academic freedom and a set of platform
+companies perform it with the vocabulary of neutrality.
+
+## Legibility
+
+Before the manoeuvre, though, the machinery, because Rome's real innovation was
+not conquest and the distinction matters.
+
+Plenty of states conquered. Assyria conquered. Macedon conquered, brilliantly
+and briefly. What Rome did that its rivals did not was make territory legible —
+convert land and people into something that could be counted, taxed, moved
+through, and governed by an official who had never seen it.
+
+The instruments were unglamorous and they were the empire.
+
+Roads, first: surveyed, measured, built to a standard, and maintained. A Roman
+road is not primarily a trade route, though trade used it. It is an instrument
+of administration, which is why the roads run straight through terrain a
+merchant would have gone around. Legions moved on them. So did tax revenue,
+official correspondence, and the imperial post. Every milestone recorded the
+distance, the direction, and the name of the emperor who had paid for the work —
+three pieces of information, of which the third is the reason for the first two.
+
+Law, second: written down, published, applied at distance, and increasingly
+professional. A dispute in a province could be resolved by reference to a text
+rather than to the temperament of whoever held the local garrison. This is what
+makes property transferable and contracts enforceable across a territory too
+large for anyone to supervise personally.
+
+Citizenship, third, and this is the subtle one. Roman citizenship was graded.
+There were full citizens, Latin-right communities with partial privileges,
+provincials, freedmen with restrictions, and enslaved people with none. Status
+could be granted, inherited, purchased, or earned through military service, and
+the grading was the point: a hierarchy with rungs is a hierarchy people climb
+rather than overthrow. Extending citizenship was not generosity. It was the
+cheapest available method of converting a subject population into a stakeholding
+one, and Rome used it for four centuries before finally extending it to nearly
+everyone in 212 CE, at which point it was worth considerably less.
+
+And the census, fourth: a periodic count of people and property, on a schedule,
+for the purpose of assessment. It is the oldest instrument in this book that is
+still in continuous use.
+
+Together these convert a landscape into a system. And whoever administers the
+system sets its terms — because the roads that carry the legion also carry the
+tax collector, and the law that makes your contract enforceable is written
+somewhere else by someone you will never meet.
+
+## How the Republic actually failed
+
+The standard account of the Republic's fall is a morality tale about ambition,
+and it is not wrong so much as beside the point.
+
+The structural problem was that Rome's military success had broken its own
+social arrangements. Long campaigns far from Italy meant that soldiers served
+for years, which meant that smallholders lost their farms, which meant that land
+concentrated into large estates worked by enslaved people captured in the same
+wars. The dispossessed went to the city. The armies, recruited increasingly from
+men with no property to return to, became loyal to the commanders who could
+promise them land at the end of their service rather than to the state that had
+sent them.
+
+Once a general's veterans depend on him personally for their retirement, the
+Republic has a private-army problem that no constitutional reform can solve,
+because the constitution is not what is generating the loyalty. Every crisis of
+the first century BCE — Marius, Sulla, Pompey, Caesar — runs through this
+mechanism.
+
+Caesar's assassination in 44 BCE was intended to restore the Republic and
+demonstrated that the Republic was no longer restorable. His heir spent thirteen
+years winning the resulting wars.
+
+## The settlement
+
+What Octavian then did, having won, was refuse to look like a winner.
+
+He returned his extraordinary powers to the Senate in 27 BCE and received back,
+by the Senate's grant, control of the provinces where the legions were
+stationed. He held the consulship for a period and then stopped, taking instead
+the powers of a tribune, which gave him a veto and made his person legally
+inviolable. He became *pontifex maximus*, which put the state religion under his
+authority. He controlled the treasury that paid the army. He decided who
+received honours.
+
+Every one of these was an existing republican instrument. Assembled in one pair
+of hands, they constituted something the Republic had no name for, and Augustus
+was careful never to invent one. The record he left of his own achievements, the
+*Res Gestae*, inscribed on bronze and copied across the empire, describes a
+career of public service in which he repeatedly declined powers that were
+offered to him. It is entirely accurate and completely misleading, which makes
+it one of the more instructive political documents in existence.
+
+The system worked for two centuries. It worked because nobody had to lose an
+argument about whether the Republic still existed. The vocabulary was intact,
+the ceremonies continued, the Senate met, and the substance had moved.
+
+## What it cost
+
+The villa economy that fed Rome ran on enslaved labour, supplied continuously by
+the conquests the roads made possible. The provinces were taxed to build the
+infrastructure that made them taxable, and the citizenship that was eventually
+extended to them arrived after the tax obligation did. Peoples on the frontier
+appear in the Roman record mainly at the moment of their destruction, described
+by the people destroying them — the archive problem from chapter 1, operating at
+imperial scale.
+
+Tacitus, who was a Roman senator and no anti-imperialist, put the sharpest
+version of it into the mouth of a Caledonian chieftain before a battle: *they
+make a desert and call it peace*. It is a Roman writing Roman self-criticism for
+a Roman audience, which tells you both that the empire knew what it was and that
+knowing did not change anything.
+
+## The inheritance
+
+Rome's most consequential legacy is not the roads, which decayed, or the law,
+which was recovered and reworked centuries later. It is a demonstration.
+
+An institution can be captured without being abolished. Its language can be
+retained while its logic is replaced. And a settlement conducted this way is far
+more stable than an open seizure, because it gives everyone who benefits from it
+a reason to insist that nothing has changed.
+
+Two thousand years later a university endowed with railroad money will describe
+itself as an independent centre of disinterested inquiry, and mean it, and be
+partly right. The institution will be real. The independence will be real. And
+the money will still have come from the railroad, and the trustees will still
+appoint their own successors, and nobody will have to lie about any of it.

@@ -106,6 +106,153 @@ redistribution of control.
 What happens when complex systems fail all at once?
 :::
 
-::: {.callout-warning}
-Specified. Prose is written in Phase 5a.
-:::
+The last letters from Ugarit survive because the city burned.
+
+Ugarit was a wealthy port on the Syrian coast, a place where Cypriot copper,
+Anatolian grain, and Egyptian linen changed hands under the supervision of
+palace officials who wrote everything down. Sometime around 1190 BCE it was
+destroyed and never reoccupied. The clay tablets its scribes had been working on
+were still in the kilns and the archive rooms when the fire came through, and
+the heat that ruined the city baked them hard. Tablets that would otherwise have
+crumbled were fired into permanence by the disaster that made them the last
+things anyone in Ugarit ever wrote.
+
+They are administrative documents, mostly, which is what makes them useful.
+There are requests for grain. There is correspondence about ships. One letter
+from the king of Ugarit to the king of Alashiya on Cyprus reports enemy vessels
+offshore and observes that the city's own fleet is somewhere else entirely,
+stationed off the Lycian coast, and that the army is in the land of the
+Hittites. The tone is administrative rather than panicked. A functionary is
+reporting a supply problem to a counterpart, in the expectation that the
+correspondence will continue.
+
+It did not continue. Within a generation the Hittite state had disappeared, the
+Mycenaean palaces on the Greek mainland had burned, and a network of trade and
+diplomacy that had linked the eastern Mediterranean for three centuries had come
+apart. Historians call it the Late Bronze Age collapse, and it is the earliest
+event in this book because it is the earliest place where the pattern is
+visible.
+
+The pattern is not that everything fell. It is that some things fell and others
+did not, and that the difference was structural.
+
+## What a palace economy was
+
+The states that failed most completely shared an organising principle. They were
+redistribution economies: agricultural surplus flowed into palace storerooms,
+was recorded, and was allocated back out as rations, wages, and offerings. The
+Linear B tablets from Pylos and Knossos are inventories — so many measures of
+grain, so many bronze workers, so many sheep at such a location, this many
+chariot wheels serviceable and that many not. Almost nothing that survives from
+these palaces is literary. It is stock control.
+
+This was an efficient way to run an economy at that scale. It permitted large
+public works, standing craft specialists, and long-distance trade conducted on
+state account. It also meant that essentially all economic activity above the
+household level passed through a single institution, and that the institution's
+records were the economy's nervous system.
+
+Efficiency of that kind is purchased with slack. A redistribution economy has no
+alternative channels by design, because alternative channels are exactly the
+waste it exists to eliminate. When the palace stops functioning, there is no
+second system to fall back on, because the second system was competed out of
+existence centuries earlier.
+
+## The dependencies
+
+The specific vulnerabilities are worth naming, because vagueness about them is
+what turns this story into a parable instead of an argument.
+
+Bronze requires copper and tin. Copper was available in the eastern
+Mediterranean, principally from Cyprus. Tin was not: it came overland from
+sources far to the east, through a chain of intermediaries, over routes that no
+single state controlled. The entire military and agricultural technology of the
+age depended on a metal whose supply ran through territory its users could not
+police. Grain moved by sea, in ships that were vulnerable to interruption. Craft
+production depended on specialists concentrated in a few centres.
+
+Each of these is a chokepoint — a point through which something essential must
+pass, and at which the flow can be stopped. The palace economies did not merely
+have several. They had several that they did not control, and no substitutes for
+any of them.
+
+What happened between roughly 1200 and 1150 BCE was not one event. Drought is
+attested in the climate record. There was seaborne raiding, which Egyptian
+sources describe and which later writers turned into the Sea Peoples, a
+convenient collective noun for a phenomenon nobody at the time understood well
+enough to name. There was earthquake damage at several sites. There was internal
+revolt. Any of these was survivable. The reason they were not survivable
+together is that the system had been optimised on the assumption that they would
+not arrive together.
+
+## Who did not fall
+
+Egypt was hit by the same shocks and continued. It lost its Levantine
+possessions, its central authority weakened, and the New Kingdom eventually
+ended — but Egyptian society, Egyptian administration, and Egyptian records
+persisted through the disruption in a way that Mycenaean society did not. The
+smaller Levantine coastal towns not only survived but in several cases expanded
+into the space the collapse created. The Phoenician cities that dominate the
+following centuries are, in part, the beneficiaries of it.
+
+What did the survivors have? Fewer critical dependencies, held closer.
+Agriculture that did not route entirely through a single distribution point.
+Storage that was distributed rather than concentrated. Trade conducted by
+merchants on their own account rather than by state agents, which meant that the
+failure of a state did not end the commerce. Egypt's grain came from the Nile
+rather than from a sea route somebody else could cut.
+
+This is not a moral distinction and the chapter is not arguing that the
+survivors were wiser. It is arguing that they were differently built, and that
+the difference was legible in advance to anyone who cared to look at the
+dependency structure — which nobody did, because the dependency structure was
+also the source of the prosperity.
+
+## The archive problem
+
+There is a second thing the Ugarit tablets teach, and it constrains everything
+else in this book.
+
+We know a great deal about the palaces and almost nothing about the people who
+worked for them. This is not because the palaces were more important. It is
+because the palaces employed scribes and the labourers did not. The record that
+survives was produced by the institution being studied, for its own purposes,
+and it counts what the institution cared to count. Linear B tells us how many
+sheep were at Pylos. It does not tell us what the shepherd thought about it.
+
+Survival in the archive is a form of advantage, and it is the first one this
+book identifies. Every subsequent chapter rests on evidence that somebody, for
+reasons of their own, chose to create and preserve. A mission register in
+eighteenth-century California, a railroad's corporate accounts, a university's
+founding grant, a platform's internal moderation guidelines: in each case the
+document exists because an institution wanted it to exist, and in each case the
+people the institution acted upon appear as entries rather than as authors.
+
+Historians know this and work around it. Readers should know it too, because it
+is the reason certain chapters in this book are shorter than they ought to be.
+
+## What the collapse teaches
+
+Three thousand years later, in a forty-mile corridor on the San Francisco
+Peninsula, an economy will be built that concentrates an extraordinary
+proportion of the world's capital, talent, and information infrastructure in a
+very small number of institutions, with dependencies running through supply
+chains its participants do not control and could not replace quickly. The people
+inside it will describe this concentration as an advantage, and for as long as
+nothing goes wrong they will be right.
+
+That is not a prophecy and the chapter does not offer it as one. It is an
+observation about what the earliest well-documented systemic failure in human
+history actually demonstrated, which is that the most connected system is the
+most brittle one, and that the connection and the brittleness are the same
+property viewed from different angles.
+
+Collapse, on this reading, is not an ending. The Late Bronze Age did not stop;
+it was redistributed. Control over trade, over metal, over writing itself passed
+from palace bureaucracies to merchant cities, and the alphabet that the
+Phoenicians carried across the Mediterranean was a simpler and more portable
+technology than the syllabaries it displaced. Something was destroyed and
+something took its place, and the thing that took its place had a different
+shape.
+
+What this book tracks, from here to Sand Hill Road, is the shape.
