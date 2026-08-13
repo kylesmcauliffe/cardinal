@@ -11,18 +11,59 @@ Act III — Hoover, War, and the Archive State · 1942–1945
 
 **Core question.** Why does federal money route through universities?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** Because universities supply the two things the state cannot buy
+directly: talent and legitimacy. Contractors provide production, the state
+provides demand and classification, and the university provides people and the
+appearance of disinterest. California received disproportionate federal research
+money because it was the only place hosting all three layers in one metropolitan
+area.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Public subsidy converted into private monopoly, with the
+triangle specified. This is the book's structural centre for the twentieth
+century, and the chapter should be diagrammatic in its clarity: three parties,
+three contributions, and a flow of public money that ends in private balance
+sheets.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** The institutional architecture of Silicon Valley was built in
+procurement offices, not garages. The garage is the story the system tells about
+itself; the contract file is what actually happened.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** A contracting officer. The least glamorous figure in the
+book and one of the most consequential — the person whose signature determines
+which region gets an industry.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** The taxpayer, structurally: funding research whose results
+are classified and whose commercial value accrues to private firms. And the
+legislature, which appropriates in aggregate and cannot see the allocation.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that federal money routed through universities
+because universities laundered its legitimacy by showing what each of the three
+parties contributed and what each extracted.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A contract file. Open on the document that the garage story exists
+   to obscure.
+2. **The three layers.** University, contractor, state. What each supplies and
+   what each receives. Keep it schematic and short; the reader should be able to
+   redraw it from memory.
+3. **Why not fund firms directly.** The legitimacy problem. A university's
+   disinterest is an asset the state is willing to pay for.
+4. **Why not do it in-house.** Civil service constraints, salaries, and the
+   speed of academic hiring.
+5. **Overhead.** The unglamorous heart of the chapter: indirect cost recovery as
+   the university's actual revenue model. Follow the money to where it lands.
+6. **Classification.** What secrecy does to accountability. The public cannot
+   audit what it cannot read.
+7. **California's concentration.** Why the three layers ended up adjacent here
+   rather than elsewhere. Specific: Moffett, the aviation industry, the Pacific
+   theatre, Stanford and Berkeley.
+8. **The excluded.** The taxpayer and the legislature, structurally rather than
+   rhetorically.
+9. **Landing.** The triangle is the machine. Every subsequent chapter in the
+   book is this diagram with different company names in the second box.
 :::
 
 :::
@@ -32,5 +73,5 @@ Why does federal money route through universities?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5b.
+Specified. Prose is written in Phase 5b.
 :::

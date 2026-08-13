@@ -9,20 +9,61 @@ Act III — Hoover, War, and the Archive State · 1945
 ::: {.callout-note collapse="true"}
 ## Pre-Draft Brief
 
-**Core question.** What changes when a state becomes strategically indispensable?
+**Core question.** What changes when a state becomes strategically
+indispensable?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** Everything, permanently. In 1940 California was a large
+agricultural state with an aircraft industry. By 1945 it was the strategic
+platform for American power in the Pacific, and strategic indispensability is
+not a status a state gives up. The federal relationship established in those
+five years has never been renegotiated.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** The three mechanisms locking together. Federal money
+(subsidy), concentrated in a corridor (chokepoint), routed through an
+institution that credentials the people who administer it (network). The
+chapter's function is to show the reader the completed assembly before Act IV
+runs it.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Federal spending during the war remade California's
+population, industry, and universities simultaneously, and none of the three
+reverted afterwards. The wartime settlement became the permanent condition.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** A shipyard worker in Richmond or Sausalito in 1945,
+hearing that the war is over — one of hundreds of thousands whose presence in
+California is a federal decision, and who mostly stayed.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** Black workers recruited into wartime industry and then
+pushed out of the post-war settlement by restrictive covenants and redlining,
+and the women who were removed from industrial employment. The wartime
+expansion's beneficiaries and its discards are not the same people.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that California's federal relationship was
+permanently altered by showing that its wartime population, industrial capacity,
+and research funding did not revert after 1945.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** V-J Day at a shipyard gate. Two hundred thousand people who came
+   for a job that has just ended, in a state that is about to keep them.
+2. **The numbers.** Population growth, federal dollars, industrial capacity,
+   1940 to 1945. Sourced and specific; this beat is arithmetic and should read
+   like it.
+3. **The Pacific theatre.** Why geography made the state indispensable, and the
+   specific installations that embodied it.
+4. **Universities transformed.** What five years of federal money did to
+   Stanford and Berkeley.
+5. **What did not revert.** The chapter's central move: run the counterfactual
+   and show it did not happen. Bases stayed, contracts continued, people
+   remained.
+6. **The excluded.** Black wartime workers and post-war housing exclusion; women
+   pushed out of industrial work. Name the covenants and the mechanisms, not
+   just the outcome.
+7. **Reclassification as a durable status.** Frontier to arsenal, and why nobody
+   in Washington or Sacramento wanted to reverse it.
+8. **Landing.** The question the next chapter answers: what happens when wartime
+   research methods and wartime budgets simply do not go away.
 :::
 
 :::
@@ -32,5 +73,5 @@ What changes when a state becomes strategically indispensable?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5b.
+Specified. Prose is written in Phase 5b.
 :::

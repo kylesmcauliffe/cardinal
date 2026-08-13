@@ -9,20 +9,68 @@ Act I — The World Before California · 1300–1648
 ::: {.callout-note collapse="true"}
 ## Pre-Draft Brief
 
-**Core question.** How does private capital come to commission public meaning — and what happens when copying gets cheap?
+**Core question.** How does private capital come to commission public meaning —
+and what happens when copying gets cheap?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** By funding it, then staffing it, then becoming it — and the
+sequence is the method. The Medici went from money changers to popes by making
+themselves indispensable to the institution they wanted to control. Then the
+press destroyed the information monopoly that had made such capture worth
+attempting, and a century of war followed over who owned the narrative layer.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Public subsidy inverted — private capital commissioning
+public meaning — and then the collapse of a chokepoint. The chapter's two halves
+are the two things that can happen to a monopoly on legitimacy: it can be
+bought, and it can be destroyed by a change in the cost of copying.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** The Medici produced four popes. A banking family did not
+merely influence the institution that certified European legitimacy; it supplied
+its personnel.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** A commissioned altarpiece with a donor's face in it. The
+most efficient statement of the mechanism in the book: the man who paid is
+inside the sacred image, permanently, at eye level.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** Florentine wool workers, whose labour generated the surplus
+that became the patronage; the borrowers on the other side of the ledger; and
+the readers whose access to text the press expanded and whose lives the
+resulting wars consumed.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that private capital converts wealth into
+legitimacy by commissioning culture, and that the arrangement depends on
+controlling reproduction, by showing the Medici succeed for two centuries and
+then the press break the monopoly in twenty years.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** The donor in the altarpiece. Describe the painting before
+   explaining it.
+2. **Money changers to bankers.** The Medici Bank's real product: papal
+   accounts. Become the institution's balance sheet and you become its
+   constituency.
+3. **Funding, staffing, becoming.** The three-step sequence, with the popes as
+   the proof of step three.
+4. **Patronage as legitimacy production.** Leonardo, Michelangelo, Botticelli —
+   commissioned, not discovered. The Renaissance as what happens when private
+   capital controls the commissioning of public meaning. This is the chapter's
+   line and it must be earned, not asserted.
+5. **Name the parallel now.** Leland Stanford will build a university for the
+   same reason, and the book will say so again in Act II ch. 12. Plant it here.
+6. **The press arrives.** 1440s. What actually changed: not literacy, cost.
+   Copying stops being scarce.
+7. **Luther, 1517.** The arguments were not new and earlier versions of them got
+   their authors burned. What was new was that the theses could not be caught.
+8. **The wars.** A century of them, over the narrative layer rather than over
+   doctrine. Keep the theology minimal and the mechanism visible.
+9. **Westphalia, 1648.** The sovereign state as the new unit of legitimacy.
+   Everything after this is a fight over who controls states and whom states
+   protect.
+10. **The excluded.** Wool workers, debtors, and the populations the wars ran
+   through.
+11. **Landing.** A monopoly on meaning can be purchased and can be destroyed.
+   Both facts are load-bearing for the platform era.
 :::
 
 :::
@@ -32,5 +80,5 @@ How does private capital come to commission public meaning — and what happens 
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5a.
+Specified. Prose is written in Phase 5a.
 :::

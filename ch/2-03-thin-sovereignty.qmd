@@ -9,20 +9,56 @@ Act II — Land, Monopoly, and Institution · 1821–1834
 ::: {.callout-note collapse="true"}
 ## Pre-Draft Brief
 
-**Core question.** What happens when institutions inherit territory without capacity?
+**Core question.** What happens when institutions inherit territory without
+capacity?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** Authority devolves to whoever is physically present and
+organised. Mexico inherited Alta California in 1821 without inheriting any means
+of governing it, and the vacuum was filled by land grants and local strongmen.
+California became a place where showing up with organisation was sufficient —
+which is the founding condition of every fortune in this book.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Elite network reproduction under weak enforcement. Land
+grants create a class whose title depends on a government too distant to enforce
+or revoke it, and that class governs in the state's absence. The pattern recurs
+exactly in the Committees of Vigilance and again in the platform era.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Mexican independence transferred the territory and not the
+capacity. The distance from Mexico City to Monterey defeated administration more
+reliably than any opposition did.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** A rancho grant: a hand-drawn map, boundaries described by
+landmarks, and a signature from a governor whose authority to give it away is
+itself uncertain.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** Indigenous Californians, whose status changed on paper with
+independence and not at all in practice, and who were now subject to landholders
+rather than to an order. Also the mission communities about to be dispossessed a
+second time.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that where enforcement is absent, private
+organisation becomes government by showing Mexican California governed by grant-
+holders rather than by administrators.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A grant map with a boundary described as a creek and an oak tree.
+   Property as an assertion nobody is in a position to check.
+2. **1821.** Independence, and the transfer of a territory nobody in Mexico City
+   has capacity to run.
+3. **Monterey as capital.** What a capital is when it cannot reach its own
+   hinterland.
+4. **The grant system.** How land was distributed, on what terms, to whom.
+   Concrete: acreages, procedure, and the vagueness of boundaries.
+5. **The frontier oligarchy.** Local strongmen as the actual government. Naming,
+   and specific examples.
+6. **Foreigners arriving.** Traders and hide-and-tallow merchants; the
+   beginnings of an American commercial presence, on Mexican legal terms.
+7. **The excluded.** Indigenous status in law versus in practice.
+8. **Landing.** The territory is now organised around private title under weak
+   enforcement. That is the exact condition secularisation is about to exploit.
 :::
 
 :::
@@ -32,5 +68,5 @@ What happens when institutions inherit territory without capacity?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5a.
+Specified. Prose is written in Phase 5a.
 :::

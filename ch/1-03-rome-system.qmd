@@ -11,18 +11,63 @@ Act I — The World Before California · 509 BCE–476 CE
 
 **Core question.** How does a republic turn empire without admitting it?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** By keeping every word and changing every meaning. Augustus did
+not abolish the Republic; he preserved its offices, its titles, and its
+vocabulary while relocating its power, and he called himself first citizen
+rather than king. The form is the alibi. This is the manoeuvre the book will
+watch a university, a research institute, and a platform each perform in turn.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Chokepoint control through legibility, plus the book's first
+full example of monopoly power dressed in neutral institutional clothing. Roads,
+law, graded citizenship, and census records convert territory into something
+administrable — and whoever administers it sets the terms.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Augustus held no office that had not existed under the
+Republic. The constitutional revolution left the constitution in place, which is
+precisely why it worked.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** Augustus, refusing the crown in public and accepting the
+substance in private. And a milestone on a Roman road, which is the same
+argument in stone.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** Roman citizenship was graded, and the grading was the
+point. The enslaved population that made the villa economy work, the provincials
+taxed to fund the roads they were not free to travel as equals, and the peoples
+whose destruction the roads were built to enable.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that durable power prefers to colonise
+institutions rather than replace them by showing that Rome's transition from
+republic to empire required no change to the republic's formal structure.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A milestone. Distance, direction, and the name of the emperor who
+   paid for it: three pieces of information, and the third is the reason for the
+   other two.
+2. **Legibility as the Roman innovation.** Roads, law, census, graded
+   citizenship. Not conquest — administration. Rome's genius is the filing
+   system.
+3. **Citizenship as a graded instrument.** Extension as a tool of control rather
+   than generosity. Compare, forward and briefly, to the credential.
+4. **The Republic's real crisis.** Land, debt, and armies loyal to commanders
+   rather than the state. Keep this tight; it is background, not subject.
+5. **Augustus.** The offices retained, the titles preserved, the vocabulary
+   kept. *Princeps*, not *rex*. What he actually controlled: the army, the
+   treasury, and the calendar of honours.
+6. **Why the costume matters.** Power that looks like continuity does not have
+   to be defended. Name this as a mechanism and promise to show it again.
+7. **The roads as chokepoint.** Movement, information, and tax all travel the
+   same infrastructure. Whoever maintains it prices it.
+8. **The excluded.** Slavery in the villa economy; provincial taxation; the
+   peoples the roads were built to reach.
+9. **The long decline, briefly.** Do not narrate the fall. Note only what
+   happened to the institution's assets and records, because that hands off to
+   ch. 4.
+10. **Landing.** Rome's most durable export was not an empire but a template:
+   replace the logic, keep the language. Stanford will do this with academic
+   freedom.
 :::
 
 :::
@@ -32,5 +77,5 @@ How does a republic turn empire without admitting it?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5a.
+Specified. Prose is written in Phase 5a.
 :::

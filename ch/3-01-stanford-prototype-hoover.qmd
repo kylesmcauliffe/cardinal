@@ -11,18 +11,64 @@ Act III — Hoover, War, and the Archive State · 1891–1900
 
 **Core question.** What does the Stanford pipeline produce?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** A new kind of person. Hoover came out of Stanford's first
+graduating class in 1895 with a geology degree, no money, no family standing,
+and a network — and within fifteen years he was running mining operations on
+four continents. He is not an aristocrat and not a politician. He is the
+credentialed technocrat, and he is the pipeline's first product.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Elite network reproduction, first output. The chapter's job
+is to show the credential doing work that neither birth nor capital could do: it
+makes a poor orphan from Iowa legible to London mining finance. Legitimacy as a
+portable instrument, exactly as Act I ch. 2 promised.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Hoover was an orphan with no inherited capital who arrived for
+Stanford's opening year and failed the entrance examination in everything but
+mathematics. He was admitted conditionally. The pipeline's prototype nearly did
+not get in.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** Hoover and Lou Henry Hoover in Tianjin during the siege of
+1900 — two Stanford geologists under fire, she reportedly carrying a revolver,
+both of them treating a war as a logistics problem. The marriage is the network
+in miniature.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** The Chinese workforces Hoover managed at Kaiping, and the
+disputes over how that operation was conducted — including litigation that
+followed him for years. And the several hundred students in that first class who
+did not become anything in particular, whose existence the pipeline story
+requires us to forget.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that the Stanford credential functioned as
+capital by showing a man with no money and no standing convert a degree into
+access to international mining finance within a decade.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** He failed the entrance exam. Open on the conditional admission of
+   the man the whole act is about.
+2. **The pioneer class, 1891–1895.** What Stanford was in its first four years:
+   unfinished, free, and coeducational. Geology under John Casper Branner.
+3. **Lou Henry.** Stanford geology, 1898, and the only woman in her programme.
+   Establish her as a peer, not a spouse, because the chapter's argument needs
+   the network to be two people wide.
+4. **The first jobs.** Pushing ore carts in Nevada, then a clerk's post, then
+   Bewick, Moreing in London. Trace the specific mechanism of each step — who
+   recommended him, and on what basis.
+5. **Australia, 1897.** Coolgardie, the Sons of Gwalia. What a mining engineer
+   actually does: surveying, accounting, logistics, labour management, risk
+   pricing, political negotiation. Name the skill set; it is the same one Act
+   IV's lab directors will need.
+6. **China, 1899.** Kaiping, and the scale of the operation.
+7. **Tianjin, summer 1900.** The siege. Both Hoovers in it. Keep the adventure
+   short and use it for character.
+8. **The Kaiping controversy.** The disputed transfer of the mines and the
+   litigation that followed. Give the strongest version of the case against him,
+   per the voice rule, and say what the record supports.
+9. **Landing.** By 1901 he is a partner. Technical training plus capital access
+   plus institutional network equals global leverage. Name the formula; Act III
+   spends twelve chapters testing it.
 :::
 
 :::
@@ -32,5 +78,5 @@ What does the Stanford pipeline produce?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5b.
+Specified. Prose is written in Phase 5b.
 :::

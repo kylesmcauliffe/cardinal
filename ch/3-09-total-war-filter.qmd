@@ -11,18 +11,59 @@ Act III — Hoover, War, and the Archive State · 1939–1941
 
 **Core question.** How does crisis select for ecosystems?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** It picks winners by geography and readiness. Rearmament money
+did not spread evenly; it went where engineering schools, laboratories, and
+industrial capacity already sat next to each other. California's advantage was
+not destiny. It was that when the money started moving, the state already had
+the three things the money needed in the same place.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Public subsidy about to be converted, and the selection stage
+of the conversion. The chapter's discipline is anti-determinist: California was
+chosen, by identifiable people applying identifiable criteria, and it could have
+been chosen otherwise.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Hewlett-Packard was founded in a garage at 367 Addison Avenue
+in Palo Alto in 1939 with about five hundred dollars. The garage is the founding
+image of the American technology industry, and its first significant customer
+base was the war.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** Two of Terman's students in a rented garage, choosing to
+stay in California when the entire electronics industry was on the east coast —
+because their professor told them to.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** Japanese Americans in California, whose incarceration from
+1942 is part of this period and belongs in this act rather than only in Act V's
+ledger. The farms and businesses lost are a transfer of assets, and the transfer
+had beneficiaries.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that California's technological primacy was
+selected rather than inevitable by showing the specific institutional and
+geographic criteria that federal science funding applied before 1941.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** 367 Addison Avenue, 1939. Five hundred dollars and a garage. Then
+   the deflation: the garage matters because of what was already around it.
+2. **Terman's advice.** Why Hewlett and Packard stayed. The professor as an
+   allocator of talent — the first appearance of the act's central figure.
+3. **What the early products were.** An audio oscillator, and who bought it.
+   Follow the revenue, not the legend.
+4. **Rearmament's selection criteria.** What federal science money was looking
+   for from 1938: existing laboratories, trained people, industrial capacity,
+   proximity to the theatre.
+5. **Why the Pacific matters.** Geography as an asset for the first time since
+   the Bay in Act II ch. 2.
+6. **The competition.** MIT, Harvard, Bell Labs. California is behind at this
+   point, and the chapter must say so — the outcome was not obvious in 1940.
+7. **Anti-determinism, stated.** Name the decision-makers and the criteria.
+   Contingency is the honest reading and it makes the eventual result more
+   interesting, not less.
+8. **Japanese American incarceration, 1942.** Place it here, with the property
+   transfers named. Do not defer the whole subject to Act V.
+9. **Landing.** The state is positioned and the money is about to arrive in
+   quantities nobody has seen. Hand off to Terman.
 :::
 
 :::
@@ -32,5 +73,5 @@ How does crisis select for ecosystems?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5b.
+Specified. Prose is written in Phase 5b.
 :::

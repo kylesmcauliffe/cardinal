@@ -11,18 +11,60 @@ Act II — Land, Monopoly, and Institution · 1869–1890
 
 **Core question.** How is monopoly made permanent?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** By moving into doctrine. The Southern Pacific learned that
+lawyers were cheaper and more durable than force, and in Santa Clara County v.
+Southern Pacific Railroad the Fourteenth Amendment — written to protect people
+freed from slavery — was read in a way that came to shield corporations.
+Monopoly stopped being merely economic and became juridical, and power that
+lives in doctrine is much harder to confront than power that lives in depots.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Chokepoint control relocated into the legal layer. The lesson
+the railroad teaches California's elite — visibility is a liability, legal
+architecture is the real fortress — runs directly to software patents, terms of
+service, and arbitration clauses.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** The corporate-personhood reading of the Fourteenth Amendment
+entered American law through a headnote to an 1886 railroad tax case, not
+through the Court's holding. The doctrine's origin is a reporter's summary.
+Handle precisely; this is frequently overstated and the precision is the point.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** The court reporter, J. C. Bancroft Davis, writing the
+headnote. A clerk's sentence outlasting the railroad that occasioned it.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** The freedpeople for whose protection the amendment was
+ratified, and the farmers, shippers, and small towns who could not litigate
+against a company with a permanent legal department. Access to law is itself a
+chokepoint.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that mature monopolies migrate from physical to
+legal control by showing the Southern Pacific replacing coercion with litigation
+and acquiring a constitutional shield in the process.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A headnote. Begin with the smallest possible document and the
+   largest possible consequence.
+2. **Consolidation.** The Central Pacific into the Southern Pacific; the
+   octopus, and how completely it held California's traffic.
+3. **Rate-setting as governance.** What it means for a private company to
+   determine which towns are viable.
+4. **Political capture.** The railroad's role in California legislatures and
+   conventions. Huntington's letters, cited from the surviving originals rather
+   than from repetition.
+5. **Santa Clara County v. Southern Pacific, 1886.** What was actually at issue
+   — taxation of fences — and what the Court actually held. Then the headnote,
+   and its afterlife.
+6. **Precision as argument.** Give the strongest version of the sceptical
+   reading: the doctrine developed over subsequent decades and the headnote is
+   not the whole story. Then say why the episode still matters — the mechanism
+   is that a procedural artefact became a structural shield.
+7. **Mussel Slough, 1880.** Where legal architecture met people who resisted it,
+   and what happened. The armour has a physical edge.
+8. **The excluded.** Freedpeople; and litigants who cannot afford to litigate.
+9. **Landing.** The rule the elite extracts: build the fortress in the law, not
+   on the ground. Nobody protests a clause.
 :::
 
 :::
@@ -32,5 +74,5 @@ How is monopoly made permanent?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5a.
+Specified. Prose is written in Phase 5a.
 :::

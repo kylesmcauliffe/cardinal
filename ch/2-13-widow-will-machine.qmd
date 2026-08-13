@@ -9,20 +9,68 @@ Act II — Land, Monopoly, and Institution · 1893–1905
 ::: {.callout-note collapse="true"}
 ## Pre-Draft Brief
 
-**Core question.** What happens when the founders disappear but the institution remains?
+**Core question.** What happens when the founders disappear but the institution
+remains?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** It gets quieter and stronger. Leland Stanford died in June 1893
+during a financial panic, with the federal government suing his estate for
+railroad debts, and the university nearly did not survive. Jane Stanford held it
+together — by litigation, by economy, and by firing a professor who criticised
+railroad monopoly from a Stanford lectern. By the time she died in 1905 the
+institution no longer needed a founder.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Elite network reproduction achieving independence from its
+founders. The Ross affair is the mechanism becoming self-aware: an institution
+created by monopoly rent disciplining speech about monopoly, and inventing the
+language of academic freedom in the process of violating it.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Edward Alsworth Ross was forced out of Stanford in 1900 after
+criticising railroad monopoly and Asian immigration policy. The case became the
+founding controversy of American academic freedom, and it contributed directly
+to the formation of the American Association of University Professors.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** Jane Stanford: widow, litigant, and sole trustee in effect
+— running a university through a depression while the government sues her for
+her husband's debts, and removing a professor whose subject is her fortune.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** Ross, whose career the institution attempted to end and who
+published *Social Control* at Wisconsin the year after. And, in the treatment of
+Jane Stanford's death, the reader — who is owed the uncertainty rather than a
+verdict.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that the institution had become independent of
+its founders by showing it surviving bankruptcy proceedings, a national panic,
+and the deaths of both founders without structural change.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A university with no money, a dead founder, and the United States
+   government as a plaintiff. Open on the balance sheet, not the funeral.
+2. **21 June 1893.** Stanford's death, in the Panic of 1893. The estate frozen;
+   the $15 million federal claim.
+3. **Jane Stanford's management.** Selling personal property, cutting costs,
+   paying salaries out of her own funds, and litigating. Give her the
+   competence; the drafts make her a widow and she was an executive.
+4. **The estate case resolved.** How, and what it established about the
+   separability of the endowment from the fortune.
+5. **The Ross affair, 1900.** What Ross said, from which lectern, and why it was
+   intolerable. The letters between Jane Stanford and Jordan. Jordan's role — he
+   complied.
+6. **The consequence.** Ross to Wisconsin, *Social Control* in 1901, and the
+   long road to the AAUP. The first great American academic freedom case arises
+   at the university built by a railroad, over criticism of railroads. Let the
+   irony stand unannotated.
+7. **28 February 1905, Honolulu.** Her death at 2365 Kalākaua Avenue. Handle per
+   the contested-history rule: the San Francisco strychnine incident weeks
+   earlier, the Honolulu physicians' finding, the university's account, and the
+   competing scholarship. Name the uncertainty; give Cardinal's reading and its
+   reasoning; do not let the chapter's argument rest on it.
+8. **What did not happen.** No collapse, no dissolution, no change of
+   governance. The self-perpetuating board simply continued.
+9. **Landing.** Both founders are dead and the machine is intact. End of Act II:
+   the machinery is complete, and it is ready to think.
 :::
 
 :::
@@ -32,5 +80,5 @@ What happens when the founders disappear but the institution remains?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5a.
+Specified. Prose is written in Phase 5a.
 :::

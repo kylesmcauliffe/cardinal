@@ -11,18 +11,61 @@ Act II — Land, Monopoly, and Institution · 1769–1821
 
 **Core question.** How does power begin before markets exist?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** It begins with a ledger. Spain took Alta California without a
+settler population, an economy, or a market, and held it by writing everything
+down — baptisms, marriages, burials, rations, labour. California's first form of
+power was legibility: the conversion of human lives into administrative entries,
+by an institution that owned the only pen.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Chokepoint control of the record. The mission is the book's
+first data centre, and the argument it opens is the one Act V closes: whoever
+holds the register decides who exists in an official sense. Also public
+authority and private benefit fused from the start — the Crown's mandate, the
+order's land, the Indigenous labour.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Mission San Francisco de Asís was founded in 1776, at what is
+now 320 Dolores Street. The building is still there. It is the oldest intact
+structure in San Francisco, and it was an accounting office as much as a church.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** A page from a mission baptismal register: a name assigned,
+a date, a parentage recorded, an original name absent. One line is the entire
+mechanism.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** The Ohlone, Chumash, and dozens of other peoples, who
+appear in the foundational documents of California almost exclusively as entries
+— enumerated, renamed, and set to work. The population collapse in the mission
+districts is the central fact of this chapter and must not be a footnote to it.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that administrative capacity precedes economic
+power by showing that Spain controlled Alta California for fifty years with
+almost no settlers, using records rather than markets.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A line in a baptismal register. A name given, a name missing.
+2. **The system, not the settlement.** Presidio for force, mission for labour
+   and record, pueblo for supply. Three institutions, one machine, and the
+   middle one is the important one.
+3. **1769 and the northward push.** San Diego, Monterey, then the Bay. Motive:
+   keeping Russia and Britain off the Pacific coast, not conversion for its own
+   sake.
+4. **320 Dolores Street, 1776.** Mission Dolores founded in the same season as a
+   declaration on the other coast. Name the address; the book returns to it in
+   the epilogue.
+5. **The harbour as the real prize.** The Bay is the chokepoint. Everything else
+   is instrumentation around it.
+6. **Legibility.** What the registers recorded and why. Baptism as an
+   administrative event with labour consequences.
+7. **Coerced labour.** State it plainly and with the evidence: the mission
+   economy ran on Indigenous labour that was not free to leave.
+8. **Demographic collapse.** Disease and conditions. Use a sourced range, per
+   the research log's rule, and do not round for effect.
+9. **Resistance.** Flight, revolt, and the fact that the records document their
+   own resistance. The archive contains the evidence against the archivist.
+10. **Landing.** California's first power was the power to enumerate. Hand off
+   to ch. 2: sovereignty on paper, before there is anything to govern.
 :::
 
 :::
@@ -32,5 +75,5 @@ How does power begin before markets exist?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5a.
+Specified. Prose is written in Phase 5a.
 :::

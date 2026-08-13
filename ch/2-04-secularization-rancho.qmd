@@ -11,18 +11,55 @@ Act II — Land, Monopoly, and Institution · 1834–1846
 
 **Core question.** How does monopoly form before capitalism?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** Before capitalism, and this is the chapter that proves it. When
+Mexico secularised the missions in the 1830s it moved enormous landholdings from
+the Church into private hands, and the result was not distribution but
+concentration. California's assets consolidated before it had markets. Monopoly
+here is the precondition, not the by-product.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Public and institutional assets converted into private
+holdings — the book's second mechanism, running a full decade before the Gold
+Rush and a generation before the railroad. The recipients are the same class the
+previous chapter created.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Secularisation was framed as returning mission land to
+Indigenous neophytes. Almost none of it reached them. The land went to grantees,
+and the labour force went with it.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** A neophyte who is told the mission land is now his, and
+who is working the same ground for a private owner within a year.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** Mission Indians, dispossessed twice — first of their
+territory by the mission system, then of the restitution the secularisation
+decrees promised them. This is the chapter where the pattern of promised
+inclusion and delivered exclusion is established for the whole book.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that concentration precedes markets in California
+by showing the largest transfer of land in the territory's history completed
+before there was a commercial economy to allocate it.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** The promise in the decree, and the outcome in the record. Put them
+   next to each other and let the gap do the work.
+2. **Why secularise.** The Mexican government's motives: reducing clerical
+   power, generating revenue, settling the frontier. Give them fairly.
+3. **The mechanics.** How the transfer actually happened, 1834 onward, and who
+   administered it.
+4. **Where the land went.** The grantee class enlarged and enriched. Numbers of
+   grants before and after.
+5. **The rancho economy.** Hides and tallow, and a labour system that carried
+   over from the missions with a new owner.
+6. **The restitution that did not arrive.** The specific provisions for
+   neophytes, and what happened to them.
+7. **Assets before markets.** The chapter's structural claim, stated once,
+   clearly: California's land was concentrated before it was commercial.
+   Everything after 1848 is dealt from a stacked deck.
+8. **Landing.** A landholding elite exists, holding title from a government
+   about to lose the territory. Set up ch. 5: what happens to that title under a
+   new sovereign.
 :::
 
 :::
@@ -32,5 +69,5 @@ How does monopoly form before capitalism?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5a.
+Specified. Prose is written in Phase 5a.
 :::

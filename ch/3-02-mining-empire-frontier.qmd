@@ -11,18 +11,60 @@ Act III — Hoover, War, and the Archive State · 1897–1914
 
 **Core question.** How is the pre-war elite formed?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** On the imperial frontier, out of engineers. The late-nineteenth-
+century elite was not formed in drawing rooms but in extraction zones, where a
+young man with a technical education and access to London capital could manage
+assets on behalf of owners he never met. California was already the training
+ground: it had been running that model on its own goldfields for fifty years.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Chokepoint control, exported. The mining engineer is the
+human interface between a deposit and a stock exchange, and whoever occupies
+that interface prices everything on both sides of it. Also the first appearance
+of a pattern Act IV formalises: technical expertise as the qualification for
+governing capital.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Hoover's professional value was not geological but
+informational. He was paid to tell London whether a mine on another continent
+was worth what its promoters claimed. He was, functionally, a ratings agency
+with a hammer.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** A cable from a minehead to a London office: a valuation
+with a man's signature on it, on the strength of which shares will move.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** The Indigenous Australian and Chinese and African
+workforces across the global extraction economy, whose labour is the asset being
+valued and who appear in the valuations as a cost line. This is the chapter to
+establish that the managerial class the book follows was constituted by managing
+them.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that technical expertise became a governing
+credential by showing engineers, rather than owners, setting the terms on which
+imperial capital was allocated.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A cable. One man's signature moving a share price on the other side
+   of the world.
+2. **The engineer's actual job.** Valuation, and the informational asymmetry it
+   exploits. Not discovery — arbitration.
+3. **The London capital market.** Where the money was, and why it needed men on
+   the ground it could trust. Trust as the scarce input; the credential as its
+   proxy.
+4. **California as the training ground.** Hydraulic mining, the Comstock, and
+   the accounting and legal apparatus the goldfields generated. The state
+   exported its expertise before it exported anything else.
+5. **Hoover's circuit.** Australia, China, Burma, Russia. Scale, and the
+   mechanics of managing at that distance in the era of the telegraph.
+6. **Empire as infrastructure.** The point to make carefully: extraction
+   depended on imperial legal frameworks, and the engineer's authority was
+   borrowed from them.
+7. **The excluded.** Colonial workforces as a cost line. Specific, sourced, and
+   not generalised into atmosphere.
+8. **Landing.** A managerial class now exists that is technically trained,
+   globally mobile, and answerable mainly to capital. When the First World War
+   arrives it will be the only group that knows how to move anything.
 :::
 
 :::
@@ -32,5 +74,5 @@ How is the pre-war elite formed?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5b.
+Specified. Prose is written in Phase 5b.
 :::

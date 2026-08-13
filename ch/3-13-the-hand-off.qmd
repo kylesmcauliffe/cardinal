@@ -11,18 +11,59 @@ Act III — Hoover, War, and the Archive State · 1945
 
 **Core question.** How does a temporary emergency become a permanent structure?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** By nobody ever deciding to end it. The United States wanted to
+demobilise and also wanted to keep the scientific advantage the war had
+produced, and those two desires were resolved by leaving the funding channels,
+the managerial playbooks, and the university-contractor relationships exactly
+where they were. The emergency became the structure because dismantling it was
+nobody's job.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** All three, made permanent. The chapter is the seam between
+Acts III and IV, and its argument is institutional inertia: a temporary
+arrangement with a constituency is not temporary. Every party to the triangle
+had an interest in continuation and none had an interest in review.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** The Stanford Research Park opened in 1951 — the first
+university-owned industrial park in the United States. Six years after the war,
+the wartime arrangement had acquired real estate.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** A funding line in a federal budget that nobody proposes to
+cut, because each of the three parties that benefits from it assumes one of the
+others is responsible for asking whether it is still needed.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** The public conversation that never took place. There was no
+moment at which the country decided to make permanent federal science funding
+routed through private institutions with classified outputs. It simply
+continued.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that the wartime arrangement became permanent
+through inertia rather than decision by showing that the funding channels,
+contracts, and institutional relationships continued without a policy
+determination to continue them.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** Demobilisation, and the one thing that was not demobilised. Open on
+   the contrast between the ships mothballed and the contracts renewed.
+2. **Two incompatible desires.** Cut the military, keep the advantage. How
+   Washington held both.
+3. **Bush's argument.** *Science, the Endless Frontier* and the case for
+   permanent federal funding of basic research. Give it fairly; it is a good
+   argument and it largely worked.
+4. **The founding of the ONR and then the NSF.** Institutionalisation, and the
+   long gap before the NSF existed — which the Navy filled, and which mattered.
+5. **What stayed in place.** Channels, playbooks, relationships, security
+   clearances. Enumerate; the accumulation is the argument.
+6. **The decision that was never made.** The chapter's core: no debate, no vote,
+   no review. A constituency and no counter-constituency.
+7. **1951, the Research Park.** The arrangement acquires land. One paragraph,
+   because Act IV ch. 1 opens on it.
+8. **The excluded.** The absent public conversation.
+9. **Landing.** End of Act III. California has learned to think at the scale of
+   empire, the funding is permanent, and the machinery is about to produce its
+   first self-sustaining industry.
 :::
 
 :::
@@ -32,5 +73,5 @@ How does a temporary emergency become a permanent structure?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5b.
+Specified. Prose is written in Phase 5b.
 :::

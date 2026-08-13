@@ -11,18 +11,62 @@ Act II — Land, Monopoly, and Institution · 1848–1856
 
 **Core question.** What happens when extraction meets weak institutions?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** The extractors lose and the suppliers win. The Gold Rush is
+remembered as a story about miners and it was a story about merchants, shippers,
+and landlords — the people who controlled the throat of the trade rather than
+the diggings. San Francisco, not Coloma, is where the money stayed. California's
+capitalism was logistical from birth.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Chokepoint control, demonstrated at speed and in miniature.
+Every durable fortune of the period sits on a bottleneck: the harbour, the
+supply of shovels, the price of passage, the only bank that will hold your dust.
+The extractive myth conceals the infrastructural reality — and the myth is
+itself part of the mechanism, because it explains the winners as lucky rather
+than positioned.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Sam Brannan cornered the supply of mining equipment before
+announcing the discovery in the streets of San Francisco. He publicised the gold
+after buying the shovels. That is the entire book in one anecdote.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** Brannan with a bottle of gold dust, shouting in the
+street, having already bought every pick and pan in the region.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** Indigenous Californians, who suffered the sharpest
+population collapse and dispossession of the entire period under state-
+sanctioned violence; Chinese miners subjected to the Foreign Miners' Tax; and
+Californio landholders whose property was overrun by squatters faster than any
+court could respond.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that surplus accrues to whoever controls the
+bottleneck rather than to whoever does the work by showing that the Gold Rush's
+lasting fortunes were made in supply and finance, not in mining.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** Brannan buys the shovels, then shouts. Order of operations as
+   character.
+2. **24 January 1848.** Marshall at Sutter's Mill. Brief, factual, and note what
+   happened to Sutter himself — overrun, ruined. The discoverer loses.
+3. **The incentive detonation.** How fast the population changed, and what that
+   does to prices. Concrete numbers.
+4. **San Francisco as the throat.** The harbour as the only realistic way in.
+   Ships abandoned in the bay; the waterfront filled and sold.
+5. **Who actually got rich.** Merchants, shippers, landlords, bankers. Levi
+   Strauss and canvas. Name the pattern as it repeats within a single decade.
+6. **The miners' actual returns.** Wages-equivalent at best for most, ruin for
+   many. Puncture the myth with the arithmetic.
+7. **The Foreign Miners' Tax.** Extraction from the extractors, aimed at Chinese
+   and Latin American miners. The first appearance of a durable Californian
+   move.
+8. **Indigenous catastrophe.** State-sanctioned violence and the population
+   collapse of the 1850s. Sourced, unflinching, and structurally placed — this
+   is what the boom was built on.
+9. **Squatters and Californio land.** Possession outrunning title.
+10. **Landing.** The lesson California learns and never forgets: own the
+   chokepoint, not the commodity. Twelve years later, four merchants apply it to
+   a railroad.
 :::
 
 :::
@@ -32,5 +76,5 @@ What happens when extraction meets weak institutions?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5a.
+Specified. Prose is written in Phase 5a.
 :::

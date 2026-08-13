@@ -9,20 +9,67 @@ Act I — The World Before California · 622–1300
 ::: {.callout-note collapse="true"}
 ## Pre-Draft Brief
 
-**Core question.** How is authority shared when no one can hold it alone — and is the pattern European?
+**Core question.** How is authority shared when no one can hold it alone — and
+is the pattern European?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** By splitting it in two, and the arrangement is a solution rather
+than a failure. Kings held land and force; the Church held meaning and record.
+Neither could displace the other, so both lasted. And the pattern is not
+European: the Abbasid world ran its own version, which is how we know we are
+looking at a structure rather than a culture.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Layered chokepoint control. One institution holds the
+physical layer, another the symbolic, and the division makes both more durable
+than either would be alone. This is the direct ancestor of the book's central
+pairing: the railroad controlled movement and the university controls
+legitimacy.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Feudal power was delegated downward not from generosity but
+from inability. Authority that cannot be enforced at distance gets
+subcontracted, and subcontracting creates the interests that later constrain the
+centre.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** Two sets of hands. Hold the chapter together with the
+coronation — a king who needs a bishop to make him a king, and a bishop who
+needs a king to make the blessing matter.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** The peasantry, who were the entire economic base of the
+arrangement and appear in its records mainly as quantities. Also the non-
+Christian and non-Muslim populations of both worlds, whose legal positions were
+defined by systems they had no part in writing.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that layered authority is more durable than
+concentrated authority by showing the same division of physical and symbolic
+power arising independently in Latin Christendom and the Abbasid world.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A coronation. Two men, each of whom needs the other to be what he
+   claims to be.
+2. **The medieval synthesis as design.** Kings hold land, Church holds meaning.
+   Reject the dark-ages framing on the evidence, not by assertion.
+3. **Why feudalism delegates.** Enforcement at distance is impossible, so power
+   is subcontracted. The consequence: vassals with independent interests.
+4. **Why the papacy centralises.** Latin and canon law travel; armies do not.
+   Centralisation is available to the institution whose medium is portable.
+5. **Turn east.** The Abbasid Caliphate: commercial network, a single portable
+   text, no mediating priesthood, no imposed administrative language.
+6. **Baghdad.** The House of Wisdom, the transmission and extension of Greek
+   mathematics and philosophy that Latin Europe had lost. Concrete achievements,
+   named.
+7. **The comparison, made carefully.** Different theology, different
+   institutions, same structural result — chokepoint control, elite
+   reproduction, layered authority. The point is that the pattern is not a
+   Western invention.
+8. **Where the layers conflict.** Investiture, and what a contest over
+   appointments reveals about where power actually sits.
+9. **The excluded.** The peasantry as an accounting category; minority legal
+   status in both systems.
+10. **Landing.** Two layers, two institutions, one durable arrangement. Name the
+   pair the book is heading toward: rail and university, movement and
+   succession.
 :::
 
 :::
@@ -32,5 +79,5 @@ How is authority shared when no one can hold it alone — and is the pattern Eur
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5a.
+Specified. Prose is written in Phase 5a.
 :::

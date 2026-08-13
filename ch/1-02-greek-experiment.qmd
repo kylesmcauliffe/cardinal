@@ -9,20 +9,67 @@ Act I — The World Before California · 800–323 BCE
 ::: {.callout-note collapse="true"}
 ## Pre-Draft Brief
 
-**Core question.** What happens when a civilisation makes argument its competitive advantage — and then loses the war?
+**Core question.** What happens when a civilisation makes argument its
+competitive advantage — and then loses the war?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** It loses the wars and keeps the franchise. Athens was militarily
+finished by 338 BCE and intellectually dominant for another thousand years,
+because it had turned a method of argument into a set of institutions — school,
+text, credential — that outlived the city that produced them. Knowledge was the
+first portable monopoly.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Elite network reproduction, invented. The chain from Socrates
+to Plato's Academy to Aristotle's Lyceum to the tutoring of Alexander is the
+first instance in this book of a school converting a method into a credential
+that states will pay for. Also the first portable chokepoint: prestige that
+travels without territory.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Aristotle taught Alexander. The teacher of the most successful
+conqueror in the ancient world came out of a school founded by the student of a
+man Athens executed. Three generations turned a capital offence into an imperial
+qualification.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** Aristotle, in Macedon, tutoring a boy who will carry Greek
+as an administrative language to the Indus. The philosopher as the first
+credentialing institution.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** Athenian democracy rested on enslaved labour and excluded
+women and resident foreigners from the citizenship it is celebrated for
+inventing. The agora was open because someone else was in the fields. Say it in
+the same breath as the praise, not in a separate paragraph.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that institutions outlast the power that founds
+them by showing that Greek political independence ended in 338 BCE while Greek
+intellectual authority was still being purchased by empires centuries later.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** Athens loses. Start at Chaeronea, 338 BCE, with the city's
+   independence finished, and then ask why the world spent the next millennium
+   speaking its intellectual language.
+2. **The polis and the agora.** Public reasoning as a competitive advantage.
+   Argument as infrastructure.
+3. **The institutional chain.** Socrates as method, Plato's Academy as
+   institution, Aristotle's Lyceum as system. Not three heroes — one pipeline.
+4. **Socrates' execution.** The state kills the method's founder; the method
+   survives the state. First appearance of a pattern the book returns to.
+5. **Aristotle and Alexander.** The credential purchased by a rising power that
+   wants legitimacy as well as territory.
+6. **Alexander's conquests as distribution.** The rebrand: local customs kept,
+   Greek language and administrative prestige embedded. The first platform
+   running on top of diverse local systems.
+7. **The succession failure.** No designated heir; the empire fragments within a
+   generation. The founder who does not institutionalise leaves a story, not a
+   system.
+8. **The Hellenistic afterlife.** Alexandria's library, Greek as the language of
+   administration and science for centuries. The monopoly outlives the
+   monopolist.
+9. **The excluded.** Slavery, the position of women and metics, and what the
+   agora rested on.
+10. **Landing.** Knowledge as portable monopoly. Set the template Stanford will
+   occupy: a school that credentials the people who run other people's empires.
 :::
 
 :::
@@ -32,5 +79,5 @@ What happens when a civilisation makes argument its competitive advantage — an
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5a.
+Specified. Prose is written in Phase 5a.
 :::

@@ -11,18 +11,56 @@ Act II — Land, Monopoly, and Institution · 1776–1821
 
 **Core question.** How does empire govern without settlers?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** On paper, and it works for forty-five years. Spanish California
+was an appendage of empire held by maps, manifests, and correspondence rather
+than by population or courts. Sovereignty preceded settlement — which means the
+claim to the greatest natural harbour on the Pacific was established before
+there was any economy to justify it.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Chokepoint control, geographic. The Bay is a bottleneck of a
+kind that does not need to be built, only claimed and defended, and Spain
+understood that holding it was worth more than developing anything behind it.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** At the end of Spanish rule the non-Indigenous population of
+Alta California numbered in the low thousands. An empire held a coastline the
+length of Italy with a garrison and a filing system.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** The Presidio, and a supply ship that comes when it comes.
+A garrison whose principal enemy is the distance to Mexico City.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** Indigenous Californians, again, and here specifically the
+peoples of the Bay shoreline whose territory was designated a strategic asset in
+documents they never saw. Also the soldiers and their families, poorly supplied
+and effectively abandoned, who are the empire's instrument and not its
+beneficiaries.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that control of a chokepoint can precede any
+economic activity that would justify it by showing Spain holding San Francisco
+Bay for decades without developing it.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A supply ship, late. Begin with the logistics of neglect.
+2. **Why the Bay.** The geography of the Golden Gate: a narrow entrance to an
+   enormous protected anchorage. Say why that is worth an empire's attention.
+3. **The Presidio, 1776.** Founded within weeks of the mission. Force and
+   record, sited together.
+4. **Governing by correspondence.** How long a letter took to Mexico City, and
+   what that does to authority. Distance as the real constraint on empire.
+5. **Coastal mapping as claim-making.** Charting as an act of possession. The
+   map is the title deed.
+6. **Almost no settlers.** The population figures, and what they mean: this is
+   sovereignty as assertion, maintained by nobody being able to contest it
+   cheaply.
+7. **The missions as nodes.** Supply, labour, and record in a chain up the
+   coast, linked by the road that becomes El Camino Real. Note that the road is
+   still there and still the main street.
+8. **The excluded.** Bay shoreline peoples; and the garrison itself, unsupplied
+   and expendable.
+9. **Landing.** A chokepoint claimed before it was worth anything. Everyone who
+   arrives later inherits that claim, including the United States.
 :::
 
 :::
@@ -32,5 +70,5 @@ How does empire govern without settlers?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5a.
+Specified. Prose is written in Phase 5a.
 :::

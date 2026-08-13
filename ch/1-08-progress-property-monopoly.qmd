@@ -11,18 +11,65 @@ Act I — The World Before California · 1700–1848
 
 **Core question.** How does infrastructure become sovereignty?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** By owning the preconditions rather than the goods. Steam, rail,
+and coal produced the first firms with structural control over the terms on
+which economic life was possible — and the East India Company showed that a
+corporation could govern a territory outright. Meanwhile the age's revolutions
+established that natural rights language and property claims could be made to
+say the same thing.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Public subsidy converted into private monopoly, arriving in
+its modern form, with the corporation as the vehicle. Whoever owns the rails
+sets the prices; whoever owns the ports owns the trade. The chapter's job is to
+make the reader recognise the Central Pacific before meeting it.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** The East India Company was the first corporation to govern a
+territory — raising taxes, keeping an army, and administering law over tens of
+millions of people. Corporate sovereignty is not a twenty-first-century anxiety;
+it is a documented eighteenth-century fact.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** John Jacob Astor, dying in March 1848 as the richest man
+in America, having made his fortune in furs and kept it in Manhattan real
+estate. Nine days later a carpenter finds gold in a millrace in Coloma. The old
+model of American fortune ends in the same season the new one begins.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** The enslaved people whose labour financed the industrial
+economy's inputs, the Bengali weavers ruined by Company policy, and the
+property-less majority in whose name the Atlantic revolutions were fought and to
+whom the resulting franchise was not extended.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that infrastructure ownership is a form of
+sovereignty by showing a chartered company governing a subcontinent, and that
+the American revolution was substantially a property settlement by showing who
+held the franchise afterwards.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** Astor's death, March 1848, and the millrace at Coloma nine days
+   later. Two facts, one season, and the whole book between them.
+2. **The Enlightenment's real effect.** Not toppling kings — making their
+   authority intellectually indefensible, which is more dangerous and slower.
+3. **The American Revolution as property settlement.** Natural-rights language,
+   propertied outcome. Give the strongest version of the idealist reading before
+   setting it against the franchise records.
+4. **The French Revolution.** More honest about being a transfer of sovereignty,
+   and correspondingly more violent.
+5. **Napoleon.** Republican vocabulary, imperial concentration. Say the quiet
+   part: Augustus did this, and the pattern is holding.
+6. **Steam, rail, coal.** The shift from advantage to structural control.
+   Whoever owns the rails sets the prices.
+7. **The East India Company.** A corporation with an army, a tax base, and a
+   territory. The first corporate sovereign, and the precedent that matters most
+   for what follows.
+8. **The excluded.** Slavery in the industrial input chain; Bengali weavers; the
+   property-less majority in the revolutions' name.
+9. **Return to Astor.** Furs to Manhattan real estate: the old American fortune
+   was extraction converted into land rent. Note that the new one will be too.
+10. **Landing.** Act I ends here. The pattern is established across three
+   thousand years and four continents. Now California, where it runs again from
+   the beginning, on the record, in a single lifetime.
 :::
 
 :::
@@ -32,5 +79,5 @@ How does infrastructure become sovereignty?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5a.
+Specified. Prose is written in Phase 5a.
 :::

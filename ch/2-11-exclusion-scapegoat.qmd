@@ -11,18 +11,62 @@ Act II — Land, Monopoly, and Institution · 1870s–1890s
 
 **Core question.** How does power stabilise itself socially?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** By finding someone else to blame. The men who built the railroad
+became the target of the resentment the railroad created. Anti-Chinese agitation
+and the Exclusion Act of 1882 redirected a grievance about monopoly into a
+grievance about race, and the monopoly emerged untouched. California stabilised
+itself socially by excluding the workers who had made it possible.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Elite network reproduction, protected by displacement. The
+chapter's structural claim: systems are preserved by relocating blame, and this
+specific manoeuvre recurs — H-1B holders, gig contractors, content moderators.
+The mechanism is not that elites conspire to misdirect anger; it is that
+misdirected anger is the cheapest available settlement and it wins elections.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** The Chinese Exclusion Act of 1882 was the first federal law to
+bar a nationality from immigrating to the United States. The workers who built
+the Sierra grade were made the first people specifically prohibited from
+entering the country they had connected.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** Denis Kearney on a vacant lot in San Francisco, addressing
+men with real grievances and pointing them at the wrong target — and the
+railroad's directors, who are Kearney's actual subject, going unmolested.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** The chapter's subject is the excluded, and the challenge is
+to write them as agents rather than victims: the Chinese communities of San
+Francisco and Sacramento, their businesses and associations, their litigation —
+including the cases they won — and the violence they survived. Dupont Street and
+Portsmouth Square by name.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that anti-monopoly energy was successfully
+redirected into racial exclusion by showing that the Workingmen's Party's
+programme produced immigration restriction and no restraint on the railroad.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** Kearney's sentence, and the address of the men he is not attacking.
+   Nob Hill is visible from where he is standing.
+2. **The 1870s depression in California.** Real unemployment, real grievance.
+   Take it seriously; the chapter fails if the workers are caricatured.
+3. **The railroad's actual role.** Rates, land, labour policy. What a legitimate
+   grievance against the Southern Pacific would have looked like.
+4. **The Workingmen's Party.** Programme, slogan, and its electoral success,
+   including the 1879 constitution.
+5. **Violence.** Specific incidents, named and dated, including outside San
+   Francisco. Do not aggregate atrocity into atmosphere.
+6. **The Exclusion Act, 1882.** What it did, and its extensions. The first
+   federal bar on a nationality.
+7. **Chinese agency.** Associations, businesses, and litigation — including
+   cases won. Dupont Street and Portsmouth Square as places, not settings.
+8. **The monopoly, untouched.** The outcome ledger: exclusion achieved, rates
+   unchanged.
+9. **The recurrence, named once.** Contract labour, visa tiers, moderation work.
+   One sentence, no lecture; Act V ch. 9 does the accounting.
+10. **Landing.** The system stabilised by displacing its cost onto the people
+   who built it. This is the moral centre of Act II and it should be the
+   plainest prose in the book.
 :::
 
 :::
@@ -32,5 +76,5 @@ How does power stabilise itself socially?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5a.
+Specified. Prose is written in Phase 5a.
 :::

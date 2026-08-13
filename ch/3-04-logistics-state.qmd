@@ -11,18 +11,59 @@ Act III — Hoover, War, and the Archive State · 1914–1919
 
 **Core question.** What is power when armies cannot move without food?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** It is nearly everything. The First World War revealed that the
+binding constraint on modern power was not weapons but calories, shipping, and
+accounting — and Hoover proved it by feeding occupied Belgium for four years
+with no army, no territory, and no sovereign authority. He ran a state's core
+function without being a state.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Chokepoint control of an input nobody had thought of as a
+chokepoint. Food, moved through a blockade by an organisation that maintained
+its credibility through records. Also the book's clearest instance of private
+capacity performing public function — the Committees of Vigilance from Act II
+ch. 7, scaled to a continent and with better bookkeeping.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** The Commission for Relief in Belgium negotiated with both the
+British blockade and the German occupation, operated its own shipping under its
+own flag, and issued what amounted to its own currency. A private committee held
+recognised standing with two warring empires.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** Hoover, negotiating simultaneously with the Admiralty and
+the German occupation authorities, holding both by the fact that neither wanted
+responsibility for a famine.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** Belgian civilians, whose survival is the achievement and
+who had no say in the arrangements that produced it, and the labour of the local
+committees that did the distribution while the credit accrued to the man in
+London.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that logistical control constitutes state
+capacity by showing a private commission perform a sovereign function across a
+blockade, recognised by both belligerents.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A private organisation with its own flag, its own ships, and
+   standing with two empires at war. State the anomaly before explaining it.
+2. **Why Belgium starves.** The occupation, the blockade, and the specific
+   mechanics of a food system severed. This is an engineering problem before it
+   is a moral one.
+3. **The Commission, 1914.** How it formed and how Hoover ended up running it.
+   The network again: mining contacts, London standing, American neutrality.
+4. **Governance under constraint.** Negotiating with both sides. Neither wants
+   the famine on its ledger, and Hoover's leverage is precisely that.
+5. **Records as credibility.** The accounting as the instrument that made the
+   whole thing possible. Auditable books are what buy trust from enemies.
+6. **Scale.** Tonnage, duration, population fed. Sourced figures.
+7. **Then the US Food Administration, 1917.** The same method with sovereign
+   authority behind it. Voluntary compliance, publicity, and price mechanisms.
+8. **The excluded.** Belgian civilians as objects of the arrangement; local
+   committees uncredited.
+9. **Landing.** Hoover emerges as the most administratively famous American in
+   the world, and with a conviction that will define the next chapter: whoever
+   holds the documents holds the interpretation.
 :::
 
 :::
@@ -32,5 +73,5 @@ What is power when armies cannot move without food?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5b.
+Specified. Prose is written in Phase 5b.
 :::

@@ -11,18 +11,67 @@ Act III — Hoover, War, and the Archive State · 1900–1913
 
 **Core question.** How does an institution justify inequality?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** It calls the inequality natural. Stanford's first president was
+a biologist and one of the most prominent American eugenicists of his
+generation, and California became the most aggressive sterilising jurisdiction
+in the United States under a law passed in 1909. The university did not merely
+educate the people who would lead. It supplied the scientific argument for why
+they should.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Elite network reproduction, with the ideology made explicit.
+This is the chapter where the legitimacy layer stops being implicit: an
+institution built on monopoly rent produces a science of who is fit, and the
+science ranks the institution's own constituency at the top. The book's most
+serious charge, and it requires the most careful sourcing.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** California's 1909 sterilisation law made the state responsible
+for roughly a third of all recorded sterilisations in the United States. Cite a
+range with its basis rather than a single round figure — institutional records
+and retrospective studies do not agree, and the disagreement is part of the
+story.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** David Starr Jordan: ichthyologist, university president,
+conservationist, peace campaigner, and eugenicist — all genuinely, all at once.
+Do not simplify him. The chapter is more damning if he is a whole person.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** The people sterilised, overwhelmingly poor,
+disproportionately Mexican and Black, institutionalised and unable to consent.
+They are the chapter's actual subject and they must be present as people, using
+what the record preserves.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that the institution produced a justification for
+hierarchy alongside the hierarchy by showing its founding president advancing a
+biological argument for social sorting while the state enacted it in law.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** The 1909 statute, quoted. Legislative prose describing what it
+   authorises, in its own flat language.
+2. **Jordan whole.** Fish taxonomy, the presidency, the Sierra Club connection,
+   the peace advocacy. Then the eugenics, in the same paragraph, not a later
+   one.
+3. **The argument's structure.** How heredity was made to explain poverty, and
+   why that was attractive to an institution whose endowment came from monopoly.
+4. **Conservation and national vigour.** The link between wilderness
+   preservation, racial anxiety, and fitness. Handle precisely; it is real and
+   it is frequently overstated.
+5. **The 1909 law.** What it authorised, who administered it, and where. Sonoma
+   and Patton by name.
+6. **The numbers.** A sourced range with its basis. Explain why the figures
+   differ; the methodology is not a distraction from the horror, it is part of
+   it.
+7. **The people.** Individual cases from the record. This beat is the chapter,
+   and it should be the longest.
+8. **The export, flagged forward.** German officials studied California's
+   programme in the 1920s and 1930s, and the Human Betterment Foundation was
+   founded in 1928 — both outside this chapter's window. One forward-pointing
+   sentence, verified, and no more.
+9. **Berkeley's parallel.** Urban planning, restrictive covenants, and the
+   beginnings of redlining. The science of sorting applied to a map.
+10. **Landing.** The management science is a sorting science. When Act IV calls
+   it talent identification, the reader should hear this chapter under it.
 :::
 
 :::
@@ -32,5 +81,5 @@ How does an institution justify inequality?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5b.
+Specified. Prose is written in Phase 5b.
 :::

@@ -11,18 +11,66 @@ Act II — Land, Monopoly, and Institution · 1862–1869
 
 **Core question.** How does infrastructure become sovereignty?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** By owning the only way through. The Central Pacific took federal
+land grants and federal bonds, built with Chinese labour it paid least and
+credited not at all, and emerged owning the sole rail connection between
+California and the rest of the country. The golden spike is not the completion
+of a public work. It is the ceremony at which a public work becomes a private
+monopoly.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Public subsidy converted into private monopoly, in the book's
+clearest single instance. Federal land grants and bonds financed the line; a
+construction company owned by the same four men captured the margin; and the
+resulting entity priced the movement of every good in the state.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Leland Stanford was Governor of California while the Central
+Pacific was being organised, advocating the railroad as a public necessity while
+holding its presidency. There was no conflict-of-interest framework to violate;
+the roles were simply held at once.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** Stanford, in both offices at once. And against him, the
+Chinese crews on the Sierra grade, working through winters in snow tunnels,
+whose names are almost entirely absent from a record that carefully preserves
+the names of the four men who hired them.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** The Chinese workforce, at its peak the overwhelming
+majority of the Central Pacific's labour, paid less than white workers, housed
+worse, and killed in numbers the company did not trouble to count. The 1867
+strike belongs here. So does the near-total absence of these men from the
+Promontory photograph.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that public money built the private fortune at
+the root of the Stanford endowment by showing the land grants, the bond terms,
+and the construction-company mechanism that captured them.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** The Promontory photograph, and who is not in it. Open on the
+   absence.
+2. **The Big Four.** Stanford, Huntington, Hopkins, Crocker: four Sacramento
+   merchants, not engineers. What each actually did. They are the shovel-sellers
+   of ch. 6, scaled up.
+3. **Judah, used and discarded.** The engineer who made it possible and was
+   bought out. His death in 1863.
+4. **The subsidy.** Land grants and bonds, in specific figures, per mile and by
+   terrain. This is public money and the chapter must make the reader feel its
+   size.
+5. **The Contract and Finance Company.** The construction company owned by the
+   same four men, contracting with the railroad the same four men controlled.
+   The margin captured at the point of transfer. Flag it as the manoeuvre that
+   recurs in Act IV ch. 7.
+6. **Stanford in two chairs.** Governor and president of the railroad. Advocate
+   and beneficiary.
+7. **The Chinese workforce.** Recruitment, numbers, pay differential, the Sierra
+   grade, the snow tunnels, deaths. The 1867 strike and its suppression.
+8. **Completion, 10 May 1869.** The ceremony, and what it transferred.
+9. **What the monopoly then did.** Rates. Whoever owns the rails sets the prices
+   — the sentence from Act I, now with a California address.
+10. **Landing.** A federally financed private monopoly, held by four men, one of
+   whom will spend a portion of it on a university. Hand off to ch. 10: how they
+   made it permanent.
 :::
 
 :::
@@ -32,5 +80,5 @@ How does infrastructure become sovereignty?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5a.
+Specified. Prose is written in Phase 5a.
 :::

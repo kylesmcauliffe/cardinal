@@ -11,18 +11,57 @@ Act I — The World Before California · c. 1200–800 BCE
 
 **Core question.** What happens when complex systems fail all at once?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** Unevenly, and the pattern of who survives is the book's whole
+subject in miniature. The palace economies that vanished were the ones holding
+many chokepoints at once with no redundancy behind them. What came through were
+systems that kept fewer bottlenecks, held them harder, and wrote things down.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Chokepoint control, in its purest and earliest form. Also the
+book's first observation about archives: surviving in the record is itself a
+form of advantage, and every subsequent chapter's evidence base is shaped by who
+had scribes.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** The collapse was not general. Egypt absorbed the shock and
+continued; the Hittite state and the Mycenaean palaces did not. The difference
+was structural, not moral, and it was legible in advance.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** Ugarit, and the last tablets baked hard by the fire that
+destroyed the city — letters begging for grain and reporting ships on the
+horizon. The destruction preserved the evidence of the destruction.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** The people inside the palace economies who had no
+independent access to food, land, or trade, and for whom the collapse of a
+redistribution system was not a transition but a famine. Also every non-literate
+community whose collapse left no tablets and therefore no history.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that survival in complex systems is a function of
+structure rather than strength by showing that the most connected economies of
+the Late Bronze Age failed first.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A tablet from Ugarit, still legible because the city burned. Open
+   on the object, not the era.
+2. **What the palace economy was.** Redistribution: grain in, rations out,
+   everything recorded. Its efficiency is exactly its fragility.
+3. **The chokepoints.** Tin from the east, copper from Cyprus, grain by sea.
+   Name the specific dependencies rather than gesturing at trade.
+4. **The failure cascade.** Roughly 1200–1150 BCE. Resist the single-cause
+   explanation; the drafts reach for the Sea Peoples and the evidence will not
+   carry it.
+5. **Who did not fall.** Egypt, and the Levantine coastal towns. What they had
+   that the palaces did not: fewer dependencies, decentralised storage,
+   alternatives.
+6. **The archive argument.** Introduce the idea the whole book runs on: the
+   record is not neutral. We know the palaces because the palaces wrote. We do
+   not know their labourers.
+7. **The brittleness thesis.** Stated plainly and without anachronism.
+   Complexity buys efficiency and sells resilience.
+8. **Landing.** Collapse is a redistribution of control, not an ending. Look
+   forward, once and lightly, to the Peninsula: the most connected system is
+   still the most brittle one.
 :::
 
 :::
@@ -32,5 +71,5 @@ What happens when complex systems fail all at once?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5a.
+Specified. Prose is written in Phase 5a.
 :::

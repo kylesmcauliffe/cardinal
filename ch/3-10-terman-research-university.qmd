@@ -11,18 +11,63 @@ Act III — Hoover, War, and the Archive State · 1942–1945
 
 **Core question.** How does wartime research become peacetime monopoly?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** Deliberately, by one man who wrote it down in advance. Terman
+spent the war running a laboratory of eight hundred people at Harvard, learned
+how federal money, secrecy, procurement, and mass technical staffing actually
+worked, and came back to Stanford intending to build a permanent peacetime
+version. Silicon Valley is not an accident. It is a plan, executed by its
+author.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Public subsidy converted into private monopoly, with the
+university as the converter — and the chapter where the book's central
+institution acquires its modern function. Terman's insight is that the wartime
+funding channel need never close if the university makes itself indispensable to
+it.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Terman directed Harvard's Radio Research Laboratory from 1942,
+working on radar countermeasures, and its staff numbered in the hundreds. He
+arrived back at Stanford in 1946 having managed a research organisation larger
+than Stanford's entire pre-war engineering school.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** Terman on a train back to California in 1945, with a
+management playbook and a grievance: his university had been a bystander to the
+biggest scientific mobilisation in history, and he did not intend for that to
+happen again.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** The classified nature of most of it, which means the public
+paid for research it could not examine — a structural exclusion that Act IV ch.
+7 will turn into a campus revolt.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that Silicon Valley's institutional architecture
+was designed rather than emergent by showing its designer state the plan before
+executing it.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** Terman in 1945, having run eight hundred people, returning to a
+   department of a few dozen. The ambition is a response to a slight.
+2. **The Radio Research Laboratory.** Radar countermeasures, the scale, the
+   money, and what running it taught him: budgets, secrecy, procurement,
+   staffing at speed.
+3. **What the war proved.** That government would fund science indefinitely if
+   the science was necessary. The channel exists; the question is who it flows
+   through.
+4. **Vannevar Bush and the OSRD.** The architecture of wartime research funding,
+   and *Science, the Endless Frontier* in 1945. The intellectual case for
+   permanence.
+5. **Where Stanford stood.** Behind. MIT and Harvard captured the contracts.
+   Terman's diagnosis of why.
+6. **The plan.** Steeples of excellence: concentrate resources on a few fields
+   where federal money is going, and become indispensable in those rather than
+   adequate everywhere.
+7. **The land.** Note it and hold it — eight thousand acres that cannot be sold
+   under the Founding Grant, and therefore must be leased. Act IV ch. 1 pays
+   this off.
+8. **The excluded.** Classification. Public money, unexaminable results.
+9. **Landing.** A designer, a plan, a funding channel, and an enormous piece of
+   unsellable land. Everything Act IV needs is now in place.
 :::
 
 :::
@@ -32,5 +77,5 @@ How does wartime research become peacetime monopoly?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5b.
+Specified. Prose is written in Phase 5b.
 :::

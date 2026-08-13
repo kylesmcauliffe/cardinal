@@ -11,18 +11,66 @@ Act II — Land, Monopoly, and Institution · 1884–1893
 
 **Core question.** How does power outlive its founders?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** By buying an institution. A railroad fortune is a depreciating
+asset with enemies; a university is a permanent one with admirers. The Founding
+Grant of 1885 created a private institution with a self-perpetuating board,
+insulated from electoral politics, endowed with land that could only appreciate.
+Rail controlled movement. Stanford was built to control succession.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** All three at once, which is why this chapter is the hinge of
+the book. The endowment is monopoly rent (public subsidy, privately captured)
+converted into an institution that reproduces an elite (network) and certifies
+its authority (legitimacy chokepoint). The Medici altarpiece from Act I ch. 7,
+at scale, with a charter.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Leland Stanford Jr. died in Florence in March 1884, aged
+fifteen. The Founding Grant was executed on 11 November 1885. The university
+opened on 1 October 1891 on some eight thousand acres of the family's farm —
+land that came from the railroad.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** Stanford and his wife, after Florence, deciding that the
+children of California shall be our children. Take the grief seriously. The
+chapter is stronger if the motive is genuine, because the mechanism does not
+require cynicism to operate.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** The Chinese labourers whose unpaid differential is inside
+the endowment, the ranch workers on the farm the campus was built on, and the
+Muwekma Ohlone whose land it was before either. Also everyone the new
+institution's first president would shortly classify as unfit.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that monopoly rent converts into institutional
+permanence by showing the specific legal instrument — a self-perpetuating board,
+tax-advantaged, insulated from politics, endowed with appreciating land — that
+made the conversion durable.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** Florence, March 1884. A fifteen-year-old dies of typhoid and a
+   university is the consequence. Correct the date the drafts get wrong: 1884,
+   not 1885.
+2. **Grief as motive.** The children of California shall be our children. Do not
+   undercut it. The argument does not need the motive to be false.
+3. **The Founding Grant, 11 November 1885.** Read the instrument closely: what
+   powers the trustees have, how they are replaced, what the endowment consists
+   of.
+4. **Why a university and not a foundation.** Legitimacy, permanence, and the
+   specific advantage of an institution that produces people rather than grants.
+5. **The land.** Eight thousand acres of the Palo Alto farm. Where it came from.
+   The university is a railroad asset with a curriculum.
+6. **Opening, 1 October 1891.** Free tuition, coeducation, and the practical
+   curriculum. State the genuinely progressive features; they are real, and they
+   are also the legitimacy.
+7. **David Starr Jordan.** The first president: a biologist and a leading
+   eugenicist. Introduce, do not resolve — ch. 3 of Act III does the work.
+8. **The Medici callback.** One paragraph. Private capital commissioning public
+   meaning, six centuries apart, same structure.
+9. **The excluded.** Chinese labour inside the endowment; farm workers; Muwekma
+   Ohlone land.
+10. **Landing.** The sentence the book has been building to: rail controlled
+   movement, Stanford controls succession. Then hand to ch. 13 — can it survive
+   its founders?
 :::
 
 :::
@@ -32,5 +80,5 @@ How does power outlive its founders?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5a.
+Specified. Prose is written in Phase 5a.
 :::

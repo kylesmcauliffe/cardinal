@@ -11,18 +11,61 @@ Act III — Hoover, War, and the Archive State · 1929–1939
 
 **Core question.** What happens when the governing story breaks down?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** Competence stops counting. Hoover was arguably the most
+administratively accomplished man ever to hold the presidency and the Depression
+destroyed him, because the crisis was not an engineering problem and he governed
+it as one. The 1930s established that the winning story about what institutions
+are for determines the shape of regulation, labour law, and capital formation
+for a generation.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** The legitimacy layer failing. Every prior chapter has shown
+legitimacy being manufactured; this one shows what happens when it cannot be.
+The New Deal is a competing account of what institutions are for, and it wins —
+which means California's elite spends the next fifty years learning to fight on
+the terrain of narrative rather than administration.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Hoover's response to the Depression was more interventionist
+than any previous president's — the Reconstruction Finance Corporation, public
+works, the Federal Home Loan Bank system. He lost anyway, and his name became a
+synonym for doing nothing. The gap between the record and the reputation is the
+chapter's subject.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** Hoover, the logistics genius who fed Belgium, unable to
+explain America to itself. The same skills, a different kind of problem.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** The people the interpretive fight was about: the Dust Bowl
+migrants arriving in California, the farm workers whose organising was met with
+force — material the next chapter's Steinbeck reference has already established.
+Cross-reference rather than duplicate.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that interpretation rather than administration
+decides legitimacy crises by showing the most technically capable president of
+the era lose office having implemented more intervention than his predecessors.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** Hooverville. A word doing political work that the record does not
+   support, and the fact that words win.
+2. **The crash and the collapse of the story.** What broke in 1929 besides
+   prices: the account of why the winners had won.
+3. **What Hoover actually did.** The RFC, the Federal Home Loan Banks, the
+   public works, and the voluntarism. Give the strongest case for him; the
+   chapter needs it.
+4. **Why it failed as governance.** The mismatch between an engineering frame
+   and a legitimacy crisis. He kept solving the wrong problem correctly.
+5. **Roosevelt as interpretation.** The New Deal as a competing story first and
+   a policy programme second.
+6. **California's exposure.** Migration into the state, the agricultural labour
+   conflicts, and the state's dependence on federal water and works.
+7. **The stakes made concrete.** What the winning story determined: labour law,
+   securities regulation, the shape of capital formation for fifty years.
+8. **Hoover's long afterlife.** Palo Alto, the Institution, and a defeated
+   president building an intellectual apparatus for a comeback that arrives in
+   1980 with someone else's name on it. Point forward to Act IV ch. 10.
+9. **Landing.** California's elite learns that administrative competence is not
+   sufficient. It will not make that mistake again.
 :::
 
 :::
@@ -32,5 +75,5 @@ What happens when the governing story breaks down?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5b.
+Specified. Prose is written in Phase 5b.
 :::

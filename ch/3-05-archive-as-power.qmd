@@ -11,18 +11,58 @@ Act III — Hoover, War, and the Archive State · 1919
 
 **Core question.** Who controls the past controls the present?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** Whoever gathers the documents does. Coming out of the war,
+Hoover funded Stanford to collect the ephemera of the collapse he had just
+watched — the leaflets, the ration cards, the decrees, the underground press of
+a dissolving Europe. What became the Hoover War Collection is a chokepoint on
+proof itself: what later generations are able to cite, and what they cannot.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Chokepoint control of the record — the mission register from
+Act II ch. 1, at world scale and with a research agenda. California starts
+accumulating memory infrastructure alongside its wealth, and memory
+infrastructure is the input to every future argument about what happened.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** Hoover committed $50,000 in 1919 and sent collectors into a
+Europe still in chaos to gather material that no government considered worth
+keeping. The value lay in collecting exactly what was about to be thrown away.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** A collector in 1919 with cash and a mandate, buying
+revolutionary leaflets off a table in a European city, at the moment when nobody
+else thinks they are worth anything.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** Every archive not created, and every group whose record was
+not purchased. The collection's shape determines what future scholarship can
+prove, which means the acquisition decisions of 1919 constrain the
+historiography of the next century — including this book's.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that archives function as chokepoints on
+interpretation by showing a private fortune determine, through acquisition
+choices, what evidence about the war and the revolutions would survive.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A leaflet nobody wanted, bought with American money, now the only
+   surviving copy. The object first.
+2. **The idea.** Hoover in 1919, having watched governments dissolve,
+   understanding that the paper is about to disappear.
+3. **The mechanism of collection.** The $50,000, Ephraim Adams, the agents in
+   the field, and the instruction to take everything.
+4. **What they got.** Specifics: revolutionary ephemera, ration documents,
+   occupation decrees, underground presses. The value is in the worthless.
+5. **Why Palo Alto.** A world archive of European collapse, located on a former
+   horse farm in California. Name the strangeness and then explain it: the
+   collection follows the donor, and the donor follows the credential.
+6. **The archive as an instrument.** What it means for research agendas that the
+   documents sit inside an institution with a point of view. Not a conspiracy —
+   a gravitational field.
+7. **Forward reference, once.** The Institution's later political role belongs
+   to Act IV ch. 10 and Act V ch. 6. Plant the seed only.
+8. **The excluded.** What was not collected. And the honest admission that this
+   book's own evidence base was shaped by these decisions.
+9. **Landing.** California now holds land, capital, credentials, and memory. The
+   fourth is the one nobody thinks to count.
 :::
 
 :::
@@ -32,5 +72,5 @@ Who controls the past controls the present?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5b.
+Specified. Prose is written in Phase 5b.
 :::

@@ -9,20 +9,65 @@ Act I — The World Before California · 30–800
 ::: {.callout-note collapse="true"}
 ## Pre-Draft Brief
 
-**Core question.** How does a persecuted movement become the most powerful institution in the world?
+**Core question.** How does a persecuted movement become the most powerful
+institution in the world?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** By becoming the only institution that did not depend on any
+particular state. The Church scaled on Roman roads and Roman administrative
+forms, then outlived the Roman state because its authority was not fiscal. A tax
+state requires territory. A meaning state requires only continuity — and
+continuity was the one thing the Church was designed for.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Elite network reproduction, and the invention of
+institutional permanence. Also chokepoint control of the least tangible and most
+durable input: legitimacy. Bishops and canon law travelled where armies could
+not, and the institution reproduced its own governing class independently of any
+dynasty.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** When the western Roman state ended in 476, the Church's
+dioceses were still functioning, still corresponding, and still using Roman
+administrative geography. The empire's map survived inside the institution that
+replaced it.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** A bishop in a former Roman province in the late fifth
+century, drafting a letter to Rome in an empire that no longer exists, using the
+postal geography of a state that has stopped collecting taxes.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** Every group defined as heretical in the process of defining
+orthodoxy, and the older local religious practices that were absorbed or
+suppressed. The consolidation of meaning has losers, and they are the reason we
+have the word heresy.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that institutions which do not depend on a single
+power structure are the ones that survive collapse by showing that the Church
+inherited Rome's administrative geography intact.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** 476, and the thing that did not stop. Open on the institution still
+   working the morning after the state failed.
+2. **Scaling on someone else's infrastructure.** Roman roads carry the message;
+   Roman administrative structure becomes Church governance. Do not moralise;
+   describe the logistics.
+3. **Martyrdom as inversion.** Persecution intended as deterrence functioning as
+   recruitment. Treat as a mechanism, carefully and without relish.
+4. **Constantine, 312–325.** The state adopting the network rather than the
+   reverse. What each party got.
+5. **Canon law and Latin.** Portable authority. The instruments that travel
+   where soldiers do not.
+6. **Meaning state versus tax state.** The chapter's central distinction, stated
+   once and clearly. Fiscal institutions need territory; interpretive ones need
+   succession.
+7. **Succession solved.** Celibacy, appointment, and the diocese as an office
+   rather than an inheritance. Contrast explicitly with dynastic power — and
+   forward, with the founder cult.
+8. **The excluded.** Heresy as the by-product of orthodoxy; suppressed local
+   practice.
+9. **Landing.** The Church is the book's proof that an institution can be more
+   durable than any state it serves. Stanford's self-perpetuating board is the
+   same idea with a different endowment.
 :::
 
 :::
@@ -32,5 +77,5 @@ How does a persecuted movement become the most powerful institution in the world
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5a.
+Specified. Prose is written in Phase 5a.
 :::

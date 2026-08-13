@@ -11,18 +11,59 @@ Act II — Land, Monopoly, and Institution · 1846–1848
 
 **Core question.** How does conquest become capital?
 
-**The answer.** *To be written before the first sentence of prose.*
+**The answer.** Through a treaty, not a battle. The Bear Flag Revolt and the
+fighting in California were minor; the Treaty of Guadalupe Hidalgo, signed 2
+February 1848, is what mattered, because it converted military occupation into
+legal ownership. California became investable not when it was conquered but when
+it was documented.
 
-**The mechanism.** *Which of the three: chokepoint control, public subsidy
-converted to private monopoly, elite network reproduction. Be specific.*
+**The mechanism.** Public authority converted into private property rights — the
+legal substrate that every subsequent fortune in this book is built on. The $15
+million paid to Mexico purchased an enforceable framework for title, which is
+worth more than the land it covers.
 
-**The key fact.** *The one thing the reader must walk away knowing.*
+**The key fact.** The treaty was signed on 2 February 1848. Gold had already
+been found at Sutter's Mill on 24 January. The United States acquired California
+nine days after it became the most valuable territory on the continent, and did
+not know it.
 
-**The human anchor.** *Who makes this a story rather than a lecture.*
+**The human anchor.** A land commission hearing, in which a rancho family with a
+Mexican grant and a hand-drawn boundary must prove title to an American court in
+English.
 
-**Excluded voices.** *Who paid the cost of the power described here.*
+**Excluded voices.** Californio grant-holders, who were promised the protection
+of their property under the treaty and then spent decades and their fortunes
+litigating for it. Indigenous Californians, for whom neither sovereign
+recognised title at all. And the fact that the treaty's protective article was
+altered before ratification.
 
-**Proof.** This chapter proves that _____ by showing _____.
+**Proof.** This chapter proves that legal documentation rather than military
+victory is what converts conquest into capital by showing that California's
+economic transformation dates from the treaty and the land commission, not from
+the fighting.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** Nine days. The gold is found on 24 January; the treaty is signed on
+   2 February. Nobody in Mexico City or Washington knows.
+2. **The war, briefly.** The Bear Flag Revolt and the California campaign, kept
+   short and unromantic. It is not the mechanism.
+3. **Guadalupe Hidalgo.** What the treaty said, what it paid, and what it
+   promised about existing property.
+4. **The alteration.** Article X, struck before ratification, and what its
+   removal did to Mexican land titles. This is the chapter's hinge.
+5. **The Land Act of 1851 and the commission.** The burden of proof placed on
+   grant-holders. Years, lawyers, and fees.
+6. **How title moved.** Californio families losing land to legal costs rather
+   than to seizure. The mechanism is procedural, which is why it is durable.
+7. **Indigenous title.** Recognised by neither sovereign. Say so directly.
+8. **Why documentation is the asset.** The chapter's argument: capital requires
+   enforceable title, and the United States supplied it. That is the real
+   acquisition.
+9. **Landing.** The legal framework is in place. The gold is already in the
+   river. Hand off.
 :::
 
 :::
@@ -32,5 +73,5 @@ How does conquest become capital?
 :::
 
 ::: {.callout-warning}
-Draft skeleton. Prose is written in Phase 5a.
+Specified. Prose is written in Phase 5a.
 :::
