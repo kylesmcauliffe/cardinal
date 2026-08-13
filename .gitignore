@@ -7,3 +7,6 @@
 /_freeze/
 *.html
 !cover.png
+
+/.quarto/
+**/*.quarto_ipynb
