@@ -111,20 +111,110 @@ benefactors. That premise underwrites everything in Act IV.
 Who governs when the state cannot?
 :::
 
-In 1856 San Francisco had a mayor, a sheriff, courts, a jail, and a fortified
-building on Sacramento Street from which several thousand organised businessmen
-conducted arrests, held trials, and carried out hangings.
+The artifact is a single paragraph of small type on the front page of the
+*Daily Evening Bulletin* for the fourteenth of May, 1856.
 
-They called it Fort Gunnybags, after the sandbags stacked against its walls. It
-had cannon. The Committee of Vigilance that occupied it enrolled somewhere in
-the region of six to eight thousand members, organised into companies, drilled
-them, and operated for roughly three months in open defiance of the state
-government, which declared the county in a state of insurrection and could do
-nothing about it.
+The paper was seven months old and already the most-read sheet in the West. Its
+editor, James King of William — the suffix was his own, adopted to separate
+himself from the other James Kings of his generation — had built its circulation
+on one subject: the men who ran San Francisco, and how they had come to run it.
+That afternoon the *Bulletin* printed a few lines observing that James P. Casey,
+lately seated on the city's Board of Supervisors, had once been an inmate of
+Sing Sing.
 
-The Committee was not a mob. It was the city's commercial elite, acting as a
-parallel state, and when it dissolved itself its members went into ordinary
-politics and were widely regarded as having saved the city.
+That is the whole artifact. A back-page fact about a New York prison, set in a
+California paper, in a column about municipal fraud. Everything in this chapter
+follows from those two sentences and from what the city decided to do with them.
+
+## What the paragraph said
+
+Stand where a reader stood and ask the question the reader asked: what was Casey
+actually accused of?
+
+Two things, and the *Bulletin* was careful to keep them apart. The first was the
+prison term — a matter of record in New York, no crime in California, and the
+paper said as much. A man who had served his sentence had served it. The second
+was the ballot box. Casey held a seat on the Board of Supervisors from a
+district in which, the paper charged, he had not even stood on the ticket; he
+had counted himself in. The prison term was not the accusation. It was the
+character reference attached to the accusation, which was that a convicted felon
+had let himself into the government of San Francisco through a false return and
+nobody had stopped him.
+
+Picture the record itself, the thing the sentence only gestured at: a New York
+commitment, a name entered in the register at Sing Sing, a term served and
+closed. It would have sat in an Ossining ledger two thousand miles away,
+unreachable and therefore unanswerable — which is exactly why printing that it
+existed was an act of such precision. King was not producing the document. He
+was announcing that he knew what it said.
+
+## Five o'clock
+
+Casey read the paper in the *Bulletin* office. He went to the Board of
+Supervisors, then to the offices of a rival paper, and then he waited on the
+street.
+
+At about five o'clock King left the *Bulletin* and walked up Montgomery Street
+toward Washington, wrapped against the evening in a short cloak. Casey stepped
+out near the Pacific Express building, called to him to draw and defend himself,
+and fired once with a Navy revolver. The ball went in above the collarbone. King
+turned, took a few steps, and was carried into the Express office, where they
+laid him on a counter and sent for surgeons.
+
+He did not die there. He lingered six days, in a room above Montgomery Street,
+while the city outside organised — and the lingering mattered, because it gave
+the reaction the time it needed to grow to the size of a funeral.
+
+## The street
+
+Reconstruct the next hour from what the crowd did, because here the crowd is a
+primary source as much as the paper is.
+
+Word moved the way word moved in a compact city of tens of thousands: by voice,
+outward from the Express office, along Montgomery, up to Portsmouth Square. Men
+left counting-houses and stood in the street. By the time Casey had been walked
+to the county jail there was a crowd around it calling for him, and the sheriff
+moved him to the stronger jail on Broadway ahead of it. The *Bulletin*'s own
+circulation — several thousand copies a day, read aloud in bar-rooms and passed
+hand to hand — meant the paragraph and the shooting reached the same reader
+within hours of each other, the accusation and its answer arriving as a single
+event.
+
+What the city did with it was not a riot. Within a day the men who had led the
+short-lived Committee of Vigilance of 1851 had reconstituted it, and this time
+they built something meant to last the summer.
+
+## Fort Gunnybags
+
+They took a commercial building on Sacramento Street, stacked gunny sacks filled
+with sand against its front until the wall stood two storeys of packed earth,
+mounted a cannon above the door, and enrolled members by the thousand — somewhere
+between six and eight thousand men, organised into companies and drilled like an
+army. The city called the building Fort Gunnybags. From it the Committee ran
+arrests, held trials, and kept a membership roll and an executive, in open
+defiance of a state government that declared the county in insurrection and could
+not raise a force against it. William Tecumseh Sherman, then a San Francisco
+banker, took a commission to muster the militia, could not obtain arms, and
+resigned.
+
+The Committee took Casey from the sheriff. It also took Charles Cora, a gambler
+whose trial for killing a United States marshal the previous winter had ended in
+a hung jury. It tried them both inside the fort.
+
+On the twenty-second of May — the day of James King of William's funeral — the
+two men were brought onto a platform built out over the Sacramento Street wall.
+The editor's cortège was moving through the city at the same hour, thousands in
+the procession, the largest San Francisco had assembled for anyone. As the
+funeral passed, the drops fell. Two bodies hung from beams projecting over the
+street, in daylight, before a crowd, hanged by a private association of
+merchants that had arrested, charged, tried, and executed them in the space of
+eight days.
+
+The Committee was not a mob, and that is the whole point of the chapter. It was
+the city's commercial elite, acting as a parallel state and keeping minutes. When
+it dissolved itself three months and two more hangings later, its members did not
+scatter. They went into ordinary politics as the party of order, and San
+Francisco remembered them for a century as the men who had saved it.
 
 ## The formal apparatus
 
@@ -171,33 +261,24 @@ count controlled the contracts.
 Into that gap stepped whoever was organised enough to fill it, which is the
 finding of this chapter and the reason it sits where it does in the act.
 
-## 1851 and 1856
+## The precedent, and the target
 
-The first Committee of Vigilance formed in June 1851 after a series of fires and
-a wave of robberies attributed to a group of Australian arrivals known as the
-Sydney Ducks. It held trials, hanged four men, deported others, and disbanded
-after a few months.
+This was the second time the city's merchants had done it. The first Committee of
+Vigilance had formed in June 1851, after a run of fires and robberies blamed on a
+group of Australian arrivals known as the Sydney Ducks; it hanged four men,
+deported others, and dissolved within months. So by 1856 the move was not an
+improvisation. It was a remembered instrument, taken down off the shelf when it
+was wanted.
 
-The second, in May 1856, was much larger and much more political. Its immediate
-occasion was the shooting of a newspaper editor, James King of William, by a
-county supervisor named James Casey, following the paper's publication of
-Casey's criminal record. The Committee took Casey and another prisoner from the
-sheriff, tried them, and hanged them on the day of King's funeral.
-
-It then kept going for three months, hanging two more men, deporting a number of
-others, and effectively running the city. It maintained a headquarters, a
-membership roll, and an executive committee, and it was funded and led by
-merchants and property owners. William Tecumseh Sherman, then a banker in San
-Francisco, was appointed by the governor to raise the militia against it and
-resigned when he could not obtain arms.
-
-The targets are the part that gets left out of the civic-virtue version. The
-Committee's activity was substantially directed against the Irish and Catholic
-immigrant population and against the Democratic political organisation that
-depended on it. Both hanged men in the 1856 episode were Irish Catholics. The
-Committee's members were overwhelmingly Protestant merchants, many of them from
-New England, and the political movement that emerged from it took control of the
-city's government at the next election.
+And what it was wanted for is the part the civic-virtue version leaves out. The
+1856 Committee's energy was aimed, with considerable precision, at the Irish and
+Catholic immigrants of the city and at the Democratic organisation that turned
+their votes into offices. Both men hanged during the King affair were Irish
+Catholics. The Committee's own membership was overwhelmingly Protestant and
+mercantile, much of it transplanted from New England, and the party that grew out
+of that summer — running under the banner of reform — took the city's government
+at the next election and held it. The ballot box that Casey was accused of
+stuffing did change hands. It changed hands to the men who had built the fort.
 
 It was, in other words, a factional instrument wearing the costume of civic
 order, and it worked.
