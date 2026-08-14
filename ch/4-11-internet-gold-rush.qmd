@@ -1,0 +1,276 @@
+# The Internet Gold Rush {#sec-4-11}
+
+::: {.chapter-meta}
+Act IV — The Silicon Valley Machine · 1993–1999
+:::
+
+::: {.content-visible when-profile="draft"}
+
+::: {.callout-note collapse="true"}
+## Pre-Draft Brief
+
+**Core question.** How does a research network become a commercial empire?
+
+**The answer.** By being handed over. The network was built with public money
+for thirty years and then commercialised in about thirty months, and the
+question that drove the era was who would own the interface between people and
+information. Netscape and Yahoo both came out of universities; both were funded
+from Sand Hill Road; and both were answers to a question that search would
+answer better.
+
+**The mechanism.** Public subsidy converted into private monopoly, in the most
+literal form in the book: a federally funded network transferred to commercial
+operation. Then chokepoint control contested — browser, portal, directory, and
+finally search.
+
+**The key fact.** Netscape's browser descended from Mosaic, developed at a
+federally funded supercomputing centre at a public university. The company that
+opened the commercial internet was built on software the public had already paid
+for.
+
+**The human anchor.** Marc Andreessen, a student programmer on a federal grant,
+becoming the face of an initial public offering that had no profits and was
+worth billions by the afternoon.
+
+**Excluded voices.** The public that funded the network's construction and
+received no equity in its commercialisation, and the retail investors who bought
+the top of the bubble. Also the alternative architectures — public, municipal,
+or common-carrier — that were foreclosed without being debated.
+
+**Proof.** This chapter proves that thirty years of public network investment
+was converted into private ownership without compensation by tracing Mosaic's
+funding to Netscape's valuation.
+:::
+
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Mosaic, the browser that made the web usable, was written at a federally funded
+supercomputing centre at a public university. Netscape was built on its
+foundations, went public in August 1995 without profits, and was worth billions
+by the afternoon. Thirty years of public network investment were converted into
+private ownership in about thirty months, and the chapter traces the funding
+line from the grant to the valuation.
+
+The handover itself received almost no public deliberation. The National Science
+Foundation backbone's acceptable use policy had restricted commercial traffic;
+it was lifted, the backbone was decommissioned in 1995, and the network passed
+to commercial operators. Alternative architectures — common carriage, municipal
+provision, public utility treatment — were foreclosed without being seriously
+debated, and the chapter names them because their absence was a choice.
+
+What followed was a contest over the interface between people and information,
+which is the same position the mission register held in Act II and the operating
+system held two chapters ago. Netscape held the browser. Yahoo, built by two
+Stanford graduate students on university machines, held the directory. Both were
+answers to the right question, and both were about to be beaten by a better one.
+
+Portals lost for a structural reason rather than a competitive one: human
+curation does not scale with the web's growth rate, and a directory of the
+internet becomes impossible somewhere around the point it becomes useful.
+
+The bubble mechanics belong to the previous chapter's capital chokepoint
+operating in public markets that would buy anything — underwriting practices,
+lock-up expirations, and retail investors arriving last.
+
+The public that funded the network received no equity in its commercialisation.
+That is the chapter's ledger entry, and it is the largest single instance of the
+book's second mechanism.
+
+Search is the chokepoint, and two Stanford doctoral students have already
+published the paper.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** Mosaic's funding line. A federal grant at a public university, and
+   then a market capitalisation.
+2. **The handover.** The NSF backbone, the acceptable use policy, and
+   commercialisation in 1995. What was decided and by whom, with almost no
+   public deliberation.
+3. **Netscape, 1994.** Andreessen and Clark. The August 1995 IPO and what it
+   signalled.
+4. **Yahoo, 1994-95.** Yang and Filo, a directory built on Stanford machines.
+   The portal as an attempt at the chokepoint.
+5. **What the contest was actually about.** The interface between humans and
+   information — the same position the mission register, the railroad timetable,
+   and the operating system each occupied.
+6. **The bubble mechanics.** How the capital chokepoint of ch. 5 behaved when
+   public markets would buy anything. Underwriting, lock-ups, and flipping.
+7. **Why portals lost.** Curation does not scale. State the structural reason
+   rather than narrating the horse race.
+8. **The excluded.** No public equity in a public asset; retail investors at the
+   top; the foreclosed alternatives.
+9. **Landing.** Search is the chokepoint, and two Stanford doctoral students
+   have already written the paper. Hand off.
+:::
+
+:::
+
+::: {.chapter-question}
+How does a research network become a commercial empire?
+:::
+
+Mosaic, the browser that made the web usable by people who were not already
+computer scientists, was written at the National Center for Supercomputing
+Applications at the University of Illinois, on federal funding, and released
+free in 1993.
+
+Netscape Communications, founded the following year by one of Mosaic's authors
+and by Jim Clark of Silicon Graphics, went public on 9 August 1995. It had
+minimal revenue and no profits. The shares had been priced at fourteen dollars,
+were doubled to twenty-eight before the offering on the strength of demand, and
+closed the first day at more than double that again.
+
+Thirty years of publicly funded network development were converted into private
+ownership in about thirty months, and the chapter traces the line from the grant
+to the valuation.
+
+## The handover
+
+The network had been built with public money since ARPANET's first four nodes in
+1969, and by the early 1990s the National Science Foundation operated the
+backbone that connected American research institutions.
+
+That backbone carried an acceptable use policy prohibiting commercial traffic.
+Commercial networks existed alongside it, and pressure to interconnect had been
+building for years. The policy was progressively relaxed, and in April 1995 the
+NSFNET backbone was decommissioned and the network passed to commercial
+operators.
+
+The chapter's observation is about the process rather than the outcome. This was
+among the most consequential infrastructure decisions in American history, and
+it was made almost entirely through agency policy, appropriations language, and
+technical committees, with no significant public debate about the alternatives.
+
+There were alternatives. The network could have been operated as a regulated
+common carrier, as the telephone system had been. It could have been maintained
+as a public utility with mandated interconnection. Municipal provision was
+possible and was later attempted in various places and frequently blocked by
+state legislation. None of these was seriously argued in public before the
+question was settled.
+
+The public built an asset over three decades and transferred it without
+compensation, without equity, and without a conversation.
+
+## What the contest was about
+
+The commercial question of 1994 to 1999 was who would own the interface between
+people and information, and every significant company of the period was an
+answer to it.
+
+Netscape held the browser, which was the obvious position: everyone reaching the
+web passed through it, and the company assumed that the browser would become the
+platform on which applications ran. Microsoft, which had missed the internet
+entirely in its early planning, recognised the threat to the position it held
+from chapter 9 and bundled Internet Explorer with Windows, which destroyed
+Netscape's revenue model and produced the antitrust case of 1998.
+
+Yahoo held the directory. Jerry Yang and David Filo were Stanford doctoral
+students, and their guide to the web began on university machines in 1994 as a
+list of links they had found useful. It grew into a hand-curated hierarchical
+directory and then a portal — news, mail, finance, chat — on the theory that the
+way to hold the audience was to be the place they started.
+
+## Why the portal lost
+
+Directories failed for a structural reason rather than a competitive one, and
+the reason is worth stating because it explains the shape of everything after.
+
+Human curation does not scale with a network that is growing exponentially. A
+directory of the web becomes impossible at approximately the moment it becomes
+essential, because the labour required to maintain it rises with the size of the
+thing being catalogued while the value of any individual entry falls.
+
+The alternative was to abandon curation and rank algorithmically, and the
+question then became what signal to rank on. Keyword matching was easily gamed
+and by 1997 the results of most search engines were substantially spam.
+
+Two Stanford doctoral students working on a digital library project had a better
+signal, and the next chapter is about it.
+
+## The mechanics of a bubble
+
+The capital chokepoint from chapter 5 behaved in a specific way once public
+markets would buy anything, and the mechanics are worth setting out because they
+recur.
+
+Venture firms funded companies at increasing valuations on the expectation of a
+public offering rather than of profitability. Investment banks took those
+companies public quickly, on small floats that constrained supply and produced
+dramatic first-day rises. Insiders were subject to lock-up periods that
+prevented them selling for some months, which meant the price was set by a thin
+market of new buyers. Analysts at the same banks published favourable coverage.
+
+Retail investors arrived last, buying at the top from the people who had bought
+early. When the NASDAQ peaked in March 2000 and then lost roughly three-quarters
+of its value over the following two and a half years, the losses fell
+disproportionately on those buyers, while the venture firms and the banks had
+largely realised their positions.
+
+The chapter should also state the other half honestly, because the bubble is
+usually treated as pure waste. Enormous quantities of fibre optic cable were
+laid during these years by companies that went bankrupt, and that capacity —
+bought at a fraction of its cost by whoever picked up the assets — is the
+physical infrastructure on which the following two decades of internet growth
+ran. The capital was destroyed and the cable stayed in the ground.
+
+## Amazon, and the model that survived
+
+One company from this period established a pattern worth marking because Act V
+depends on it.
+
+Amazon went public in 1997 and lost money for years, deliberately, reinvesting
+everything into growth and infrastructure while its founder told shareholders
+repeatedly that this was the plan. The market eventually accepted the argument
+that scale in a network business is worth more than near-term profit, because
+the firm that gets there first acquires a position competitors cannot assault.
+
+That proposition — grow first, monetise later, and accept losses indefinitely to
+secure a chokepoint — becomes the standard operating assumption of the platform
+era. It is only rational if the position at the end is genuinely defensible, and
+the extraordinary thing about the following twenty years is how often it was.
+
+## The Stanford channel
+
+The corridor supplied the founders for this wave as reliably as it had supplied
+them for the last, and the mechanism is worth naming because it was becoming
+formal.
+
+Yang and Filo were doctoral students. Their directory ran on university
+machines, on university bandwidth, until the traffic became a problem and they
+were encouraged to move it. Cisco had been founded in 1984 by two Stanford
+administrators who had built equipment to connect the campus's incompatible
+networks, and it took the university's technology under licence. Sun
+Microsystems had been founded in 1982, its name an acronym for the Stanford
+University Network, on a workstation design developed on campus. Silicon
+Graphics came out of a Stanford laboratory in 1982.
+
+Four of the significant infrastructure companies of the era came directly out of
+one university's computer science and engineering departments within fifteen
+years, and in each case the university had a licensing or equity relationship.
+
+That is Bayh-Dole from chapter 10 operating as designed, and it is the loop from
+chapter 1 running at full speed. Federal research funding produces technology
+and people. The technology is patented by the university. The people found
+companies to commercialise it. The companies lease space nearby, hire the next
+graduates, and fund the next research. And the university takes a position at
+every stage.
+
+By the late 1990s the arrangement was so well understood that founding a company
+had become a recognised outcome of graduate study rather than an alternative to
+it.
+
+## What is now in place
+
+By 1999 the network is private, the browser war is over, the portal has lost,
+and the bubble is about to end.
+
+What has been established is that the interface between people and information
+is the most valuable position in the economy, and that whoever holds it can be
+worth more than the companies whose products pass through it.
+
+The remaining question was what the interface would be, and the answer had been
+published in a graduate paper the year before, complete with a warning about
+what would happen if its authors did what they were about to do.

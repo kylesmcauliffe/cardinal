@@ -1,0 +1,283 @@
+# Epilogue: The Traveller's Tour {#sec-5-12}
+
+::: {.chapter-meta}
+Act V — The Open Era · 1776–2025
+:::
+
+::: {.content-visible when-profile="draft"}
+
+::: {.callout-note collapse="true"}
+## Pre-Draft Brief
+
+**Core question.** What does a traveller see who can walk from Mission Dolores
+to a data centre?
+
+**The answer.** Repetition. A traveller walking from Mission Dolores to a data
+centre crosses four institutional regimes and one continuous mechanism, and sees
+at every stop the same arrangement in a different costume: a bottleneck, a
+public subsidy, a private title, and a story explaining why the holder deserved
+it. California did not become powerful by accident. It was engineered into
+power, in public, over two and a half centuries.
+
+**The mechanism.** All three, walked rather than argued. The epilogue's form is
+a sequence of addresses, which is the book's method made physical: every claim
+it has made has a street number attached.
+
+**The key fact.** Every address is still standing or still identifiable, and
+every one is publicly accessible or visible. The book's final evidentiary claim
+is that the reader can check it on foot.
+
+**The human anchor.** The traveller: no name, no backstory, no arc. A literary
+device and nothing more, per the project's own rule. The reader is the
+traveller.
+
+**Excluded voices.** Held to the end deliberately. The last address in the
+sequence should be one of absence — a place where something was and is not, or
+where the people from ch. 9's ledger lived and are unrecorded. The book should
+not close on a monument.
+
+**Proof.** This chapter proves the book's argument is checkable by locating
+every mechanism it has described at a specific surviving address.
+:::
+
+::: {.callout-tip collapse="true"}
+## Working summary
+
+The epilogue is a walk, and every stop on it has a street number. A traveller —
+no name, no backstory, a device and nothing more — crosses four institutional
+regimes in a single afternoon and finds the same arrangement at every one: a
+bottleneck, a public subsidy, a private title, and a story explaining why the
+holder deserved it.
+
+It begins at 320 Dolores Street, at the mission founded in 1776, where power
+took the form of a register. Then Portsmouth Square and Grant Avenue, where the
+Gold Rush's throat and the Chinatown that the exclusion campaigns targeted sit a
+block apart — two chapters of Act II within sight of each other. Then Colton
+Hall at 570 Pacific Street in Monterey, where a constitution was written in 1849
+by men whose names are on the rest of the walk. Then Nob Hill, the Big Four's
+addresses, and what stands there now.
+
+Promontory Summit is the one place the walk cannot reach, and the epilogue says
+so: the site where the public money became private property is eight hundred
+miles away in Utah, which is its own kind of fact.
+
+Then the Stanford campus, where most of Acts II and III fit inside a square mile
+— the Founding Grant's land, Hoover Tower, and a hall that has been renamed.
+Then 367 Addison Avenue and the garage, where the epilogue states plainly what
+the book has shown: the garage is real, and it is not the explanation. Then Page
+Mill Road and the Research Park that an unsellable inheritance made necessary.
+Then Sand Hill Road, low buildings and oak trees and a toll gate. Then an
+unmarked data centre, sited for electricity, drawing the power of a town.
+
+The last stop is a place with no sign, because the book should not close on a
+monument.
+
+What the traveller sees is repetition rather than mystery. California did not
+become powerful by accident; it was engineered into power, in public, across two
+and a half centuries. The reader closes the book knowing exactly how it works,
+and that it was never a secret — only subliminal.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **320 Dolores Street, San Francisco.** Mission Dolores, 1776. The register.
+   Power as legibility.
+2. **Portsmouth Square and Grant Avenue.** The Gold Rush throat and the
+   Chinatown that the exclusion campaigns targeted. Ch. 6 and ch. 11 of Act II,
+   one block apart.
+3. **Colton Hall, 570 Pacific Street, Monterey.** 1849. The constitution, and
+   who wrote it.
+4. **Nob Hill.** The Big Four's addresses, and Crocker's spite fence. What is
+   there now.
+5. **Promontory Summit, Utah.** Off the walk and necessarily so — note that the
+   one place the book cannot reach on foot is where the public money became
+   private property.
+6. **The Stanford campus.** The Founding Grant's land. Hoover Tower, the Quad,
+   Jordan Hall renamed. Ch. 12 and ch. 13 of Act II and most of Act III, in one
+   square mile.
+7. **367 Addison Avenue, Palo Alto.** The garage, 1939. State plainly what the
+   book has shown: the garage is real and it is not the explanation.
+8. **Page Mill Road.** The Research Park, 1951. The lease that the 1885 grant
+   made necessary.
+9. **Sand Hill Road, Menlo Park.** The capital corridor. Low buildings, oaks,
+   and the toll gate.
+10. **A data centre.** Unmarked, sited for electricity, drawing the power of a
+   town. The newest chokepoint, and the least visible.
+11. **The last stop: an absence.** A place with no sign. Close here rather than
+   on a monument.
+12. **Final lines.** No prescription and no prophecy. The reader closes the book
+   knowing exactly how it works, and that it was never a secret — only
+   subliminal.
+:::
+
+:::
+
+::: {.chapter-question}
+What does a traveller see who can walk from Mission Dolores to a data centre?
+:::
+
+The argument of this book can be walked.
+
+Not entirely, and not in a day, but nearly. Every mechanism described in the
+preceding sixty chapters has an address, most of the addresses still exist, and
+almost all of them are publicly accessible. What follows is the route.
+
+The traveller is a device. No name, no backstory, no arc. The reader is the
+traveller.
+
+## 320 Dolores Street, San Francisco
+
+Mission San Francisco de Asís, founded in 1776, the oldest intact building in
+the city. Thick adobe walls, a small dark interior, and a survival through the
+1906 earthquake that took down almost everything around it.
+
+Inside, in the archive, are the registers: baptisms, marriages, burials, each
+entry a name assigned and a name not recorded. This is where California's power
+begins, and it begins as bookkeeping.
+
+Outside, the cemetery. And in it, in recent years, a marker acknowledging the
+thousands of Ohlone and other Indigenous people buried there.
+
+## Portsmouth Square and Grant Avenue
+
+Half an hour's walk north-east, two chapters of Act II within a block of each
+other.
+
+Portsmouth Square is where the American flag was raised in 1846 and where the
+city's first public life happened. Grant Avenue, which was Dupont Street, is the
+spine of the Chinatown that the exclusion campaigns of the 1870s targeted, and
+where the litigants in *Yick Wo* ran their laundries.
+
+The throat of the Gold Rush and the community that built the railroad, adjacent,
+both still there.
+
+## Colton Hall, 570 Pacific Street, Monterey
+
+Two hours south. A plain two-storey stone building where forty-eight delegates
+wrote a state constitution in six weeks in 1849, with no authorisation from
+anybody.
+
+The upper room is preserved. It is smaller than you expect, which is the useful
+thing about it: the founding document of the richest state in the world was
+drafted in a space the size of a school hall by men who were making it up.
+
+## Nob Hill
+
+Back in San Francisco. The Big Four built their mansions here and the 1906 fire
+took all of them but one.
+
+What stands now is a set of hotels and a cathedral carrying their names, and the
+Pacific-Union Club in the surviving Flood mansion. Crocker's spite fence, built
+to shadow the house of a neighbour who would not sell, is long gone. The Crocker
+family gave the block to the Episcopal diocese and Grace Cathedral is on it.
+
+A monopoly converted into hospitality and religion. The transaction from Act II
+chapter 12, at neighbourhood scale.
+
+## Promontory Summit, Utah
+
+The one place the walk cannot reach, and the omission is worth stating.
+
+Eight hundred miles east, at a spot in the desert with no town near it, is where
+the public money became private property on 10 May 1869. There is a national
+historic site and two replica locomotives. It is the most important location in
+this book and it is nowhere near California, which is itself the point: the
+transfer happened elsewhere and the proceeds came home.
+
+## The Stanford campus
+
+Back on the Peninsula, and most of two acts inside a square mile.
+
+The eight thousand acres of the Founding Grant, which could not be sold. The
+Quad and the church, rebuilt after 1906. Hoover Tower, two hundred and eighty-
+five feet, holding the archive bought with fifty thousand dollars in a collapsed
+European currency in 1919. The building that was Jordan Hall until 2020. The
+Graduate School of Business, and the Knight Management Center beside it, funded
+by a man who wrote his company as a class paper in 1962.
+
+Somewhere on this campus in the early 1920s, a student accumulated ninety-three
+units over six years and left without a degree.
+
+## 367 Addison Avenue, Palo Alto
+
+A small wooden garage behind an ordinary house on an ordinary residential
+street, with a plaque calling it the birthplace of Silicon Valley.
+
+The traveller should stand here long enough to register the deflation. The
+garage is real. Two engineers did start a company in it in 1939 with about five
+hundred dollars, and the company became enormous.
+
+And the garage is not the explanation. The explanation is a professor who told
+them to stay, a university with unsellable land, a war that made the state
+strategically indispensable, and a federal funding channel that nobody ever
+decided to close. The garage is the story the system tells about itself, and it
+is true, and it is not why any of this happened.
+
+## Page Mill Road
+
+Ten minutes away. Low buildings set back from the road behind parking and
+landscaping, indistinguishable from any suburban office park in America.
+
+This is the Stanford Research Park, opened in 1951, the first university-owned
+industrial park in the United States, and the direct consequence of a clause in
+an 1885 legal document forbidding the sale of land.
+
+## Sand Hill Road
+
+Five minutes further. Oaks, low buildings, generous parking, a view toward the
+coastal range, and nothing to look at.
+
+More consequential technology funding has passed through here than through any
+comparable stretch of ground on earth. Four minutes from the campus that
+supplies the founders. There is no signage explaining any of this, because it is
+an office park.
+
+## A data centre
+
+The last built stop is not on the Peninsula, because they are not sited where
+land is expensive.
+
+Somewhere in central Washington, or west Texas, or eastern Oregon: a long
+windowless building behind a fence, drawing the electricity of a small city,
+unmarked except for a company logo at the gate. The newest chokepoint, and by a
+wide margin the least visible.
+
+Nothing about it invites attention, which is the most modern thing about it. A
+railroad had depots and a timetable and a rate card. This has a fence and a
+substation.
+
+## The last stop
+
+End at a place with no sign.
+
+There are several available and the traveller may choose. The site of a mission
+cemetery where the burials outnumbered the baptisms. A stretch of the Sierra
+grade above Donner Pass where the tunnels were driven by hand, with no marker
+naming the men who drove them. The grounds of a state institution where the
+sterilisations were performed. A field in the Central Valley. East Palo Alto,
+across the freeway from the research park, where the boundary between two tax
+bases is visible from the road.
+
+Somewhere the ledger from chapter 9 was paid and nothing records it.
+
+## What the traveller saw
+
+Repetition.
+
+Four institutional regimes — Spanish, Mexican, American, and whatever the
+platform era turns out to have been — and one arrangement running underneath all
+of them. A bottleneck, identified early. Public authority or public money used
+to secure it. Private title established over the result. And a story explaining
+why the holder deserved it: a saint's mission, a governor's grant, a frontier
+enterprise, a garage.
+
+California did not become the most powerful economic force in the modern world
+by accident, and it did not do it in secret. It was engineered into power, in
+public, across two and a half centuries, by people who mostly did not know they
+were building anything larger than their own position.
+
+The documents are public. The buildings are standing. The street signs are
+twelve feet up and lit at night.
+
+It was never a secret. It was only subliminal.

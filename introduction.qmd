@@ -1,0 +1,252 @@
+# Introduction: The Spirit and the Chokepoint {.unnumbered}
+
+::: {.content-visible when-profile="draft"}
+
+::: {.callout-note collapse="true"}
+## Pre-Draft Brief
+
+**Core question.** What is California's spirit of capitalism, and how would we
+know it if we saw it?
+
+**The answer.** Not asceticism. Rent. California's spirit of capitalism is
+chokepoint rent extraction wearing frontier merit as a costume — and the story of
+the garage does the work that the doctrine of election once did, explaining why
+the winner deserved to win.
+
+**The mechanism.** Introduces all three: chokepoint control, public subsidy
+converted to private monopoly, elite network reproduction. Names the analytical
+habit — who controls the inputs, who captures the surplus, who is excluded, how the
+system reproduces — without making the reader learn a vocabulary.
+
+**The key fact.** The corridor. Talent, capital, and legitimacy have routed
+through the same forty miles of the San Francisco Peninsula for a hundred and forty
+years, across four unrelated technologies.
+
+**The human anchor.** The reader, walking. This is the one place in the book where
+the author is permitted to explain the method, so it is written as an orientation
+rather than a narrative.
+
+**Excluded voices.** States the moral ledger as a standing commitment: every
+generation of California power has an excluded class that makes the system
+possible while being denied its rewards, and the book tracks that class in every
+chapter rather than sequestering it in one.
+
+**Proof.** This chapter proves that the book has a method by showing what the
+method predicts and what would falsify it.
+:::
+
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Opens on Weber in 1905, arguing that capitalism's animating spirit was Protestant
+asceticism — worldly discipline read as evidence of divine election. The doctrine's
+real work was not economic but moral: it explained why prosperity was deserved.
+
+Sets against it California's version, which inverts the content and keeps the
+structure. Not thrift but leverage. Not the monastery but the garage. And a story
+about merit doing precisely the work the doctrine of election used to do. The
+argument is not that Californians are hypocrites; it is that every durable system
+of accumulation needs an account of its own justice, and this is California's.
+
+Then states the mechanism in three parts, with one example of each drawn from a
+different century, so the reader sees the repetition before being asked to believe
+in it. Introduces the analytical habit — who controls the inputs, who captures the
+surplus, who is excluded, how the system reproduces itself — as a way of reading
+rather than a theory to accept. Absorbs the useful material from the drafts' "Primer
+on Time Travel": history read the way an ecologist reads a food chain, systems
+nested inside systems.
+
+Establishes falsifiability, which is the section that earns the sceptic. If the
+argument is right, California's great fortunes should cluster around bottlenecks
+rather than inventions; public money should precede private capture rather than
+follow it; and the institutions that produce the elite should be endowed by the
+elite they produced. If those three things are not true, the book is wrong. They are
+checkable, and the rest of the book checks them.
+
+States what the book is not. It is not a claim of conspiracy. Coordination is not
+required and mostly did not happen. What happened is convergence: talent, capital
+and legitimacy routing through the same corridor because that is where the returns
+were, and the returns being there because that is where everything routed. Gravity
+is not a conspiracy, which is the more disturbing argument and the true one.
+
+Closes on the corridor and the grid. The same forty miles, four unrelated
+technologies, one university — and a street map that records, in the one medium
+that outlasts newspapers and lawsuits, exactly who held it and in what order.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Weber, 1905.** The Protestant ethic in one paragraph, stated fairly and
+   without condescension. Isolate what the doctrine actually did: it made
+   prosperity legible as virtue.
+2. **The inversion.** California keeps the structure and replaces the content.
+   Discipline becomes leverage; the monastery becomes the garage; election becomes
+   merit. The garage story is not a lie — it is a theodicy.
+3. **The three parts of the mechanism.** One example each, from three different
+   centuries, stated in a sentence apiece. Mission records, railroad land grants,
+   platform network effects.
+4. **How to read the rest of the book.** Four questions, asked of every chapter:
+   who controls the inputs, who captures the surplus, who is excluded, how does the
+   system reproduce. Introduce as a habit, not a framework.
+5. **Falsification.** The three predictions and what would break them. This is the
+   section that separates an argument from an accusation, and it must be specific
+   enough to be tested.
+6. **What this book is not.** Not conspiracy. Convergence. Gravity is not a
+   conspiracy.
+7. **The moral ledger, declared.** Every phase has an excluded class. They appear
+   in every chapter as part of the structural argument, never as a moral appendix.
+8. **The corridor.** Forty miles, four technologies, one university, a hundred and
+   forty years.
+9. **Landing.** The grid. Return to the street names from the preface and turn them
+   into a promise: by the end of the book the reader will be able to read a street
+   sign as a document.
+:::
+
+:::
+
+::: {.chapter-question}
+What is California's spirit of capitalism, and how would we know it if we saw it?
+:::
+
+In 1905 Max Weber published an argument about where capitalism came from.
+
+His claim was not that Protestants were better at business. It was subtler and
+more durable: that a particular religious doctrine had produced a particular
+disposition, and that the disposition turned out to be extraordinarily
+productive. If you cannot know whether you are saved, and if worldly success
+might be evidence that you are, then diligence stops being merely prudent and
+becomes something closer to devotion. Wealth accumulated and not spent is a
+sign.
+
+The important part of Weber's argument, for this book's purposes, is not the
+economics. It is that he identified what the doctrine was actually for. Its
+function was moral rather than financial. It answered the question that every
+durable system of inequality has to answer, which is why the winner deserved to
+win.
+
+This book is about a place that answered the same question differently, and
+about what the answer concealed.
+
+## The costume
+
+California's spirit of capitalism keeps Weber's structure and inverts its
+content.
+
+Not thrift but leverage. Not the monastery but the garage. Not the doctrine of
+election but the story of merit: two people in a shed with a good idea, working
+harder than anybody else, and deserving what followed.
+
+The garage story is not a lie. Two engineers really did start a company in a
+shed on Addison Avenue in 1939 with about five hundred dollars, and it became
+one of the largest firms in the world. Almost every version of the story has a
+real building and real people in it.
+
+It is, though, a theodicy — an account of why the distribution of rewards is
+just — and like the doctrine of election it works by directing attention to the
+virtue of the person who won and away from the structure that determined that
+somebody in that position would win.
+
+This book's argument is that California's spirit of capitalism is chokepoint
+rent extraction wearing frontier merit as a costume. Not because the people in
+the story are frauds; most of them believe the story and most of them worked
+very hard. But because the fortunes cluster around control of bottlenecks rather
+than around invention, the bottlenecks are built with public money with striking
+regularity, and the institution that certifies the people who end up holding
+them is endowed by the people who held them last.
+
+## The mechanism
+
+Three things recur, in different institutional costume, in every period this
+book covers.
+
+**Chokepoint control.** Whoever owns the passage that everything must go through
+sets the terms for everyone else. A mission register that determines who
+officially exists. A rail line that decides which towns are viable. An operating
+system that every application runs on. An advertising auction between a stated
+desire and the market that can satisfy it. A processor that every frontier model
+must be trained on.
+
+**Public subsidy converted into private monopoly.** The passage is very rarely
+built with private money alone. Land grants and thirty-year bonds financed the
+Central Pacific. Federal procurement bought the entire early output of the
+integrated circuit industry. A defence agency built the network. A statute
+assigned publicly funded inventions to universities. A regulatory
+reinterpretation admitted pension money to venture capital. In each case the
+public paid first and the private title came after.
+
+**Elite network reproduction.** The people who end up holding the passage are
+disproportionately produced by the same institution, which is funded by the
+people who held it previously. This is the part that makes the arrangement
+durable across generations rather than merely profitable within one.
+
+Stated once, plainly: whoever controls the chokepoints writes the rules, and
+then builds an institution to make the rules look natural.
+
+Rail controlled movement. Stanford controls succession.
+
+## How to read what follows
+
+The book proceeds by asking four questions of every period. Who controls the
+inputs — land, capital, information, talent. Who captures the surplus. Who is
+excluded. And how the system reproduces itself.
+
+That is how an ecologist reads a food chain, and it is deliberate. The method
+does not require anyone in the story to be a villain, and it does not much care
+about intentions. It asks where the energy goes.
+
+Applying it produces two consequences the reader should expect. The famous
+people are frequently not the important ones — the man who found the gold died
+poor and the man who bought the shovels became a millionaire. And the excluded
+appear in every chapter rather than in one, because a system's costs are not an
+appendix to its operation; they are how it operates.
+
+## What would prove this wrong
+
+An argument that cannot be checked is an accusation, so here are three
+predictions, and if they fail the book is wrong.
+
+If the argument holds, California's great fortunes should cluster around control
+of bottlenecks rather than around invention. Public money or public authority
+should precede private capture rather than follow it. And the institutions that
+produce the elite should be endowed by the elite they produced.
+
+All three are checkable against the public record, and the penultimate chapter
+returns explicit verdicts on each, including where the evidence is weaker than
+the argument would like.
+
+## What this is not
+
+It is not a claim of conspiracy.
+
+Nobody sat in a room and decided any of this. There was no meeting. The
+mechanism reproduces itself because it is self-reinforcing: talent, capital, and
+legitimacy route through the same corridor because that is where the returns
+are, and the returns are there because that is where talent, capital, and
+legitimacy route.
+
+Gravity is not a conspiracy. That is a more unsettling argument than conspiracy
+and it is the true one, because a conspiracy has participants who can be
+prosecuted and documents that can be subpoenaed, and this has neither.
+
+Nor is any of it secret. Every document this book relies on is public. The
+railroad's land grants were printed in the statutes. The university's founding
+charter is on file. The defence contracts, the patent assignments, the campaign
+finance filings, the market shares, the antitrust findings: all disclosed, most
+of it online, much of it published by the institutions concerned.
+
+## The corridor
+
+One last thing to hold on to before the book begins three thousand years earlier
+than it needs to.
+
+Talent, capital, and legitimacy have routed through the same forty miles of the
+San Francisco Peninsula for a hundred and forty years, across four unrelated
+technologies. Rail. Electronics. Software. Now machine learning. The
+technologies have nothing in common. The corridor is the same corridor and the
+university at the centre of it is the same university.
+
+That is not soil, and it is not climate, and it is not a national character. It
+is a mechanism, and it has been operating in the open the whole time.
+
+By the end of this book you will be able to read a street sign as a document.

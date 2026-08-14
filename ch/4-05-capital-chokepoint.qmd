@@ -1,0 +1,278 @@
+# Venture Capital and the Capital Chokepoint {#sec-4-05}
+
+::: {.chapter-meta}
+Act IV — The Silicon Valley Machine · 1957–1980
+:::
+
+::: {.content-visible when-profile="draft"}
+
+::: {.callout-note collapse="true"}
+## Pre-Draft Brief
+
+**Core question.** How does access to money become a monopoly?
+
+**The answer.** By making a road the only door. Kleiner Perkins and Sequoia both
+open in 1972, both on Sand Hill Road, both minutes from Stanford. Venture
+capital is not principally investment; it is gatekeeping. To scale, a company
+must pass through a small physical corridor and a tight social network — which
+is precisely what the Southern Pacific required of freight a century earlier.
+
+**The mechanism.** Chokepoint control of the input that everything else depends
+on. Geography encodes it: money, talent, and legitimacy inside a two-mile
+radius. The chapter's job is to make the reader see Sand Hill Road as a toll
+gate.
+
+**The key fact.** Both Kleiner Perkins and Sequoia Capital were founded in 1972,
+and both located on Sand Hill Road. The capital corridor and the university sit
+within walking distance of one another, and the adjacency is not coincidental —
+it is the product.
+
+**The human anchor.** Sand Hill Road itself: an unremarkable suburban road with
+low buildings and a view of the foothills, through which a large share of the
+world's consequential technology funding has passed.
+
+**Excluded voices.** Everyone outside the network, and the chapter must be
+specific rather than gestural: who did not get funded, and the documented
+demographics of founders who did. Also the pension-fund beneficiaries whose
+capital this is, and who have no say in its deployment — the 1979 ERISA
+reinterpretation is what let it in.
+
+**Proof.** This chapter proves that access to capital became a chokepoint by
+showing funding concentrate in a small number of firms in a single physical
+corridor adjacent to one university.
+:::
+
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Sand Hill Road is an unremarkable suburban road in Menlo Park with low
+buildings, parking lots, oak trees, and a view of the foothills. A very large
+share of the world's consequential technology funding has passed through it, and
+the chapter begins by describing it as a place before saying what it is.
+
+What it is, is a toll gate. Kleiner Perkins and Sequoia Capital were both
+founded in 1972, both on that road, both minutes from Stanford, and their
+founders came out of the industry rather than out of finance. Venture capital is
+described as investment and functions as gatekeeping: a term sheet controls not
+only money but hiring, customers, the next round, and the exit. To scale, a
+company had to pass through a small physical corridor and a tight social
+network, which is precisely what the Southern Pacific required of freight a
+century earlier.
+
+The chapter explains why the form was necessary. A semiconductor startup in 1957
+had no collateral, no revenue, and enormous variance, which made it unfundable
+by a bank. Arthur Rock's equity model from chapter 3 solved that, and the 1972
+firms industrialised it.
+
+The public-money leg is the part the drafts omitted and the chapter restores. In
+1979 the Department of Labor clarified the prudent man rule under ERISA in a way
+that permitted pension funds to invest in venture capital, and the scale of
+available capital changed by an order of magnitude within a few years. The
+retirement savings of American workers became the raw material of the Valley's
+capital chokepoint, and those workers have no say in its deployment.
+
+Proximity matters because the asset being traded is judgement about people,
+which does not travel well. Geographic concentration is a feature of the
+mechanism, not an accident of it.
+
+The chapter closes on who is not funded, with sourced founder demographics
+rather than gestures. The tightest chokepoint in the system is now four minutes
+from the campus that supplies its deal flow.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A road. Describe Sand Hill Road as a place — low buildings, parking
+   lots, oaks — and then say what fraction of the industry passed through it.
+2. **Before venture capital.** How a company got funded in 1955, and why that
+   did not work for semiconductors: no collateral, no revenue, high variance.
+3. **Rock and the precedent.** Carry forward from ch. 3. The 1957 Fairchild
+   financing as the template.
+4. **1972.** Kleiner Perkins and Sequoia. Founders, and their prior careers —
+   note that both firms' founders came out of the industry rather than out of
+   finance.
+5. **The 1979 ERISA reinterpretation.** The prudent man rule clarified, pension
+   money permitted into venture funds, and the resulting scale change. This is
+   the public-money leg and it is usually omitted.
+6. **Gatekeeping as the actual function.** What a term sheet controls beyond
+   money: hiring, customers, the next round, the exit.
+7. **Geographic concentration as a feature.** Why proximity matters when the
+   asset is judgement about people.
+8. **The rail comparison, made explicit.** The Southern Pacific decided which
+   towns were viable. Sand Hill Road decides which companies are.
+9. **The excluded.** Founder demographics, sourced. Pension beneficiaries
+   without a vote.
+10. **Landing.** The capital chokepoint is now the tightest in the system, and
+   it is four minutes from the campus that supplies its deal flow.
+:::
+
+:::
+
+::: {.chapter-question}
+How does access to money become a monopoly?
+:::
+
+Sand Hill Road runs west from the freeway at Menlo Park, past the Stanford
+campus edge, and up into the foothills. It is a suburban road with low buildings
+set back among oak trees, generous parking, and views toward the coastal range.
+There is nothing to look at.
+
+A very large share of the world's consequential technology funding over the last
+fifty years has passed through those buildings, and the chapter's argument is
+that this is a toll gate rather than a business district.
+
+## Why a new form of capital was needed
+
+Consider financing a semiconductor company in 1957.
+
+It has no revenue. It has no collateral, because its assets are a lease, some
+equipment, and eight men. It has enormous variance: it will either be worth a
+great deal or nothing, with little in between. And nobody involved can say with
+confidence what it will be worth, because the market it is entering does not yet
+exist.
+
+A bank cannot lend against that. A bank lends against assets and cash flow, at
+interest, and requires the loan to be repaid whatever happens. Applied to a
+startup, that structure destroys the company in the bad case and gives the
+lender almost nothing in the good one.
+
+Arthur Rock's insight in the Fairchild financing was to take equity instead. If
+the enterprise fails, the money is gone. If it succeeds, the return is
+unbounded. That asymmetry makes it rational to fund a portfolio of ventures most
+of which will fail, and it is the entire mathematical basis of the industry that
+follows.
+
+Rock moved to San Francisco in 1961 and formed Davis and Rock, which funded
+Scientific Data Systems and, in 1968, Intel. He was also explicit about what he
+was actually assessing. He backed people rather than businesses, on the argument
+that the plan would change and the founders would not.
+
+## 1972
+
+Two firms were founded in 1972, both on Sand Hill Road.
+
+Kleiner Perkins was formed by Eugene Kleiner — one of the eight from chapter 2 —
+and Tom Perkins, who had run Hewlett-Packard's computer division. Sequoia
+Capital was founded by Don Valentine, who had been head of marketing at
+Fairchild and then at National Semiconductor.
+
+Note the provenance. These were not financiers who had moved into technology.
+They were operators from the semiconductor industry who had moved into finance,
+which meant they could evaluate technical claims and knew personally most of the
+people worth funding. The capital and the industry were the same social network,
+and they had been colleagues.
+
+The physical clustering followed immediately, and it followed for a reason that
+is not obvious until stated: the asset being traded is judgement about people,
+and judgement about people does not travel. A partner needs to sit in the room,
+know the founder's former manager, and hear what the market is saying this week.
+Proximity to the deal flow — which meant proximity to Stanford — was the whole
+business.
+
+Four minutes from the campus that supplies the founders. That is the geography
+of the chokepoint, and it has not moved.
+
+## The public money leg
+
+The industry's scale changed because of a regulatory clarification, and this is
+the part that almost every account leaves out.
+
+The Employee Retirement Income Security Act of 1974 imposed a prudent man
+standard on pension fund investment, and fund managers read it as prohibiting
+anything speculative. Venture capital, which was speculative by construction,
+was effectively closed off from the largest pool of investable capital in the
+country.
+
+In 1979 the Department of Labor issued a clarification. The prudent man
+standard, it said, applied to the portfolio as a whole rather than to each
+investment in isolation, which meant a pension fund could allocate a small
+percentage to high-variance assets without breaching its duty.
+
+The effect was immediate and enormous. Capital committed to venture funds rose
+by an order of magnitude over the following few years, and the dominant source
+of it became pension money — the retirement savings of American workers,
+institutional and public alike.
+
+So the capital chokepoint runs on public and quasi-public money in exactly the
+way the railroad did, and the beneficiaries of those pension funds have no say
+in how it is deployed and mostly do not know it is being deployed this way. Act
+III's triangle has acquired a fourth party.
+
+## Gatekeeping, not investing
+
+The chapter's central claim is that venture capital's function is selection
+rather than finance, and the term sheet is the evidence.
+
+Money is the smallest part of what a term sheet allocates. It sets the
+valuation, which determines what the founders keep. It assigns board seats,
+which determines who can remove them. It carries liquidation preferences, which
+determine who is paid first if the company sells. It includes protective
+provisions that give the investor a veto over the decisions that matter most:
+raising more money, selling the company, changing the business.
+
+Beyond the document, the firm supplies the things that actually determine the
+outcome. Introductions to customers. Recruitment of executives. Credibility with
+the next round of investors, which is nearly always the deciding factor.
+
+A company that cannot get through Sand Hill Road does not merely lack money. It
+lacks access to customers, executives, and subsequent capital, all of which are
+routed through the same small number of partnerships.
+
+The Southern Pacific decided which towns in the Central Valley would exist by
+deciding where the line ran. Sand Hill Road decides which companies exist by
+deciding which ones can scale. The mechanism is identical and the second version
+attracts no regulatory attention whatsoever, because nobody has ever thought of
+a venture fund as a common carrier.
+
+## The other side of the corridor
+
+Two further pieces completed the arrangement in the 1970s, and both are within a
+few miles of the road.
+
+The first is the law. A small number of Valley firms — Wilson Sonsini above all,
+founded in Palo Alto in 1961 — developed a practice of representing startups on
+terms adapted to companies with no money, sometimes taking equity in place of
+fees. They standardised the documents. The consequence is that the terms on
+which American technology companies are financed were substantially drafted by a
+handful of firms within a few miles of Stanford, and the resulting templates are
+now used everywhere.
+
+The second is the bank. Silicon Valley Bank, founded in 1983, built a business
+around lending to venture-backed companies and to the funds themselves, on
+underwriting logic that no conventional bank used: it assessed the quality of
+the investors behind a company rather than the company's own assets. That is a
+bank extending credit on the strength of a chokepoint's endorsement, and it
+worked for forty years before failing in 2023 for reasons that were about
+interest rates rather than about technology.
+
+Between the partnerships, the law firms, and the bank, a startup's entire
+institutional environment was contained within a few square miles and was
+constituted by people who knew each other. This is efficient, and the efficiency
+is the barrier: an outsider is not merely unfunded, but unrepresented, unbanked,
+and unintroduced.
+
+## Who does not get through
+
+The concentration is measurable and it is stark.
+
+Studies of venture funding over the past several decades have consistently found
+that the overwhelming majority of American venture capital goes to companies in
+three metropolitan areas, that the share going to companies founded solely by
+women has run in low single-digit percentages, and that the share going to Black
+founders has been lower still. The partnerships making the decisions have had a
+comparable composition.
+
+The industry's explanation is pattern matching: partners fund founders who
+resemble founders who have succeeded before, because base rates are the only
+information available at the seed stage. That explanation is honest and it
+describes a mechanism for reproducing an existing distribution indefinitely.
+
+It is also, precisely, the sorting argument from Act III chapter 3 with the
+biology removed and the vocabulary updated. A small group of credentialled
+experts assesses human quality, ranks it, and allocates resources on the
+ranking, and the ranking correlates with who was already advantaged.
+
+Rock said he backed people rather than businesses. He was describing the
+mechanism accurately. The question the chapter leaves is which people, and the
+answer has been consistent for fifty years.

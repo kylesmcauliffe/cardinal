@@ -1,0 +1,88 @@
+# Appendix A — The Grid {.unnumbered}
+
+A gazetteer of the addresses and street names that carry the argument of this
+book, with what happened at each and who it is named for.
+
+Chapter V.11 makes the case that the street grid of the San Francisco Peninsula
+is an accurate record of who controlled it and in what order. Chapter V.12 walks
+the route. This appendix is the reference table both draw on, arranged in the
+five layers that chapter V.11 identifies.
+
+::: {.callout-note}
+The author's street list has not yet been supplied. Every layer below is built to
+receive additional names, and the argument rests on the pattern rather than on
+any particular sign. Additions strengthen the appendix without altering the
+chapter.
+:::
+
+## Layer one — the mission road (1769–1834)
+
+| Name | What it is | Chapter |
+|---|---|---|
+| El Camino Real | The Spanish supply route linking the missions a day's travel apart. Still the Peninsula's main street, running through Millbrae, San Mateo, Redwood City, Menlo Park, Palo Alto, Mountain View, and Sunnyvale. | II.2 |
+| Junípero Serra Boulevard | Named for the Franciscan president of the mission system. Runs along the western edge of the Stanford campus. | II.1 |
+| 320 Dolores Street, San Francisco | Mission San Francisco de Asís, founded 1776. Oldest intact building in the city; survived 1906. | II.1 |
+| The Presidio, San Francisco | Spanish military anchor of the Bay, established 1776 within weeks of the mission. | II.2 |
+| San Mateo, San Carlos, San Bruno, Santa Clara, San José | Mission and saint names that became the towns. | II.1 |
+
+## Layer two — the ranchos (1834–1848)
+
+| Name | What it is | Chapter |
+|---|---|---|
+| Rancho San Francisquito | Mexican-era grant on the Peninsula; part of the land later assembled into the Stanford farm. | II.4 |
+| Rancho de las Pulgas | Grant covering much of what is now San Mateo County; survives in road and place names. | II.4 |
+| Rancho San Antonio, Corte Madera, and comparable names | Grant names persisting as neighbourhoods, roads, and open space preserves. | II.4 |
+| Colton Hall, 570 Pacific Street, Monterey | California's constitutional convention, September–October 1849. Upper room preserved. | II.7 |
+
+## Layer three — the railroad (1848–1905)
+
+| Name | What it is | Chapter |
+|---|---|---|
+| Sutter's Mill, Coloma | James Marshall finds gold, 24 January 1848. | II.6 |
+| Portsmouth Square, San Francisco | Centre of the Gold Rush city and of the Chinatown the exclusion campaigns targeted. | II.6, II.11 |
+| Grant Avenue (formerly Dupont Street) | Chinatown's principal street; home of the *Yick Wo* litigants. | II.11 |
+| Nob Hill, San Francisco | Big Four mansions; Crocker's spite fence. All but one destroyed in 1906. Now hotels, a club, and Grace Cathedral. | II.10, II.11 |
+| Promontory Summit, Utah | The golden spike, 10 May 1869. The one site in this book outside California. | II.9 |
+| Mussel Slough, Tulare County | Seven dead in a railroad land dispute, 1880. | II.10 |
+| Stanford, Crocker, Hopkins, Huntington | The Big Four, commemorated in a university, a hotel, a library and art museum, and a hill. | II.9, II.12 |
+| 2365 Kalākaua Avenue, Honolulu | The Moana Hotel. Jane Stanford's death, 28 February 1905. | II.13 |
+
+## Layer four — the institution (1885–1955)
+
+| Name | What it is | Chapter |
+|---|---|---|
+| The Stanford campus | Eight thousand acres of the Founding Grant, which forbade sale. | II.12 |
+| Hoover Tower | 285 feet, completed 1941, holds the archive begun in 1919. Tallest structure on campus. | III.5 |
+| Jordan Hall | Named for the first president; renamed in 2020 following a review of campus names. | II.12, III.3 |
+| Terman Engineering Center | Frederick Terman, dean and provost, architect of the research university. | III.10 |
+| 367 Addison Avenue, Palo Alto | The Hewlett-Packard garage, 1939. A California state landmark. | III.9 |
+| Moffett Field, Sunnyvale | Naval air station from the 1930s; became NASA Ames. | IV.4 |
+
+## Layer five — the corridor (1951– )
+
+| Name | What it is | Chapter |
+|---|---|---|
+| Page Mill Road, Palo Alto | Spine of the Stanford Research Park, opened 1951. A lumber road before it was an industrial one. | IV.1 |
+| Sand Hill Road, Menlo Park | The capital corridor. Kleiner Perkins and Sequoia, both founded 1972, four minutes from the campus. | IV.5 |
+| Coyote Hill Road, Palo Alto | Xerox PARC, established 1970. | IV.9 |
+| Mountain View | Shockley Semiconductor, 1956; Fairchild, 1957. | IV.2, IV.3 |
+| Sunnyvale | Lockheed Missiles and Space, 1956. The county's largest employer for two decades. | IV.4 |
+| Menlo Park | SRI, 1946. Second ARPANET node, 1969. | IV.4 |
+| Knight Management Center, Stanford | Dedicated 2011, funded by the author of a 1962 class paper about Japanese shoes. | IV.6 |
+| Donor-named buildings, institutes, and professorships | The current layer, allocated at published tariffs. | V.5, V.11 |
+
+## The absences
+
+Chapter V.11's sharpest section is the negative one. Set against the ledger in
+chapter V.9, the record is as follows.
+
+| Who | What is named for them on the Peninsula |
+|---|---|
+| The Muwekma Ohlone, whose territory the campus occupies | Very little; what exists is recent and small |
+| The Chinese workforce of the Central Pacific | No major thoroughfare and no campus building. Commemorations are recent, modest, and largely the work of descendant organisations |
+| The people sterilised under the 1909 law | Nothing |
+| Farm workers | Cesar Chavez has streets and schools across California — a genuine and substantial exception, overwhelmingly in the Central Valley and in urban Latino neighbourhoods rather than here |
+| Contract and platform workers | Nothing, and it is too early to expect anything |
+
+What a place commemorates is what it has decided to remember. The list is the
+argument.

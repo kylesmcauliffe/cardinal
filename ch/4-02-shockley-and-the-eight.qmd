@@ -1,0 +1,269 @@
+# Shockley, the Eight, and the Spinoff {#sec-4-02}
+
+::: {.chapter-meta}
+Act IV — The Silicon Valley Machine · 1956–1960
+:::
+
+::: {.content-visible when-profile="draft"}
+
+::: {.callout-note collapse="true"}
+## Pre-Draft Brief
+
+**Core question.** What happens when a genius cannot manage people?
+
+**The answer.** His company fails and his industry is born. Shockley brought the
+best semiconductor minds in the world to Mountain View in 1956 and drove eight
+of them out within eighteen months, and those eight founded Fairchild. The
+Valley's reproductive mechanism is not invention. It is the spinoff — talent
+exiting bad leadership, taking the knowledge, and starting again nearby.
+
+**The mechanism.** Elite network reproduction, running at industrial speed. The
+chapter's insight is that the departure is the mechanism, not a failure of it:
+California's weak enforcement of non-competes and its dense geography make exit
+cheap, and cheap exit is what compounds.
+
+**The key fact.** Shockley located in Mountain View because his mother lived
+there. The world's semiconductor industry sits on the San Francisco Peninsula in
+part because a Nobel laureate wanted to be near his mother.
+
+**The human anchor.** Shockley: co-inventor of the transistor, Nobel laureate,
+catastrophic manager, and later a public advocate of eugenic argument — which
+places him directly in the line that runs from Jordan in Act III ch. 3.
+
+**Excluded voices.** Nobody, at this stage, and the chapter should say so
+plainly. The semiconductor workforce is small, credentialed, and male. The
+excluded arrive in the next decade, on the assembly lines and in the fabrication
+plants, and the chapter should name that this is the calm before that.
+
+**Proof.** This chapter proves that the spinoff, not the invention, is the
+Valley's reproductive mechanism by showing the industry's founding firms all
+descend from one company's management failure.
+:::
+
+::: {.callout-tip collapse="true"}
+## Working summary
+
+William Shockley moved to Mountain View in 1956 because his mother lived there.
+The world's semiconductor industry is located on the San Francisco Peninsula in
+substantial part because a Nobel laureate wanted to be near his mother, and the
+chapter opens on that contingency and lets it sit.
+
+He had the standing to do it. He had co-invented the transistor, he had just won
+the Nobel Prize, and the best young semiconductor physicists and engineers in
+the country would move across the continent to work with him. He recruited an
+extraordinary group.
+
+He was also a catastrophic manager — paranoid, publicly ranking his staff,
+publishing salaries, and at one point requiring lie detector tests over a
+trivial workplace injury. Eight of his best engineers left in 1957, approached
+Hayden, Stone, and were introduced to Arthur Rock, who found them a corporate
+parent in Fairchild Camera and Instrument. Shockley called them traitors and the
+name stuck.
+
+The chapter's argument is that the departure is the mechanism rather than a
+failure of it. The Valley reproduces by spinoff: talent exits bad leadership,
+carries the knowledge out in its heads, and starts again a few miles away. What
+makes that possible in California specifically is that non-compete agreements
+are largely unenforceable there, that the geography is dense enough for a new
+firm to recruit from an old one without anyone relocating, and that a form of
+capital had just appeared which would fund people rather than assets.
+
+There is almost nobody excluded at this stage, and the chapter says so plainly.
+The semiconductor workforce in 1957 is small, credentialed, and male. The cost
+arrives in the next decade, on the fabrication lines and in offshore assembly
+plants, and the chapter names where it is coming.
+
+Shockley's later career as a public advocate of eugenic argument places him
+directly in the line running from David Starr Jordan in Act III — the same
+claim, the same campus, a different discipline, fifty years apart.
+
+Eight men walking out of a building is the founding event of the industry.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** He moved there because of his mother. Open on the contingency and
+   let it sit.
+2. **Shockley's standing in 1956.** The Nobel, the transistor, and why the best
+   people in the field would move across the country for him.
+3. **The recruitment.** Who he hired and from where. The concentration of talent
+   is genuinely extraordinary and should be felt.
+4. **The management collapse.** Paranoia, lie detector tests, published
+   salaries, ranked lists. Specifics, sourced.
+5. **The eight leave, 1957.** Named. The approach to Arthur Rock and Hayden,
+   Stone; the search for a corporate parent; Fairchild Camera and Instrument.
+6. **Why California made this possible.** Non-compete enforceability, geographic
+   density, and the availability of capital that had not existed five years
+   earlier.
+7. **Shockley's later trajectory.** The eugenic advocacy. Connect explicitly to
+   Jordan and Act III ch. 3 — the same argument, the same campus, a different
+   discipline.
+8. **The excluded, named as absent.** A small credentialed male workforce. Say
+   that the cost arrives later and where.
+9. **Landing.** Eight men leaving a building is the founding event of the
+   industry. The spinoff is the mechanism, and Fairchild is about to demonstrate
+   it at scale.
+:::
+
+:::
+
+::: {.chapter-question}
+What happens when a genius cannot manage people?
+:::
+
+William Shockley located his semiconductor laboratory in Mountain View because
+his mother lived there.
+
+That is the reason. He had grown up in Palo Alto, his widowed mother was still
+there, and when he decided in 1955 to leave Bell Laboratories and start a
+company to commercialise the transistor, he put it in the town he came from.
+Beckman Instruments financed it. Shockley Semiconductor Laboratory opened in
+1956.
+
+The world's semiconductor industry sits on the San Francisco Peninsula in
+substantial part because of that decision, and it is worth letting the
+contingency sit before explaining what made it stick.
+
+## Why anyone came
+
+Shockley in 1956 had standing that is hard to overstate.
+
+He had co-invented the transistor at Bell Labs with John Bardeen and Walter
+Brattain, and the three of them shared the Nobel Prize in Physics that year.
+More to the point, his book *Electrons and Holes in Semiconductors* was the
+field's standard text, and the junction transistor design that made commercial
+devices practical was substantially his.
+
+He was, in short, the most famous person in the most promising field in
+electronics, and he was recruiting. He went after the best young physicists and
+engineers he could identify, and he got them: people who had no particular
+reason to move to a California town with no semiconductor industry, and who
+moved because he asked.
+
+The concentration of talent he assembled in one building in 1956 was
+extraordinary, and there was nothing like it west of New Jersey.
+
+## The management
+
+He was also, by every surviving account, a catastrophic manager.
+
+He posted salaries. He ranked his staff publicly. He required a lie detector
+test after a minor workplace injury, on the theory that someone had sabotaged
+the equipment. He recorded conversations. He telephoned people's former
+colleagues to check their accounts of ordinary technical disagreements. He
+changed the company's technical direction away from silicon transistors toward a
+four-layer diode of his own design, over the objections of staff who thought the
+transistor was where the market was, and they were right.
+
+By the summer of 1957 a group of them had decided to leave.
+
+## The eight
+
+Eight men resigned in September 1957: Julius Blank, Victor Grinich, Jean Hoerni,
+Eugene Kleiner, Jay Last, Gordon Moore, Robert Noyce, and Sheldon Roberts.
+Shockley called them traitors, and the name stuck as the Traitorous Eight, which
+is the sort of label a group only accepts if it rather likes it.
+
+The mechanics of their departure are the important part, because they establish
+a template.
+
+They did not intend to found a company. They intended to move together to an
+existing employer, and Eugene Kleiner's father's contact at the New York
+investment bank Hayden, Stone was asked to help find one. The letter reached
+Arthur Rock, a young banker there, who came out to California, met them, and
+concluded that they should start a company rather than join one.
+
+Rock then approached a long list of established firms — the number usually given
+is around thirty — asking whether any would back a new semiconductor venture run
+by eight men who had never managed anything. Almost all declined. Sherman
+Fairchild's Fairchild Camera and Instrument agreed, with an option to buy the
+whole company for a fixed sum if it succeeded.
+
+Fairchild Semiconductor was incorporated in October 1957 in Mountain View.
+
+## Why California made it possible
+
+The chapter's structural argument is that the departure is the mechanism, not a
+failure of it, and three features of the place made it repeatable.
+
+The first is legal. California does not enforce non-compete agreements in
+employment contracts, a position that goes back to the state's original civil
+code in 1872 and has held ever since. An engineer in Massachusetts who left a
+firm to found a competitor could expect litigation. An engineer in California
+could not. Route 128 around Boston had comparable talent, comparable
+universities, and comparable federal money in 1957, and it did not produce the
+same fan-out — and the enforceability of non-competes is among the more
+persuasive explanations for the difference.
+
+The second is geographic. The Peninsula is dense. A new firm could recruit from
+an old one without anyone changing schools or selling a house, which lowers the
+personal cost of leaving to almost nothing.
+
+The third is financial, and it barely existed yet. Rock's involvement in the
+Fairchild financing is the beginning of a form of capital designed to fund
+exactly this kind of departure, and chapter 5 is about what happened when it
+industrialised.
+
+## Nobody excluded, yet
+
+The chapter should say plainly that at this stage there is almost no excluded
+class, because saying so makes the later chapters land harder.
+
+The semiconductor workforce in 1957 is small, credentialled, overwhelmingly
+male, and very well paid. The eight men who left Shockley were physicists and
+engineers with doctorates and options. Nothing about their situation involves
+anyone bearing a cost on their behalf.
+
+That changes within six years, when Fairchild opens an assembly operation in
+Hong Kong, and it changes on the domestic fabrication lines at the same time,
+where the workforce was substantially women doing precise repetitive work with
+solvents and acids. The next chapter is where the ledger opens.
+
+## Silicon
+
+One technical decision from this period deserves recording, because the region
+is named after it.
+
+Transistors in the early 1950s were made from germanium, which is easier to work
+and performs well at low temperatures. Shockley's laboratory was set up to make
+silicon devices, and silicon is harder: it melts at a much higher temperature,
+it is more difficult to purify, and the fabrication problems were unsolved.
+
+Silicon's advantages are that it tolerates heat, which matters for military and
+industrial applications, that it is abundant, and — decisively, though this was
+not fully appreciated in 1956 — that its oxide is a stable insulator that can be
+grown directly on the surface of the wafer. That property is what makes the
+planar process of the next chapter possible, and it has no equivalent in
+germanium.
+
+Shockley chose the harder material and was right about it, which is worth saying
+in a chapter otherwise concerned with his failures. His company did not
+commercialise the advantage. The men who left did, and the material they were
+working with gave the region a name that a trade journalist put into print in
+1971.
+
+## Shockley afterwards
+
+His company never recovered from the 1957 departures and was sold, resold, and
+eventually closed.
+
+He became a professor of engineering at Stanford in 1963. From the mid-1960s he
+devoted his public life to arguing that intelligence was substantially
+hereditary, that it varied by race, and that the resulting differential
+reproduction constituted a national crisis — a position he advanced in lectures,
+in interviews, and in proposals for voluntary sterilisation incentives. He was
+protested and disinvited and kept going, and he regarded this work as more
+important than the transistor.
+
+Place him next to David Starr Jordan from Act III chapter 3 and Lewis Terman
+from chapter 6, and the line is unbroken: three Stanford figures, across seventy
+years, in three different disciplines, arriving at the same claim that human
+quality is heritable and should govern policy.
+
+The transistor and the sorting argument came out of the same building on the
+same campus. The industry has kept one and forgotten the other, which is itself
+worth noticing.
+
+Eight men walked out of Shockley's building in 1957. What they built is the
+subject of the next chapter, and what it fragmented into is the industry.

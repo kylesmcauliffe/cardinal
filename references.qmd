@@ -1,4 +1,68 @@
-# References {.unnumbered}
+# Sources {.unnumbered}
+
+Every specific claim in this book — every date, dollar figure, name, address, and
+quotation — is traceable to a source.
+
+## How sourcing works in this book
+
+Citations do not appear in the prose. This is a deliberate choice and it carries
+an obligation, which is that the apparatus supporting the prose has to be real
+and has to be inspectable.
+
+It lives in three places.
+
+The **bibliography** below lists the principal works the narrative was drafted
+against, organised by act.
+
+The **research log**, at `_project/research-log.md` in the manuscript
+repository, records individual claims with their sources and a verification
+status. It is the working document and it is where a fact-checker should start.
+
+The **event ledger**, at Appendix B, gives the dated chronology with a status
+against each entry.
+
+## Standards
+
+**Wikipedia appears nowhere in these sources.** It was used to navigate toward
+primary and scholarly material, which is what is cited. That is a rule the
+project set for itself at the outset and it has been kept.
+
+**Contested claims are marked as contested.** Where historians genuinely
+disagree, the text states the strongest version of each position, names the
+uncertainty, and says which reading this book finds more persuasive and why. No
+chapter's argument rests on a contested fact. The clearest instances are Jane
+Stanford's death in Act II chapter 13, the doctrinal weight of the *Santa Clara*
+headnote in Act II chapter 10, and the gesture at Capital One Arena in Act V
+chapter 7.
+
+**Figures carry dates and definitions.** Market shares, user numbers, and market
+capitalisations move, and several of them depend entirely on how the category is
+drawn. Where the book gives such a figure it states the date and the definition
+in the text. Where a widely repeated figure turns out to originate in an estimate
+rather than a disclosure — the frequently cited ChatGPT adoption number is the
+clearest case — the text says so.
+
+**Interested sources are labelled.** Several of the most detailed accounts of
+events in this book were written by participants or by the institutions
+involved: SRI's own history of the 1969 protests, Nike's corporate account of its
+founding, a Stanford provost's memoir of the campus unrest, and Phil Knight's
+memoir. These are cited as the positions of the parties that produced them, not
+as the record.
+
+## What is outstanding
+
+This is a first complete draft and the apparatus is not finished.
+
+Seven entries in the event ledger are marked `NEEDS SOURCE`, and the research log
+carries a longer verification queue, weighted toward Act V where the inherited
+drafts were richest in narrative and weakest in citation. Several claims carried
+over from those drafts did not survive checking and were removed; the reasoning
+is recorded at `_project/cut-material.md`.
+
+The source tags `[S1]`–`[S87]` that accompanied the inherited event ledger
+referred to a key that was not preserved. Rather than leave them as decoration or
+invent a replacement, they have been removed and the ledger rebuilt with
+verification statuses.
 
 ::: {#refs}
 :::

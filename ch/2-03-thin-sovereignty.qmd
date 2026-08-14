@@ -1,0 +1,255 @@
+# Mexican California and Thin Sovereignty {#sec-2-03}
+
+::: {.chapter-meta}
+Act II — Land, Monopoly, and Institution · 1821–1834
+:::
+
+::: {.content-visible when-profile="draft"}
+
+::: {.callout-note collapse="true"}
+## Pre-Draft Brief
+
+**Core question.** What happens when institutions inherit territory without
+capacity?
+
+**The answer.** Authority devolves to whoever is physically present and
+organised. Mexico inherited Alta California in 1821 without inheriting any means
+of governing it, and the vacuum was filled by land grants and local strongmen.
+California became a place where showing up with organisation was sufficient —
+which is the founding condition of every fortune in this book.
+
+**The mechanism.** Elite network reproduction under weak enforcement. Land
+grants create a class whose title depends on a government too distant to enforce
+or revoke it, and that class governs in the state's absence. The pattern recurs
+exactly in the Committees of Vigilance and again in the platform era.
+
+**The key fact.** Mexican independence transferred the territory and not the
+capacity. The distance from Mexico City to Monterey defeated administration more
+reliably than any opposition did.
+
+**The human anchor.** A rancho grant: a hand-drawn map, boundaries described by
+landmarks, and a signature from a governor whose authority to give it away is
+itself uncertain.
+
+**Excluded voices.** Indigenous Californians, whose status changed on paper with
+independence and not at all in practice, and who were now subject to landholders
+rather than to an order. Also the mission communities about to be dispossessed a
+second time.
+
+**Proof.** This chapter proves that where enforcement is absent, private
+organisation becomes government by showing Mexican California governed by grant-
+holders rather than by administrators.
+:::
+
+::: {.callout-tip collapse="true"}
+## Working summary
+
+A Mexican land grant map describes a boundary as a creek and an oak tree, and
+carries the signature of a governor whose authority to give the land away is
+itself uncertain. Property as an assertion nobody is in a position to check is
+the condition of California in the 1820s, and it is the founding condition of
+every fortune in this book.
+
+Mexican independence in 1821 transferred Alta California without transferring
+any capacity to govern it. Monterey became the capital of a territory the
+capital could not reach. The distance that had defeated Spanish administration
+defeated Mexican administration more thoroughly, because the new republic had
+less to spend and more urgent problems closer to home.
+
+Authority therefore devolved to whoever was physically present and organised.
+Land grants replaced institutional discipline as the instrument of governance,
+and the grantees became the government — local strongmen adjudicating disputes,
+commanding what force existed, and holding title from an authority too distant
+to enforce or revoke it. California became a place where showing up with
+organisation was sufficient.
+
+The chapter also introduces the foreigners: hide-and-tallow traders, mostly
+American and British, operating inside Mexican law, marrying into grantee
+families, and accumulating the local knowledge and the local relationships that
+will matter enormously in 1846. They are not yet conquerors. They are merchants,
+and they are learning the terrain.
+
+For Indigenous Californians, independence changed the paperwork and nothing
+else. Their status was revised in law and unrevised in practice, and they were
+now subject to landholders rather than to an order — which, as the next chapter
+shows, was about to get worse.
+
+By 1834 the territory is organised around private title under weak enforcement,
+held by a small class with local power and distant legitimacy. That is precisely
+the arrangement that secularisation is about to exploit, and the largest
+transfer of land in California's history is about to run through it.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A grant map with a boundary described as a creek and an oak tree.
+   Property as an assertion nobody is in a position to check.
+2. **1821.** Independence, and the transfer of a territory nobody in Mexico City
+   has capacity to run.
+3. **Monterey as capital.** What a capital is when it cannot reach its own
+   hinterland.
+4. **The grant system.** How land was distributed, on what terms, to whom.
+   Concrete: acreages, procedure, and the vagueness of boundaries.
+5. **The frontier oligarchy.** Local strongmen as the actual government. Naming,
+   and specific examples.
+6. **Foreigners arriving.** Traders and hide-and-tallow merchants; the
+   beginnings of an American commercial presence, on Mexican legal terms.
+7. **The excluded.** Indigenous status in law versus in practice.
+8. **Landing.** The territory is now organised around private title under weak
+   enforcement. That is the exact condition secularisation is about to exploit.
+:::
+
+:::
+
+::: {.chapter-question}
+What happens when institutions inherit territory without capacity?
+:::
+
+A Mexican-era California land grant describes its boundaries by reference to a
+creek, a stand of oaks, a hill, and the corner of somebody else's property. The
+accompanying map — the *diseño* — is frequently a freehand sketch. It carries
+the signature of a governor whose own authority is contested, in a territory his
+government cannot reach.
+
+That document is worth several hundred thousand dollars in gold within thirty
+years, and the courts of another country will spend decades deciding what it
+means. Property as an assertion nobody is in a position to verify is the
+condition of California in the 1820s, and it is the founding condition of every
+fortune in this book.
+
+## Inheriting a territory without the means to hold it
+
+Mexico became independent in 1821 and acquired Alta California along with
+everything else, which meant it acquired the same distances that had defeated
+Spanish administration with substantially fewer resources to apply to them.
+
+The new republic was fighting for its existence through most of the following
+three decades: coups, constitutional crises, foreign interventions, the loss of
+Texas, and finally the war with the United States. Alta California was the
+furthest, poorest, and least populated of its territories, and it received the
+attention that ranking implies. Governors were appointed in Mexico City and
+frequently resisted on arrival. On several occasions Californios expelled them.
+In 1836 a local revolt produced a governor who governed with local consent and
+minimal reference to the capital.
+
+The formal picture is a territory of the Mexican republic. The practical picture
+is a few thousand non-Indigenous people, some hundreds of miles apart, governing
+themselves through family alliance and local force, with a capital at Monterey
+whose writ extended about as far as its ability to send someone.
+
+## What replaced administration
+
+Land grants did. Where Spain had issued a few dozen over five decades, Mexican
+governors issued hundreds, and the practice accelerated through the 1830s and
+1840s.
+
+A grant was not primarily a real-estate transaction. It was an instrument of
+governance in a place with no other instruments. Granting land to a man created
+an interest — he now had something to defend, and defending it meant maintaining
+order in his district, keeping a body of retainers, and cooperating with the
+governor who had made the grant and might make another. In the absence of a
+salaried bureaucracy or a standing army, this was the available method of
+producing loyal local authority, and it is roughly what medieval European
+monarchs had done for the same reason, as Act I chapter 5 described.
+
+The men who received these grants became the Californio elite: a small number of
+families holding very large properties, intermarried, running cattle for the
+hide and tallow trade, and exercising the practical functions of government in
+their districts. Fifty thousand acres was not an unusual holding. Some were much
+larger.
+
+This is the frontier oligarchy, and the phrase should be understood as a
+description rather than an accusation. Nothing else was on offer. A government
+that cannot enforce will be replaced by whoever can, and the people who can are
+the people with land, cattle, and armed retainers.
+
+## The merchants
+
+The other significant development of the period is the arrival of foreigners,
+and they arrived as businessmen rather than as conquerors.
+
+The hide and tallow trade drew New England and British ships to the California
+coast from the 1820s. Cattle hides — "California banknotes," in the traders'
+phrase — were the territory's only substantial export, and the trade required
+agents resident on shore to accumulate cargo between voyages. Those agents
+stayed. They learned Spanish, converted to Catholicism, became Mexican citizens,
+married into Californio families, and received land grants of their own.
+
+Richard Henry Dana, who sailed the coast as a common sailor in 1834 and
+published his account six years later, described the arrangement with the
+specificity of someone who had loaded the cargo himself. His book was widely
+read in the United States, which meant that by the 1840s Americans had a
+reasonably accurate picture of California as a place with an excellent harbour,
+negligible defences, and a government unable to control it.
+
+The merchants are not villains in this chapter, and several of them were loyal
+Mexican citizens who behaved decently in 1846. But they constituted, by the
+mid-1840s, a resident foreign commercial class with local knowledge, local
+marriages, local property, and connections to a rapidly expanding country three
+thousand miles away that had already annexed Texas.
+
+## Sutter
+
+One arrival deserves his own section, because he built the closest thing Mexican
+California had to a private state and because the gold will be found on his
+property.
+
+John Sutter was a Swiss émigré who reached California in 1839 having left debts
+behind him in several countries. He obtained Mexican citizenship, and with it a
+grant of some fifty thousand acres at the confluence of the Sacramento and
+American rivers — well inland, away from the coastal ranchos, in territory the
+Mexican government did not control in any sense.
+
+What he built there he called New Helvetia. It had an adobe fort with walls and
+cannon, workshops, a tannery, a distillery, agriculture, and a workforce drawn
+from local Indigenous communities under arrangements that contemporaries
+described in terms ranging from paternalist employment to something much closer
+to bondage. He issued his own scrip. He maintained an armed force. He conducted
+what amounted to a foreign policy, corresponding with Mexican officials,
+American officials, and the Russians at Fort Ross, from whom he bought the
+assets of the abandoned colony in 1841.
+
+Sutter's Fort was the destination for American overland migrants coming down
+from the Sierra, and by the mid-1840s that traffic was substantial and growing.
+He sheltered them, employed them, and outfitted them, which made him
+simultaneously a Mexican official and the principal facilitator of the American
+settlement that would end Mexican California.
+
+The instructive thing about Sutter is not his ambition but what his position
+reveals. A single foreigner with a land grant, a fort, and a private workforce
+was one of the significant powers in a Mexican territory, and the government
+that had granted him the land had no means of restraining him. That is what thin
+sovereignty means in practice.
+
+He will be ruined within three years of the gold discovery, overrun by squatters
+on land he could not defend and could not get the courts to protect. The man who
+built the largest private establishment in Mexican California ended it as a
+claimant, petitioning legislatures for relief.
+
+## Who the arrangement failed
+
+For Indigenous Californians, independence altered the paperwork and very little
+else.
+
+Mexican law after 1821 extended citizenship in principle, and the mission system
+was formally understood as a temporary arrangement that would end with the
+neophytes receiving the land. In practice the missions continued to operate as
+labour systems for another decade, and when they were dismantled the labour
+force was transferred rather than freed, as the next chapter describes. Outside
+the mission districts, Indigenous communities that had maintained autonomy came
+under increasing pressure from expanding ranchos.
+
+The legal category changed. The obligation to work somebody else's land did not.
+
+## What is now in place
+
+By 1834 California has a landholding class with very large properties, local
+power, and titles issued by a distant government that can neither survey them
+nor revoke them. It has a resident foreign merchant class with capital and
+connections. It has an Indigenous population still supplying most of the labour
+and holding none of the title. And it has an administrative apparatus so thin
+that the principal instrument of government is the gift of land.
+
+That is a stacked deck waiting for a dealer, and the largest transfer of
+property in California's history is about to run straight through it.

@@ -1,0 +1,256 @@
+# Rome: How a City Becomes a System {#sec-1-03}
+
+::: {.chapter-meta}
+Act I — The World Before California · 509 BCE–476 CE
+:::
+
+::: {.content-visible when-profile="draft"}
+
+::: {.callout-note collapse="true"}
+## Pre-Draft Brief
+
+**Core question.** How does a republic turn empire without admitting it?
+
+**The answer.** By keeping every word and changing every meaning. Augustus did
+not abolish the Republic; he preserved its offices, its titles, and its
+vocabulary while relocating its power, and he called himself first citizen
+rather than king. The form is the alibi. This is the manoeuvre the book will
+watch a university, a research institute, and a platform each perform in turn.
+
+**The mechanism.** Chokepoint control through legibility, plus the book's first
+full example of monopoly power dressed in neutral institutional clothing. Roads,
+law, graded citizenship, and census records convert territory into something
+administrable — and whoever administers it sets the terms.
+
+**The key fact.** Augustus held no office that had not existed under the
+Republic. The constitutional revolution left the constitution in place, which is
+precisely why it worked.
+
+**The human anchor.** Augustus, refusing the crown in public and accepting the
+substance in private. And a milestone on a Roman road, which is the same
+argument in stone.
+
+**Excluded voices.** Roman citizenship was graded, and the grading was the
+point. The enslaved population that made the villa economy work, the provincials
+taxed to fund the roads they were not free to travel as equals, and the peoples
+whose destruction the roads were built to enable.
+
+**Proof.** This chapter proves that durable power prefers to colonise
+institutions rather than replace them by showing that Rome's transition from
+republic to empire required no change to the republic's formal structure.
+:::
+
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Augustus held no office that had not existed under the Republic. That is the
+most important fact about the Roman revolution: it left the constitution in
+place. The offices were preserved, the titles retained, the vocabulary kept
+intact, and the man who held all of it called himself *princeps* — first citizen
+— rather than king. The form was the alibi, and it worked so well that Romans
+argued for centuries about whether the Republic had ended.
+
+Before that, the chapter establishes what Rome was actually good at, which was
+not conquest. Plenty of states conquered. Rome made territory legible. Roads
+that ran straight and were measured. Law that was written down and applied at
+distance. Citizenship graded into tiers, so that inclusion became an instrument
+of control rather than a gift. A census that counted people and property on a
+schedule. These are administrative technologies, and together they convert land
+into something that can be taxed, moved through, and governed by someone who has
+never seen it.
+
+Whoever administers that system sets its terms. The roads carried movement,
+information, and tax collection along the same route, and the state that
+maintained them priced access to them. A Roman milestone carries three pieces of
+information — the distance, the direction, and the name of the emperor who paid
+— and the third is the reason for the first two.
+
+The chapter is direct about the cost. Citizenship was graded because grading was
+useful. The villa economy ran on enslaved labour. Provinces were taxed to build
+roads they were not free to travel as equals, and many of those roads were built
+to reach peoples the roads then helped destroy.
+
+Rome's most durable export was not an empire but a manoeuvre: replace the logic,
+keep the language. The reader should remember it, because Stanford will perform
+it with academic freedom and a platform will perform it with terms of service.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A milestone. Distance, direction, and the name of the emperor who
+   paid for it: three pieces of information, and the third is the reason for the
+   other two.
+2. **Legibility as the Roman innovation.** Roads, law, census, graded
+   citizenship. Not conquest — administration. Rome's genius is the filing
+   system.
+3. **Citizenship as a graded instrument.** Extension as a tool of control rather
+   than generosity. Compare, forward and briefly, to the credential.
+4. **The Republic's real crisis.** Land, debt, and armies loyal to commanders
+   rather than the state. Keep this tight; it is background, not subject.
+5. **Augustus.** The offices retained, the titles preserved, the vocabulary
+   kept. *Princeps*, not *rex*. What he actually controlled: the army, the
+   treasury, and the calendar of honours.
+6. **Why the costume matters.** Power that looks like continuity does not have
+   to be defended. Name this as a mechanism and promise to show it again.
+7. **The roads as chokepoint.** Movement, information, and tax all travel the
+   same infrastructure. Whoever maintains it prices it.
+8. **The excluded.** Slavery in the villa economy; provincial taxation; the
+   peoples the roads were built to reach.
+9. **The long decline, briefly.** Do not narrate the fall. Note only what
+   happened to the institution's assets and records, because that hands off to
+   ch. 4.
+10. **Landing.** Rome's most durable export was not an empire but a template:
+   replace the logic, keep the language. Stanford will do this with academic
+   freedom.
+:::
+
+:::
+
+::: {.chapter-question}
+How does a republic turn empire without admitting it?
+:::
+
+Augustus never held an office that had not existed under the Republic.
+
+This is the single most important fact about the transformation of Rome from a
+republic into an empire, and it is the reason Romans argued for the next three
+centuries about whether the transformation had happened. The Senate continued to
+meet. Consuls were still elected, and the years were still named after them.
+Tribunes still held their veto. The magistracies, the priesthoods, the ancient
+formulae — all of it stayed in place, and the man who controlled the whole
+apparatus declined the title of king with such consistency that declining it
+became part of his authority. He called himself *princeps*, first citizen. He
+described the settlement of 27 BCE as the restoration of the Republic, and he
+was not obviously lying, because on paper it was.
+
+The form was the alibi. Power that looks like continuity does not have to be
+defended, because there is nothing visible to attack. This manoeuvre — replace
+the logic, keep the language — is Rome's most durable export, and this book will
+watch a university perform it with academic freedom and a set of platform
+companies perform it with the vocabulary of neutrality.
+
+## Legibility
+
+Before the manoeuvre, though, the machinery, because Rome's real innovation was
+not conquest and the distinction matters.
+
+Plenty of states conquered. Assyria conquered. Macedon conquered, brilliantly
+and briefly. What Rome did that its rivals did not was make territory legible —
+convert land and people into something that could be counted, taxed, moved
+through, and governed by an official who had never seen it.
+
+The instruments were unglamorous and they were the empire.
+
+Roads, first: surveyed, measured, built to a standard, and maintained. A Roman
+road is not primarily a trade route, though trade used it. It is an instrument
+of administration, which is why the roads run straight through terrain a
+merchant would have gone around. Legions moved on them. So did tax revenue,
+official correspondence, and the imperial post. Every milestone recorded the
+distance, the direction, and the name of the emperor who had paid for the work —
+three pieces of information, of which the third is the reason for the first two.
+
+Law, second: written down, published, applied at distance, and increasingly
+professional. A dispute in a province could be resolved by reference to a text
+rather than to the temperament of whoever held the local garrison. This is what
+makes property transferable and contracts enforceable across a territory too
+large for anyone to supervise personally.
+
+Citizenship, third, and this is the subtle one. Roman citizenship was graded.
+There were full citizens, Latin-right communities with partial privileges,
+provincials, freedmen with restrictions, and enslaved people with none. Status
+could be granted, inherited, purchased, or earned through military service, and
+the grading was the point: a hierarchy with rungs is a hierarchy people climb
+rather than overthrow. Extending citizenship was not generosity. It was the
+cheapest available method of converting a subject population into a stakeholding
+one, and Rome used it for four centuries before finally extending it to nearly
+everyone in 212 CE, at which point it was worth considerably less.
+
+And the census, fourth: a periodic count of people and property, on a schedule,
+for the purpose of assessment. It is the oldest instrument in this book that is
+still in continuous use.
+
+Together these convert a landscape into a system. And whoever administers the
+system sets its terms — because the roads that carry the legion also carry the
+tax collector, and the law that makes your contract enforceable is written
+somewhere else by someone you will never meet.
+
+## How the Republic actually failed
+
+The standard account of the Republic's fall is a morality tale about ambition,
+and it is not wrong so much as beside the point.
+
+The structural problem was that Rome's military success had broken its own
+social arrangements. Long campaigns far from Italy meant that soldiers served
+for years, which meant that smallholders lost their farms, which meant that land
+concentrated into large estates worked by enslaved people captured in the same
+wars. The dispossessed went to the city. The armies, recruited increasingly from
+men with no property to return to, became loyal to the commanders who could
+promise them land at the end of their service rather than to the state that had
+sent them.
+
+Once a general's veterans depend on him personally for their retirement, the
+Republic has a private-army problem that no constitutional reform can solve,
+because the constitution is not what is generating the loyalty. Every crisis of
+the first century BCE — Marius, Sulla, Pompey, Caesar — runs through this
+mechanism.
+
+Caesar's assassination in 44 BCE was intended to restore the Republic and
+demonstrated that the Republic was no longer restorable. His heir spent thirteen
+years winning the resulting wars.
+
+## The settlement
+
+What Octavian then did, having won, was refuse to look like a winner.
+
+He returned his extraordinary powers to the Senate in 27 BCE and received back,
+by the Senate's grant, control of the provinces where the legions were
+stationed. He held the consulship for a period and then stopped, taking instead
+the powers of a tribune, which gave him a veto and made his person legally
+inviolable. He became *pontifex maximus*, which put the state religion under his
+authority. He controlled the treasury that paid the army. He decided who
+received honours.
+
+Every one of these was an existing republican instrument. Assembled in one pair
+of hands, they constituted something the Republic had no name for, and Augustus
+was careful never to invent one. The record he left of his own achievements, the
+*Res Gestae*, inscribed on bronze and copied across the empire, describes a
+career of public service in which he repeatedly declined powers that were
+offered to him. It is entirely accurate and completely misleading, which makes
+it one of the more instructive political documents in existence.
+
+The system worked for two centuries. It worked because nobody had to lose an
+argument about whether the Republic still existed. The vocabulary was intact,
+the ceremonies continued, the Senate met, and the substance had moved.
+
+## What it cost
+
+The villa economy that fed Rome ran on enslaved labour, supplied continuously by
+the conquests the roads made possible. The provinces were taxed to build the
+infrastructure that made them taxable, and the citizenship that was eventually
+extended to them arrived after the tax obligation did. Peoples on the frontier
+appear in the Roman record mainly at the moment of their destruction, described
+by the people destroying them — the archive problem from chapter 1, operating at
+imperial scale.
+
+Tacitus, who was a Roman senator and no anti-imperialist, put the sharpest
+version of it into the mouth of a Caledonian chieftain before a battle: *they
+make a desert and call it peace*. It is a Roman writing Roman self-criticism for
+a Roman audience, which tells you both that the empire knew what it was and that
+knowing did not change anything.
+
+## The inheritance
+
+Rome's most consequential legacy is not the roads, which decayed, or the law,
+which was recovered and reworked centuries later. It is a demonstration.
+
+An institution can be captured without being abolished. Its language can be
+retained while its logic is replaced. And a settlement conducted this way is far
+more stable than an open seizure, because it gives everyone who benefits from it
+a reason to insist that nothing has changed.
+
+Two thousand years later a university endowed with railroad money will describe
+itself as an independent centre of disinterested inquiry, and mean it, and be
+partly right. The institution will be real. The independence will be real. And
+the money will still have come from the railroad, and the trustees will still
+appoint their own successors, and nobody will have to lie about any of it.

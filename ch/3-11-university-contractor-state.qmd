@@ -1,0 +1,281 @@
+# The University–Contractor–State Triangle {#sec-3-11}
+
+::: {.chapter-meta}
+Act III — Hoover, War, and the Archive State · 1942–1945
+:::
+
+::: {.content-visible when-profile="draft"}
+
+::: {.callout-note collapse="true"}
+## Pre-Draft Brief
+
+**Core question.** Why does federal money route through universities?
+
+**The answer.** Because universities supply the two things the state cannot buy
+directly: talent and legitimacy. Contractors provide production, the state
+provides demand and classification, and the university provides people and the
+appearance of disinterest. California received disproportionate federal research
+money because it was the only place hosting all three layers in one metropolitan
+area.
+
+**The mechanism.** Public subsidy converted into private monopoly, with the
+triangle specified. This is the book's structural centre for the twentieth
+century, and the chapter should be diagrammatic in its clarity: three parties,
+three contributions, and a flow of public money that ends in private balance
+sheets.
+
+**The key fact.** The institutional architecture of Silicon Valley was built in
+procurement offices, not garages. The garage is the story the system tells about
+itself; the contract file is what actually happened.
+
+**The human anchor.** A contracting officer. The least glamorous figure in the
+book and one of the most consequential — the person whose signature determines
+which region gets an industry.
+
+**Excluded voices.** The taxpayer, structurally: funding research whose results
+are classified and whose commercial value accrues to private firms. And the
+legislature, which appropriates in aggregate and cannot see the allocation.
+
+**Proof.** This chapter proves that federal money routed through universities
+because universities laundered its legitimacy by showing what each of the three
+parties contributed and what each extracted.
+:::
+
+::: {.callout-tip collapse="true"}
+## Working summary
+
+The founding document of Silicon Valley is a contract file, and this chapter
+opens on it rather than on a garage.
+
+Its argument is schematic, and deliberately so: three parties, three
+contributions, one flow of public money. The state supplies demand and
+classification. Contractors supply production. Universities supply talent and,
+more valuably, legitimacy. Each party gets something it cannot obtain elsewhere,
+and the arrangement is stable because all three have an interest in its
+continuation.
+
+The interesting question is why the money routes through universities at all,
+and the chapter gives two answers. The state cannot fund firms directly at this
+scale without the appearance of favouritism, and a university's disinterest is
+an asset worth paying for. And it cannot do the work in-house because civil
+service salaries and hiring timelines cannot compete for the people it needs.
+
+The unglamorous heart of the chapter is indirect cost recovery. Overhead — the
+percentage of every research grant that goes to the institution rather than the
+project — is the university's actual revenue model, and following it explains
+far more about institutional behaviour than any statement of academic mission.
+Universities compete for grants because grants are income, and the income
+arrives whether or not the research succeeds.
+
+Classification is what makes the arrangement unaccountable. The public funds
+research it is not permitted to read, and the commercial value of the results
+accrues to private firms. The taxpayer and the legislature are structurally
+excluded — the legislature appropriates in aggregate and cannot see the
+allocation.
+
+California ended up with a disproportionate share because it hosted all three
+layers in one metropolitan area: Moffett Field and the aviation industry, the
+Pacific theatre, and two major research universities within forty miles of each
+other.
+
+This diagram is the machine. Every subsequent chapter in this book is the same
+triangle with different company names in the second box.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A contract file. Open on the document that the garage story exists
+   to obscure.
+2. **The three layers.** University, contractor, state. What each supplies and
+   what each receives. Keep it schematic and short; the reader should be able to
+   redraw it from memory.
+3. **Why not fund firms directly.** The legitimacy problem. A university's
+   disinterest is an asset the state is willing to pay for.
+4. **Why not do it in-house.** Civil service constraints, salaries, and the
+   speed of academic hiring.
+5. **Overhead.** The unglamorous heart of the chapter: indirect cost recovery as
+   the university's actual revenue model. Follow the money to where it lands.
+6. **Classification.** What secrecy does to accountability. The public cannot
+   audit what it cannot read.
+7. **California's concentration.** Why the three layers ended up adjacent here
+   rather than elsewhere. Specific: Moffett, the aviation industry, the Pacific
+   theatre, Stanford and Berkeley.
+8. **The excluded.** The taxpayer and the legislature, structurally rather than
+   rhetorically.
+9. **Landing.** The triangle is the machine. Every subsequent chapter in the
+   book is this diagram with different company names in the second box.
+:::
+
+:::
+
+::: {.chapter-question}
+Why does federal money route through universities?
+:::
+
+The founding document of Silicon Valley is a contract file.
+
+Not a garage, not a schematic, and not a napkin. A file: a solicitation, a
+proposal, a negotiated agreement, a schedule of deliverables, a security
+classification, and an overhead rate. Thousands of them, running from federal
+agencies through universities and into companies, from 1945 onward, without
+interruption.
+
+This chapter is the diagram, and it is deliberately schematic, because the
+reader should be able to redraw it from memory for the remaining two acts.
+
+## Three parties
+
+The **state** supplies demand and classification. It decides what problems are
+worth money, how much, and who may see the results. Its demand is not price-
+sensitive in the ordinary way, because the buyer is not trying to make a profit
+on the purchase, and it is durable, because strategic competition does not end.
+
+The **contractor** supplies production. It manufactures, it scales, and it takes
+the commercial risk. It also employs people at salaries and on timescales that
+no government department could match.
+
+The **university** supplies two things. The obvious one is talent: graduates,
+doctoral students, and faculty who know the science. The less obvious one is
+legitimacy, and it is worth more.
+
+## Why the legitimacy matters
+
+Ask why the money routes through universities at all, and the answers are more
+interesting than they first appear.
+
+The government could fund companies directly, and does. But direct payments from
+a federal agency to private firms for research whose commercial benefits the
+firms will keep is politically awkward, and it looks like what it is. Routing
+the work through a university transforms the transaction. A university is
+disinterested, or is understood to be. It has no shareholders. Its output is
+knowledge, which is a public good. Money that goes to a university is an
+investment in national capability; the identical money paid to a corporation is
+a subsidy.
+
+The government also cannot do the work in-house at the necessary scale, and the
+reasons are mundane and decisive: civil service pay scales cannot compete for
+senior scientists, hiring timelines are measured in months, and a federal
+laboratory cannot easily be closed when the field moves.
+
+So the university sits in the middle, and what it is actually supplying — beyond
+the science, which is real — is the appearance of public purpose over a flow of
+funds whose eventual commercial beneficiaries are private.
+
+## Overhead
+
+The unglamorous heart of the arrangement is indirect cost recovery, and
+following it explains institutional behaviour better than any statement of
+academic mission.
+
+A research grant has two components. Direct costs pay for the work: salaries,
+equipment, materials. Indirect costs — overhead — are a negotiated percentage
+added on top, nominally to cover the institution's share of buildings,
+utilities, administration, and libraries.
+
+That percentage is substantial. Rates at major American research universities
+have run for decades at levels that add a very large fraction to every grant,
+and the money is fungible: it goes to the institution, not to the project.
+
+The consequences are structural. A university's incentive is to maximise grant
+volume, because grant volume is income. Departments that attract funding grow,
+and departments that do not, do not. Faculty are evaluated substantially on the
+money they bring in. And the income arrives whether or not the research
+succeeds, because overhead is charged on expenditure rather than on results.
+
+None of this is corrupt and all of it shapes behaviour. When Terman said the
+university should build steeples in fields where federal money was going, he was
+describing a revenue strategy in the vocabulary of academic excellence, and both
+descriptions were accurate.
+
+## Classification
+
+Secrecy is what makes the arrangement unaccountable, and the chapter should be
+plain about the mechanics.
+
+Classified research cannot be published, discussed with uncleared colleagues, or
+examined by anyone outside the system. A legislator votes on an appropriation in
+aggregate and cannot see the allocation. A taxpayer funds work whose existence
+may itself be classified. A journalist has nothing to read.
+
+The people in a position to evaluate whether the money is well spent are the
+people receiving it and the agency officials who allocated it, and both have an
+interest in the answer being yes.
+
+## Why California
+
+The three layers ended up adjacent on the San Francisco Peninsula, and the
+reasons are specific rather than mystical.
+
+Moffett Field in Sunnyvale had been an aeronautical facility since the 1930s and
+became the Ames Aeronautical Laboratory, later NASA Ames. The Pacific theatre
+had made the west coast strategically central and left installations behind. The
+aircraft industry in southern California had produced an enormous manufacturing
+base and a supply chain. Stanford and Berkeley were within forty miles of each
+other, and both were building research capacity aggressively with federal money.
+
+And by the early 1950s a university with eight thousand acres began leasing land
+to firms that wanted to be near all of it.
+
+Nowhere else in the United States had every element in one metropolitan area.
+Boston had universities and contractors but no equivalent concentration of
+aerospace manufacturing or federal installations. Southern California had
+manufacturing and installations but its universities were not yet organised the
+way Terman was organising his.
+
+## Who owns the result
+
+One question was left unresolved for thirty-five years, and its resolution in
+1980 is the subject of a chapter in the next act. It is worth stating here,
+because it is the hole in the diagram.
+
+If the public pays for research and a university performs it, who owns the
+invention?
+
+Before 1980 the answer was messy and varied by agency. The default position in
+much of the federal government was that inventions made with public money
+belonged to the public, and agencies either took title themselves or licensed
+non-exclusively to anyone who wanted a licence. The consequence, its critics
+argued, was that a great deal of federally funded research was never
+commercialised at all, because no firm would invest in developing a product it
+could not protect.
+
+That argument has real force and the chapter concedes it. A patent that anyone
+may practise is a patent nobody will invest behind.
+
+The counter-argument has equal force and is less often stated. Exclusive
+licensing of publicly funded research means the public pays twice — once for the
+research through taxes, and once for the product at a monopoly price — and the
+university takes a royalty in the middle.
+
+For the period this chapter describes, the question sits unresolved and the
+money flows anyway, because the immediate commercial applications of most
+defence research were limited and the firms doing the development were the same
+firms holding the contracts. It becomes urgent when the research starts
+producing recombinant DNA and search algorithms, and Act IV chapter 10 is where
+it is settled.
+
+## The excluded
+
+The taxpayer and the legislature, structurally rather than rhetorically.
+
+The taxpayer funds research, cannot examine it, and does not share in the
+commercial returns when the results are eventually commercialised — a gap that
+Bayh-Dole in 1980 will widen considerably, as Act IV chapter 10 describes.
+
+The legislature appropriates in aggregate and cannot see where the money lands.
+It can cut a programme; it cannot audit an allocation that is classified.
+
+This is not an argument that the arrangement was wrong. It produced the
+transistor's commercialisation, the internet, satellite navigation, and much
+else, and the returns to the public from that portfolio are enormous even
+allowing for everything this book says about who captured the surplus.
+
+It is an argument that the arrangement was never chosen, in the sense of being
+debated and approved. It was assembled, in wartime, for wartime reasons, and
+then it stayed.
+
+Every subsequent chapter of this book is this diagram with different names in
+the second box. Fairchild, Lockheed, Intel, Netscape, Palantir, and a company
+that sells accelerators for training language models: the university and the
+state are constant, and the contractor changes.

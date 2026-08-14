@@ -1,0 +1,16 @@
+# Draft profile. Renders the book with editorial apparatus visible:
+# Pre-Draft Briefs and working chapter summaries.
+#
+#   QUARTO_PROFILE=draft quarto render
+#
+# Output goes to _book-draft/ so it never overwrites the reader-facing build.
+
+project:
+  output-dir: _book-draft
+
+book:
+  subtitle: "The Subliminal History of Silicon Valley — DRAFT"
+
+format:
+  html:
+    toc-depth: 3

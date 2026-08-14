@@ -1,10 +1,53 @@
 # Preface {.unnumbered}
 
-Welcome to **Cardinal**, a book written in [Quarto](https://quarto.org/docs/books).
+This book began as a question about a street sign.
 
-This project is built from markdown, executable R code, and a bibliography, so figures, tables, and results stay in sync with the source. Chapters are listed in `_quarto.yml` and rendered together as HTML and PDF.
+Stanford's campus and the towns around it are named after the people in this
+story. Serra. Hoover. Terman. Page Mill. Sand Hill. Addison. The names are not
+decoration and they are not accidents. They are a record of who held power in
+California and in what order, laid down in the one medium that outlasts
+newspapers, lawsuits, and reputations: the street grid.
 
-```{r}
-# A small check that the book environment is working
-sessionInfo()$R.version$version.string
-```
+Read the grid carefully enough and it tells you the argument of this book.
+
+*Cardinal* is a history of how California became the most powerful economic
+force in the modern world. The standard version of that history involves
+garages, dropouts, and genius. That version is not false. It is incomplete in a
+specific way: it describes the people who arrived at the chokepoints without
+describing how the chokepoints got there, who paid to build them, and why they
+keep appearing in the same forty-mile corridor generation after generation.
+
+The book covers roughly two hundred and fifty years, from a Spanish expedition
+logging baptisms in Alta California in 1769 to an inauguration platform in
+Washington in 2025 where the founders of technology companies stood closer to
+the president than most of his cabinet. It argues that the same mechanism
+operated throughout, in different institutional costume each time, and that one
+institution connects every phase of it.
+
+Nothing in these pages is a secret. Every document cited is public. The
+railroad's land grants were printed in the statutes. The university's founding
+charter is a matter of record. The defence contracts, the patent filings, the
+venture returns, the market shares — all disclosed, all available, most of it
+online. This is not a history of concealment.
+
+It is a history of something harder to see than a secret, which is a pattern
+running in plain sight for long enough that it stops looking like a pattern and
+starts looking like the weather.
+
+---
+
+::: {.content-visible when-profile="draft"}
+
+::: {.callout-important}
+## Draft build
+
+This is the draft profile. It shows the Pre-Draft Brief and the working summary
+at the top of each chapter. Neither appears in the reader-facing build.
+
+- `quarto render` — the book as a reader sees it
+- `QUARTO_PROFILE=draft quarto render` — the book plus editorial apparatus
+
+Governing documents are in `_project/`. Read `_project/README.md` first.
+:::
+
+:::

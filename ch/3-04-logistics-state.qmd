@@ -1,0 +1,266 @@
+# The Logistics State {#sec-3-04}
+
+::: {.chapter-meta}
+Act III — Hoover, War, and the Archive State · 1914–1919
+:::
+
+::: {.content-visible when-profile="draft"}
+
+::: {.callout-note collapse="true"}
+## Pre-Draft Brief
+
+**Core question.** What is power when armies cannot move without food?
+
+**The answer.** It is nearly everything. The First World War revealed that the
+binding constraint on modern power was not weapons but calories, shipping, and
+accounting — and Hoover proved it by feeding occupied Belgium for four years
+with no army, no territory, and no sovereign authority. He ran a state's core
+function without being a state.
+
+**The mechanism.** Chokepoint control of an input nobody had thought of as a
+chokepoint. Food, moved through a blockade by an organisation that maintained
+its credibility through records. Also the book's clearest instance of private
+capacity performing public function — the Committees of Vigilance from Act II
+ch. 7, scaled to a continent and with better bookkeeping.
+
+**The key fact.** The Commission for Relief in Belgium negotiated with both the
+British blockade and the German occupation, operated its own shipping under its
+own flag, and issued what amounted to its own currency. A private committee held
+recognised standing with two warring empires.
+
+**The human anchor.** Hoover, negotiating simultaneously with the Admiralty and
+the German occupation authorities, holding both by the fact that neither wanted
+responsibility for a famine.
+
+**Excluded voices.** Belgian civilians, whose survival is the achievement and
+who had no say in the arrangements that produced it, and the labour of the local
+committees that did the distribution while the credit accrued to the man in
+London.
+
+**Proof.** This chapter proves that logistical control constitutes state
+capacity by showing a private commission perform a sovereign function across a
+blockade, recognised by both belligerents.
+:::
+
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Between 1914 and 1919 a private committee fed occupied Belgium. It negotiated
+with the British blockade and the German occupation simultaneously, operated
+shipping under its own flag, issued what amounted to its own currency, and held
+recognised standing with two empires at war. It had no territory, no army, and
+no sovereign authority. Its chairman was a mining engineer from California.
+
+The chapter presents the Commission for Relief in Belgium as an engineering
+problem before a moral one. Occupation and blockade had severed a food system,
+and several million people were on the wrong side of the break. Hoover's
+leverage was that neither belligerent wanted a famine on its ledger, and he was
+able to hold both to that.
+
+What made it work was accounting. The Commission's credibility rested on books
+that either side could audit, and auditable records are what buy trust from
+enemies. This is the same insight as the mission register in Act II and the
+archive in the next chapter: the record is not a description of the operation,
+it is the instrument that makes the operation possible.
+
+The First World War revealed that the binding constraint on modern power was
+calories, shipping, and bookkeeping rather than weapons, and Hoover then applied
+the same method with sovereign authority behind it as head of the US Food
+Administration from 1917 — voluntary compliance, publicity, and price mechanisms
+rather than rationing by decree.
+
+The chapter names what this is structurally: private capacity performing a
+governmental function, which is the San Francisco Committee of Vigilance from
+Act II scaled to a continent and with much better bookkeeping. It also names who
+is absent from the arrangement. Belgian civilians are the object of it and had
+no part in designing it, and the local committees that did the actual
+distribution worked in the credit of the man in London.
+
+Hoover emerges as the most administratively famous American alive, and with a
+conviction that shapes the next chapter: whoever holds the documents holds the
+interpretation.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A private organisation with its own flag, its own ships, and
+   standing with two empires at war. State the anomaly before explaining it.
+2. **Why Belgium starves.** The occupation, the blockade, and the specific
+   mechanics of a food system severed. This is an engineering problem before it
+   is a moral one.
+3. **The Commission, 1914.** How it formed and how Hoover ended up running it.
+   The network again: mining contacts, London standing, American neutrality.
+4. **Governance under constraint.** Negotiating with both sides. Neither wants
+   the famine on its ledger, and Hoover's leverage is precisely that.
+5. **Records as credibility.** The accounting as the instrument that made the
+   whole thing possible. Auditable books are what buy trust from enemies.
+6. **Scale.** Tonnage, duration, population fed. Sourced figures.
+7. **Then the US Food Administration, 1917.** The same method with sovereign
+   authority behind it. Voluntary compliance, publicity, and price mechanisms.
+8. **The excluded.** Belgian civilians as objects of the arrangement; local
+   committees uncredited.
+9. **Landing.** Hoover emerges as the most administratively famous American in
+   the world, and with a conviction that will define the next chapter: whoever
+   holds the documents holds the interpretation.
+:::
+
+:::
+
+::: {.chapter-question}
+What is power when armies cannot move without food?
+:::
+
+Between 1914 and 1919 a private committee fed occupied Belgium.
+
+It negotiated simultaneously with the British Admiralty, which was blockading
+Germany, and the German occupation authorities, who were governing Belgium. It
+chartered and operated its own fleet, flying its own flag, which both
+belligerents agreed to respect. It issued instruments that functioned as
+currency. It moved several million tons of food. At its peak it was the
+principal source of subsistence for something in the region of nine million
+people in Belgium and northern France.
+
+It had no territory, no army, no sovereign authority, and no legal existence
+beyond the agreement of the parties. Its chairman was the mining engineer from
+chapter 1.
+
+## The problem
+
+The Commission for Relief in Belgium existed because of an engineering problem
+before it was a humanitarian one, and the chapter treats it that way.
+
+Belgium in 1914 imported the large majority of its food. The German invasion
+occupied the country; the British blockade cut it off from overseas supply; and
+the occupying power, under international law, bore responsibility for feeding
+the civilian population but had no intention of diverting its own supplies to do
+so. Britain's position was that food entering Belgium would free German
+resources and that the blockade was its principal weapon. Both positions were
+coherent. Between them lay a country that would starve.
+
+Hoover was in London, having just organised the evacuation of stranded American
+travellers at the outbreak of war, and was asked to take it on.
+
+## The leverage
+
+What made the Commission possible was that neither belligerent wanted the famine
+on its own ledger, and Hoover understood that this was his entire negotiating
+position.
+
+Germany did not want to be responsible for starving Belgium while claiming to be
+its lawful occupier, and did not want to feed it either. Britain did not want to
+be responsible for starving Belgium while fighting a war justified substantially
+by the invasion of Belgium. A neutral organisation that fed the population
+without materially assisting either side offered both a way out.
+
+The terms were correspondingly precise. Germany undertook not to requisition the
+imported food or the domestic harvest. Britain permitted the shipments through
+the blockade. The Commission guaranteed the distribution, and the guarantee had
+to be credible to two governments that trusted each other not at all.
+
+## The accounting
+
+Credibility was manufactured through records.
+
+The Commission's books were kept to a standard that would survive audit by
+either belligerent, and the possibility of that audit was the point. Every ton
+was tracked from purchase to distribution. A network of Belgian local
+committees, tens of thousands of people, handled the actual distribution under
+supervision, and their operations were documented in a way that allowed the
+Commission to demonstrate that food had not been diverted.
+
+This is the same insight as the mission register in Act II chapter 1 and the
+archive in the next chapter. The record is not a description of the operation.
+It is the instrument that makes the operation possible, because it is what
+allows a party with no coercive power to be believed.
+
+## What the war revealed
+
+The larger lesson of 1914 to 1918, and the reason this chapter sits where it
+does in the act, is that industrial warfare made logistics the binding
+constraint on national power.
+
+Armies of millions consumed food, ammunition, coal, and transport at rates no
+previous conflict had approached. Blockade became a decisive weapon precisely
+because economies had become interdependent. The states that managed this best
+were the ones that could count, allocate, and move, which meant that the war
+elevated a class of administrators and technical managers to positions that had
+previously belonged to soldiers and politicians.
+
+When the United States entered in 1917, Hoover was brought home to run the Food
+Administration, and the method he applied is worth noting because it is
+distinctively American and distinctively of this class. He did not ration by
+decree. He used publicity, voluntary compliance, price mechanisms, and
+purchasing power — persuading the public to observe meatless days while
+controlling the market through federal buying. It worked, and it made him a
+household name.
+
+## Russia
+
+The relief operation that followed the war was larger than the one during it,
+and it is the clearest available case of humanitarian logistics functioning as
+foreign policy.
+
+The American Relief Administration, which Hoover directed, operated across
+central and eastern Europe from 1919, feeding populations in states that in
+several cases had existed for only months. In 1921 it extended into Soviet
+Russia during the Volga famine, under an agreement negotiated at Riga, and at
+its peak was feeding something in the order of ten million people a day.
+
+Hoover was an outspoken anti-Bolshevik and said so publicly throughout. He
+argued that famine relief was the correct response anyway, and also that a fed
+population was less likely to be a revolutionary one — which is a humanitarian
+argument and a strategic argument delivered in the same sentence, and he did not
+pretend otherwise.
+
+The Soviet government accepted the aid and resented the terms, which required
+American control of distribution and the release of imprisoned Americans. Both
+sides understood that an American organisation feeding Russians was a political
+fact as well as a nutritional one.
+
+This is the chapter's argument at its sharpest. Logistical capacity is state
+capacity, and an actor who possesses it can conduct something indistinguishable
+from foreign policy without holding any office. Hoover was, in 1921, a private
+citizen running an operation with more practical effect on Soviet Russia than
+most embassies achieved in a decade.
+
+It also produced, incidentally, an enormous quantity of documentary material
+about a collapsing society, gathered by an organisation with people on the
+ground. The next chapter is about where it went.
+
+## Private capacity, public function
+
+The structural claim of this chapter is the one Act II chapter 7 introduced with
+the Committee of Vigilance, and it has now scaled to a continent.
+
+A private organisation performed a core governmental function — the subsistence
+of a population — because the governments responsible could not or would not,
+and it was honoured for doing so. Hoover emerged from the war as the most
+administratively famous American alive, with a reputation for competence that
+carried him to the Commerce Department, the presidency, and a long afterlife as
+the country's designated organiser of relief efforts.
+
+The arrangement's cost is who had no part in it. Belgian civilians were the
+object of the Commission rather than participants in it; nobody consulted them
+about the terms. The local committees that did the distribution worked in the
+credit of the men who negotiated it. And a body accountable to neither
+government made decisions about the survival of nine million people, competently
+and in good faith, with no mechanism by which those people could have influenced
+it.
+
+## What Hoover took away
+
+He came out of it with a conviction that shapes the next chapter and, through
+it, a substantial part of this book.
+
+He had watched governments dissolve. He had seen the Russian empire collapse,
+the German and Austro-Hungarian empires end, and new states appear out of the
+wreckage. He had negotiated with authorities that ceased to exist during the
+negotiation.
+
+And he had noticed that the paper was disappearing. The leaflets, the decrees,
+the ration cards, the manifestos of movements that had held power for six weeks
+— the documentary residue of the greatest political rupture in European history
+was being thrown away, because in 1919 nobody thought it was worth anything.
+
+He decided to buy it.

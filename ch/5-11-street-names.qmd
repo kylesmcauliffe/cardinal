@@ -1,0 +1,266 @@
+# The Street Names: How Power Memorialises Itself {#sec-5-11}
+
+::: {.chapter-meta}
+Act V — The Open Era
+:::
+
+::: {.content-visible when-profile="draft"}
+
+::: {.callout-note collapse="true"}
+## Pre-Draft Brief
+
+**Core question.** What does a civilisation look like from its street signs?
+
+**The answer.** Like a ledger written in the one medium nobody thinks to audit.
+Different societies name their streets after different things, and the Peninsula
+names its after the people who owned it — mission founders, railroad families,
+university presidents, semiconductor executives, donors. The memorial is the
+monopoly, and it is the most honest document in California.
+
+**The mechanism.** Legitimacy, made permanent in the built environment. This
+chapter is the book's argument compressed into a walk: every mechanism it has
+described left a name on a sign, and the sequence of names is the sequence of
+chapters.
+
+**The key fact.** Awaiting the author's street list. The chapter is built to
+receive it and Appendix A is the reference table. The argument does not depend
+on any single name — it depends on the pattern, which is already evidenced by
+what is on the map: Serra, Stanford, Hoover, Terman, Knight, Page Mill, Sand
+Hill.
+
+**The human anchor.** A single walk, on foot, in one afternoon, past four
+centuries of proprietors.
+
+**Excluded voices.** Everyone with no street. The chapter's sharpest move is the
+negative one: name the people from ch. 9's ledger and note what is named after
+them. The Muwekma Ohlone, the Central Pacific's crews, the sterilised, the farm
+workers. The absence is data.
+
+**Proof.** This chapter proves that the built environment records the power
+structure by showing the Peninsula's street names correspond, in sequence, to
+the chapters of this book.
+:::
+
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Read a street sign as a document and it tells you four things: who, when, why,
+and who decided. The Peninsula's signs answer all four consistently, and the
+answer is the argument of this book.
+
+Different societies commemorate different things. British streets carry empire.
+French streets carry artists and writers. Most American streets carry
+politicians and trees. The Peninsula names its streets after the people who
+owned it, and it does so in layers that correspond, in order, to the chapters
+here.
+
+The mission layer is oldest and still on the map: Serra, Junipero Serra
+Boulevard, and El Camino Real, which is a Spanish supply road that became the
+region's main street. The railroad layer sits on top of it — Stanford, Crocker,
+Hopkins, Huntington — and the chapter notes what kind of thing carries each
+name: a university, a hotel, a library, a hill. Then the institutional layer,
+with Hoover Tower, Terman, and Jordan Hall, which was renamed. Renamings are
+themselves evidence; what a society does when a name becomes unusable says more
+than the original naming did. And then the corporate layer: Page Mill, Sand
+Hill, and the donor names on the buildings of the campus.
+
+The author's street list slots into whichever layer each name belongs to, with
+the chapter it connects to. Appendix A is the reference table, and the argument
+does not depend on any single name — it depends on the sequence, which is
+already legible from what is on the map.
+
+The chapter's sharpest section is the negative one. It works through the
+previous chapter's ledger and records what is commemorated and what is not: the
+Muwekma Ohlone, the Central Pacific's crews, the people sterilised under the
+1909 law, the farm workers. The absences are recorded without comment, because
+the list is the argument.
+
+The grid is a ledger. It has been legible the entire time and nobody reads it,
+which is what subliminal means.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** One street sign. Read it as a document — who, when, why, and who
+   decided.
+2. **Comparative naming.** What other places commemorate: British streets and
+   empire, French streets and artists, most American streets and politicians or
+   trees. Establish the contrast before making the claim.
+3. **The mission layer.** Serra, Junipero Serra Boulevard, El Camino Real. Act
+   II ch. 1, still on the map.
+4. **The railroad layer.** Stanford, Crocker, Hopkins, Huntington. Where the
+   names are, and what kind of thing carries them — a university, a hotel, a
+   library, a hill.
+5. **The institutional layer.** Hoover Tower, Jordan Hall and its renaming,
+   Terman. Note the renamings specifically: what a society does when a name
+   becomes unusable is itself evidence.
+6. **The corporate layer.** Page Mill, Sand Hill, Hanover, and the named
+   buildings of the campus. Donors as toponymy.
+7. **Receive the author's list.** Slot the supplied street names into the layer
+   each belongs to, with the chapter each connects to.
+8. **The absences.** Go through ch. 9's ledger and record what is commemorated
+   and what is not. Do this without comment; the list is the argument.
+9. **Landing.** The grid is a ledger. It has been legible the whole time and
+   nobody reads it, which is what subliminal means.
+:::
+
+:::
+
+::: {.chapter-question}
+What does a civilisation look like from its street signs?
+:::
+
+Read a street sign as a document and it answers four questions. Who is
+commemorated. When. For what. And who decided.
+
+The Peninsula's signs answer all four with unusual consistency, and the answer
+is the argument of this book, recorded in the one medium that outlasts
+newspapers, lawsuits, and reputations.
+
+## What other places commemorate
+
+The comparison has to come first or the claim is meaningless, because all street
+names commemorate something.
+
+British street names carry empire and aristocracy: the regiments, the victories,
+the ducal estates that were subdivided. Parisian streets carry writers,
+painters, scientists, and the dates of revolutions. Dutch cities name streets
+after painters. Post-war German cities renamed extensively and now carry
+resisters and victims, which is its own kind of statement.
+
+The standard American pattern is politicians, presidents, trees, and numbers. A
+grid with Washington, Lincoln, Elm, Maple, and First through Twelfth is the
+default of the American town, and it commemorates a national civic culture
+rather than a local proprietor.
+
+The Peninsula is different. It names its streets after the people who owned it.
+
+## The layers
+
+Walk or drive the corridor and the sequence is chronological, because each layer
+of ownership named what it built and the previous names were mostly left in
+place.
+
+**The mission layer.** Junipero Serra Boulevard runs along the western edge of
+the Stanford campus. El Camino Real, the royal road, is the Peninsula's main
+street and carries the name of a Spanish supply route from the 1770s. The towns
+themselves — San Mateo, San Carlos, San Bruno, Santa Clara, San José — are
+mission and saint names. Act II chapter 1 is still on the map, and a driver
+following El Camino Real from San Francisco to San José is following a
+Franciscan logistics decision about how far a party could travel in a day.
+
+**The rancho layer.** Rancho names survive as neighbourhoods, roads, and parks —
+Las Pulgas, San Antonio, Corte Madera, San Francisquito. The boundaries drawn by
+Mexican governors' signatures in the 1830s became property lines and then
+streets, for the reason Act II chapter 4 gave: a boundary once recorded is
+cheaper to keep than to redraw.
+
+**The railroad layer.** The Big Four are on the map, though mostly not on the
+Peninsula: Crocker, Hopkins, Huntington, and Stanford appear on a hill, a hotel,
+a library, an art museum, and a university. The distribution is itself
+informative. The men who owned the state's transport are commemorated in
+cultural institutions they endowed, which is Act II chapter 12's argument
+rendered as a gazetteer.
+
+**The institutional layer.** Hoover Tower is the tallest structure on the campus
+and holds an archive. Terman is on an engineering building. Jordan Hall carried
+the name of the university's first president until it was renamed in 2020,
+following a review of campus names that also removed Serra from several
+buildings while the boulevard and the road kept it.
+
+Renamings deserve attention, because what a society does when a name becomes
+unusable is more informative than the original naming. It records the point at
+which the institution decided the association had become a liability, and it
+generally happens long after the facts are known.
+
+**The corporate layer.** Page Mill Road, which was a lumber road before it was
+the spine of the research park. Sand Hill Road. Hanover Street. Hillview. Coyote
+Hill, where Xerox built PARC. And on the campus itself, the donor names:
+buildings, schools, institutes, and centres carrying the names of the people who
+funded them, which is a list of the fortunes described in Acts IV and V.
+
+## The street list
+
+This chapter was built to receive a specific list of streets from the author,
+which has not been supplied, and it says so rather than pretending otherwise.
+
+The structure above is designed to take it. Any street name slots into one of
+the five layers, and each layer connects to a chapter. Appendix A holds the
+reference table, and adding names strengthens the chapter without changing its
+argument, because the argument rests on the pattern rather than on any
+particular sign.
+
+## The absences
+
+The sharpest section is the negative one, and it consists of going through the
+previous chapter's ledger and asking what is named after each entry.
+
+The Muwekma Ohlone, whose territory the campus occupies. There is little on the
+map, and what recognition exists is recent and small.
+
+The Chinese workers of the Central Pacific. There is no major thoroughfare, no
+building on the campus that their labour endowed, and no monument at the scale
+of the achievement. The most substantial commemorations are recent, modest, and
+mostly the work of descendant organisations rather than of the institutions that
+benefited.
+
+The people sterilised under the 1909 law. Nothing.
+
+The farm workers. Cesar Chavez has streets and schools across California, which
+is a genuine and substantial exception, and they are overwhelmingly in the
+Central Valley and in urban Latino neighbourhoods rather than on the Peninsula.
+
+The contract workforce of the present. Nothing, and it is too early to expect
+anything.
+
+The list is the argument and it should be presented without commentary. What a
+place commemorates is what it has decided to remember, and the Peninsula has
+decided to remember the people who held the title.
+
+## What naming rights cost now
+
+The layer being laid down currently is worth recording while it happens, because
+future readers will find it as unremarkable as the earlier layers look now.
+
+Institutional naming has become a priced transaction with published tariffs.
+Universities maintain schedules: a professorship costs this, a laboratory that,
+a building the other. Hospitals, museums, concert halls, and public parks
+operate comparably. A donor makes a gift and the name goes up, generally in
+perpetuity, occasionally with a term.
+
+This is not new — the Medici commissioned altarpieces, and the Victorian
+industrialists put their names on libraries — but the formalisation is. What was
+once a negotiated honour is now a listed product, and the effect is that the
+permanent memorial landscape of a wealthy society is allocated by the same
+mechanism as everything else in this book: to whoever holds the surplus.
+
+Two consequences follow. The commemorative record of an era becomes a record of
+its donors rather than of its achievements, and the two overlap only partially.
+And the names are extremely difficult to remove, because removal requires an
+institution to repudiate a gift it has already spent, which is why the renamings
+described above took so long and were so contested.
+
+A building name is a chokepoint on public memory, sold at a listed price, held
+in perpetuity, and defended by the recipient. That is a strange sentence and it
+describes standard practice at every major institution in the corridor.
+
+## The grid as a ledger
+
+Here is the claim, stated plainly.
+
+The street grid of the San Francisco Peninsula is an accurate record of who
+controlled it and in what order. It is more accurate than most published
+histories, because it was not written to persuade anyone of anything. Each layer
+was laid down by people naming what they had just built, for reasons that seemed
+obvious at the time, and the accumulation is a chronology of ownership that
+nobody edited.
+
+It has been legible the entire time. Every person who has ever driven down El
+Camino Real, turned onto Page Mill Road, and passed Hoover Tower on the way to
+Sand Hill Road has read the whole argument of this book in the correct order,
+without noticing.
+
+That is what subliminal means. Not hidden — beneath the threshold at which
+something is consciously registered. The signs are twelve feet up and lit at
+night.

@@ -1,0 +1,274 @@
+# The Personal Computer and the New Consumer Monopoly {#sec-4-09}
+
+::: {.chapter-meta}
+Act IV — The Silicon Valley Machine · 1975–1985
+:::
+
+::: {.content-visible when-profile="draft"}
+
+::: {.callout-note collapse="true"}
+## Pre-Draft Brief
+
+**Core question.** What happens when computing reaches the masses?
+
+**The answer.** The chokepoint moves up a layer. When computing reached
+individuals the hardware commoditised almost immediately — and the money went to
+whoever controlled the layer above it. Microsoft licensed an operating system to
+IBM while retaining the right to license it to everyone else, and that single
+contractual reservation was worth more than any factory in the industry.
+
+**The mechanism.** Chokepoint control, relocated. The chapter's argument is that
+platform control is the same manoeuvre as Act II ch. 10's move into legal
+doctrine: get out of the visible, capital-intensive, competable layer, and into
+the invisible one that everything must route through.
+
+**The key fact.** The 1980 IBM agreement was non-exclusive. IBM, the most
+powerful computer company in the world, did not insist on exclusivity for the
+operating system of its personal computer, and that omission created the
+industry's dominant firm.
+
+**The human anchor.** The Xerox PARC demonstration in December 1979, and Steve
+Jobs walking out of a building where a corporation had already invented the
+future and could not work out what to do with it.
+
+**Excluded voices.** The hardware assembly workforce, increasingly offshore, and
+the homebrew culture whose free exchange of designs was enclosed within a few
+years — including the open letter about hobbyist copying that announced the
+enclosure.
+
+**Proof.** This chapter proves that platform control supersedes hardware by
+showing an industry in which the hardware makers competed their margins away
+while the operating system licensor took the surplus.
+:::
+
+::: {.callout-tip collapse="true"}
+## Working summary
+
+The most valuable sentence in the history of software is a clause in a 1980
+agreement stating that Microsoft's licence of an operating system to IBM was not
+exclusive. IBM, then the most powerful computer company in the world, did not
+insist on exclusivity for the operating system of its personal computer. That
+omission created the industry's dominant firm.
+
+The chapter builds to it through what came before. The Homebrew Computer Club in
+1975 circulated designs freely, and the chapter establishes that as the normal
+condition so the reader can see the enclosure when it happens. Apple, founded in
+1976, paired Wozniak's engineering with Jobs's insistence that a computer be a
+product rather than a kit. And in December 1979 Xerox PARC demonstrated the
+graphical interface, the mouse, and networked computing to visitors from Apple —
+a corporation that had invented the future and could not work out what a copier
+company was supposed to do with it.
+
+Then IBM entered in 1981 with an open architecture built from off-the-shelf
+parts, the clone manufacturers arrived, and the hardware commoditised almost
+immediately. Margins in assembly collapsed toward nothing while the operating
+system licensor took the surplus, and by the early 1990s Windows ran on the
+overwhelming majority of personal computers in the world.
+
+The structural argument is that the chokepoint moved up a layer. It is the same
+manoeuvre as the Southern Pacific's move into legal doctrine in Act II: get out
+of the visible, capital-intensive layer where competitors can reach you, and
+into the invisible one that everything must route through. Bayh-Dole passed the
+same year as the IBM agreement, and the next chapter takes it up.
+
+The costs are offshore hardware assembly, and the enclosure of a commons — a
+transition that was announced at the time, in an open letter complaining that
+hobbyists were copying software rather than paying for it.
+
+Never own the layer that can be competed. Own the one everything passes through.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A non-exclusive clause. The most valuable sentence in the history
+   of software, and IBM agreed to it.
+2. **The Homebrew Computer Club.** Free circulation of designs, 1975. Establish
+   what was normal before it stopped being normal.
+3. **Apple, 1976.** Wozniak's engineering and Jobs's positioning. The Apple II
+   as the first machine sold as a product rather than a kit.
+4. **PARC, December 1979.** What Xerox had — the graphical interface, the mouse,
+   networking — and the structural reason a copier company could not
+   commercialise it.
+5. **IBM enters, 1981.** Open architecture, off-the-shelf parts, and the clone
+   industry that follows. Hardware commoditises.
+6. **The MS-DOS deal.** The specific terms, the non-exclusivity, and how it
+   converted into Windows dominance. Follow the contract, not the personalities.
+7. **Bayh-Dole, 1980, noted.** One sentence; ch. 10 does the work.
+8. **Where the money ended up.** Sourced margins: assemblers against the
+   operating system licensor. The arithmetic is the argument.
+9. **The excluded.** Offshore assembly; the enclosure of the hobbyist commons.
+10. **Landing.** The lesson relearned every twenty years in this book: never own
+   the layer that can be competed. Own the one everything passes through.
+:::
+
+:::
+
+::: {.chapter-question}
+What happens when computing reaches the masses?
+:::
+
+In 1980 IBM licensed an operating system from a small company in Seattle and did
+not insist on exclusivity.
+
+That omission — a clause not inserted into a contract by the most powerful
+computer company in the world — created the dominant firm of the next thirty
+years. It is the most valuable sentence never written in the history of
+software, and the chapter opens there because everything else in it follows.
+
+## What was normal before
+
+The Homebrew Computer Club met from March 1975 in Menlo Park, and then in an
+auditorium at the Stanford Linear Accelerator Center, and its normal practice
+was circulation.
+
+Members brought designs, schematics, and code, and gave them away. The club's
+newsletter published circuit diagrams. People copied each other's work and
+improved it and brought the improvements back, and the culture of the thing was
+closer to an amateur radio society than to an industry.
+
+That is the baseline against which enclosure has to be measured, and it did not
+last long. In early 1976 Bill Gates published an open letter to hobbyists
+complaining that most users of his BASIC interpreter had not paid for it and
+asking who could afford to do professional work for nothing. The letter was
+widely resented and it was also correct about the incentive problem, and it
+announced the transition from a circulating culture to a licensing one.
+
+## Apple
+
+Apple was founded in 1976 by Steve Wozniak, who designed the machine, and Steve
+Jobs, who understood that it should be a product.
+
+The Apple I was a board for people who could solder. The Apple II, in 1977, was
+a finished object: a case, a keyboard, a power supply, colour graphics, and
+expansion slots. It could be bought by someone who had no intention of building
+anything, and it found a business market when VisiCalc — the first spreadsheet —
+appeared on it in 1979 and gave people a reason to buy a computer that had
+nothing to do with computing.
+
+The Apple II is the moment the personal computer stops being a hobby, and the
+crucial decision was packaging rather than engineering.
+
+## PARC
+
+Xerox had established the Palo Alto Research Center in 1970, in the Stanford
+Research Park, on Coyote Hill Road.
+
+By the late 1970s PARC had built the Alto: a machine with a bitmapped screen, a
+graphical user interface with overlapping windows and icons, a mouse descended
+from Engelbart's work at SRI a few miles away, Ethernet networking, a what-you-
+see-is-what-you-get editor, and a laser printer. Working, in use internally,
+years before anything comparable existed elsewhere.
+
+In December 1979 Xerox permitted Apple engineers to visit, as part of an
+arrangement in which Xerox took an equity position in Apple. Jobs saw the
+interface and understood immediately what it meant.
+
+The standard telling makes this a theft, and it was not; it was a negotiated
+visit, and the ideas were being published and discussed in the research
+community anyway. The more interesting question is why Xerox did not
+commercialise it, and the answer is structural rather than a failure of vision.
+Xerox's business was copiers, sold through a leasing model to corporate
+purchasing departments. The Alto cost far too much to make, addressed no market
+Xerox served, and would have required the company to build a completely
+different sales organisation. The research was superb and the corporation had no
+route from it to a product.
+
+Federal and corporate research producing an invention that a different firm
+commercialises: it is the Engelbart pattern from chapter 4, repeated four miles
+away and a decade later.
+
+## IBM, and the clause
+
+IBM entered the personal computer market in 1981, and it did so in a hurry,
+which is why it did everything wrong from its own point of view.
+
+To move fast, the project used off-the-shelf components and published the
+technical specifications, so that other companies could build peripherals and
+software. And it licensed an operating system from Microsoft rather than
+developing one, because developing one would have taken years.
+
+The published architecture allowed Compaq and others to reverse-engineer the
+system's firmware and build compatible machines. Hardware competition arrived
+immediately and margins collapsed toward the cost of the components, which were
+available to everyone.
+
+The operating system did not commoditise, because Microsoft had retained the
+right to license MS-DOS to other manufacturers. Every clone maker needed it.
+Microsoft sold it to all of them, and then sold Windows to all of them, and by
+the early 1990s an operating system from a company with no factories was on the
+overwhelming majority of the world's personal computers.
+
+IBM had assumed the value was in the machine. The value was in the layer above
+the machine, and it had licensed that layer away non-exclusively in exchange for
+a modest per-copy fee.
+
+## The layer that cannot be competed
+
+The structural argument of this chapter is that the chokepoint moved up.
+
+Hardware was the visible, capital-intensive, physically obvious part of the
+business, and it was competed to nothing within five years. The operating system
+was invisible to the purchaser, cost almost nothing to reproduce, and was
+protected by the strongest moat available: every application ran on it, so
+switching meant abandoning software you had already bought.
+
+This is the same manoeuvre as the Southern Pacific's move into legal doctrine in
+Act II chapter 10, and as the studios' loss of their theatres in the previous
+chapter. Get out of the layer a competitor can attack or a court can point at.
+Get into the layer everything must route through.
+
+Apple took the other road, integrating hardware and software and keeping both
+closed, and spent the following decade losing badly before that strategy became
+valuable again under different conditions.
+
+## The story the industry chose
+
+Something else was manufactured in these years alongside the machines, and it is
+the story this book has been circling since the Introduction.
+
+Apple's 1984 Super Bowl advertisement presented the personal computer as an
+instrument of liberation against a monolithic conformity, with IBM as the
+unnamed antagonist. It is one of the most effective pieces of commercial
+persuasion ever made, and its argument — that this technology is inherently
+democratising and that the people selling it are insurgents — became the
+industry's account of itself and has survived every subsequent development.
+
+The counterculture connection was real and is worth stating accurately rather
+than dismissing. Stewart Brand's *Whole Earth Catalog*, published from Menlo
+Park from 1968, genuinely connected a communitarian, tools-for-independence
+sensibility to the emerging computing culture, and a number of the people in the
+Homebrew Computer Club came out of it. Brand wrote in 1972 that computers were
+coming to the people, and he was right.
+
+The chapter's argument is not that these people were insincere. It is that a
+liberation story attached itself to an industry whose structure was becoming, at
+exactly that moment, the most concentrated in the American economy. The
+advertisement ran in 1984. The operating system monopoly was already forming,
+and the men in the garage were on their way to becoming the largest corporations
+in the world.
+
+Weber's Protestant merchant believed his prosperity was evidence of election.
+The garage founder believes his is evidence of insurgency. Both accounts explain
+why the winner deserved to win, and both are held sincerely, which is what makes
+them effective.
+
+## Who paid
+
+Two entries for the ledger.
+
+The hardware that commoditised was manufactured by somebody, and increasingly it
+was manufactured offshore — the assembly model from chapter 3 extended from
+chips to whole machines, through Taiwan, Singapore, Malaysia, and eventually the
+Chinese mainland. The falling price of a personal computer is, substantially, a
+transfer of the work to people paid less to do it.
+
+And the commons closed. The circulating culture of Homebrew produced the
+machines that made the industry, and it was enclosed within about five years by
+copyright, licensing, and the ordinary logic of a market. Some of it survived
+and regrouped — the free software movement began in 1983 and eventually produced
+the operating system that runs most of the world's servers, which is a genuine
+counter-example and belongs in the record.
+
+Bayh-Dole passed the same year as the IBM agreement. The next chapter is about
+what that did.

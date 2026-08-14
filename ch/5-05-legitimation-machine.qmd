@@ -1,0 +1,290 @@
+# The New Philanthropy and the Legitimation Machine {#sec-5-05}
+
+::: {.chapter-meta}
+Act V — The Open Era · 2010–2020
+:::
+
+::: {.content-visible when-profile="draft"}
+
+::: {.callout-note collapse="true"}
+## Pre-Draft Brief
+
+**Core question.** How does a modern monopolist make power invisible?
+
+**The answer.** By giving it away on his own terms. Modern monopoly legitimacy
+is purchased through philanthropy, university endowment, and public-benefit
+storytelling — structures that convert a fortune into disinterested authority
+while leaving control with the donor. It is the Medici playbook from Act I ch.
+7, executed with better tax treatment.
+
+**The mechanism.** Elite network reproduction and the manufacture of legitimacy,
+and the book's most direct historical rhyme. Leland Stanford endowed a
+university and the university certified the class it produced. The limited-
+liability company structured as a philanthropic vehicle does the same work
+without even the constraints of a foundation.
+
+**The key fact.** The Chan Zuckerberg Initiative was structured as a limited
+liability company rather than a foundation, which permits political spending and
+investment alongside grantmaking and carries no payout requirement. The form is
+the argument.
+
+**The human anchor.** A building with a name on it. The chapter should return to
+Act I's donor altarpiece: the same transaction, the same permanence, the same
+eye-level placement.
+
+**Excluded voices.** The public, which forgoes tax revenue and receives no vote
+over how the resulting funds are deployed, and the fields and regions
+philanthropic priorities do not favour. Also grant recipients whose independence
+is constrained by dependence.
+
+**Proof.** This chapter proves that philanthropy operates as a legitimacy
+instrument by showing the same donors endowing the institutions that credential
+their own class.
+:::
+
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Six hundred years after a Florentine banker had his face painted into an
+altarpiece, the same transaction is conducted with a building and a tax
+deduction. The chapter opens by returning to Act I and then examines the
+instruments.
+
+Modern legitimacy is purchased through philanthropy, university endowment, and
+public-benefit storytelling, and the structures matter more than the sums. A
+private foundation carries a minimum payout requirement and disclosure
+obligations. A donor-advised fund carries neither and can hold assets
+indefinitely. And the Chan Zuckerberg Initiative was constituted as a limited
+liability company rather than a foundation, which permits political spending and
+for-profit investment alongside grantmaking and imposes no payout requirement at
+all. The chapter states the defensible reasons for that choice and then examines
+its effects, because the form is the argument.
+
+University endowment remains the core move, and the book has already documented
+it twice: Leland Stanford in 1885, and Phil Knight with the management centre
+and the scholars programme. The institution that certifies the elite is funded
+by the elite it certifies, and the names over the doors are the receipt.
+
+The Thiel Fellowship is the chapter's sharpest case, because it appears to
+contradict the thesis by paying students to leave university. What it actually
+does is substitute one gatekeeper for another — a smaller, less accountable, and
+more personal one — which strengthens the argument rather than weakening it.
+
+Venture capital as ideological publisher belongs here too: funding the narrative
+about what technology is for, alongside the companies.
+
+What all of it buys is regulatory forbearance, press access, and the presumption
+of good faith.
+
+The public forgoes tax revenue and receives no vote over how the resulting funds
+are deployed, and grantees dependent on continued funding are not free to say
+so. The most efficient route to being untouchable is to become indispensable to
+the institutions that decide who is respectable.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A name over a door, and the Medici altarpiece from Act I. Six
+   hundred years, one transaction.
+2. **The vehicles.** Foundation, donor-advised fund, and the LLC. What each
+   permits, what each requires, and how the tax treatment differs. Be technical;
+   the mechanism lives in the structure.
+3. **The Chan Zuckerberg Initiative.** The LLC choice and its consequences.
+   State the defensible reasons for it, then the effects.
+4. **University endowment as the core move.** Knight-Hennessy from Act IV ch. 6,
+   and the buildings named for donors across the campus. The institution that
+   certifies the elite is funded by it.
+5. **The Thiel Fellowship.** Paying students to leave university — the most
+   interesting case, because it appears to contradict the credentialing thesis.
+   Then show what it actually does: substitutes one gatekeeper for another. This
+   beat should be the chapter's sharpest.
+6. **American Dynamism and narrative philanthropy.** Funding the story as well
+   as the institution. Venture capital as an ideological publisher.
+7. **What legitimacy buys.** Regulatory forbearance, press access, and the
+   presumption of good faith. Concrete examples.
+8. **The excluded.** Forgone tax revenue without a public vote; constrained
+   grantees; unfunded fields.
+9. **Landing.** The most efficient way to become untouchable is to become
+   indispensable to the institutions that decide who is respectable. Stanford
+   learned it in 1885; the Valley relearned it with better accountants.
+:::
+
+:::
+
+::: {.chapter-question}
+How does a modern monopolist make power invisible?
+:::
+
+Six hundred years after a Florentine banker had his likeness painted into an
+altarpiece he had commissioned, the same transaction is conducted with a
+building and a tax deduction.
+
+Act I chapter 7 described the Medici method: fund the institution you wish to
+control, then staff it, then become it, and commission the culture that explains
+why you deserve to. This chapter is that method in its current instruments, and
+the instruments are the interesting part.
+
+## Three vehicles
+
+The choice of legal form determines almost everything, and the differences are
+technical in a way that rewards attention.
+
+A **private foundation** receives a charitable deduction on contribution, pays a
+small excise tax, must distribute a minimum percentage of its assets annually,
+and files a public return disclosing its grants and investments. It cannot make
+political contributions.
+
+A **donor-advised fund** receives the deduction on contribution, has no payout
+requirement at all, and discloses nothing about the individual donor's
+recommendations. Money can sit in one indefinitely while the deduction has
+already been taken.
+
+A **limited liability company** receives no deduction on formation, because
+nothing has been given away. In exchange it can do anything: make grants, make
+investments for profit, fund political advocacy, and lobby, with no payout
+requirement and no disclosure obligation.
+
+The Chan Zuckerberg Initiative, announced in 2015 with a commitment of the great
+majority of the founders' Facebook shares, was constituted as an LLC.
+
+The defensible reasons were stated at the time and are real. A foundation cannot
+invest in a company developing a technology it wants to see exist, and cannot
+fund policy advocacy, and both are legitimate philanthropic strategies. Emerson
+Collective, established by Laurene Powell Jobs, took the same form for similar
+reasons.
+
+The effect is that a very large pool of capital committed to public purposes
+operates with no payout requirement, no grant disclosure, no restriction on
+political spending, and no external accountability whatsoever. The commitment is
+sincere and the structure is unenforceable, and the donor retains full control
+of both the money and the definition of the purpose.
+
+## The university, again
+
+The core move has not changed since 1885, and this book has now documented it
+three times in three centuries.
+
+Leland Stanford converted a railroad fortune into a university with a self-
+perpetuating board. Phil Knight converted a footwear fortune into a business
+school complex and a graduate scholarship programme at the same institution. The
+technology fortunes of the present are converting into named buildings,
+institutes, and professorships across the same campus and its peers.
+
+The circuit closes on itself. The institution that certifies the elite is funded
+by the elite it certified, and each gift both expresses gratitude and increases
+the value of the credential the donor holds.
+
+Nothing about this is improper and all of it is self-reinforcing.
+
+## The fellowship that proves the rule
+
+The most interesting case is the one that appears to contradict everything
+above.
+
+The Thiel Fellowship, established in 2011, pays young people a substantial sum
+on condition that they do not attend university, or that they leave. Its
+founder's argument is that higher education has become a credentialling racket
+that consumes years and money while teaching conformity, and that talented
+people should build things instead.
+
+Much of the critique is accurate, and this book has spent five acts making a
+version of it.
+
+But look at what the fellowship actually does. It replaces an institutional
+credential — issued by an organisation with published criteria, an admissions
+process, and some degree of external scrutiny — with a personal one, awarded by
+a small selection committee associated with a single financier, on criteria that
+are not published, to a cohort of a couple of dozen people a year.
+
+That is not the abolition of a gatekeeper. It is a smaller, less accountable,
+and more concentrated gatekeeper. A fellow's asset is precisely the association:
+the signal that this particular network has identified them, which is exactly
+the function a Stanford degree performs and which the fellowship exists to
+criticise.
+
+The chapter's argument is strengthened rather than embarrassed by the case.
+Credentialling is not a feature of universities. It is a function that some
+institution will always perform, and the question is only who performs it and
+with what accountability.
+
+## Funding the story
+
+The final instrument is the narrative itself, and it is the most direct
+descendant of the Medici commission.
+
+Venture firms now operate substantial media and publishing operations: podcasts,
+editorial sites, research reports, and campaigns organised around themes. The
+most explicit of these is the American Dynamism programme at Andreessen
+Horowitz, which frames investment in defence, aerospace, energy, and
+manufacturing as a project of national renewal.
+
+That is a coherent thesis and it is also a legitimacy instrument. It supplies an
+account in which the firm's investments are a public service, and the account
+circulates in a media environment where the firm is also a publisher.
+
+Act I put it this way: cultural production is legitimacy production. The Medici
+commissioned altarpieces. A venture partnership commissions a podcast.
+
+## The Giving Pledge and the problem of scale
+
+There is a version of this chapter that treats large-scale philanthropy as
+simply good, and the honest objection to it is not about motive.
+
+The Giving Pledge, launched in 2010, is a public commitment by very wealthy
+individuals to give the majority of their wealth away. Hundreds have signed. The
+sums involved are enormous and a great deal of genuinely valuable work has been
+funded with them — in global health above all, where the reduction in deaths
+from malaria and from vaccine-preventable disease over the last twenty-five
+years is one of the more substantial achievements of the period and was
+substantially philanthropically financed.
+
+The chapter records that without qualification, because it is true and because
+an argument that cannot acknowledge it is not serious.
+
+The objection is structural. A pledge is not enforceable. Several signatories
+are substantially wealthier now than when they signed, because assets have
+appreciated faster than they have been given away, which means the commitment
+has in practice functioned as a commitment to give away a fortune that keeps
+growing.
+
+And the deeper problem is that the scale of these fortunes gives individuals
+discretion over public questions on a scale that no democratic mechanism
+authorised. When a single foundation's expenditure on a disease exceeds that of
+the international agency nominally coordinating the response, the foundation
+sets the agenda whatever its intentions, because everyone else's funding depends
+on alignment with it.
+
+That is chokepoint control applied to the definition of what counts as a problem
+worth solving, and the people affected have no vote.
+
+## What it buys
+
+Legitimacy is not an abstraction and its returns are specific.
+
+It buys regulatory forbearance, because a legislator is slower to attack a
+person who funds the hospital wing. It buys press access, because a foundation
+with a communications budget shapes what gets covered. It buys the presumption
+of good faith in a dispute. And it buys the ability to define problems: a
+philanthropy that funds education research substantially determines which
+questions about education are asked.
+
+## Who pays
+
+The public forgoes the tax revenue and receives no vote over how the resulting
+funds are used.
+
+That is the whole objection and it is sufficient. A charitable deduction is a
+public subsidy: the treasury collects less, and the difference is directed
+according to the preferences of the donor rather than of the electorate. For
+very large fortunes the sums involved are large enough to fund substantial
+public programmes.
+
+Grantees, meanwhile, are not free to criticise the hand that funds them, which
+constrains the sector's capacity to say anything uncomfortable about the source
+of its money. And the fields philanthropic attention does not favour go
+unfunded, selected against by preferences nobody voted on.
+
+The most efficient way to become untouchable is to become indispensable to the
+institutions that decide who is respectable. Stanford learned that in 1885. The
+corridor relearned it with better accountants.

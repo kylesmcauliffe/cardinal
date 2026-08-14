@@ -1,0 +1,265 @@
+# Archive as Power: The Hoover Collection {#sec-3-05}
+
+::: {.chapter-meta}
+Act III — Hoover, War, and the Archive State · 1919
+:::
+
+::: {.content-visible when-profile="draft"}
+
+::: {.callout-note collapse="true"}
+## Pre-Draft Brief
+
+**Core question.** Who controls the past controls the present?
+
+**The answer.** Whoever gathers the documents does. Coming out of the war,
+Hoover funded Stanford to collect the ephemera of the collapse he had just
+watched — the leaflets, the ration cards, the decrees, the underground press of
+a dissolving Europe. What became the Hoover War Collection is a chokepoint on
+proof itself: what later generations are able to cite, and what they cannot.
+
+**The mechanism.** Chokepoint control of the record — the mission register from
+Act II ch. 1, at world scale and with a research agenda. California starts
+accumulating memory infrastructure alongside its wealth, and memory
+infrastructure is the input to every future argument about what happened.
+
+**The key fact.** Hoover committed $50,000 in 1919 and sent collectors into a
+Europe still in chaos to gather material that no government considered worth
+keeping. The value lay in collecting exactly what was about to be thrown away.
+
+**The human anchor.** A collector in 1919 with cash and a mandate, buying
+revolutionary leaflets off a table in a European city, at the moment when nobody
+else thinks they are worth anything.
+
+**Excluded voices.** Every archive not created, and every group whose record was
+not purchased. The collection's shape determines what future scholarship can
+prove, which means the acquisition decisions of 1919 constrain the
+historiography of the next century — including this book's.
+
+**Proof.** This chapter proves that archives function as chokepoints on
+interpretation by showing a private fortune determine, through acquisition
+choices, what evidence about the war and the revolutions would survive.
+:::
+
+::: {.callout-tip collapse="true"}
+## Working summary
+
+In 1919 a collector walked through a European city buying revolutionary leaflets
+off a table with American money, at the moment when nobody thought they were
+worth anything. Some of those sheets are now the only surviving copies.
+
+Hoover had spent five years watching governments dissolve, and he understood
+something that the governments did not: the paper was about to disappear. He
+committed fifty thousand dollars to Stanford and dispatched agents into a Europe
+still in chaos with an instruction to take everything — ration documents,
+occupation decrees, underground presses, the ephemera of collapse that no
+ministry considered worth filing. What became the Hoover War Collection was
+built on precisely the material that had no value to anyone else.
+
+The chapter's argument is that an archive is a chokepoint. What later
+generations can prove, cite, or deny is determined by what was collected, and
+collection decisions are made by people with interests. This is not a claim
+about falsification; nothing in the collection is forged. It is a claim about
+gravitational fields. Research follows sources, sources sit inside institutions,
+and institutions have points of view.
+
+There is something genuinely strange about the location, and the chapter names
+it before explaining it: a world archive of European collapse, assembled on a
+former horse farm in California. The explanation is the book's whole thesis in
+miniature. The collection followed the donor, and the donor followed the
+credential. California was now accumulating memory infrastructure alongside
+land, capital, and institutions, and memory infrastructure is the input to every
+future argument about what happened.
+
+The chapter's honesty requirement is to name what was not collected, and to
+concede that this book's own evidence base was shaped by acquisition decisions
+made in 1919 by people with a view about what mattered.
+
+By the end of the chapter California holds four things: land, capital,
+credentials, and memory. The fourth is the one nobody thinks to count.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A leaflet nobody wanted, bought with American money, now the only
+   surviving copy. The object first.
+2. **The idea.** Hoover in 1919, having watched governments dissolve,
+   understanding that the paper is about to disappear.
+3. **The mechanism of collection.** The $50,000, Ephraim Adams, the agents in
+   the field, and the instruction to take everything.
+4. **What they got.** Specifics: revolutionary ephemera, ration documents,
+   occupation decrees, underground presses. The value is in the worthless.
+5. **Why Palo Alto.** A world archive of European collapse, located on a former
+   horse farm in California. Name the strangeness and then explain it: the
+   collection follows the donor, and the donor follows the credential.
+6. **The archive as an instrument.** What it means for research agendas that the
+   documents sit inside an institution with a point of view. Not a conspiracy —
+   a gravitational field.
+7. **Forward reference, once.** The Institution's later political role belongs
+   to Act IV ch. 10 and Act V ch. 6. Plant the seed only.
+8. **The excluded.** What was not collected. And the honest admission that this
+   book's own evidence base was shaped by these decisions.
+9. **Landing.** California now holds land, capital, credentials, and memory. The
+   fourth is the one nobody thinks to count.
+:::
+
+:::
+
+::: {.chapter-question}
+Who controls the past controls the present?
+:::
+
+In 1919 a man with American money walked through a European city buying
+revolutionary leaflets off a table.
+
+Nobody wanted them. They had been printed a few weeks or months earlier by
+organisations that in several cases no longer existed, in cities where the
+government had changed two or three times in a year. They were ephemera in the
+strict sense: printed matter produced for immediate use and not intended to
+survive.
+
+Some of those sheets are now the only surviving copies, and they sit in a tower
+on a former horse farm in California.
+
+## The instruction
+
+Hoover committed fifty thousand dollars to Stanford in 1919 and asked a history
+professor, Ephraim Adams, to organise the collection. Adams recruited scholars
+and sent them into Europe with cash, and the instruction was essentially to take
+everything.
+
+The scope was war and revolution: the documentary record of the conflict and of
+the political upheavals that followed it. Not the official diplomatic
+correspondence, which governments would keep anyway, but the material that no
+ministry would file — propaganda posters, underground newspapers, ration
+documents, occupation decrees, the publications of political parties that lasted
+a season, the paperwork of relief organisations, and in due course the records
+of Hoover's own Commission.
+
+The collectors had two advantages. They had dollars, in economies where the
+currency had collapsed. And they were there immediately, in the window between
+the event and the general recognition that the event had been historic.
+
+The Hoover War Collection became the Hoover War Library and then the Hoover
+Institution on War, Revolution, and Peace. Its holdings on the Russian
+Revolution and the European left in this period are among the most important
+anywhere, and scholars have worked from them for a century.
+
+## Why an archive is a chokepoint
+
+The argument of this chapter is that a collection of this kind is not a neutral
+service to scholarship, and the claim needs to be made carefully because it is
+easy to overstate.
+
+Nothing in the Hoover collection is forged. The materials are real, the
+cataloguing is professional, and access has been broadly available to
+researchers. This is not an accusation of falsification.
+
+The claim is about gravity. Research follows sources. What can be written about
+a period depends on what survives, what has been gathered, what has been
+catalogued, and what a scholar can reach. A collection that is unusually strong
+on one subject and thin on another shapes the literature for generations, not by
+suppressing anything but by making some questions answerable and others
+expensive.
+
+The Hoover collection is unusually strong on the anti-communist and counter-
+revolutionary side of the European upheavals, on the relief operations Hoover
+ran, and on the personal papers of figures whose politics its founder shared.
+That is what happens when a private fortune with a point of view sends agents
+into the field: they buy what they recognise as significant, and significance is
+a judgment.
+
+Whoever gathers the documents determines what a later generation can prove,
+cite, or deny. Not by lying. By being the only place the material is.
+
+## Palo Alto
+
+There is something genuinely strange about the location, and the chapter names
+it before explaining it.
+
+A world archive of European collapse — Bolshevik proclamations, German
+occupation orders, Habsburg administrative records — assembled in a small town
+in northern California, thirty miles from San Francisco, on land that had been a
+stock farm twenty-eight years earlier.
+
+The explanation is the whole thesis of this book in miniature. The collection is
+in Palo Alto because Hoover was a Stanford man, and Hoover was a Stanford man
+because a professor recruiting in Portland in 1891 persuaded a seventeen-year-
+old clerk to sit an examination he then failed.
+
+The collection followed the donor. The donor followed the credential. And
+California, which by 1919 had land, capital, and an institution, acquired the
+fourth thing on the list: memory infrastructure.
+
+Nobody counts that one. It does not appear in economic statistics, and it
+generates no revenue. It is nonetheless an asset, and it compounds, and it
+cannot be replicated by anyone arriving later, because the material is finite
+and it has already been collected.
+
+## Why 1919 was the window
+
+The timing was not incidental, and the chapter should say why the opportunity
+existed at all.
+
+Three things coincided. Europe had just produced, in five years, the largest
+volume of political printed matter in its history — every belligerent had run
+propaganda operations, and every revolutionary movement of 1917 to 1919 had
+published continuously. That material was everywhere and it was worthless.
+
+Second, the currencies had collapsed. American dollars in central Europe in 1919
+bought at rates that made systematic acquisition trivially affordable for anyone
+with a modest budget in hard currency. Fifty thousand dollars was a substantial
+sum in the United States and an enormous one in Vienna or Warsaw.
+
+And third, Hoover's relief organisation had people in place. The American Relief
+Administration had staff, transport, and official standing across a dozen
+countries, and its personnel could move and ship in conditions where private
+scholars could not. The collection was assembled on the logistics of the
+operation described in the previous chapter.
+
+That combination existed for roughly two or three years and then closed.
+Governments began organising their own archives, values recovered, and the
+material dispersed or was destroyed. The scholars who came later found that
+somebody had already been through.
+
+This is what a chokepoint on the historical record looks like in practice. Not a
+prohibition, and not a secret — a window, an organisation positioned to use it,
+and a permanent advantage that accrues to whoever moved first.
+
+## The tower
+
+Hoover Tower was completed in 1941, for the university's fiftieth anniversary,
+at two hundred and eighty-five feet. It is the tallest structure on the campus,
+visible from the freeway, and it is a library.
+
+That is worth pausing on. A university whose land came from a railroad marked
+its half-century by building an archive tall enough to be seen from a distance,
+carrying the name of its most successful graduate, holding the documentary
+record of how power had moved in Europe.
+
+Act V's chapter on street names will make the general argument about what the
+built environment records. This is the clearest single instance: the tallest
+building on the campus is the place where the documents are kept.
+
+## What was not collected
+
+The chapter's honesty requirement is to name the absence, and then to concede
+the same problem in itself.
+
+The collection reflects what its founder and his agents thought mattered in
+1919. It is European and Euro-American in focus. It reflects the interests of a
+man who had strong views about Bolshevism and about the proper organisation of
+relief. The counterfactual collection — assembled by different people with
+different politics — would support a different literature.
+
+And this book has the same problem. Act I chapter 1 said it about the Ugarit
+tablets: we know the palaces because the palaces employed scribes. Act II said
+it about the mission registers. It is true here too. Cardinal's account of
+twentieth-century California rests substantially on records created and
+preserved by the institutions it is describing, because those are the records
+that exist.
+
+The chapter cannot solve that. It can only make sure the reader knows it.
+
+By 1919 California holds land, capital, credentials, and memory. Chapter 6 is
+about the machine that connects them.

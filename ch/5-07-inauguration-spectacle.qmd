@@ -1,0 +1,274 @@
+# The Inauguration Spectacle: Elite Fusion Goes Public {#sec-5-07}
+
+::: {.chapter-meta}
+Act V — The Open Era · 2022–2025
+:::
+
+::: {.content-visible when-profile="draft"}
+
+::: {.callout-note collapse="true"}
+## Pre-Draft Brief
+
+**Core question.** When does subliminal become explicit?
+
+**The answer.** In January 2025, on television. Technology founders stood on the
+inauguration platform in positions closer to the president than much of his
+cabinet, and the elite fusion this book has traced for two hundred and fifty
+years stopped requiring inference. The argument became visible, which is a
+different thing from becoming true — it was true the whole time.
+
+**The mechanism.** Elite network reproduction, performed rather than concealed.
+The chapter's discipline is to describe rather than interpret: the proximity is
+the evidence, and it needs no embellishment. Every specific must be verifiable
+from the public record.
+
+**The key fact.** Peter Thiel contributed roughly $15 million to J. D. Vance's
+2022 Senate campaign, and Vance became vice president. Verify the amount from
+FEC filings. A single investor's political spending routing a PayPal colleague's
+protégé into the vice presidency is the network's most legible output.
+
+**The human anchor.** The seating chart. A photograph, a set of positions, and
+no commentary required.
+
+**Excluded voices.** Everyone whose political participation consists of a vote.
+The chapter's force comes from the contrast between a $15 million contribution
+and a ballot, and it should be stated once and left alone.
+
+**Proof.** This chapter proves that the network reached formal political power
+by tracing documented campaign finance to a specific office, without requiring
+any claim about coordination.
+:::
+
+::: {.callout-tip collapse="true"}
+## Working summary
+
+On 20 January 2025 the founders of several of the largest technology companies
+in the world were seated at the presidential inauguration in positions closer to
+the president than much of his incoming cabinet. The chapter begins with the
+seating, verified from the record, and largely declines to interpret it. The
+proximity is the evidence.
+
+Its documented core is campaign finance. Peter Thiel contributed roughly fifteen
+million dollars to J. D. Vance's 2022 Senate campaign — a figure taken from FEC
+filings — and Vance became vice president. Thiel had employed Vance, mentored
+him, and funded him. That is the network described in Act IV chapter 13
+producing its most legible output, and it requires no claim about coordination
+whatsoever, only disclosure documents.
+
+The chapter works the same way through the rest: contributions and endorsements
+in the 2024 cycle from filings, and Musk's subsequent advisory role in
+government described from official announcements with its actual remit and
+authority.
+
+What changed in January 2025 was visibility rather than substance, and that is
+the chapter's whole argument. These relationships had been building for two
+decades in public disclosure filings that almost nobody read. The book's thesis
+stopped requiring inference and started being televised, and it was equally true
+the morning before.
+
+The gesture at Capital One Arena is handled under the contested-history rule. It
+occurred, it was widely reported, interpretations of it diverged sharply and
+immediately, and this book does not attempt to adjudicate intent. It says what
+is documented, notes the dispute, and builds nothing on it — the drafts leaned
+on the episode heavily and the argument does not need it.
+
+Several events the drafts narrated as fact for 2025 could not be verified and
+have been removed; the reasoning is in the project's cut-material log.
+
+The contrast the chapter states once and then leaves alone is between fifteen
+million dollars and a vote.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** The seating. Who was in front of whom, on 20 January 2025, in the
+   Capitol rotunda. Verified from the record.
+2. **How the relationships were built.** Thiel to Vance: employment, mentorship,
+   and the 2022 campaign contribution from FEC filings. Then the other founders
+   present and their documented political spending.
+3. **The 2024 cycle.** Verified contributions and endorsements from disclosure
+   filings. No inference where a filing exists.
+4. **What changed and what did not.** The relationships are not new; the
+   visibility is. This is the chapter's whole argument and it should be stated
+   plainly.
+5. **Musk's government role.** The advisory position and its remit, described
+   from official announcements and reporting. Facts, dates, authority.
+6. **The Capital One Arena gesture.** Handle under the contested-history rule:
+   the gesture occurred and was widely reported, interpretations diverged
+   sharply, and the book's interest is not in adjudicating intent. Say what is
+   documented, note the dispute, and decline to build anything on it. The
+   chapter's argument does not need it, and the drafts leaned on it far too
+   heavily.
+7. **Cut material, noted internally.** The drafts contained unverifiable 2025
+   events written as fact. They are removed; see cut-material.md. Do not
+   reintroduce.
+8. **The excluded.** A vote against $15 million.
+9. **Landing.** The mechanism is on television. It was always operating; only
+   the discretion has been withdrawn.
+:::
+
+:::
+
+::: {.chapter-question}
+When does subliminal become explicit?
+:::
+
+On 20 January 2025, at the presidential inauguration in the Capitol rotunda, the
+founders and chief executives of several of the largest technology companies in
+the world were seated in front of much of the incoming cabinet.
+
+The chapter begins with the seating and largely declines to interpret it,
+because the proximity is the evidence and it needs no assistance.
+
+## The documented core
+
+Everything load-bearing in this chapter comes from disclosure filings, which is
+the only responsible way to write about living people in a book making this
+argument.
+
+Peter Thiel contributed roughly fifteen million dollars to J. D. Vance's 2022
+Senate campaign in Ohio, principally through a supporting committee — one of the
+largest sums ever directed by a single donor to a single Senate candidate. Thiel
+had employed Vance at his investment firm, had mentored him, and had introduced
+him to the network described in Act IV chapter 13.
+
+Vance won the seat in November 2022. He was elected vice president in November
+2024.
+
+That is the network from a single company's payroll in 2002 reaching the second
+office of the United States within twenty-two years, and it can be documented
+entirely from Federal Election Commission records. No claim about coordination
+is required, and none is made.
+
+## The 2024 cycle
+
+The broader pattern is visible in the same filings.
+
+Technology executives and investors contributed at scale to committees
+supporting the successful campaign, and several who had previously been publicly
+associated with the other party or with no party endorsed publicly for the first
+time. Elon Musk's contributions through a supporting committee were among the
+largest individual political expenditures on record, and he campaigned
+personally.
+
+The chapter cites amounts from filings and declines to characterise motives,
+because the motives are not knowable and the filings are.
+
+## The role
+
+After the inauguration Musk was given a formal advisory position in the federal
+government concerned with spending reduction and the reorganisation of federal
+agencies, described in official announcements and reported extensively.
+
+The chapter records the position, its stated remit, and its authority as
+described in the establishing documents. Where the position's boundaries were
+disputed — and they were, in litigation and in congressional correspondence — it
+says so.
+
+What is structurally novel is not that a wealthy person had influence over
+government. That is Act II chapter 10, and Collis Huntington was more candid
+about it. What is novel is a serving executive of firms holding major federal
+contracts occupying a formal advisory role over the agencies that let them, with
+the conflict identified and not resolved.
+
+## What changed, and what did not
+
+The argument of this chapter is that January 2025 changed the visibility rather
+than the substance, and that this distinction is the whole point of the book.
+
+The relationships were not new. They had been building for two decades in
+disclosure filings that almost nobody read, in board seats, in a network that
+funded itself, and in an institution that supplied the founders. Every mechanism
+this book describes was operating in 2015 exactly as it was operating in 2025.
+
+What ended was the discretion. An elite that once exercised influence through
+donations, foundations, and quiet access began exercising it in front of
+cameras, on a platform one of them owned, from a seat in the rotunda.
+
+The book's thesis stopped requiring inference and started being televised. It
+was equally true the morning before.
+
+There is one further novelty. In 2022 one of the men in the rotunda had bought a
+communications platform outright and reoriented its moderation and ranking
+policies according to his own stated views. A previous generation of proprietors
+bought newspapers, and the comparison is fair as far as it goes. It goes less
+far than it looks, because a newspaper's readers knew they were reading a
+proprietor's newspaper, and a ranking algorithm's users generally do not
+experience the feed as an editorial product at all.
+
+## The gesture
+
+At an event at Capital One Arena on the day of the inauguration, Musk made a
+gesture that was immediately and widely discussed, with interpretations
+diverging sharply and along predictable lines.
+
+This book does not adjudicate it.
+
+The gesture occurred and was recorded, the dispute about what it meant was
+extensive and remains unresolved, and intent is not knowable from a video. The
+project's rule for contested material is to state what is documented, name the
+disagreement, and build nothing on it, and that rule is applied here.
+
+The chapter's argument requires none of it. Fifteen million dollars in an FEC
+filing is a fact. A seating chart is a fact. An advisory role established by
+executive action is a fact. The gesture is a controversy, and controversies age
+badly while filings do not.
+
+The drafts of this project leaned on this episode heavily and also contained
+several 2025 events narrated as fact that could not be verified at all. Those
+have been removed, and the reasoning is recorded in the project's cut-material
+log.
+
+## The turn
+
+The realignment that produced the rotunda seating deserves a section, because it
+was not inevitable and happened quickly.
+
+For most of the period covered by Act IV, the corridor's politics were broadly
+liberal on social questions and libertarian on economic ones, and its money went
+predominantly to Democrats. The industry's self-image was progressive, and its
+relationship with Democratic administrations was close enough that the traffic
+in personnel between them was routine.
+
+Several things changed that. Antitrust enforcement became bipartisan, and the
+appointments made after 2021 were more hostile to the industry's structural
+position than anything in the preceding forty years. Content moderation became a
+partisan battlefield in which the platforms were attacked from both directions
+and satisfied neither. Cryptocurrency regulation and the tax treatment of
+unrealised gains became salient. And a generation of founders who had
+experienced the internal politics of their own companies during the late 2010s
+concluded that their workforces were an adversary.
+
+The result was that a portion of the industry's most prominent figures moved,
+publicly and rapidly, and the 2024 cycle was the first in which technology money
+was a major factor on the Republican side.
+
+The chapter's observation is that the substance being defended did not change.
+It was the same set of positions — light regulation, favourable capital
+taxation, resistance to antitrust, and freedom to operate — pursued through a
+different party because the other one had stopped supplying them. That is what
+an interest does, and describing it as an interest rather than as a conversion
+is the analytically accurate move.
+
+## The comparison
+
+The chapter closes on a contrast and then stops.
+
+A citizen's participation in an American election consists of a vote. In 2022 a
+single investor directed fifteen million dollars to a single Senate campaign,
+and the candidate became vice president.
+
+Both facts are legal. Both are documented. They are not the same kind of
+participation, and the difference is not a matter of opinion.
+
+And the reader should notice what this chapter did not have to do. It made no
+claim about a meeting, a plan, or an agreement. It cited filings, a seating
+arrangement, and an executive action. The argument of this book does not require
+anybody to have conspired, and at the point where the mechanism becomes fully
+visible it turns out that nothing needed to be hidden in the first place.
+
+Act II chapter 11 described a crowd on a San Francisco sandlot being directed
+toward the Chinese while the railroad's owners watched from Nob Hill. The
+mechanism has not changed. What has changed is that the men on the hill no
+longer find it necessary to stay up there.

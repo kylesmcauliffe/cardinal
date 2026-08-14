@@ -1,0 +1,274 @@
+# Fairchild and the Platform Company {#sec-4-03}
+
+::: {.chapter-meta}
+Act IV — The Silicon Valley Machine · 1957–1968
+:::
+
+::: {.content-visible when-profile="draft"}
+
+::: {.callout-note collapse="true"}
+## Pre-Draft Brief
+
+**Core question.** How does one firm seed an entire industry?
+
+**The answer.** By fragmenting productively. Fairchild's importance is not that
+it dominated but that it decomposed: Intel, AMD, National Semiconductor and
+dozens of others came out of it, each carrying the same techniques and the same
+assumptions. And in financing that decomposition, Arthur Rock invented the
+modern venture model — equity rather than lending, people rather than assets.
+
+**The mechanism.** Chokepoint control, distributed, plus the birth of the
+capital chokepoint that ch. 5 will formalise. The planar process is a genuine
+bottleneck; what makes the Valley rather than merely a company is that the
+bottleneck's holders kept splitting and each split was funded.
+
+**The key fact.** Robert Noyce's independent development of the integrated
+circuit, and Jean Hoerni's planar process, gave Fairchild a manufacturing
+advantage that could be carried out of the building in people's heads. The asset
+was fully portable, which is exactly why the firm could not hold it.
+
+**The human anchor.** Arthur Rock, the least visible figure in the story,
+deciding that the thing worth buying is a group of people rather than a factory.
+
+**Excluded voices.** The assembly and fabrication workforce, disproportionately
+women and, as the decade progresses, offshore. Fairchild's Hong Kong assembly
+operation opened in 1963 — the offshore turn happening in semiconductors at the
+same moment Knight is arranging it in shoes, two chapters later. Make the
+connection.
+
+**Proof.** This chapter proves that recombination rather than accumulation drove
+the Valley by showing that its dominant firms are all descendants of a single
+company that lost its people.
+:::
+
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Draw the family tree of the American semiconductor industry and almost every
+branch runs back to one company that could not keep its people. Intel, AMD,
+National Semiconductor, and dozens more came out of Fairchild, and the chapter
+begins with that fan-out and then explains why the parent could not prevent it.
+
+Fairchild Semiconductor was founded in 1957 by the eight who had left Shockley,
+under a deal with Fairchild Camera and Instrument that included a buyback option
+which later caused most of the trouble. Its technical achievements were real and
+consequential: Jean Hoerni's planar process, and Robert Noyce's independent
+development of the integrated circuit. Together they gave the firm a
+manufacturing advantage over everyone else in the industry.
+
+That advantage was also completely portable, which is the chapter's structural
+point. Process knowledge lives in the people who hold it, and people can walk. A
+company whose competitive position consists of things its engineers know cannot
+prevent those engineers from founding competitors, particularly in a state that
+will not enforce a non-compete. Noyce and Gordon Moore left for Intel in 1968;
+Jerry Sanders founded AMD; Charlie Sporck went to National. The Valley grew by
+recombination, splitting and re-forming faster than any regulator could follow.
+
+The early customers were military and aerospace, including Minuteman and Apollo.
+This is not yet a consumer industry, and the chapter keeps Act III's substrate
+visible.
+
+Arthur Rock's contribution runs alongside. He took equity rather than issuing
+loans, and backed groups of people rather than collateral, which was genuinely
+novel and which is what made funding the fragmentation possible.
+
+Fairchild opened assembly operations in Hong Kong in 1963. That is the offshore
+turn happening in semiconductors at the same moment Phil Knight is arranging it
+in footwear three chapters later, and the workforce — largely young women, paid
+a fraction of American wages — is the cost the margins depend on. Women on the
+domestic fabrication lines belong in the same accounting.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** A family tree. Open on the sheer number of companies descended from
+   one firm, then explain why the parent could not keep them.
+2. **Fairchild founded, 1957.** The deal structure with Fairchild Camera, and
+   the buyback option that will cause the trouble.
+3. **The technical breakthroughs.** Hoerni's planar process; Noyce and the
+   integrated circuit. Enough detail that the reader understands the advantage,
+   not more.
+4. **Why the advantage was portable.** Process knowledge lives in people. The
+   asset walks.
+5. **Early customers.** Defence and aerospace, including Minuteman and Apollo.
+   The military substrate again — this is not a consumer industry yet.
+6. **Arthur Rock's invention.** Equity stakes rather than loans; backing people
+   rather than collateral. Why this was novel and what it enabled.
+7. **The departures.** 1968, Noyce and Moore to Intel. Sanders to AMD. Sporck to
+   National. The Fairchildren.
+8. **Hong Kong, 1963.** Offshore assembly, the labour force, and the cost logic.
+   Flag forward to ch. 6 — the same move, in shoes, in the same years.
+9. **The excluded.** Women on the fabrication lines; offshore assembly workers.
+   Sourced specifics.
+10. **Landing.** An industry that reproduces by splitting, and a financier who
+   has worked out how to fund the splitting. The capital chokepoint is next.
+:::
+
+:::
+
+::: {.chapter-question}
+How does one firm seed an entire industry?
+:::
+
+Draw the family tree of the American semiconductor industry and it is almost
+entirely descended from one company that could not keep its people.
+
+Intel. Advanced Micro Devices. National Semiconductor. Signetics. Intersil.
+Teledyne's semiconductor operations. By the mid-1980s the number of firms
+founded by Fairchild alumni or by their alumni in turn ran into the dozens, and
+they were called Fairchildren, which is a joke that describes a mechanism.
+
+## What Fairchild had
+
+The technical achievements were real and they were fundamental.
+
+Jean Hoerni developed the planar process, in which the transistor is built in
+layers on a flat silicon surface protected by an oxide coating. Before it,
+transistors were three-dimensional objects assembled individually and vulnerable
+to contamination. After it, they could be fabricated photographically in
+batches, reliably, at scale.
+
+Robert Noyce then saw what followed. If devices could be built on a flat
+surface, several of them could be built on the same piece of silicon and
+connected with metal deposited on the same surface. Jack Kilby at Texas
+Instruments had independently built an integrated circuit some months earlier by
+a different method; Noyce's planar version was the one that could be
+manufactured. The two companies litigated for years and eventually cross-
+licensed.
+
+That combination gave Fairchild a manufacturing advantage that no competitor
+could match for several years.
+
+## Why the advantage walked
+
+The advantage was also completely portable, and this is the chapter's structural
+point.
+
+Process knowledge in semiconductor manufacturing lives in people. It is not
+principally in patents, which describe the general approach and not the thousand
+adjustments that make a line yield; and it is not in equipment, which anyone can
+buy. It is in the engineers who know what temperature, what timing, what
+contaminant caused last month's failures.
+
+A company whose competitive position consists of what its engineers know cannot
+prevent those engineers from leaving, particularly in a state that will not
+enforce a non-compete. And Fairchild's parent company managed to give them
+reasons.
+
+Fairchild Camera and Instrument had exercised its option and bought the
+subsidiary in 1959, which made the eight founders wealthy and made them
+employees. The parent then treated the semiconductor division as a source of
+cash for the rest of its business, declined to grant meaningful stock options to
+the people generating the profits, and appointed executives from outside.
+
+The departures began early — Hoerni, Last, and Roberts left in 1961 to found
+Amelco under Teledyne — and accelerated. Charlie Sporck went to National
+Semiconductor in 1967. Jerry Sanders left and founded AMD in 1969. And in 1968
+Noyce and Gordon Moore resigned to found Intel, taking Andy Grove with them, and
+Arthur Rock raised the money in a matter of days.
+
+## Recombination as growth
+
+What this produced is an industry that grew by splitting rather than by
+accumulating, and the chapter should be precise about why that is unusual.
+
+The normal pattern in a capital-intensive industry with strong learning effects
+is consolidation. Advantages compound, the leader gets further ahead, and the
+market ends up with a few large firms. That is what happened in steel, in
+automobiles, and in aircraft.
+
+Semiconductors went the other way for twenty years, because the crucial asset
+kept walking out and because there was now a financial mechanism to fund it when
+it did. Each new firm carried the same techniques and the same assumptions about
+how a semiconductor company should be run — flat, engineering-led, generous with
+equity — and each seeded the next.
+
+The region acquired an industry rather than a company, and an industry with a
+shared culture that had propagated by fission from a single origin.
+
+## The military customer
+
+The chapter keeps Act III's substrate visible, because the early market was not
+consumer electronics and was not close to it.
+
+Integrated circuits were expensive and their first large customers were
+programmes for which cost mattered less than weight and reliability: the
+Minuteman missile guidance system and the Apollo Guidance Computer. Federal
+purchasing in the early 1960s absorbed the great majority of American integrated
+circuit production and, by guaranteeing volume, drove the price down the
+learning curve to the point where commercial applications became viable.
+
+The consumer semiconductor industry exists because the Defense Department and
+NASA bought the first several years of output at whatever it cost. That is a
+public subsidy of the most direct kind, and it does not appear in any account of
+the industry that begins with a garage.
+
+## Moore's observation
+
+In 1965 Gordon Moore, then Fairchild's director of research and development, was
+asked by *Electronics* magazine to write about the future of integrated
+electronics. He plotted the number of components on a chip against time, found
+the count had been doubling roughly annually, and projected the trend forward a
+decade.
+
+It held, with a revision to roughly two years, for half a century.
+
+Moore's law is usually described as a prediction and it is better understood as
+a coordination device. It was not a law of physics. It was a statement about
+what the industry could achieve if it kept investing at a particular rate, and
+once everyone believed it, everyone planned around it — equipment suppliers,
+chip designers, and the customers designing products for chips that did not yet
+exist. A shared expectation about the future became a schedule, and firms that
+missed it lost their market.
+
+The chapter's interest is that this is an industry setting its own clock. The
+rate of technical progress in semiconductors between 1965 and roughly 2015 was
+determined substantially by a self-fulfilling forecast published in a trade
+magazine by a research director who would found Intel three years later.
+
+It also has a chokepoint consequence, which arrives in Act V. Sustaining the
+curve required exponentially rising capital investment in fabrication, and the
+number of firms able to afford a leading-edge plant fell from dozens to a
+handful. The economics that made the industry fragment in 1968 reversed
+completely, and by the twenty-first century advanced fabrication had
+concentrated into fewer facilities than any other critical technology on earth.
+
+## Hong Kong, 1963
+
+Fairchild opened an assembly plant in Hong Kong in 1963, and it is the first
+entry in this act's ledger.
+
+The logic was straightforward. Fabricating the wafer required capital and
+expertise and stayed in California. Assembling and testing the resulting devices
+— bonding fine wires, sealing packages, checking output — was labour-intensive,
+required no advanced training, and could be done anywhere labour was cheap. Hong
+Kong wages were a small fraction of Californian ones.
+
+The workforce was overwhelmingly young women. So was the fabrication workforce
+back in California, where women worked the lines in clean rooms handling
+solvents and acids whose long-term effects were poorly understood at the time
+and became the subject of litigation and epidemiological study decades later.
+Semiconductor manufacturing in Santa Clara County also left a legacy of
+groundwater contamination from solvent handling that produced one of the densest
+concentrations of federal Superfund sites in the country, in the same towns
+whose housing prices this book has already discussed.
+
+Other firms followed to Hong Kong, then to South Korea, Taiwan, Singapore, and
+Malaysia. The offshore assembly model was established in semiconductors by the
+mid-1960s.
+
+Note the date against the next chapter but one. In 1962 a Stanford business
+student wrote a paper arguing that Japanese manufacturing could displace German
+shoes, and by the end of the decade he was importing from Asian contract
+factories. Fairchild reached the same conclusion in the same years, in silicon.
+Neither was copying the other. Both were responding to the same arithmetic.
+
+## What leaves the chapter
+
+An industry that reproduces by fission. A technical asset that lives in people
+and therefore cannot be held. A federal customer buying the early output. An
+offshore labour system supplying the margin. And a financier who has worked out
+how to fund a group of engineers walking out of a building.
+
+That last one is about to become the tightest chokepoint in the system.

@@ -1,0 +1,282 @@
+# China: Continuity as a Theory of Power {#sec-1-06}
+
+::: {.chapter-meta}
+Act I — The World Before California · 200 BCE–1800
+:::
+
+::: {.content-visible when-profile="draft"}
+
+::: {.callout-note collapse="true"}
+## Pre-Draft Brief
+
+**Core question.** What does power look like when its goal is continuity rather
+than growth?
+
+**The answer.** It looks like an examination hall. The Chinese imperial system
+is the most durable arrangement of power in recorded history, and it achieved
+that by reproducing its governing class through examination rather than blood —
+which means it could survive the collapse of any particular dynasty, because the
+dynasty was never the mechanism.
+
+**The mechanism.** Elite network reproduction in its most explicit and most
+honest form. The examination system is a credentialing interface with the
+pretence stripped off: the state says outright that it is selecting and ranking,
+and publishes the criteria. Stanford's version is the same machine with a merit
+story attached.
+
+**The key fact.** The scholar-official class reproduced itself by examination,
+not inheritance. Dynasties fell and the bureaucracy continued, because the
+bureaucracy was not owned by the dynasty.
+
+**The human anchor.** A candidate in an examination cell, writing on a text a
+thousand years older than he is, for a post in a state that will outlast the
+family currently occupying the throne.
+
+**Excluded voices.** The overwhelming majority, for whom the examination was
+theoretically open and practically unreachable — years of literacy and leisure
+being the real entry requirement. Formal openness concealing an economic filter
+is a pattern this book will meet again in admissions offices.
+
+**Proof.** This chapter proves that elite reproduction rather than founder
+genius is what makes power durable by showing that the Chinese state survived
+repeated dynastic collapse because its governing class was credentialed rather
+than inherited.
+:::
+
+::: {.callout-tip collapse="true"}
+## Working summary
+
+A candidate sits in an examination cell writing on a text a thousand years older
+than he is, competing for a post in a state that has already outlived several
+ruling families. That image is the most durable arrangement of power in recorded
+history, and it is the chapter's whole argument.
+
+The Chinese imperial system was optimised for persistence rather than growth,
+which makes it nearly illegible to a culture that assumes expansion is the
+point. Its central mechanism was the examination. The scholar-official class
+reproduced itself by tested competence in a shared canon rather than by
+inheritance, which produced a governing class with common reference points, no
+independent power base, and no loyalty to any particular dynasty. Dynasties
+fell. The bureaucracy continued, because the bureaucracy was never owned by the
+dynasty.
+
+This is elite network reproduction with the pretence removed. The state said
+outright that it was selecting and ranking people, published the criteria, and
+administered the test. Every institution in the rest of this book does the same
+thing while describing it as something else.
+
+The chapter takes the treasure fleets seriously rather than using them as a
+morality tale. Discontinuing long-range naval expansion looks like a
+catastrophic error from a European vantage point and looks rational inside a
+system whose objective is continuity: the voyages were expensive, they returned
+prestige rather than revenue, and the northern frontier was the actual threat.
+
+Its cost is a filter disguised as an opening. The examination was formally
+available to almost anyone and practically available to very few, because the
+real entry requirement was years of literacy and leisure that only some families
+could fund. Formal openness concealing an economic filter is a pattern this book
+will meet again, in an admissions office, described as merit.
+
+The contrast with founder-cult capitalism is total and instructive. The most
+durable power system in human history was a credentialing system, and Act III
+will need that sentence.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** The examination cell. One candidate, one text, one state that has
+   already outlived several ruling families.
+2. **Continuity as the objective.** State the premise the chapter turns on: this
+   is a system optimised for persistence rather than growth, which makes it
+   unreadable to a culture that assumes expansion.
+3. **The examination system.** What was actually tested, and what testing a
+   canon accomplishes: a governing class with shared reference points and no
+   independent base.
+4. **Confucian legitimacy.** Authority as the performance of a role. Compare,
+   once, to the Roman costume argument.
+5. **Surviving dynastic collapse.** The mechanism in action — the bureaucracy as
+   the continuous element, dynasties as replaceable.
+6. **The contrast, stated directly.** Founder cult against examined succession.
+   This is the chapter's reason for existing in a book about Silicon Valley, and
+   it should be explicit.
+7. **Why it did not expand.** Treasure fleets and their discontinuation. Resist
+   the standard morality tale; the decision was rational inside its own frame.
+8. **The excluded.** The literacy and leisure requirement. Formal openness as an
+   economic filter.
+9. **The collision.** Industrial Europe arriving with incompatible assumptions
+   about what power is for. Keep it brief; it is a hinge to ch. 8, not the
+   subject.
+10. **Landing.** The most durable power system in history was a credentialing
+   system. Hold that sentence; Act III will need it.
+:::
+
+:::
+
+::: {.chapter-question}
+What does power look like when its goal is continuity rather than growth?
+:::
+
+The examination cells at Nanjing were arranged in rows, each one roughly a metre
+wide, with two boards that could be set at different heights to serve as a desk
+by day and a bed by night. A candidate entered, was searched, and was locked in.
+He stayed for days, writing essays on a body of texts more than a thousand years
+old, competing for entry into a bureaucracy that would outlast the family
+currently occupying the throne.
+
+At its height the complex at Nanjing held more than twenty thousand cells. The
+scale is the point. This was not a ceremony. It was an industrial process for
+manufacturing a governing class, run for roughly thirteen centuries, and it
+produced the most durable arrangement of power in recorded history.
+
+## Optimised for something else
+
+The Chinese imperial system is difficult to read from inside a culture that
+assumes growth is the objective, because it was not optimised for growth. It was
+optimised for continuity, and by that standard it performed better than any
+alternative anyone has tried.
+
+The relevant comparison is not the size of the economy but the persistence of
+the arrangement. Dynasties rose and fell — Han, Tang, Song, Yuan, Ming, Qing —
+through conquest, rebellion, and collapse. The bureaucracy persisted across the
+transitions. Conquering powers, including foreign ones, found that governing
+China required the examined officials and kept them. The Mongols suspended the
+examinations and then restored them, because the alternative was administering
+an enormous agrarian empire without an administrative class.
+
+The institution survived its rulers because it was not owned by them. That
+sentence has appeared in this book twice already, about the Roman Church and
+about the Hellenistic administrative layer, and it will appear again about a
+university in California.
+
+## What the examination actually did
+
+The formal content was a canon: the Confucian classics and their approved
+commentaries, examined through prescribed essay forms of increasing rigidity —
+the eight-legged essay of the Ming and Qing being the most notorious. Critics
+inside China said for centuries that the format rewarded conformity over
+intelligence, and they were substantially right.
+
+But the content is not the mechanism. What the examination produced was a
+governing class with three properties, and all three were valuable to the state.
+
+It shared a set of references, which meant an official from one province could
+work with an official from another and both would recognise the same allusions,
+the same precedents, and the same framework for arguing about a problem. In an
+empire the size of Europe, with mutually unintelligible spoken languages, a
+common written culture among administrators is not a luxury.
+
+It had no independent power base. A successful candidate owed his position to
+the system rather than to a family, a region, or a patron with soldiers. He was
+frequently posted away from his home province precisely to prevent the
+accumulation of local ties. Compare the European aristocrat, whose authority
+preceded the king's and periodically challenged it.
+
+And it could be replaced. Officials were promoted, demoted, transferred, and
+dismissed, and the supply of qualified replacements was continuous. No
+individual was structurally necessary.
+
+This is elite network reproduction with the pretence removed, and that is why
+the chapter belongs in a book about Silicon Valley. The Chinese state said
+openly that it was selecting and ranking people, published the criteria,
+administered the test, and posted the results. Every institution in the
+remainder of this book does a version of the same thing while describing it as
+something else — as merit, as talent identification, as pattern recognition
+about founders. The Chinese version is more honest, and being more honest made
+it easier to criticise, which is one reason it was reformed and eventually
+abolished in 1905 while its less candid descendants continue.
+
+## The fleets
+
+Between 1405 and 1433 the Ming sent seven enormous naval expeditions into the
+Indian Ocean under the admiral Zheng He, reaching East Africa with fleets and
+ships far larger than anything Europe would put to sea for a long time
+afterwards. Then the voyages stopped, the records were neglected, and the
+capacity was allowed to lapse. Sixty years later three small Spanish ships
+crossed the Atlantic.
+
+This episode is regularly deployed as a morality tale about the costs of
+insularity, and the tale is too convenient. Look at it from inside a system
+whose objective is continuity and the decision is not obviously wrong. The
+voyages returned prestige, tribute, and giraffes; they did not return revenue
+that covered their cost. The threat to the dynasty was on the northern frontier,
+where it had always been, and the capital was moved to Beijing to face it. Money
+spent on fleets was money not spent on the Grand Canal, the walls, or the
+northern armies. Officials argued that the expeditions were an extravagance, and
+by the metrics the state actually used, they were.
+
+What the episode demonstrates is not stupidity but the cost of coherence. A
+system optimised for one objective will systematically decline opportunities
+that serve a different one, and it will do so through a rational internal
+process every step of which is defensible.
+
+## The filter
+
+The examination was formally open to almost any male candidate, and this
+openness was genuinely meaningful — men from modest backgrounds did rise through
+it, and the system's legitimacy rested on the fact that they sometimes did.
+
+Practically, it was a filter with an economic gate. Preparing for the
+examinations required years of classical literacy, tutors, books, and the
+absence of any need to work. A family had to be able to support a candidate
+through repeated attempts, and repeated attempts were normal; men sat the
+provincial examinations into middle age. Lineages pooled resources to sponsor
+promising sons, which meant that the unit competing was often the clan rather
+than the individual. Women were excluded entirely.
+
+Formal openness concealing an economic filter is a pattern with a long future.
+Read the sentence again in six hundred pages, standing outside an admissions
+office on the San Francisco Peninsula, where the process is open to all
+applicants and the applicants who succeed have had years of preparation their
+competitors could not afford, and the institution describes the outcome as
+merit.
+
+## What the state did with the graduates
+
+It is worth being concrete about what the examined officials actually did,
+because the abstraction hides the achievement.
+
+They ran a hydraulic empire. The Grand Canal, extended and maintained across
+centuries, moved grain from the productive south to the political north and
+required continuous engineering, dredging, and administration along more than a
+thousand miles. Flood control on the Yellow River was a permanent state function
+whose failure was understood to be politically fatal — a dynasty that could not
+keep the river in its channel was a dynasty visibly losing the mandate. Famine
+relief operated through a system of state granaries with rules about when to
+buy, when to store, and when to release.
+
+None of this is glamorous and all of it is the reason the arrangement lasted. A
+governing class selected by examination, posted away from home, rotated
+regularly, and evaluated on measurable outcomes is a solution to the problem
+every large agrarian state faces, which is how to administer a territory too big
+to supervise with people who will not turn into a local aristocracy.
+
+Europe did not solve this problem until the nineteenth century, and when it did,
+it solved it by copying. The Northcote-Trevelyan report of 1854, which
+established competitive written examination as the basis for the British civil
+service, was produced by men who knew perfectly well where the idea came from;
+several had served in India, where the Company had already adopted a version of
+it. The modern meritocratic civil service is a Chinese export.
+
+That is worth holding onto when Act III arrives at a California university
+describing its selection process as an American innovation.
+
+## The collision
+
+When industrial Europe arrived in force in the nineteenth century, two systems
+with incompatible assumptions about the purpose of power met, and the one
+optimised for continuity lost badly to the one optimised for growth.
+
+That is worth stating without triumphalism, because the metric was chosen by the
+winner. On its own terms — the persistence of a civilisation, a script, an
+administrative tradition, and a governing philosophy across two millennia — the
+Chinese system outperformed everything else humans have built. It was defeated
+by gunboats, which is a real defeat and a narrow one.
+
+The lesson the book takes forward is the one about succession. The most durable
+power system in human history reproduced its governing class by examination
+rather than by inheritance or charisma, and it survived every dynasty that ruled
+it. Silicon Valley organises itself around founders, tells stories about
+individual genius, and has no succession mechanism worth the name.
+
+Act III will need that sentence when Stanford starts issuing credentials.

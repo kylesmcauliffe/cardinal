@@ -1,0 +1,260 @@
+# The Medici, the Press, and the Capture of Meaning {#sec-1-07}
+
+::: {.chapter-meta}
+Act I — The World Before California · 1300–1648
+:::
+
+::: {.content-visible when-profile="draft"}
+
+::: {.callout-note collapse="true"}
+## Pre-Draft Brief
+
+**Core question.** How does private capital come to commission public meaning —
+and what happens when copying gets cheap?
+
+**The answer.** By funding it, then staffing it, then becoming it — and the
+sequence is the method. The Medici went from money changers to popes by making
+themselves indispensable to the institution they wanted to control. Then the
+press destroyed the information monopoly that had made such capture worth
+attempting, and a century of war followed over who owned the narrative layer.
+
+**The mechanism.** Public subsidy inverted — private capital commissioning
+public meaning — and then the collapse of a chokepoint. The chapter's two halves
+are the two things that can happen to a monopoly on legitimacy: it can be
+bought, and it can be destroyed by a change in the cost of copying.
+
+**The key fact.** The Medici produced four popes. A banking family did not
+merely influence the institution that certified European legitimacy; it supplied
+its personnel.
+
+**The human anchor.** A commissioned altarpiece with a donor's face in it. The
+most efficient statement of the mechanism in the book: the man who paid is
+inside the sacred image, permanently, at eye level.
+
+**Excluded voices.** Florentine wool workers, whose labour generated the surplus
+that became the patronage; the borrowers on the other side of the ledger; and
+the readers whose access to text the press expanded and whose lives the
+resulting wars consumed.
+
+**Proof.** This chapter proves that private capital converts wealth into
+legitimacy by commissioning culture, and that the arrangement depends on
+controlling reproduction, by showing the Medici succeed for two centuries and
+then the press break the monopoly in twenty years.
+:::
+
+::: {.callout-tip collapse="true"}
+## Working summary
+
+There is a Florentine altarpiece with the donor's face painted into it, at eye
+level, permanently, inside the sacred image he paid for. That is the most
+efficient statement of a mechanism this book will spend five acts documenting.
+
+The Medici began as money changers and produced four popes. Their method was a
+sequence: fund the institution you wish to control, then staff it, then become
+it. The Medici Bank's most valuable product was not lending but the papal
+accounts, and holding an institution's balance sheet makes you its constituency.
+Patronage worked the same way. Leonardo, Michelangelo, and Botticelli were
+commissioned, not discovered, and what the commissions bought was legitimacy.
+The Renaissance, on this reading, is what happens when private capital controls
+the commissioning of public meaning. Leland Stanford will build a university for
+the same reason, and this book will say so again in Act II.
+
+Then the chapter's second half destroys the thing the first half describes. The
+printing press did not create literacy; it collapsed the cost of copying.
+Luther's arguments in 1517 were not novel — earlier versions had been made and
+their authors burned. What was new was that the theses could not be caught. An
+institution whose authority rested on controlling the reproduction of text lost
+that control in about twenty years.
+
+What followed was a century of war that was not really about theology. It was
+about who controlled the narrative layer of European civilisation. The Peace of
+Westphalia ended it in 1648 by inventing a new unit of legitimacy: the sovereign
+state. Everything after that is a fight over who controls states and whom states
+protect.
+
+The surplus that paid for the altarpieces came from Florentine wool workers, and
+the wars ran through populations that had no part in starting them.
+
+Two facts leave this chapter and both matter later: a monopoly on meaning can be
+purchased, and it can be destroyed by a change in the cost of copying.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** The donor in the altarpiece. Describe the painting before
+   explaining it.
+2. **Money changers to bankers.** The Medici Bank's real product: papal
+   accounts. Become the institution's balance sheet and you become its
+   constituency.
+3. **Funding, staffing, becoming.** The three-step sequence, with the popes as
+   the proof of step three.
+4. **Patronage as legitimacy production.** Leonardo, Michelangelo, Botticelli —
+   commissioned, not discovered. The Renaissance as what happens when private
+   capital controls the commissioning of public meaning. This is the chapter's
+   line and it must be earned, not asserted.
+5. **Name the parallel now.** Leland Stanford will build a university for the
+   same reason, and the book will say so again in Act II ch. 12. Plant it here.
+6. **The press arrives.** 1440s. What actually changed: not literacy, cost.
+   Copying stops being scarce.
+7. **Luther, 1517.** The arguments were not new and earlier versions of them got
+   their authors burned. What was new was that the theses could not be caught.
+8. **The wars.** A century of them, over the narrative layer rather than over
+   doctrine. Keep the theology minimal and the mechanism visible.
+9. **Westphalia, 1648.** The sovereign state as the new unit of legitimacy.
+   Everything after this is a fight over who controls states and whom states
+   protect.
+10. **The excluded.** Wool workers, debtors, and the populations the wars ran
+   through.
+11. **Landing.** A monopoly on meaning can be purchased and can be destroyed.
+   Both facts are load-bearing for the platform era.
+:::
+
+:::
+
+::: {.chapter-question}
+How does private capital come to commission public meaning — and what happens when copying gets cheap?
+:::
+
+In Florence there are altarpieces with the donor's face in them.
+
+Not off to the side, not small, not symbolically distant — inside the sacred
+scene, at eye level, kneeling among the saints, painted by the best artist
+available at a cost that is a matter of surviving record. The commission bought
+the man permanent placement in an image that thousands of people would look at
+while thinking about eternity, in a building his family paid to complete.
+
+It is the most efficient statement of a mechanism that this book will spend the
+next four acts documenting, and it is six hundred years old.
+
+## Funding, staffing, becoming
+
+The Medici arrived in Florentine banking in the late fourteenth century and were
+producing popes by the sixteenth. Their method, reduced to its structure, was a
+sequence of three steps.
+
+First, fund the institution you wish to control. The Medici Bank's most valuable
+business was not commercial lending but the papal account — handling the
+transfer of Church revenues across Europe, which was the largest single flow of
+money on the continent and which required exactly the network of branches and
+correspondents that the bank possessed. Holding an institution's balance sheet
+does not merely make you profitable. It makes you a constituency whose interests
+the institution has to consider.
+
+Second, staff it. Church offices were an obvious placement for family members,
+and the family was large and well connected. Marriages tied the Medici to other
+banking houses and to the nobility. Clients and dependants accumulated across
+the Florentine political system, so that the family could control the city
+without holding formal office in it — Cosimo de' Medici ran Florence for thirty
+years while carefully remaining a private citizen, which is the Augustan
+manoeuvre from chapter 3 executed in a republic.
+
+Third, become it. Giovanni de' Medici became Pope Leo X in 1513. Giulio de'
+Medici became Clement VII in 1523. Two more Medici popes followed later in the
+century. A banking family had not merely influenced the institution that
+certified legitimacy across Europe. It had supplied its personnel.
+
+## What the patronage was for
+
+The commissions are the part everyone knows and the part most often misread.
+
+The Medici funded Brunelleschi's dome, Donatello, Botticelli, Michelangelo, and
+much else. The standard account treats this as an efflorescence of taste, and
+taste was certainly involved. But cultural production in fifteenth-century
+Florence was legitimacy production, and the family was in a position that
+required a great deal of legitimacy: they were newly rich, they held power
+without title, and they were bankers in a Church that had spent centuries
+denouncing usury.
+
+A chapel is a permanent, public, unarguable statement that the family's money is
+in the service of God. A commissioned altarpiece with a donor portrait is that
+statement with a name attached. Public buildings, libraries, and the sponsorship
+of scholars did the same work in a secular register. This is not cynicism about
+the art, which is extraordinary, or about the patrons, some of whom were
+genuinely learned. It is an observation about what the transaction accomplished
+for both parties.
+
+The Renaissance, on this reading, is not a spontaneous flowering of human
+creativity. It is what happens when private capital controls the commissioning
+of public meaning, in a city with an unusual concentration of both.
+
+Hold the sentence. In 1885 a railroad monopolist will convert a portion of an
+extractive fortune into a university, and the university will carry his son's
+name, and the transaction will be structurally identical.
+
+## What the press did to all of this
+
+The second half of the chapter destroys the first.
+
+Movable type reached Europe in the middle of the fifteenth century, and its
+significance was not that it created literacy — literacy was rising already —
+but that it collapsed the cost of copying. A manuscript required a scribe's
+labour proportional to its length, every time. A print run required a large
+fixed investment and then produced copies at a marginal cost approaching the
+paper.
+
+An institution whose authority rested on controlling the reproduction and
+interpretation of a small number of texts was now in a completely different
+business, and it took some time to notice.
+
+Martin Luther's ninety-five theses in 1517 are the standard marker, and the
+standard account of them is wrong in an instructive way. The arguments were not
+novel. Complaints about indulgences, clerical corruption, and papal authority
+had circulated for well over a century. Jan Hus had made comparable arguments in
+Bohemia and was burned at Constance in 1415. What was different about Luther was
+not the content of the criticism but the distribution of it.
+
+The theses were reprinted, translated, and circulated across German-speaking
+Europe within weeks. Luther then wrote continuously, in German, for a popular
+audience, and became by a considerable margin the best-selling author in Europe.
+The Church's traditional method — identify the heretic, try him, and remove him
+— had worked for centuries because it interrupted transmission. It did not work
+here, because transmission was no longer running through people who could be
+arrested.
+
+## A century of war about the narrative layer
+
+What followed was roughly a hundred and thirty years of European warfare, and
+this book's interest in it is structural rather than theological.
+
+The doctrinal questions were real and people died for them. But the war was
+also, and perhaps mainly, about who would control the interpretive layer of
+European civilisation now that the previous monopoly had failed — which rulers
+would determine the religion of which territories, which meant which rulers
+would control the schools, the courts of conscience, the marriage law, and the
+legitimating apparatus of their own authority.
+
+The Peace of Westphalia in 1648 ended the worst of it, and it ended it by
+inventing something. The settlement established that the sovereign state, within
+defined borders, was the basic unit of legitimacy, and that its internal
+religious arrangements were not a matter for external powers. This did not
+create religious freedom. It created territorial sovereignty, which is a
+different and in some ways more consequential thing.
+
+Everything after 1648 is a fight over who controls states and whom states
+protect. The remainder of this book takes place inside that settlement.
+
+## Who paid
+
+The surplus that funded the altarpieces was generated by the Florentine wool
+industry, and the workers in it had rebelled in 1378 in the Ciompi uprising,
+demanding representation in a guild system that excluded them. They were
+suppressed. The banking profits came in part from lending at rates that were
+usurious by the Church's own doctrine, resolved through instruments designed to
+be technically compliant.
+
+And the wars ran through populations that had no part in starting them. The
+Thirty Years' War killed a substantial fraction of the population of the German
+lands — estimates vary widely and the range itself indicates how thoroughly the
+record was destroyed — through fighting, famine, and disease.
+
+## Two facts leaving the chapter
+
+A monopoly on meaning can be purchased. The Medici bought one over the course of
+a century, by funding an institution, staffing it, and finally occupying it.
+
+And a monopoly on meaning can be destroyed by a change in the cost of copying.
+Twenty years of cheap printing did what two centuries of dissent had not.
+
+Both facts matter later, and they matter together. The institutions in this book
+that survive longest are the ones that hold something which cannot be copied.

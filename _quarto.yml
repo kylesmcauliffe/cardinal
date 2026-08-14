@@ -1,27 +1,110 @@
 project:
   type: book
+  output-dir: _book
 
 book:
   title: "Cardinal"
+  subtitle: "The Subliminal History of Silicon Valley"
   author: "Kyle McAuliffe"
-  date: "8/13/2026"
+  date: today
   cover-image: cover.png
   repo-url: https://github.com/kylesmcauliffe/cardinal
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
+    - introduction.qmd
+    - part: "Act I — The World Before California"
+      chapters:
+        - ch/1-01-collapse.qmd
+        - ch/1-02-greek-experiment.qmd
+        - ch/1-03-rome-system.qmd
+        - ch/1-04-church-operating-system.qmd
+        - ch/1-05-layered-power.qmd
+        - ch/1-06-china-continuity.qmd
+        - ch/1-07-medici-press.qmd
+        - ch/1-08-progress-property-monopoly.qmd
+    - part: "Act II — Land, Monopoly, and Institution"
+      chapters:
+        - ch/2-01-mission-system.qmd
+        - ch/2-02-presidio-paper-state.qmd
+        - ch/2-03-thin-sovereignty.qmd
+        - ch/2-04-secularization-rancho.qmd
+        - ch/2-05-war-paperwork.qmd
+        - ch/2-06-gold-incentive-shock.qmd
+        - ch/2-07-statehood-private-governance.qmd
+        - ch/2-08-vacant-chairs.qmd
+        - ch/2-09-railroads-first-monopoly.qmd
+        - ch/2-10-law-as-armor.qmd
+        - ch/2-11-exclusion-scapegoat.qmd
+        - ch/2-12-converting-monopoly-permanence.qmd
+        - ch/2-13-widow-will-machine.qmd
+    - part: "Act III — Hoover, War, and the Archive State"
+      chapters:
+        - ch/3-01-stanford-prototype-hoover.qmd
+        - ch/3-02-mining-empire-frontier.qmd
+        - ch/3-03-eugenics-social-control.qmd
+        - ch/3-04-logistics-state.qmd
+        - ch/3-05-archive-as-power.qmd
+        - ch/3-06-credentialing-interface.qmd
+        - ch/3-07-witness-who-did-not-graduate.qmd
+        - ch/3-08-depression-interpretation.qmd
+        - ch/3-09-total-war-filter.qmd
+        - ch/3-10-terman-research-university.qmd
+        - ch/3-11-university-contractor-state.qmd
+        - ch/3-12-california-reclassified.qmd
+        - ch/3-13-the-hand-off.qmd
+    - part: "Act IV — The Silicon Valley Machine"
+      chapters:
+        - ch/4-01-termans-garden.qmd
+        - ch/4-02-shockley-and-the-eight.qmd
+        - ch/4-03-fairchild-platform-company.qmd
+        - ch/4-04-defense-corridor.qmd
+        - ch/4-05-capital-chokepoint.qmd
+        - ch/4-06-shoe-paper.qmd
+        - ch/4-07-april-third-movement.qmd
+        - ch/4-08-hollywood-parallel-platform.qmd
+        - ch/4-09-pc-revolution.qmd
+        - ch/4-10-bayh-dole-reagan.qmd
+        - ch/4-11-internet-gold-rush.qmd
+        - ch/4-12-google-attention-monopoly.qmd
+        - ch/4-13-paypal-origin.qmd
+        - ch/4-14-platforms-replace-infrastructure.qmd
+    - part: "Act V — The Open Era"
+      chapters:
+        - ch/5-01-scale-as-governance.qmd
+        - ch/5-02-china-california-loop.qmd
+        - ch/5-03-facebook-attention-economy.qmd
+        - ch/5-04-palantir-software-state.qmd
+        - ch/5-05-legitimation-machine.qmd
+        - ch/5-06-stanford-under-pressure.qmd
+        - ch/5-07-inauguration-spectacle.qmd
+        - ch/5-08-ai-final-chokepoint.qmd
+        - ch/5-09-moral-ledger.qmd
+        - ch/5-10-mechanism-proven.qmd
+        - ch/5-11-street-names.qmd
+        - ch/5-12-epilogue-travelers-tour.qmd
+  appendices:
+    - appendix-a-streets.qmd
+    - appendix-b-ledger.qmd
     - references.qmd
 
 bibliography: references.bib
+
+# Citations do not appear in the prose (see references.qmd), so nothing would
+# otherwise reach the bibliography. Include every entry.
+nocite: |
+  @*
 
 format:
   html:
     theme:
       - cosmo
       - brand
+    number-sections: false
+    toc-depth: 2
+    css: styles.css
   pdf:
     documentclass: scrreprt
+    number-sections: false
+    papersize: letter
 
 editor: visual
-

@@ -1,0 +1,284 @@
+# The Moral Ledger: Who Paid and Who Was Erased {#sec-5-09}
+
+::: {.chapter-meta}
+Act V — The Open Era · 1769–2025
+:::
+
+::: {.content-visible when-profile="draft"}
+
+::: {.callout-note collapse="true"}
+## Pre-Draft Brief
+
+**Core question.** What does California's ascent cost, and who bears that cost?
+
+**The answer.** It costs a specific set of people a specific set of things, and
+the book can name them. Every phase of California's ascent had an excluded class
+that made the system work and was denied its returns: Indigenous Californians,
+Chinese railroad labour, the sterilised, farm workers, offshore factory workers,
+contractors, moderators, data labellers. The chokepoint always externalises its
+cost downward.
+
+**The mechanism.** The cost side of all three mechanisms, accounted for in one
+place. This chapter is not a moral appendix — the preceding chapters have
+carried the excluded throughout, as the briefs require. Its function is to show
+the pattern as a series, because the recurrence is the evidence that it is
+structural rather than incidental.
+
+**The key fact.** The pattern is not a series of unrelated injustices. In each
+generation the same structural position is occupied by a different population:
+legally at arm's length, economically indispensable, and absent from the balance
+sheet. That consistency is the argument.
+
+**The human anchor.** A ledger, literally. The chapter should be structured as
+an accounting document, because the book's method is bioeconomic and this is
+where the surplus and its sources are finally set against each other.
+
+**Excluded voices.** The chapter's entire subject. The discipline is to write
+each group as agents with names, actions, and resistance — not as a catalogue of
+victims. Every entry should include what these people did, not only what was
+done to them.
+
+**Proof.** This chapter proves that exclusion is structural rather than
+incidental to California's model by showing the same position filled by a
+different population in every generation across two hundred and fifty years.
+:::
+
+::: {.callout-tip collapse="true"}
+## Working summary
+
+This chapter is laid out as an accounting document, with surplus in one column
+and its sources in the other, because the book's method is bioeconomic and this
+is where the two are finally set against each other.
+
+It is not a moral appendix. Every preceding chapter has carried its excluded
+population as part of the structural argument, and this one assembles them in
+sequence, because the recurrence is the evidence. In each generation the same
+structural position is occupied by a different group: legally at arm's length,
+economically indispensable, and absent from the balance sheet. That consistency
+is the argument, and it is what distinguishes a pattern from a list of
+injustices.
+
+The entries run in order. Indigenous Californians, through mission labour, the
+state-sanctioned killings of the Gold Rush decade, and dispossession. The
+Chinese workforce of the Central Pacific, their 1867 strike, and the Exclusion
+Act that followed their work. The people sterilised under the 1909 law, cited as
+a range with its basis. Farm labour from the ranchos through the Bracero
+programme to the United Farm Workers — Steinbeck's subjects from Act III, and
+their own organising. Offshore manufacturing, from Fairchild's Hong Kong
+assembly through Nike's contract factories to electronics assembly across Asia.
+And contract and platform labour: drivers, warehouse workers, content
+moderators, and data labellers, with employment classification as the mechanism
+that holds them at arm's length.
+
+The chapter's discipline is to write each group as agents rather than victims.
+Every entry includes what these people did — struck, litigated, organised,
+published, won cases that changed American constitutional law — and not only
+what was done to them. A ledger of passive suffering would be both bad history
+and bad argument.
+
+The Introduction's four questions are answered here in aggregate: who controlled
+the inputs, who captured the surplus, who was excluded, and how the system
+reproduced itself.
+
+The cost was never hidden. It was accounted for elsewhere. This is where it is
+accounted for here.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** Two columns. Surplus on one side, its source on the other. Let the
+   form carry the argument.
+2. **The method, stated.** Who controlled the inputs, who captured the surplus,
+   who was excluded, how the system reproduced. The Introduction's four
+   questions, now answered in aggregate.
+3. **Indigenous Californians.** Mission labour, the Gold Rush killings, and
+   dispossession. Sourced, with the resistance included.
+4. **Chinese labour.** The Central Pacific, the 1867 strike, and Exclusion. What
+   they built and what they were paid, side by side.
+5. **The sterilised.** The 1909 law's subjects, with a sourced range and
+   individual cases.
+6. **Farm labour.** From the ranchos through the Bracero programme to the UFW.
+   Steinbeck's subjects from Act III ch. 7, and their own organising.
+7. **Offshore manufacturing.** Fairchild's Hong Kong assembly, Nike's contract
+   factories, and electronics assembly. The same position, relocated.
+8. **Contract and platform labour.** Drivers, warehouse workers, moderators, and
+   data labellers. Classification as the mechanism.
+9. **The structural observation.** Legally at arm's length, economically
+   essential, absent from the ledger. Every generation, the same position, a
+   different population.
+10. **Landing.** The cost was never hidden. It was accounted for elsewhere. This
+   chapter is where it is accounted for here.
+:::
+
+:::
+
+::: {.chapter-question}
+What does California's ascent cost, and who bears that cost?
+:::
+
+This chapter is an accounting document.
+
+Every preceding chapter has carried its excluded population as part of the
+structural argument, because a system's costs are not a moral appendix to its
+operation — they are how it operates. What this chapter does is set the entries
+in sequence, because the recurrence is the evidence.
+
+The claim is not that California produced a series of unrelated injustices.
+Every country has those. The claim is that one structural position has been
+occupied continuously for two hundred and fifty years by a succession of
+different populations, on identical terms: legally at arm's length, economically
+indispensable, and absent from the balance sheet.
+
+## The four questions
+
+The Introduction proposed reading history the way an ecologist reads a food
+chain. Who controls the inputs. Who captures the surplus. Who is excluded. How
+the system reproduces itself.
+
+Applied across the whole book, the answers are consistent enough to be boring,
+which is the point. The inputs have been land, then capital, then credentials,
+then attention, then compute. The surplus has been captured by whoever held the
+passage. The system has reproduced through an institution that certifies the
+people who endow it.
+
+And the excluded have changed nationality every generation while occupying the
+same slot.
+
+## The entries
+
+**Indigenous Californians, from 1769.** Enumerated in mission registers,
+compelled into a labour system they could not leave, and subject to a population
+collapse in the mission districts that the missions' own burial records
+document. Then, after 1848, dispossession under a new sovereign, state-funded
+militia expeditions, an 1850 statute permitting the arrest of Indians deemed to
+be loitering and the indenture of Indigenous children, and eighteen treaties
+negotiated and never ratified. What they did: they fled, they revolted at San
+Diego in 1775 and in the Chumash rising of 1824, they litigated for a century
+and a half, and the Muwekma Ohlone and other nations are still pressing federal
+recognition claims using the mission registers as evidence of continuous
+existence.
+
+**Chinese railroad labour, from 1865.** At peak the large majority of the
+Central Pacific's workforce, paid less than white workers, unhoused by the
+company, killed in numbers it did not record. What they did: they struck in June
+1867 — several thousand men in the Sierra, demanding pay parity and shorter
+hours in the tunnels — and were broken by having their food cut off. They laid
+ten miles and fifty-six feet of track in a single day in 1869, a record that
+stands. Then exclusion in 1882, and the communities that remained litigated:
+*Yick Wo* in 1886 established that a law neutral on its face but administered
+with an unequal hand violates equal protection, and *Wong Kim Ark* in 1898
+established American birthright citizenship. Both are still cited constantly.
+
+**The sterilised, from 1909.** Overwhelmingly poor, disproportionately Mexican
+and Black, committed to state institutions and operated on without meaningful
+consent, in numbers that made California responsible for roughly a third of the
+recorded national total. The law stood until 1979 and documented coerced
+sterilisations in California institutions continued well beyond it. The state
+established a compensation programme for survivors in 2021.
+
+**Farm labour, continuously.** A hundred-year sequence of recruited and
+discarded workforces: Chinese, then Japanese — dispossessed by the Alien Land
+Law of 1913 and then incarcerated in 1942 — then Filipino, whose status was
+changed in 1934 specifically to make them excludable, then Mexican under the
+Bracero programme and after it. What they did: the Filipino and Mexican workers
+of Delano struck in 1965, and the United Farm Workers won contracts that had
+eluded organisers for sixty years.
+
+**Offshore manufacturing, from 1963.** Fairchild's Hong Kong assembly plant,
+then Korea and Taiwan, then the shoe factories of Indonesia and Vietnam, then
+electronics assembly across Asia. Young women, in every case, paid a small
+fraction of the American wage, employed by contractors so that the brand held no
+liability.
+
+**Platform and contract labour, from the 2000s.** Drivers and couriers
+classified as independent contractors. Warehouse workers. Content moderators in
+Manila, Nairobi, and Austin, employed by outsourcing firms, doing documented
+psychological damage to themselves at a fraction of engineering pay. Data
+labellers in Kenya and Venezuela classifying material selected because it is
+disturbing. What they did: they organised, they litigated, they won a
+classification ruling in California in 2018 and legislation in 2019, and they
+were overridden in 2020 by a ballot measure on which the platforms spent more
+than two hundred million dollars.
+
+## The structural observation
+
+Read the entries against each other and the pattern is not thematic. It is
+mechanical.
+
+In each case the work is essential to the enterprise. In each case the worker is
+held at arm's length by a legal device — a mission's spiritual jurisdiction, a
+labour contractor, an exclusion statute, an offshore subsidiary, an independent
+contractor classification. In each case the entity capturing the surplus has no
+formal relationship with the person generating it. And in each case, when
+resentment about the resulting inequality builds, it is directed at the
+workforce rather than at the arrangement.
+
+That last step is the one Act II chapter 11 documented most fully, and it is the
+reason the mechanism is stable. A grievance aimed at the excluded costs nothing
+to satisfy. A grievance aimed at the chokepoint costs everything, and the
+chokepoint has lawyers.
+
+## Against the passive voice
+
+There is a way of writing this chapter that would be a catalogue of suffering,
+and it would be both bad history and a weaker argument.
+
+Every group in the ledger acted. The strikes, the lawsuits, the organising, the
+flight, the record-keeping, the century-long persistence of communities that
+were supposed to disappear: these are not footnotes to the story of what was
+done to people. They are the story, and several of them changed American law
+permanently in ways that now protect everybody.
+
+The two most cited equal protection cases in this list were brought by Chinese
+laundrymen and a Chinese-American cook's son. The modern doctrine of
+discriminatory enforcement and the modern rule of birthright citizenship are
+their achievements, won against a state that had specifically excluded them from
+testifying in its courts thirty years earlier.
+
+A ledger of passive suffering would miss that entirely.
+
+## What the record cost
+
+There is a second column in this ledger and it is the one Act I chapter 1 opened
+with.
+
+We know a great deal about the mission system because the Franciscans kept
+registers. We know less about what the people in those registers thought,
+because they did not keep any. We know the Central Pacific's construction costs
+to the dollar and cannot say with confidence how many men died building it,
+because the company recorded the first and not the second. We know the
+sterilisation figures only through institutional files that were compiled for
+administrative purposes and through the retrospective work of scholars who went
+and counted.
+
+The asymmetry is not an accident of survival. It is a consequence of who
+employed scribes, and it means that every chapter of this book is better
+documented on the side of the people who captured the surplus than on the side
+of the people who generated it.
+
+Historians work around this and readers should know it. When this book gives a
+precise figure for a land grant and a range for a death toll, the difference in
+precision is not a difference in importance. It is a difference in who was
+counting.
+
+The excluded were not only denied the returns. They were denied the record, and
+then the absence of the record was used to suggest the returns had not been
+denied.
+
+## What the accounting is for
+
+Not guilt, and not reparation, though a reader may reasonably arrive at either.
+
+The accounting is for accuracy. California's ascent is generally described as an
+achievement of enterprise, and it was. It was also financed, at every stage, by
+a transfer from a population that had no standing to refuse, and that transfer
+does not appear in the accounts because the accounting was done by the
+beneficiaries.
+
+The cost was never hidden. It was recorded somewhere else — in mission burial
+registers, in coroner's findings the railroad did not compile, in institutional
+files, in contractor payrolls, in the terms of service of firms with no
+employees.
+
+This chapter is where it is entered on the same page as the surplus.

@@ -1,0 +1,289 @@
+# Google and the Attention Monopoly {#sec-4-12}
+
+::: {.chapter-meta}
+Act IV — The Silicon Valley Machine · 1998–2004
+:::
+
+::: {.content-visible when-profile="draft"}
+
+::: {.callout-note collapse="true"}
+## Pre-Draft Brief
+
+**Core question.** How does advertising become a surveillance infrastructure?
+
+**The answer.** By selling intent instead of space. Page and Brin's own doctoral
+paper argued that advertising-funded search engines would be structurally biased
+against their users — and then they built the largest advertising-funded search
+engine in history. The AdWords auction turned the moment a person states a
+desire into a priced, contested asset.
+
+**The mechanism.** Chokepoint control of an input nobody had previously
+identified: human intention. The chapter's power comes from the founders' own
+documented warning, which is a primary source that indicts the outcome more
+effectively than any critic could.
+
+**The key fact.** The original PageRank-era paper contains an explicit appendix
+arguing that advertising creates incentives to degrade search quality and that a
+transparent, academically oriented engine is therefore necessary. It is the
+clearest self-indictment in the history of technology, and it is a citable
+primary document.
+
+**The human anchor.** Two graduate students writing a warning about the business
+model they are about to adopt, and then adopting it. The chapter should be
+genuinely sympathetic — the paper is honest, the pressures were real, and that
+is why it matters.
+
+**Excluded voices.** Everyone whose behavioural data constitutes the asset
+without compensation or meaningful consent, and the publishers whose content
+became the index's raw material. Also the advertisers on the other side of an
+auction whose rules they cannot inspect.
+
+**Proof.** This chapter proves that the attention chokepoint was understood in
+advance by the people who built it by quoting their own published warning
+against it.
+:::
+
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Larry Page and Sergey Brin's original paper on their search engine contains an
+appendix arguing that advertising-funded search engines are structurally biased
+against their users, that the incentives push toward degrading results, and that
+a transparent, academically oriented engine is therefore necessary. They then
+built the largest advertising-funded search engine in history. It is the
+clearest self-indictment in the history of technology, and it is a citable
+primary document.
+
+The chapter is genuinely sympathetic, which is what makes it work. The technical
+insight was real: link structure was a far better relevance signal than keyword
+matching, and PageRank produced results that were obviously superior. Stanford
+held the patent, licensed it to the company, and took shares — Bayh-Dole from
+the previous chapter, with a number attached. The funding came from Kleiner
+Perkins and Sequoia, both of them, which returns the story to Sand Hill Road.
+
+And the revenue problem was real too. They tried licensing search to portals and
+it did not generate enough. The chapter walks through what was attempted before
+advertising, because that is what makes the turn credible rather than cynical.
+
+AdWords, refined between 2000 and 2002 into an auction with quality scoring and
+cost-per-click pricing, was elegant and enormously effective. Its significance
+is what it made tradeable. A search query is a stated desire, timestamped and
+addressable, which is worth far more than a magazine page — and the chapter's
+argument is that the chokepoint here is human intention itself, a resource
+nobody had previously identified as ownable.
+
+Then the appendix is set against the outcome, without editorial comment. The
+juxtaposition is the argument.
+
+The excluded are the users whose behavioural data constitutes the asset without
+compensation or meaningful consent, the publishers whose content became index
+material, and the advertisers bidding inside an auction whose rules they cannot
+inspect.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** Quote the appendix. Their words, before the company existed.
+2. **The technical insight.** PageRank and why link structure was a better
+   relevance signal. Enough to see the advantage.
+3. **Stanford's stake.** The patent, licensed from the university, and the
+   shares Stanford held. Bayh-Dole from ch. 10 in action, with a number
+   attached.
+4. **1998-1999.** Incorporation, the Menlo Park garage, and the funding —
+   including both Kleiner Perkins and Sequoia, which returns to ch. 5's
+   corridor.
+5. **The revenue problem.** What they tried before advertising. This beat earns
+   the reader's sympathy and makes the turn credible.
+6. **AdWords, 2000-2002.** The auction, quality score, and the shift to cost-
+   per-click. Explain the mechanism properly; its elegance is part of the
+   argument.
+7. **Intent as the asset.** Why a search query is worth more than a magazine
+   page: it is a stated desire, timestamped and addressable.
+8. **Return to the appendix.** Set the warning against the outcome. No
+   editorialising; the juxtaposition is the argument.
+9. **The excluded.** Users as uncompensated data sources; publishers as raw
+   material; advertisers inside an opaque auction.
+10. **Landing.** The chokepoint is no longer physical, legal, or even
+   informational. It is attentional, and it is the most profitable one anyone
+   has found.
+:::
+
+:::
+
+::: {.chapter-question}
+How does advertising become a surveillance infrastructure?
+:::
+
+The paper that described Google contains an appendix explaining why Google
+should not exist.
+
+Sergey Brin and Larry Page, then doctoral students at Stanford, published "The
+Anatomy of a Large-Scale Hypertextual Web Search Engine" in 1998. Its final
+appendix argues that advertising-funded search engines are inherently biased
+toward the advertisers and away from the needs of consumers, that the bias is
+insidious because it is difficult for users to detect, and that these incentives
+mean a search engine of this kind will be crafted to serve the advertiser rather
+than the searcher.
+
+They concluded that it is crucial to have a competitive search engine that is
+transparent and in the academic realm.
+
+Then they built the largest advertising-funded search engine in history, and by
+any measure the most profitable business ever constructed on the mechanism they
+had just described.
+
+## The insight
+
+The technical contribution was real and it deserves a fair account, because the
+chapter is stronger if the reader understands why the thing worked.
+
+Search engines in 1997 ranked pages primarily by the text on them, which meant
+anyone could rank highly by repeating a word. PageRank used a different signal:
+the structure of links between pages. A page linked to by many pages is probably
+useful, and a link from a page that is itself heavily linked counts for more
+than one from a page nobody reads. It is a recursive measure of authority, and
+it was much harder to fake because it depended on the behaviour of other people.
+
+The results were obviously better, and anyone who used the web in 1998 remembers
+the difference.
+
+## Stanford's position
+
+The university owned the patent.
+
+PageRank was developed on federally funded research at Stanford — the Digital
+Libraries project, supported by the National Science Foundation among others —
+and under the Bayh-Dole arrangement described two chapters ago the university
+took title. It licensed the patent to the company, exclusively, in exchange for
+a fee and shares.
+
+Stanford sold most of those shares a few years after the 2004 public offering,
+for a sum in the region of three hundred million dollars.
+
+That transaction is the entire book in a single line item. Federal research
+funding produces an invention; a statute assigns the invention to the
+university; the university licenses it to a company founded by its own doctoral
+students; the company becomes one of the most valuable enterprises on earth; and
+the university collects a nine-figure return.
+
+Public money in, private monopoly out, institution enriched, elite reproduced.
+There is no step in that sequence that is hidden, illegal, or even unusual.
+
+## The revenue problem
+
+The chapter has to give the turn honestly, because a cynical account of it would
+be wrong.
+
+Google's initial business plan was to license its search technology to portals,
+and it did — to Yahoo, among others. The revenue was insufficient to support the
+infrastructure the index required, and the infrastructure requirement grew with
+the web. They tried other approaches. The venture funding, which came from both
+Kleiner Perkins and Sequoia in an unusual arrangement in 1999, brought
+expectations of a real business model.
+
+Advertising was what worked, and it worked so well that within a few years no
+alternative was conceivable.
+
+## AdWords
+
+The mechanism was elegant and the chapter should explain it properly, because
+its elegance is part of the argument.
+
+Advertisers bid on search terms. But the auction did not simply sell the top
+position to the highest bidder. Google introduced a quality score — a measure of
+how likely users were to click a given advertisement — and ranked ads by the
+combination of bid and quality. An advertiser with a more relevant advertisement
+could outrank one paying more.
+
+Advertisers paid per click rather than per impression, which meant they paid
+only when the system had actually delivered someone. And the auction was
+structured so that bidding one's true valuation was approximately the right
+strategy.
+
+The result aligned three interests that ordinarily conflict. Users got
+advertisements that were more relevant. Advertisers paid for outcomes rather
+than exposure. And Google captured a share of the value of every commercial
+intention expressed anywhere in its index.
+
+## Intent as an asset
+
+Here is what the auction actually monetised, and it had not previously been
+identified as a thing that could be owned.
+
+A magazine advertisement reaches people who happen to be reading a magazine. A
+television advertisement reaches people who happen to be watching. Both are sold
+on demographics, which is a guess about who is present.
+
+A search query is different in kind. It is a person stating, in their own words,
+at a specific moment, what they are trying to find. It is a declared intention,
+timestamped and immediately actionable, and its commercial value is
+correspondingly enormous.
+
+Google did not invent human intention and did not create the demand. It occupied
+the position between a stated desire and the market that could satisfy it, and
+priced the passage — which is what the Southern Pacific did to freight in Act
+II, what the studios did to films in chapter 8, and what Microsoft did to
+applications in chapter 9.
+
+Each of these is the same chokepoint in a different medium. This one turned out
+to be the largest, because everyone wants something.
+
+## The infrastructure underneath
+
+One further thing distinguishes this company from its predecessors, and it
+becomes the decisive asset twenty years later.
+
+Serving search at web scale on commodity hardware required a different kind of
+computing, and Google built it: enormous numbers of inexpensive machines,
+software that assumed individual machines would fail constantly, and distributed
+systems for storing and processing data across all of them. The published papers
+describing these systems in the early 2000s were read very widely and were
+reimplemented in the open, which is where a substantial part of the modern data
+infrastructure industry comes from.
+
+The company then built its own data centres, sited for electricity and cooling,
+and eventually designed its own chips.
+
+The chapter marks this because Act V's argument depends on it. A company that
+begins by owning an index ends by owning the physical capacity to compute at
+scale, and computing capacity turns out to be the chokepoint of the following
+era. Vertical integration into the substrate — first the software, then the
+buildings, then the silicon — is how a position in one layer becomes a position
+in the layer beneath it.
+
+## The appendix, again
+
+Set the 1998 warning against the outcome.
+
+They wrote that advertising funding creates a mixed incentive and that the bias
+would be difficult for users to detect. Twenty-five years later, competition
+authorities on two continents have concluded, in decisions running to hundreds
+of pages, that the company gave preferential placement to its own services in
+search results, and that it maintained its position in search through exclusive
+default agreements with browser and device makers — including payments to Apple
+of a scale that made Google the default on most of the world's phones.
+
+Both of those findings describe the mechanism the appendix predicted.
+
+The chapter does not need to editorialise and should not. The two documents sit
+next to each other, written by the same people about the same system, twenty-
+five years apart. The juxtaposition is the argument.
+
+## The excluded
+
+Three entries.
+
+Users, whose behavioural data constitutes the asset and who receive the service
+in exchange, on terms nobody negotiated and few have read.
+
+Publishers, whose content is the raw material of the index and whose
+relationship with their own audiences was intermediated by a company that
+eventually competed with them for the same advertising revenue.
+
+And advertisers, bidding in an auction whose rules and reserve prices they
+cannot inspect — a fact that has been the subject of litigation on both sides of
+the Atlantic.
+
+The chokepoint is no longer physical, legal, or informational. It is
+attentional, and it is the most profitable position anyone has ever found.

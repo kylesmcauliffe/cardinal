@@ -1,0 +1,267 @@
+# The Greek Experiment and the Portable Empire {#sec-1-02}
+
+::: {.chapter-meta}
+Act I — The World Before California · 800–323 BCE
+:::
+
+::: {.content-visible when-profile="draft"}
+
+::: {.callout-note collapse="true"}
+## Pre-Draft Brief
+
+**Core question.** What happens when a civilisation makes argument its
+competitive advantage — and then loses the war?
+
+**The answer.** It loses the wars and keeps the franchise. Athens was militarily
+finished by 338 BCE and intellectually dominant for another thousand years,
+because it had turned a method of argument into a set of institutions — school,
+text, credential — that outlived the city that produced them. Knowledge was the
+first portable monopoly.
+
+**The mechanism.** Elite network reproduction, invented. The chain from Socrates
+to Plato's Academy to Aristotle's Lyceum to the tutoring of Alexander is the
+first instance in this book of a school converting a method into a credential
+that states will pay for. Also the first portable chokepoint: prestige that
+travels without territory.
+
+**The key fact.** Aristotle taught Alexander. The teacher of the most successful
+conqueror in the ancient world came out of a school founded by the student of a
+man Athens executed. Three generations turned a capital offence into an imperial
+qualification.
+
+**The human anchor.** Aristotle, in Macedon, tutoring a boy who will carry Greek
+as an administrative language to the Indus. The philosopher as the first
+credentialing institution.
+
+**Excluded voices.** Athenian democracy rested on enslaved labour and excluded
+women and resident foreigners from the citizenship it is celebrated for
+inventing. The agora was open because someone else was in the fields. Say it in
+the same breath as the praise, not in a separate paragraph.
+
+**Proof.** This chapter proves that institutions outlast the power that founds
+them by showing that Greek political independence ended in 338 BCE while Greek
+intellectual authority was still being purchased by empires centuries later.
+:::
+
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Athens lost. In 338 BCE, at Chaeronea, Macedonian infantry ended Greek political
+independence, and it never returned. The city that invented public reasoning was
+finished as a power within a century and a half of its greatest period, and the
+world then spent the next thousand years paying for its ideas.
+
+That gap is the chapter. Athens had built something more durable than an army:
+an institutional chain that converted a method of argument into a credential
+other states would buy. Socrates supplied the method and was executed for it.
+Plato turned the method into a school. Aristotle turned the school into a system
+with a library, a research programme, and a curriculum. And then Aristotle was
+hired to tutor the son of the king whose army had just extinguished Athenian
+independence. Three generations converted a capital offence into an imperial
+qualification.
+
+Alexander is the distribution mechanism. He did not simply conquer; he
+installed. Local customs and local gods were left in place while Greek language,
+architecture, and administrative prestige were embedded above them — a common
+operating system running on top of diverse local arrangements, which is the
+first thing in this book that behaves like a platform. It worked so well that
+Greek remained the language of administration and science across the eastern
+Mediterranean for centuries after any Greek state mattered.
+
+It also failed immediately in one specific way. Alexander designated no heir.
+The empire fragmented within a generation, because a founder who does not
+institutionalise leaves a story rather than a system — a lesson Silicon Valley
+will rediscover roughly every fifteen years.
+
+The chapter is careful about what the agora rested on. Athenian citizens had the
+leisure to argue in public because enslaved people worked, and women and
+resident foreigners were excluded from the citizenship Athens is celebrated for
+inventing. Knowledge became the first portable monopoly, and it was portable
+because someone else was in the fields.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** Athens loses. Start at Chaeronea, 338 BCE, with the city's
+   independence finished, and then ask why the world spent the next millennium
+   speaking its intellectual language.
+2. **The polis and the agora.** Public reasoning as a competitive advantage.
+   Argument as infrastructure.
+3. **The institutional chain.** Socrates as method, Plato's Academy as
+   institution, Aristotle's Lyceum as system. Not three heroes — one pipeline.
+4. **Socrates' execution.** The state kills the method's founder; the method
+   survives the state. First appearance of a pattern the book returns to.
+5. **Aristotle and Alexander.** The credential purchased by a rising power that
+   wants legitimacy as well as territory.
+6. **Alexander's conquests as distribution.** The rebrand: local customs kept,
+   Greek language and administrative prestige embedded. The first platform
+   running on top of diverse local systems.
+7. **The succession failure.** No designated heir; the empire fragments within a
+   generation. The founder who does not institutionalise leaves a story, not a
+   system.
+8. **The Hellenistic afterlife.** Alexandria's library, Greek as the language of
+   administration and science for centuries. The monopoly outlives the
+   monopolist.
+9. **The excluded.** Slavery, the position of women and metics, and what the
+   agora rested on.
+10. **Landing.** Knowledge as portable monopoly. Set the template Stanford will
+   occupy: a school that credentials the people who run other people's empires.
+:::
+
+:::
+
+::: {.chapter-question}
+What happens when a civilisation makes argument its competitive advantage — and then loses the war?
+:::
+
+Athens lost.
+
+In August of 338 BCE, on a plain near Chaeronea in Boeotia, the Macedonian army
+of Philip II destroyed the combined forces of Athens and Thebes. The Sacred Band
+of Thebes, three hundred men who had not lost a battle in forty years, died
+where they stood. Athenian independence, in any meaningful sense, ended that
+afternoon and did not return. The city that had invented the practice of public
+political reasoning was finished as a power roughly a century and a half after
+its greatest period.
+
+And then the world spent the next thousand years paying for its ideas.
+
+That gap — between the collapse of Athenian power and the persistence of
+Athenian prestige — is the subject of this chapter, and it introduces the first
+mechanism in this book that is recognisably modern. Athens had built something
+more durable than an army. It had built an institutional chain that converted a
+method of argument into a credential, and credentials, unlike armies, can be
+exported.
+
+## The chain
+
+The chain has three links, and it is more useful to see them as an institutional
+sequence than as a succession of great thinkers.
+
+Socrates supplied a method. He wrote nothing, held no office, ran no school, and
+charged no fees, which distinguished him from the sophists who did all four. His
+contribution was a technique for exposing the incoherence of confident claims,
+practised in public, on anyone available. In 399 BCE an Athenian jury sentenced
+him to death for it.
+
+Plato turned the method into an institution. The Academy, founded around 387 BCE
+in a grove outside the city walls, gave the technique premises, a curriculum,
+and continuity beyond a single practitioner's lifetime. This is the decisive
+step. A brilliant individual dies. An institution admits new members.
+
+Aristotle turned the institution into a system. He studied at the Academy for
+twenty years, then built something more ambitious at the Lyceum: a research
+programme with a library, systematic collection of specimens and constitutions,
+and a body of written work covering logic, physics, biology, ethics, politics,
+and rhetoric. The Aristotelian corpus is not a philosophy. It is an attempt at a
+complete curriculum.
+
+And then Aristotle was hired to tutor the son of the king of Macedon.
+
+Consider what that transaction represents. A method that had been a capital
+offence in Athens within living memory had become, within two generations, a
+qualification that a rising military power was willing to purchase for its heir.
+The Macedonians did not need Greek philosophy to win battles; they were already
+winning battles. What they needed was what a conquering power always needs,
+which is a claim to be something more than a conquering power. Aristotle
+supplied it.
+
+## What Alexander actually did
+
+Alexander III of Macedon spent thirteen years and died at thirty-two, and the
+military campaign is the least interesting thing about him for the purposes of
+this book.
+
+What matters is the administrative choice. Alexander did not attempt to replace
+the societies he conquered. He left local customs, local religion, and in many
+cases local administrators in place, and installed above them a common layer:
+Greek as the language of government and commerce, Greek civic architecture,
+Greek educational forms, and a network of new cities carrying his name and
+running his conventions. Persian nobles kept their positions and were expected
+to learn the new protocols. He married into the aristocracy he had defeated and
+required his officers to do the same.
+
+This is the first arrangement in this book that behaves like a platform. A
+common operating layer runs on top of diverse local systems, does not attempt to
+eliminate them, and derives its value precisely from the fact that everyone must
+adopt it in order to participate. Nobody in Bactria or Egypt had to stop being
+Bactrian or Egyptian. They did have to conduct official business in Greek.
+
+It worked extraordinarily well, and it outlasted its author by centuries. Greek
+remained the administrative and scientific language of the eastern Mediterranean
+long after any Greek state mattered — through the Hellenistic kingdoms, through
+Roman rule in the east, and into the Byzantine period. The New Testament was
+written in Greek. Archimedes wrote in Greek. The astronomical and medical
+literature that Islamic scholars would preserve and extend a thousand years
+later was in Greek.
+
+## The failure
+
+It also failed immediately, in one specific and instructive way.
+
+Alexander designated no successor. The sources disagree about his last words,
+and the disagreement is itself evidence: nobody present could produce an
+uncontestable statement of who was to inherit. What followed was forty years of
+war among his generals and the permanent fragmentation of the empire into
+competing Hellenistic kingdoms.
+
+The empire had a founder and no succession mechanism. Its administrative layer
+survived because it had been embedded in cities, schools, and habits of business
+that did not depend on who was in charge. Its political structure did not
+survive at all, because it depended entirely on one person and that person had
+made no provision.
+
+This distinction — between what is embedded in institutions and what is embedded
+in a founder — recurs in this book until it becomes tedious. The Church will
+solve it in Act I chapter 4 by making bishoprics offices rather than
+inheritances. Imperial China will solve it by examination. Leland Stanford will
+attempt to solve it in 1885 with a self-perpetuating board of trustees, and Act
+II chapter 13 is the story of whether it worked. Silicon Valley rediscovers the
+problem roughly every fifteen years and generally handles it worse than the
+Macedonians did.
+
+## What the agora rested on
+
+There is a version of this chapter that presents Athens as the origin of open
+inquiry and leaves it there, and it would be incomplete in a way that matters to
+the argument rather than merely to the conscience.
+
+Athenian citizens could spend their days in the agora arguing about justice
+because enslaved people were doing the work. Estimates of the enslaved
+population in fifth-century Attica are contested, but no serious reconstruction
+puts it below a substantial fraction of the total. The silver that funded the
+Athenian fleet came from the mines at Laurion, worked in conditions that even
+ancient writers found notable. Women were excluded from the citizenship Athens
+is celebrated for inventing. So were resident foreigners, including many of the
+merchants and craftsmen on whom the economy depended, and some of the
+philosophers — Aristotle himself was a metic, which is part of why he left the
+city in a hurry when Alexander died and anti-Macedonian feeling turned
+dangerous.
+
+The leisure required for public reasoning was produced by people who had none of
+it. That is not an aside. It is the first entry in a ledger this book keeps for
+two and a half thousand years, and the structure of the entry does not change: a
+class whose labour makes the system possible, excluded from the benefits the
+system is celebrated for producing, and absent from the records that celebrate
+it.
+
+## The portable monopoly
+
+By 300 BCE the situation is this. Greek political power is gone. Greek
+intellectual authority is a saleable commodity, and states that have never been
+Greek are buying it — to legitimise dynasties, to train administrators, to
+furnish libraries, and to signal that they are the sort of power that deserves
+to be one.
+
+Knowledge had become the first portable monopoly. It required no territory to
+hold, could not be destroyed by losing a battle, and reproduced itself through
+schools that admitted new members faster than old ones died. The Ptolemies built
+a library at Alexandria and collected texts by confiscating them from ships in
+the harbour, which is what a state does when it has identified an asset class.
+
+Two thousand three hundred years later, on a former horse farm in California, an
+institution will be founded on the same understanding: that the durable form of
+power is not the fortune but the credential, and that a school outlasts
+everything that pays for it. The men who build it will have read Aristotle at
+university, and will not notice the resemblance.

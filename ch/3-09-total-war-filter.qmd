@@ -1,0 +1,279 @@
+# Total War and the Institutional Filter {#sec-3-09}
+
+::: {.chapter-meta}
+Act III — Hoover, War, and the Archive State · 1939–1941
+:::
+
+::: {.content-visible when-profile="draft"}
+
+::: {.callout-note collapse="true"}
+## Pre-Draft Brief
+
+**Core question.** How does crisis select for ecosystems?
+
+**The answer.** It picks winners by geography and readiness. Rearmament money
+did not spread evenly; it went where engineering schools, laboratories, and
+industrial capacity already sat next to each other. California's advantage was
+not destiny. It was that when the money started moving, the state already had
+the three things the money needed in the same place.
+
+**The mechanism.** Public subsidy about to be converted, and the selection stage
+of the conversion. The chapter's discipline is anti-determinist: California was
+chosen, by identifiable people applying identifiable criteria, and it could have
+been chosen otherwise.
+
+**The key fact.** Hewlett-Packard was founded in a garage at 367 Addison Avenue
+in Palo Alto in 1939 with about five hundred dollars. The garage is the founding
+image of the American technology industry, and its first significant customer
+base was the war.
+
+**The human anchor.** Two of Terman's students in a rented garage, choosing to
+stay in California when the entire electronics industry was on the east coast —
+because their professor told them to.
+
+**Excluded voices.** Japanese Americans in California, whose incarceration from
+1942 is part of this period and belongs in this act rather than only in Act V's
+ledger. The farms and businesses lost are a transfer of assets, and the transfer
+had beneficiaries.
+
+**Proof.** This chapter proves that California's technological primacy was
+selected rather than inevitable by showing the specific institutional and
+geographic criteria that federal science funding applied before 1941.
+:::
+
+::: {.callout-tip collapse="true"}
+## Working summary
+
+Two of Frederick Terman's students rented a garage at 367 Addison Avenue in Palo
+Alto in 1939 and started a company with about five hundred dollars. The chapter
+uses the most famous image in American business history and then deflates it:
+the garage matters because of what was already around it, and specifically
+because a professor had told them to stay.
+
+The deflation is the point. Every electronics company of consequence was on the
+east coast in 1939, and Hewlett and Packard remained in California on Terman's
+advice — the first appearance of the man who allocates talent, and the first
+demonstration that the allocation is deliberate. Their early business was
+instruments, and their early customers were substantially military.
+
+The chapter's main work is anti-deterministic. Rearmament money from 1938 onward
+did not spread evenly across the country; it went where laboratories,
+engineering schools, and industrial capacity already sat next to one another,
+and it was directed by identifiable people applying identifiable criteria.
+California was behind at that point. MIT and Harvard captured the major early
+contracts, and nothing about the outcome was obvious in 1940. The state's
+advantage was readiness rather than destiny: a growing technical education base,
+industrial capacity, and the Pacific — geography becoming an asset for the first
+time since Spain claimed the Bay in Act II.
+
+That contingency makes the eventual result more interesting rather than less.
+The corridor was selected, and it could have been selected elsewhere.
+
+The chapter also places Japanese American incarceration here, in 1942, rather
+than deferring the whole subject to Act V's ledger. Farms, businesses, and homes
+were lost, and property that is lost is property that someone else acquires. The
+transfer had beneficiaries, and the chapter names the mechanisms.
+
+By 1941 the state is positioned and the money is about to arrive in quantities
+nobody has seen. The next chapter is about the man who had a plan for it.
+:::
+
+::: {.callout-caution collapse="true"}
+## Beats
+
+1. **Hook.** 367 Addison Avenue, 1939. Five hundred dollars and a garage. Then
+   the deflation: the garage matters because of what was already around it.
+2. **Terman's advice.** Why Hewlett and Packard stayed. The professor as an
+   allocator of talent — the first appearance of the act's central figure.
+3. **What the early products were.** An audio oscillator, and who bought it.
+   Follow the revenue, not the legend.
+4. **Rearmament's selection criteria.** What federal science money was looking
+   for from 1938: existing laboratories, trained people, industrial capacity,
+   proximity to the theatre.
+5. **Why the Pacific matters.** Geography as an asset for the first time since
+   the Bay in Act II ch. 2.
+6. **The competition.** MIT, Harvard, Bell Labs. California is behind at this
+   point, and the chapter must say so — the outcome was not obvious in 1940.
+7. **Anti-determinism, stated.** Name the decision-makers and the criteria.
+   Contingency is the honest reading and it makes the eventual result more
+   interesting, not less.
+8. **Japanese American incarceration, 1942.** Place it here, with the property
+   transfers named. Do not defer the whole subject to Act V.
+9. **Landing.** The state is positioned and the money is about to arrive in
+   quantities nobody has seen. Hand off to Terman.
+:::
+
+:::
+
+::: {.chapter-question}
+How does crisis select for ecosystems?
+:::
+
+In 1939 two of Frederick Terman's former students rented a garage behind a house
+at 367 Addison Avenue in Palo Alto and started a company with about five hundred
+dollars.
+
+The garage is now a California state landmark with a plaque calling it the
+birthplace of Silicon Valley. It is a small wooden structure behind an ordinary
+house on an ordinary street, and it is worth visiting for the deflation.
+
+Because the garage is not the explanation. Two engineers in a shed are a common
+occurrence and they usually produce nothing. What made this one consequential is
+everything that was already around it, and the first item on the list is that
+their professor had told them to stay.
+
+## Terman's advice
+
+William Hewlett and David Packard were Stanford engineering graduates. In 1939
+the American electronics industry was on the east coast — RCA, General Electric,
+Bell Laboratories, and the radio manufacturers — and a young engineer with
+ambition went east, as almost all of Terman's best students had.
+
+Terman told them not to. He had a view, which he had been developing for some
+years, that California could sustain a technical industry of its own, and that
+the reason it had not was that the region kept exporting its graduates. He
+provided encouragement, a small loan, and access to the university's facilities.
+
+The point is not the loan. It is that a professor was functioning as an
+allocator of talent, deliberately, against the prevailing gradient, and that he
+understood this as a strategy rather than as mentorship. Act IV's first chapter
+is about what happened when he applied the same logic with an industrial park
+behind it.
+
+Hewlett-Packard's first product was a resistance-capacitance audio oscillator,
+based on Hewlett's graduate work, and its first significant customer was Walt
+Disney, which bought eight of them for the sound system used with *Fantasia*.
+Within two years the customer base was substantially military, and that is the
+transition this chapter is about.
+
+## The selection
+
+Rearmament money began moving in the United States from around 1938, and it did
+not spread evenly. It went where three things already sat close together:
+engineering schools capable of producing and holding technical staff,
+laboratories with equipment and a research culture, and industrial capacity able
+to manufacture at scale.
+
+Those criteria were applied by identifiable people. The National Defense
+Research Committee, established in 1940 under Vannevar Bush, and the Office of
+Scientific Research and Development that succeeded it in 1941, made decisions
+about which institutions received contracts. Bush was an MIT man. The largest
+wartime research contracts went to MIT, to Harvard, to Caltech, and to Bell
+Laboratories.
+
+Stanford did not get them. This is the fact that keeps this chapter honest, and
+it is the fact the standard Silicon Valley origin story omits entirely.
+
+In 1940 Stanford was a good regional university with a strong engineering
+department and no particular claim on the national scientific establishment.
+California was a large agricultural state with an aircraft industry in the south
+and a naval presence around the Bay. The proposition that the San Francisco
+Peninsula would become the centre of the world's technology industry would have
+struck an informed observer in 1940 as eccentric.
+
+The outcome was not fated. It was selected, later, by people applying criteria,
+and it could have been selected otherwise. Boston very nearly kept it, and for a
+period after the war Route 128 was ahead.
+
+## What California did have
+
+Geography, for the first time since Spain claimed the Bay in Act II chapter 2.
+
+The Pacific war made the west coast the theatre's logistical base. Shipyards at
+Richmond, Sausalito, and Vallejo. Aircraft manufacturing in southern California
+at a scale that reorganised the region's economy. Naval installations around the
+Bay, and Moffett Field in Sunnyvale, which had been built for airships in the
+1930s and became an aeronautical research centre.
+
+It also had a growing technical education base at Stanford, Berkeley, and
+Caltech, and a population that was about to increase very rapidly.
+
+Readiness, not destiny. The distinction is the chapter's whole argument.
+
+## Berkeley, and the other California
+
+One institution did receive an enormous wartime commission, and it was not
+Stanford.
+
+Ernest Lawrence's Radiation Laboratory at Berkeley had built cyclotrons through
+the 1930s on foundation money, and when the Manhattan Project needed to separate
+uranium isotopes at scale, Lawrence's electromagnetic method became one of the
+principal approaches. The laboratory expanded enormously. Los Alamos was
+directed by Berkeley's J. Robert Oppenheimer.
+
+Berkeley demonstrates that California could host science at the highest level
+and that federal money would go there when the case was strong enough. It also
+demonstrates the model Terman would later copy: a laboratory whose scale
+depended on federal contracts, attached to a university, with a director who
+functioned as an entrepreneur.
+
+Stanford watched this happen to its neighbour, and its dean of engineering spent
+the war somewhere else thinking about it.
+
+## Incarceration
+
+One further event of this period belongs in this act rather than deferred to Act
+V's ledger, because it happened here and it was an asset transfer.
+
+Executive Order 9066, signed in February 1942, led to the forced removal and
+incarceration of some hundred and twenty thousand people of Japanese ancestry
+from the west coast, roughly two-thirds of them United States citizens. They
+were given days or weeks to dispose of homes, farms, and businesses.
+
+The economic consequence was a transfer. Property was sold at distress prices,
+abandoned, or lost for non-payment during the years of absence, and it was
+acquired by people who remained. Japanese-American farmers had, despite the
+Alien Land Law of 1913 described in Act II chapter 11, built substantial
+holdings in California agriculture, and much of it did not come back.
+
+This is the same mechanism the whole act has been describing, running at speed
+and under wartime authority: a population with no political standing supplies
+something valuable, and its removal has beneficiaries who are not required to
+account for the gain.
+
+## The other filter
+
+Federal money was not the only thing selecting for California in these years.
+People were arriving, and the arrival was itself a selection.
+
+The Second World War produced the largest internal migration in American
+history. Something in the region of a million and a half people moved to
+California during the war years to work in shipyards, aircraft plants, and the
+supporting economy, and among them were several hundred thousand Black Americans
+leaving the South in the second Great Migration. Richmond's population
+multiplied several times over in four years around the Kaiser shipyards.
+
+The industries that recruited them did so under federal pressure. Executive
+Order 8802, in 1941, prohibited discrimination in defence industries and
+established the Fair Employment Practice Committee, after A. Philip Randolph
+threatened a march on Washington. It was the first federal action of its kind
+since Reconstruction, and it worked partly because the labour shortage was
+acute.
+
+What it did not touch was housing, and the housing regime was the one described
+in chapter 3: restrictive covenants in the deeds, redlining in the federal
+underwriting maps, and public war housing that was segregated and largely
+temporary. Workers recruited into the wartime economy were confined to
+neighbourhoods that could not expand and could not accumulate equity, and when
+the shipyards closed the jobs went and the restrictions stayed.
+
+The chapter's point is that the wartime expansion of California was federally
+directed in both dimensions at once. The same government that required
+industries to hire without discrimination was simultaneously insuring mortgages
+on terms that made segregation a condition of lending.
+
+Act IV chapter 1 will describe a research park whose workforce could live in
+Palo Alto. This is why the question of who could live there has an answer.
+
+## Positioned
+
+By the end of 1941 California is positioned and the money is about to arrive in
+quantities nobody has previously seen.
+
+The state is not yet the centre of anything. Its principal university is not in
+the front rank of the wartime research effort. Its most famous technology
+company is two men and a garage with a few dozen employees.
+
+What it has is geography, capacity, a technical education base, and a dean of
+engineering who is about to spend three years running an eight-hundred-person
+laboratory at Harvard and take detailed notes on how the money works.
