@@ -1,0 +1,41 @@
+# Preface {.unnumbered}
+
+This book is the road that leads to the other one.
+
+*Cardinal* argues that a single stretch of the San Francisco Peninsula has held
+the controlling position in the American economy for a hundred and forty years,
+and that the mechanism doing the holding is older than the place. *Dawn* is the
+account of where that mechanism came from — the three thousand years of empire,
+collapse, and reinvention that were already finished by the time a Spanish
+expedition reached Alta California in 1769.
+
+It is called *An American Odyssey* because it is a journey westward and because
+the destination is not a place but a pattern. Whoever controls the passage that
+everything must move through sets the terms for everyone else; the passage is
+usually built with public effort and captured as private property; and the people
+who end up holding it are reproduced by the same institutions across generations.
+That is the argument of the companion volume. This one shows the argument being
+rehearsed, in different costume, from the eastern Mediterranean to the printing
+houses of Florence to the edge of the Pacific.
+
+You do not need to read *Dawn* to read *Cardinal*. *Cardinal* assumes it. But the
+Peninsula's story is not the first time any of this has happened, and the reader
+who wants to know why California's mechanism felt inevitable the moment it
+appeared will find the answer here, several civilisations early.
+
+---
+
+::: {.content-visible when-profile="draft"}
+
+::: {.callout-important}
+## Draft build
+
+This is the draft profile. Editorial apparatus carried over from the shared
+manuscript may appear at the top of chapters; it does not appear in the
+reader-facing build.
+
+- `quarto render` — the book as a reader sees it
+- `QUARTO_PROFILE=draft quarto render` — the book plus editorial apparatus
+:::
+
+:::

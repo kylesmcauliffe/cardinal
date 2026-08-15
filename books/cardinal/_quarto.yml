@@ -12,16 +12,6 @@ book:
   chapters:
     - index.qmd
     - introduction.qmd
-    - part: "Act I — The World Before California"
-      chapters:
-        - ch/1-01-collapse.qmd
-        - ch/1-02-greek-experiment.qmd
-        - ch/1-03-rome-system.qmd
-        - ch/1-04-church-operating-system.qmd
-        - ch/1-05-layered-power.qmd
-        - ch/1-06-china-continuity.qmd
-        - ch/1-07-medici-press.qmd
-        - ch/1-08-progress-property-monopoly.qmd
     - part: "Act II — Land, Monopoly, and Institution"
       chapters:
         - ch/2-01-mission-system.qmd

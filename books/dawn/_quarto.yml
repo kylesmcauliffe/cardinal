@@ -1,0 +1,45 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Dawn"
+  subtitle: "An American Odyssey"
+  author: "Kyle McAuliffe"
+  date: today
+  cover-image: cover.png
+  repo-url: https://github.com/kylesmcauliffe/cardinal
+  chapters:
+    - index.qmd
+    - introduction.qmd
+    - part: "The World Before California"
+      chapters:
+        - ch/1-01-collapse.qmd
+        - ch/1-02-greek-experiment.qmd
+        - ch/1-03-rome-system.qmd
+        - ch/1-04-church-operating-system.qmd
+        - ch/1-05-layered-power.qmd
+        - ch/1-06-china-continuity.qmd
+        - ch/1-07-medici-press.qmd
+        - ch/1-08-progress-property-monopoly.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+nocite: |
+  @*
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    number-sections: false
+    toc-depth: 2
+    css: styles.css
+  pdf:
+    documentclass: scrreprt
+    number-sections: false
+    papersize: letter
+
+editor: visual

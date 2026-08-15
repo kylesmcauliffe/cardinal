@@ -3,12 +3,12 @@
 .RData
 .Ruserdata
 .DS_Store
-/_book/
-/_book-draft/
-/_freeze/
+_book/
+_book-draft/
+_freeze/
 *.html
 *.pdf
 !cover.png
 
-/.quarto/
+.quarto/
 **/*.quarto_ipynb

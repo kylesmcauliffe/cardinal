@@ -1,0 +1,13 @@
+# Sources {.unnumbered}
+
+*Dawn* shares a bibliography and research apparatus with its companion volume,
+*Cardinal*. Citations do not appear in the prose; the works the narrative was
+drafted against are listed below, and the working research log lives at
+`_project/research-log.md` in the manuscript repository.
+
+As in *Cardinal*, Wikipedia was used only to navigate toward primary and
+scholarly material and is cited nowhere; contested claims are marked as
+contested; and no chapter's argument rests on a disputed fact.
+
+::: {#refs}
+:::

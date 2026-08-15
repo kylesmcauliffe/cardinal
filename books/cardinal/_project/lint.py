@@ -20,7 +20,9 @@ from collections import defaultdict
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CH_DIR = os.path.join(ROOT, "ch")
 
-EXPECTED_PER_ACT = {1: 8, 2: 13, 3: 13, 4: 14, 5: 12}
+# Act I (the ancient "world before California" chapters) now lives in the
+# companion volume Dawn; Cardinal opens at Act II.
+EXPECTED_PER_ACT = {2: 13, 3: 13, 4: 14, 5: 12}
 
 # Phrases removed per _project/cut-material.md. These are exact constructions,
 # not topics: "conspiracy" and "ChatGPT" are legitimate subjects of this book,
@@ -96,8 +98,8 @@ def check_structure(errors):
             errors.append(f"Act {act}: chapter numbers are not contiguous "
                           f"from 01: {numbers}")
 
-    if total != 60:
-        errors.append(f"expected 60 chapters in total, found {total}")
+    if total != 52:
+        errors.append(f"expected 52 chapters in total, found {total}")
 
     # Every chapter file must be referenced by the book config, and every
     # reference must resolve to a file.
