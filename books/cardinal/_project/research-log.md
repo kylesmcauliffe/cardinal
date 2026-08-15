@@ -21,7 +21,7 @@ scholarly disagreement), `CUT` (could not be substantiated).
 
 ## Verified
 
-### Act II, ch. 8 — The Vacant Chairs
+### Act I, ch. 8 — The Vacant Chairs
 
 The book's causal hinge. Verified against the Senate Historical Office and the
 National Park Service's *The Pacific Railway* handbook.
@@ -57,7 +57,7 @@ which specifies Council Bluffs to Sacramento, and contradicts the Senate
 Historical Office. Treat the Archives' summary text as an error; cite the statute.
 Worth a footnote — a reader checking the most obvious source will hit this.
 
-### Act III, ch. 7 — Steinbeck
+### Act II, ch. 7 — Steinbeck
 
 | Claim | Status | Source |
 |---|---|---|
@@ -69,7 +69,7 @@ Worth a footnote — a reader checking the most obvious source will hit this.
 | In his final year he lived in a one-room shack behind a larger house in Palo Alto | VERIFIED | *Stanford Daily*, 7 June 2012 |
 | Stanford is where he developed the interests in race, poverty, marine biology and ecology that shaped the later work | VERIFIED | Gavin Jones, Rehmus Family Professor in the Humanities, Stanford Historical Society lecture (2020) |
 
-### Act IV, ch. 6 — Knight and Nike
+### Act III, ch. 6 — Knight and Nike
 
 | Claim | Status | Source |
 |---|---|---|
@@ -87,7 +87,7 @@ Worth a footnote — a reader checking the most obvious source will hit this.
 | Nike revenues exceeded $3 million in 1972, its first year under the Nike brand | NEEDS SOURCE | *Encyclopedia.com* gives this; want a second source |
 | Page length of the Shallenberger paper | CONTESTED | *The Oregonian* says 50 pages; other accounts differ. Omit the number from the prose. |
 
-### Act IV, ch. 7 — The April Third Movement
+### Act III, ch. 7 — The April Third Movement
 
 | Claim | Status | Source |
 |---|---|---|
@@ -124,10 +124,10 @@ elsewhere and is safe to use.
 
 | Claim | Chapter | Note |
 |---|---|---|
-| Jane Stanford was murdered by strychnine poisoning in Honolulu, 28 February 1905 | II.13 | Genuine scholarly disagreement. A strychnine incident in San Francisco weeks earlier is better documented than the Honolulu death. The chapter's argument does not depend on the answer. See `cut-material.md` §5. |
-| Leland Stanford's personal responsibility for Chinese labour conditions on the Central Pacific | II.09, II.11 | Operational control sat with Crocker and Strobridge. Distinguish personal conduct from structural benefit; the structural claim is the one the book needs. |
-| Sterilisation totals under California's 1909 law | III.03 | Figures vary by source and method. Cite a range with its basis, not a single round number. |
-| The Muybridge commission's causal role in the invention of cinema | II.12 | Frequently overstated. Treat as one contributing line, not origin. |
+| Jane Stanford was murdered by strychnine poisoning in Honolulu, 28 February 1905 | I.13 | Genuine scholarly disagreement. A strychnine incident in San Francisco weeks earlier is better documented than the Honolulu death. The chapter's argument does not depend on the answer. See `cut-material.md` §5. |
+| Leland Stanford's personal responsibility for Chinese labour conditions on the Central Pacific | I.09, I.11 | Operational control sat with Crocker and Strobridge. Distinguish personal conduct from structural benefit; the structural claim is the one the book needs. |
+| Sterilisation totals under California's 1909 law | II.03 | Figures vary by source and method. Cite a range with its basis, not a single round number. |
+| The Muybridge commission's causal role in the invention of cinema | I.12 | Frequently overstated. Treat as one contributing line, not origin. |
 
 ---
 
@@ -136,7 +136,7 @@ elsewhere and is safe to use.
 Load-bearing claims that must be sourced before the chapters they anchor can
 leave draft.
 
-### Act II, ch. 8 — The Vacant Chairs (the book's causal hinge)
+### Act I, ch. 8 — The Vacant Chairs (the book's causal hinge)
 
 - The Pacific Railroad Surveys of 1853–1855, conducted under Secretary of War
   Jefferson Davis, and the extent to which they favoured a 32nd-parallel southern route
@@ -151,14 +151,14 @@ leave draft.
 - California gold's contribution to Union war finance
 - Stanford's election as governor in 1861 and his term, 1862–1863
 
-### Act II, ch. 9 — Railroads
+### Act I, ch. 9 — Railroads
 
 - Land grant terms in acreage and dollars, and the bond structure
 - The Contract and Finance Company and the mechanism of self-dealing
 - Huntington's "It is my business to buy Congress" — locate the surviving letter
   and cite it directly, not through intermediaries
 
-### Act V — the modern era
+### Act IV — the modern era
 
 Every figure carried over from the chronology drafts requires independent
 verification before use. The drafts are strong on narrative and weak on

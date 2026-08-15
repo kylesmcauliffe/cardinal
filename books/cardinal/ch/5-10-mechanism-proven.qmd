@@ -1,7 +1,7 @@
 # The Stanford Mechanism, Tested {#sec-5-10}
 
 ::: {.chapter-meta}
-Act V — The Open Era · 2025
+Act IV — The Open Era · 2025
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -186,7 +186,7 @@ in.
 A book that only reports confirmations is a polemic. Here is where this one is
 most exposed.
 
-**The Santa Clara headnote.** Act II chapter 10 gives prominence to an episode
+**The Santa Clara headnote.** Act I chapter 10 gives prominence to an episode
 that specialists consider substantially overstated. Corporate personhood
 developed over decades through decided cases, and the headnote did not create
 it. The chapter concedes this and still uses the episode, and a reader is
@@ -202,7 +202,7 @@ cannot be fully answered, because the two explanations predict most of the same
 observations.
 
 **Single-source chapters.** Several chapters rest more heavily than is ideal on
-one account, particularly in Act I and in the parts of Act IV that depend on
+one account, particularly in Act I and in the parts of Act III that depend on
 institutional histories written by participants.
 
 **Counterfactuals.** The book argues that secession chose the railroad route and

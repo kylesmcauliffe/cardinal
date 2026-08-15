@@ -1,7 +1,7 @@
 # The Mission System: Land, Labour, and Records {#sec-2-01}
 
 ::: {.chapter-meta}
-Act II — Land, Monopoly, and Institution · 1769–1821
+Act I — Land, Monopoly, and Institution · 1769–1821
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -18,7 +18,7 @@ power was legibility: the conversion of human lives into administrative entries,
 by an institution that owned the only pen.
 
 **The mechanism.** Chokepoint control of the record. The mission is the book's
-first data centre, and the argument it opens is the one Act V closes: whoever
+first data centre, and the argument it opens is the one Act IV closes: whoever
 holds the register decides who exists in an official sense. Also public
 authority and private benefit fused from the start — the Crown's mandate, the
 order's land, the Indigenous labour.
@@ -65,8 +65,8 @@ natural harbour on it. Everything else was instrumentation around that.
 What the registers did was make the population legible. A baptism was an
 administrative event with labour consequences: it created an obligation, a
 location, and a name that could be tracked. This is a chokepoint on the record
-itself, and it is the same position the archive will occupy in Act III and the
-platform will occupy in Act V.
+itself, and it is the same position the archive will occupy in Act II and the
+platform will occupy in Act III.
 
 The cost is the chapter's centre and not a footnote to it. The Ohlone, Chumash,
 and dozens of other peoples appear in California's founding documents almost
@@ -80,7 +80,8 @@ the evidence against the archivist, including the records of flight and revolt.
 ::: {.callout-caution collapse="true"}
 ## Beats
 
-1. **Hook.** A line in a baptismal register. A name given, a name missing.
+1. **Hook.** Galvez Street. The administrator who ordered the missions, not
+   the priest who walked them. Then the register.
 2. **The system, not the settlement.** Presidio for force, mission for labour
    and record, pueblo for supply. Three institutions, one machine, and the
    middle one is the important one.
@@ -110,6 +111,23 @@ the evidence against the archivist, including the records of flight and revolt.
 How does power begin before markets exist?
 :::
 
+The street runs from El Camino Real to Serra Street, across the front of the
+campus, and the sign says Galvez.
+
+It is named for José de Gálvez (1720–1787), inspector general of New Spain — a
+Bourbon administrator, not a priest. In 1767 he carried out the royal decree
+expelling the Jesuits from the Spanish empire. The next year, under Carlos III,
+he went to Baja California and appointed the two men who would actually walk
+north: Gaspar de Portolá as military commander, and Junípero Serra, a
+Franciscan, as religious leader of the Alta California expedition. The missions
+were Gálvez's idea. Serra executed them. David Starr Jordan, the university's
+first president, spent years naming the campus after the Spanish and Mexican
+officials he wanted students to remember; Galvez Street is that decision, still
+in force, at the front door.
+
+That is the first artifact. The second is a line in a book those men caused to
+be kept.
+
 The entry gives a date, a Spanish name, a note of parentage, and the name of the
 priest who performed the rite. What it does not give is the name the person had
 the day before.
@@ -121,7 +139,8 @@ and produced a person who could be counted, assigned to work, pursued if he
 left, and accounted for at the end of the year. The registers were reviewed by
 superiors. They were the basis of reporting to Mexico City and to Madrid.
 
-California's first form of power was the power to write people down.
+California's first form of power was the power to write people down. The campus
+still writes the man who ordered it done.
 
 ## A system, not a settlement
 

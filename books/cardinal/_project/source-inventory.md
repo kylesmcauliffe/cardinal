@@ -34,7 +34,7 @@ Same text distributed across three containers. Roughly 18,000 words of finished
 prose covering the Late Bronze Age through Qing China, plus ~8,900 words on
 Spanish and Mexican California through 1890.
 
-**Mined for:** Act I entirely; Act II chapters 1–7 and 10.
+**Mined for:** Act I entirely; Act I chapters 1–7 and 10.
 
 **Problems corrected:**
 
@@ -44,7 +44,7 @@ Spanish and Mexican California through 1890.
 - Chapters 2 and 3 are absent from `CARDINAL_full_bc97.txt`; the numbering jumps
   from 1 to 4. Present in `CARDINAL_df53.txt`.
 - Chapter 1 is titled "c. 1300–1000 BCE" but its content runs to Augustus, 27 BCE.
-- Act II Chapter 9 ends mid-sentence: "The next step would be social: stabilizing".
+- Act I Chapter 9 ends mid-sentence: "The next step would be social: stabilizing".
 - Chapter 10 carries a note saying it will stop before the Atlantic revolutions;
   Chapter 11 then covers them in full.
 - Editorial residue throughout: "Your transcript," "Below is Chapter 5,"
@@ -63,7 +63,7 @@ Twenty-five finished chapters plus one truncated, covering 1848–1950 in a
 than the world-history run: "imperial core," "root node," "refactored the
 nation's source code."
 
-**Mined for:** Act III above all — this is the only draft with real prose on
+**Mined for:** Act II above all — this is the only draft with real prose on
 Hoover's return, the Hoover Institution's founding, the OSS, Vannevar Bush's
 campus visit, the Radio Research Laboratory, Operation Paperclip, and the
 Industrial Park groundbreaking. Also strong on the 1906 earthquake and the
@@ -108,7 +108,7 @@ street geography and the Bank of America / Giannini thread.
 Outline only, no finished prose, but the single best source for the book's
 geography: the chain of specific addresses that the epilogue is built on.
 
-**Mined for:** Act V chapters 11 and 12, and address specificity throughout.
+**Mined for:** Act IV chapters 11 and 12, and address specificity throughout.
 
 Addresses recovered: 320 Dolores Street (Mission Dolores); Colton Hall, 570
 Pacific Street, Monterey; Sutter's Mill, Coloma; Promontory Summit, Utah; 367
@@ -133,13 +133,13 @@ Present in none of the drafts, and now commissioned:
 
 - **Why the railroad ran where it ran.** Every draft asserts the Pacific Railroad
   Act of 1862 without explaining the sectional deadlock it resolved. This is the
-  causal hinge between the Civil War and Stanford's existence. Now Act II, ch. 8.
+  causal hinge between the Civil War and Stanford's existence. Now Act I, ch. 8.
 - **John Steinbeck.** Absent entirely. He attended Stanford 1919–1925 and left
-  without a degree. Now Act III, ch. 7.
+  without a degree. Now Act II, ch. 7.
 - **Phil Knight and Nike.** Nike appears only as an offshore supply chain;
   Knight is never named. He took a Stanford MBA in 1962 and wrote Nike as a
-  class paper. Now Act IV, ch. 6.
+  class paper. Now Act III, ch. 6.
 - **Internal opposition in the Valley era.** No draft covers the campus
-  anti-war movement against Stanford's own military research. Now Act IV, ch. 7.
+  anti-war movement against Stanford's own military research. Now Act III, ch. 7.
 - **Any bibliography at all.** No draft has one. The Event Ledger carries source
   tags `[S1]`–`[S87]` with no key. Phase 6.

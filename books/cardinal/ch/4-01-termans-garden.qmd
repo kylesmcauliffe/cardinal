@@ -1,7 +1,7 @@
 # Terman's Garden: The Research Park {#sec-4-01}
 
 ::: {.chapter-meta}
-Act IV — The Silicon Valley Machine · 1945–1955
+Act III — The Silicon Valley Machine · 1945–1955
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -74,7 +74,7 @@ with the institution that credentialed their staff.
 
 The chapter follows the revenue honestly. Much of the park's early tenancy
 depended on defence contracts, which means the private-sector face of the
-arrangement sat on a public-sector income stream — Act III's triangle with a
+arrangement sat on a public-sector income stream — Act II's triangle with a
 lease attached.
 
 Who could take the jobs was determined before hiring began. Palo Alto and the
@@ -82,7 +82,7 @@ surrounding towns operated restrictive covenants and exclusionary practices that
 filtered the residential population within reach of the park, and the chapter
 names them specifically.
 
-The operating system is running. Everything else in Act IV is an application
+The operating system is running. Everything else in Act III is an application
 built on top of it.
 :::
 
@@ -116,6 +116,16 @@ built on top of it.
 ::: {.chapter-question}
 How does a university become an operating system for an economy?
 :::
+
+Hansen Way runs from Page Mill Road to El Camino Real, through what is now the
+Stanford Research Park. It is named for William Webster Hansen, the physicist
+whose klystron and microwave work seeded Varian Associates and the
+defense-electronics industry that filled the park. He died of beryllium
+exposure. The road is a lumber track that became an industrial one, named for a
+man the federal contracts killed, running through land the university was
+forbidden to sell.
+
+That prohibition is where the operating system starts.
 
 The Founding Grant of 1885 forbids the university to sell its land.
 
@@ -193,12 +203,12 @@ industry growing on top of it.
 ## Follow the revenue
 
 The park's early tenants were not consumer companies and the chapter should keep
-Act III's substrate visible.
+Act II's substrate visible.
 
 Varian made klystrons and microwave equipment, and its customers were military.
 Hewlett-Packard's instrument business depended heavily on defence and aerospace
 purchasing. Lockheed's missile division would arrive in Sunnyvale in 1956, and
-Act IV chapter 4 is about what that did to the region.
+Act III chapter 4 is about what that did to the region.
 
 The private-sector face of the arrangement sat on a public-sector income stream.
 Federal procurement paid for most of it, and the park was the mechanism by which
@@ -207,7 +217,7 @@ private fortunes.
 
 ## Steeples, tenants, and the loop
 
-The strategy from Act III chapter 10 now closes into a circuit, and it is worth
+The strategy from Act II chapter 10 now closes into a circuit, and it is worth
 tracing once because the rest of the act assumes it.
 
 Federal money funds research in the fields Terman selected. The research
@@ -261,7 +271,7 @@ The workforce for all this had to live somewhere, and where it could live had
 been determined before any of it was built.
 
 Palo Alto, Menlo Park, Atherton, and the surrounding towns operated restrictive
-covenants of the kind described in Act III, and the federal underwriting maps
+covenants of the kind described in Act II, and the federal underwriting maps
 graded the area accordingly. The covenants became judicially unenforceable in
 1948 but remained in deeds and continued to be honoured informally, and the
 practices of local real estate boards and lenders sustained the pattern for

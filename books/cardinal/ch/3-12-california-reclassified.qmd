@@ -1,7 +1,7 @@
 # California Reclassified: From Frontier to Arsenal {#sec-3-12}
 
 ::: {.chapter-meta}
-Act III — Hoover, War, and the Archive State · 1945
+Act II — Hoover, War, and the Archive State · 1945
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -21,7 +21,7 @@ five years has never been renegotiated.
 **The mechanism.** The three mechanisms locking together. Federal money
 (subsidy), concentrated in a corridor (chokepoint), routed through an
 institution that credentials the people who administer it (network). The
-chapter's function is to show the reader the completed assembly before Act IV
+chapter's function is to show the reader the completed assembly before Act III
 runs it.
 
 **The key fact.** Federal spending during the war remade California's
@@ -227,7 +227,7 @@ The benefit was universal on paper and delivered through channels that were not.
 California received an enormous share of the programme's effects because so many
 servicemen had passed through the state and stayed. The universities that
 expanded on it, the suburbs that were financed by it, and the technical
-workforce it trained are the substrate on which Act IV operates.
+workforce it trained are the substrate on which Act III operates.
 
 The Master Plan for Higher Education, which formalised California's three-tier
 public system, follows in 1960 and rests on the demand this created.
@@ -250,7 +250,7 @@ country by a wide margin, and its delegation was correspondingly attentive to
 the committees that allocated them.
 
 The state's economy and the federal budget had been fused, and the fusion was
-bipartisan and permanent. This is worth holding onto for Act IV chapter 10,
+bipartisan and permanent. This is worth holding onto for Act III chapter 10,
 where a political movement built substantially in California will campaign
 against federal spending while representing its largest single beneficiary, and
 will not experience the contradiction as one.

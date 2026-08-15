@@ -1,7 +1,7 @@
 # Statehood and Private Governance {#sec-2-07}
 
 ::: {.chapter-meta}
-Act II — Land, Monopoly, and Institution · 1849–1856
+Act I — Land, Monopoly, and Institution · 1849–1856
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -76,7 +76,7 @@ either the formal order or the informal one.
 
 California has now established, within six years of statehood, that private
 actors can govern in the shadow of the state and be praised as public
-benefactors. That premise underwrites everything in Act IV.
+benefactors. That premise underwrites everything in Act II.
 :::
 
 ::: {.callout-caution collapse="true"}
@@ -102,7 +102,7 @@ benefactors. That premise underwrites everything in Act IV.
 8. **The excluded.** Who was hanged; who had no standing in either system.
 9. **Landing.** California has learned that private organisation can substitute
    for public authority and be honoured for it. Hold that; it is the premise of
-   everything in Act IV.
+   everything in Act II.
 :::
 
 :::
@@ -297,7 +297,7 @@ a moment when decent men restored order.
 Private organisation substituted for public authority, and was honoured for it.
 
 That is the premise this book will need repeatedly. It is the premise underlying
-the Hoover Commission for Relief in Belgium in Act III, which fed a country
+the Hoover Commission for Relief in Belgium in Act II, which fed a country
 without being a state. It is the premise underlying the university-contractor
 arrangement, in which public functions are performed by private institutions
 because the private institutions are better at them. It is the premise

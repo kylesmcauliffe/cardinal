@@ -1,7 +1,7 @@
 # The PayPal Origin Story {#sec-4-13}
 
 ::: {.chapter-meta}
-Act IV — The Silicon Valley Machine · 1998–2002
+Act III — The Silicon Valley Machine · 1998–2002
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -65,7 +65,7 @@ shared risk assessment, dramatically lowered transaction costs, and trust as a
 form of capital — which is a credentialing system with no examination and no
 institution, and Act I's chapters on Greek schools and Chinese examinations are
 the comparison the chapter reaches for. It also has a coherent and consequential
-politics held largely in common, and Act V will show what that produces.
+politics held largely in common, and Act IV will show what that produces.
 
 The chapter resists admiration. The efficiency with which the network reproduces
 itself is precisely the barrier facing everyone outside it, and founders without
@@ -95,7 +95,7 @@ at the scale of a staff photograph.
    costs, and trust as capital. Return to Act I ch. 2 and Act I ch. 6: this is a
    credentialing system with no examination and no institution.
 8. **Ideology.** A coherent and consequential set of political views, held in
-   common and funded in common. Describe accurately; Act V ch. 4 and ch. 7 will
+   common and funded in common. Describe accurately; Act IV ch. 4 and ch. 7 will
    show the consequences.
 9. **The excluded.** Founders outside the address book.
 10. **Landing.** A ruling class assembled from one company's payroll. The book's
@@ -188,7 +188,7 @@ history and a photograph.
 ## The politics
 
 The group also holds, in substantial part, a coherent set of political
-commitments, and they are consequential enough that Act V cannot be understood
+commitments, and they are consequential enough that Act IV cannot be understood
 without them.
 
 Thiel has been explicit for two decades: a scepticism about the compatibility of
@@ -236,7 +236,7 @@ reoriented by one of them on explicitly political grounds.
 The chapter's point is not that the disposition is wrong. It is that a coherent
 view about the inadequacy of public institutions, held by people with the
 capital and the network to act on it, produces a systematic pattern of private
-substitution — and that Act V is largely a record of what that substitution
+substitution — and that Act IV is largely a record of what that substitution
 looks like when it succeeds.
 
 ## The barrier

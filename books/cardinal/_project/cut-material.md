@@ -21,7 +21,7 @@ that cannot be verified.
 | An assassination dated March 2025, named to a specific public figure | **Cut entirely.** Unverifiable as written. |
 | "Dallas — March 15 2025," a scene rendered in specific detail | **Cut entirely.** No sourceable event. |
 | Named engagement, affair, and scandal details for living technology executives | **Cut entirely.** See section 2. |
-| Legislative and political events dated into late 2025 and beyond | **Cut pending verification.** Act V now ends at events that can be sourced. |
+| Legislative and political events dated into late 2025 and beyond | **Cut pending verification.** Act IV now ends at events that can be sourced. |
 
 A nonfiction book cannot carry unsourceable claims about living people. This is
 both an evidentiary and a legal standard. Where the underlying subject matter is
@@ -88,7 +88,7 @@ evidence is inconclusive.
 
 Voice Guide rule 2 governs: state the strongest version of each position, name
 the uncertainty, make clear which reading Cardinal finds most persuasive and
-why. The chapter's argument does not rest on the answer — Act II chapter 13
+why. The chapter's argument does not rest on the answer — Act I chapter 13
 proves that the institution survived its founders regardless of how the last one
 died, which is the more interesting and more defensible claim.
 

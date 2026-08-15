@@ -20,8 +20,8 @@ from collections import defaultdict
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CH_DIR = os.path.join(ROOT, "ch")
 
-# Act I (the ancient "world before California" chapters) now lives in the
-# companion volume Dawn; Cardinal opens at Act II.
+# Filenames still use the old 2–5 numbering (Dawn took the original Act I
+# files). Reader-facing parts are Cardinal Acts I–IV.
 EXPECTED_PER_ACT = {2: 13, 3: 13, 4: 14, 5: 12}
 
 # Phrases removed per _project/cut-material.md. These are exact constructions,

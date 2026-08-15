@@ -1,7 +1,7 @@
 # The Inauguration Spectacle: Elite Fusion Goes Public {#sec-5-07}
 
 ::: {.chapter-meta}
-Act V — The Open Era · 2022–2025
+Act IV — The Open Era · 2022–2025
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -51,7 +51,7 @@ proximity is the evidence.
 Its documented core is campaign finance. Peter Thiel contributed roughly fifteen
 million dollars to J. D. Vance's 2022 Senate campaign — a figure taken from FEC
 filings — and Vance became vice president. Thiel had employed Vance, mentored
-him, and funded him. That is the network described in Act IV chapter 13
+him, and funded him. That is the network described in Act III chapter 13
 producing its most legible output, and it requires no claim about coordination
 whatsoever, only disclosure documents.
 
@@ -131,7 +131,7 @@ Peter Thiel contributed roughly fifteen million dollars to J. D. Vance's 2022
 Senate campaign in Ohio, principally through a supporting committee — one of the
 largest sums ever directed by a single donor to a single Senate candidate. Thiel
 had employed Vance at his investment firm, had mentored him, and had introduced
-him to the network described in Act IV chapter 13.
+him to the network described in Act III chapter 13.
 
 Vance won the seat in November 2022. He was elected vice president in November
 2024.
@@ -167,7 +167,7 @@ disputed — and they were, in litigation and in congressional correspondence �
 says so.
 
 What is structurally novel is not that a wealthy person had influence over
-government. That is Act II chapter 10, and Collis Huntington was more candid
+government. That is Act I chapter 10, and Collis Huntington was more candid
 about it. What is novel is a serving executive of firms holding major federal
 contracts occupying a formal advisory role over the agencies that let them, with
 the conflict identified and not resolved.
@@ -225,7 +225,7 @@ log.
 The realignment that produced the rotunda seating deserves a section, because it
 was not inevitable and happened quickly.
 
-For most of the period covered by Act IV, the corridor's politics were broadly
+For most of the period covered by Act III, the corridor's politics were broadly
 liberal on social questions and libertarian on economic ones, and its money went
 predominantly to Democrats. The industry's self-image was progressive, and its
 relationship with Democratic administrations was close enough that the traffic
@@ -268,7 +268,7 @@ arrangement, and an executive action. The argument of this book does not require
 anybody to have conspired, and at the point where the mechanism becomes fully
 visible it turns out that nothing needed to be hidden in the first place.
 
-Act II chapter 11 described a crowd on a San Francisco sandlot being directed
+Act I chapter 11 described a crowd on a San Francisco sandlot being directed
 toward the Chinese while the railroad's owners watched from Nob Hill. The
 mechanism has not changed. What has changed is that the men on the hill no
 longer find it necessary to stay up there.

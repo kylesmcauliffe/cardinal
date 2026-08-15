@@ -1,7 +1,7 @@
 # Hollywood, Media, and California's Parallel Platform {#sec-4-08}
 
 ::: {.chapter-meta}
-Act IV — The Silicon Valley Machine · 1908–1990
+Act III — The Silicon Valley Machine · 1908–1990
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -97,7 +97,7 @@ should expect the pattern anywhere California builds anything.
    actually broken.
 7. **The lesson learned.** Do not own the visible physical layer. Point forward:
    platforms will own logistics, moderation, and terms of service instead — and
-   Act V ch. 3 will show a company insisting it is not a publisher.
+   Act IV ch. 3 will show a company insisting it is not a publisher.
 8. **Dual power.** Code and story. California's two exports and the fact that
    both are chokepoints on something that used to be free.
 9. **The excluded.** Contract labour, the blacklist, the 1945-46 strikes,
@@ -186,10 +186,10 @@ finance, of distribution relationships, or of the talent pipeline, and the
 industry reorganised around those within a decade.
 
 The lesson California's cultural industry took is the same lesson its railroad
-had taught in Act II chapter 10: do not own the visible physical layer, because
+had taught in Act I chapter 10: do not own the visible physical layer, because
 that is the layer a court can reach.
 
-Hold that against Act V, where a company will argue at length that it is not a
+Hold that against Act IV, where a company will argue at length that it is not a
 publisher and therefore not responsible for what it distributes, while operating
 the largest distribution system in human history. The studios owned theatres and
 were forced to sell them. The platforms own no theatres, and there is nothing to
@@ -214,7 +214,7 @@ and largest beneficiaries included landowners in the San Fernando Valley who had
 bought property in advance of the route being announced, and who then had it
 annexed to the city so it could be irrigated.
 
-This is Act II chapter 9 with a pipe instead of a rail line: public money, a
+This is Act I chapter 9 with a pipe instead of a rail line: public money, a
 route determined by people with prior positions along it, and a resource
 transferred from a place with no political weight to a place with all of it.
 
@@ -256,7 +256,7 @@ enforced not by statute but by studios acting in concert with each other.
 
 That last point is worth registering. The blacklist was a private arrangement
 among companies, administered through informal clearance procedures, with no
-legal authority and no appeal. It is the Committee of Vigilance from Act II
+legal authority and no appeal. It is the Committee of Vigilance from Act I
 chapter 7 in a different industry: private actors performing a governmental
 function, competently and with the approval of respectable opinion, because the
 formal apparatus was too slow.

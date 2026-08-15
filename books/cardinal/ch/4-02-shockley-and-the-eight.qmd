@@ -1,7 +1,7 @@
 # Shockley, the Eight, and the Spinoff {#sec-4-02}
 
 ::: {.chapter-meta}
-Act IV — The Silicon Valley Machine · 1956–1960
+Act III — The Silicon Valley Machine · 1956–1960
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -28,7 +28,7 @@ part because a Nobel laureate wanted to be near his mother.
 
 **The human anchor.** Shockley: co-inventor of the transistor, Nobel laureate,
 catastrophic manager, and later a public advocate of eugenic argument — which
-places him directly in the line that runs from Jordan in Act III ch. 3.
+places him directly in the line that runs from Jordan in Act II ch. 3.
 
 **Excluded voices.** Nobody, at this stage, and the chapter should say so
 plainly. The semiconductor workforce is small, credentialed, and male. The
@@ -74,7 +74,7 @@ arrives in the next decade, on the fabrication lines and in offshore assembly
 plants, and the chapter names where it is coming.
 
 Shockley's later career as a public advocate of eugenic argument places him
-directly in the line running from David Starr Jordan in Act III — the same
+directly in the line running from David Starr Jordan in Act II — the same
 claim, the same campus, a different discipline, fifty years apart.
 
 Eight men walking out of a building is the founding event of the industry.
@@ -97,7 +97,7 @@ Eight men walking out of a building is the founding event of the industry.
    density, and the availability of capital that had not existed five years
    earlier.
 7. **Shockley's later trajectory.** The eugenic advocacy. Connect explicitly to
-   Jordan and Act III ch. 3 — the same argument, the same campus, a different
+   Jordan and Act II ch. 3 — the same argument, the same campus, a different
    discipline.
 8. **The excluded, named as absent.** A small credentialed male workforce. Say
    that the cost arrives later and where.
@@ -256,7 +256,7 @@ in interviews, and in proposals for voluntary sterilisation incentives. He was
 protested and disinvited and kept going, and he regarded this work as more
 important than the transistor.
 
-Place him next to David Starr Jordan from Act III chapter 3 and Lewis Terman
+Place him next to David Starr Jordan from Act II chapter 3 and Lewis Terman
 from chapter 6, and the line is unbroken: three Stanford figures, across seventy
 years, in three different disciplines, arriving at the same claim that human
 quality is heritable and should govern policy.

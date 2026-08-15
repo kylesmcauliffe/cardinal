@@ -1,7 +1,7 @@
 # War, Occupation, and the Power of Paperwork {#sec-2-05}
 
 ::: {.chapter-meta}
-Act II — Land, Monopoly, and Institution · 1846–1848
+Act I — Land, Monopoly, and Institution · 1846–1848
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -74,7 +74,7 @@ confiscation, and a much harder one to protest.
 
 Indigenous title was recognised by neither sovereign, before or after.
 
-The chapter's structural point closes Act II's first movement: capital requires
+The chapter's structural point closes Act I's first movement: capital requires
 enforceable title, the United States supplied it, and that was the actual
 acquisition. The legal framework is now in place, and the gold is already in the
 river.

@@ -3,78 +3,116 @@
 A gazetteer of the addresses and street names that carry the argument of this
 book, with what happened at each and who it is named for.
 
-Chapter V.11 makes the case that the street grid of the San Francisco Peninsula
-is an accurate record of who controlled it and in what order. Chapter V.12 walks
+Chapter IV.11 makes the case that the street grid of the San Francisco Peninsula
+is an accurate record of who controlled it and in what order. Chapter IV.12 walks
 the route. This appendix is the reference table both draw on, arranged in the
-five layers that chapter V.11 identifies.
+five layers that chapter IV.11 identifies.
 
 ::: {.callout-note}
-The author's street list has not yet been supplied. Every layer below is built to
-receive additional names, and the argument rests on the pattern rather than on
-any particular sign. Additions strengthen the appendix without altering the
-chapter.
+The street entries below are drawn from Richard W. Cottle, *Stanford Street
+Names: A Pocket Guide* (Stanford Historical Society, 2014), cross-checked against
+the public campus record. The argument rests on the pattern rather than on any
+one sign; the guide simply confirms, name by name, how completely the pattern is
+written into the ground. Entries still being verified against the guide are
+marked *(verify)*.
 :::
 
 ## Layer one — the mission road (1769–1834)
 
 | Name | What it is | Chapter |
 |---|---|---|
-| El Camino Real | The Spanish supply route linking the missions a day's travel apart. Still the Peninsula's main street, running through Millbrae, San Mateo, Redwood City, Menlo Park, Palo Alto, Mountain View, and Sunnyvale. | II.2 |
-| Junípero Serra Boulevard | Named for the Franciscan president of the mission system. Runs along the western edge of the Stanford campus. | II.1 |
-| 320 Dolores Street, San Francisco | Mission San Francisco de Asís, founded 1776. Oldest intact building in the city; survived 1906. | II.1 |
-| The Presidio, San Francisco | Spanish military anchor of the Bay, established 1776 within weeks of the mission. | II.2 |
-| San Mateo, San Carlos, San Bruno, Santa Clara, San José | Mission and saint names that became the towns. | II.1 |
+| Galvez Street / Galvez Mall | José de Gálvez, inspector general of New Spain, who implemented the 1767 decree expelling the Jesuits and, the next year, commissioned the Portolá–Serra expedition to Alta California. The administrator who ordered the missions built. Runs El Camino Real to Serra Street. | I.1 |
+| Junípero Serra Boulevard | Named for the Franciscan president of the mission system, "founder of nine California missions." Runs along the western edge of the Stanford campus. | I.1 |
+| Lasuen Mall | Fermín de Lasuén, Serra's successor as mission president; the central campus axis laid out by Olmsted in 1919. *(verify)* | I.1 |
+| Mendoza Road | Antonio de Mendoza, first viceroy of New Spain. | I.1 |
+| El Camino Real | The Spanish supply route linking the missions a day's travel apart. Still the Peninsula's main street, running through Millbrae, San Mateo, Redwood City, Menlo Park, Palo Alto, Mountain View, and Sunnyvale. | I.2 |
+| 320 Dolores Street, San Francisco | Mission San Francisco de Asís, founded 1776. Oldest intact building in the city; survived 1906. | I.1 |
+| The Presidio, San Francisco | Spanish military anchor of the Bay, established 1776 within weeks of the mission. | I.2 |
+| San Mateo, San Carlos, San Bruno, Santa Clara, San José | Mission and saint names that became the towns. | I.1 |
 
 ## Layer two — the ranchos (1834–1848)
 
 | Name | What it is | Chapter |
 |---|---|---|
-| Rancho San Francisquito | Mexican-era grant on the Peninsula; part of the land later assembled into the Stanford farm. | II.4 |
-| Rancho de las Pulgas | Grant covering much of what is now San Mateo County; survives in road and place names. | II.4 |
-| Rancho San Antonio, Corte Madera, and comparable names | Grant names persisting as neighbourhoods, roads, and open space preserves. | II.4 |
-| Colton Hall, 570 Pacific Street, Monterey | California's constitutional convention, September–October 1849. Upper room preserved. | II.7 |
+| Alvarado Row / Alvarado Court | Juan Bautista Alvarado, leader of the 1836 revolt against Mexican centralization and governor of Alta California, 1836–42. Name chosen by David Starr Jordan. | I.3 |
+| Rancho San Francisquito | Mexican-era grant on the Peninsula; part of the land later assembled into the Stanford farm. | I.4 |
+| Rancho de las Pulgas | Grant covering much of what is now San Mateo County; survives in road and place names. | I.4 |
+| Peter Coutts Road / Frenchman's Road / French Lake Drive | Jean-Baptiste Paulin Caperon ("Peter Coutts"), a French banker and self-described socialist who built the Matadero Rancho stock farm in 1875 and sold it to Leland Stanford in 1881 for $140,000. | I.4, I.12 |
+| Ayrshire Farm Lane | The dairy farm on Coutts's Matadero Rancho; Leland Stanford purchased the land in 1882. | I.4 |
+| Rancho San Antonio, Corte Madera, and comparable names | Grant names persisting as neighbourhoods, roads, and open space preserves. | I.4 |
+| Colton Hall, 570 Pacific Street, Monterey | California's constitutional convention, September–October 1849. Upper room preserved. | I.7 |
 
 ## Layer three — the railroad (1848–1905)
 
 | Name | What it is | Chapter |
 |---|---|---|
-| Sutter's Mill, Coloma | James Marshall finds gold, 24 January 1848. | II.6 |
-| Portsmouth Square, San Francisco | Centre of the Gold Rush city and of the Chinatown the exclusion campaigns targeted. | II.6, II.11 |
-| Grant Avenue (formerly Dupont Street) | Chinatown's principal street; home of the *Yick Wo* litigants. | II.11 |
-| Nob Hill, San Francisco | Big Four mansions; Crocker's spite fence. All but one destroyed in 1906. Now hotels, a club, and Grace Cathedral. | II.10, II.11 |
-| Promontory Summit, Utah | The golden spike, 10 May 1869. The one site in this book outside California. | II.9 |
-| Mussel Slough, Tulare County | Seven dead in a railroad land dispute, 1880. | II.10 |
-| Stanford, Crocker, Hopkins, Huntington | The Big Four, commemorated in a university, a hotel, a library and art museum, and a hill. | II.9, II.12 |
-| 2365 Kalākaua Avenue, Honolulu | The Moana Hotel. Jane Stanford's death, 28 February 1905. | II.13 |
+| Sutter's Mill, Coloma | James Marshall finds gold, 24 January 1848. | I.6 |
+| Portsmouth Square, San Francisco | Centre of the Gold Rush city and of the Chinatown the exclusion campaigns targeted. | I.6, I.11 |
+| Grant Avenue (formerly Dupont Street) | Chinatown's principal street; home of the *Yick Wo* litigants. | I.11 |
+| Nob Hill, San Francisco | Big Four mansions; Crocker's spite fence. All but one destroyed in 1906. Now hotels, a club, and Grace Cathedral. | I.10, I.11 |
+| Promontory Summit, Utah | The golden spike, 10 May 1869. The one site in this book outside California. | I.9 |
+| Mussel Slough, Tulare County | Seven dead in a railroad land dispute, 1880. | I.10 |
+| Stanford, Crocker, Hopkins, Huntington | The Big Four, commemorated in a university, a hotel, a library and art museum, and a hill. | I.9, I.12 |
+| Governor's Avenue | The trotting track of Leland Stanford's Palo Alto Stock Farm, laid out in the 1870s; the "governor" is Stanford himself. | I.9, I.12 |
+| Electioneer | Stanford's champion trotting stallion at the stock farm — the horse-breeding operation that produced Eadweard Muybridge's motion studies. | I.9 |
+| Museum Way | The museum founded in memory of Leland Stanford Jr., an avid collector; Jane Stanford served as its de facto director. Now the Iris & B. Gerald Cantor Center for Visual Arts. | I.13 |
+| 2365 Kalākaua Avenue, Honolulu | The Moana Hotel. Jane Stanford's death, 28 February 1905. | I.13 |
 
 ## Layer four — the institution (1885–1955)
 
 | Name | What it is | Chapter |
 |---|---|---|
-| The Stanford campus | Eight thousand acres of the Founding Grant, which forbade sale. | II.12 |
-| Hoover Tower | 285 feet, completed 1941, holds the archive begun in 1919. Tallest structure on campus. | III.5 |
-| Jordan Hall | Named for the first president; renamed in 2020 following a review of campus names. | II.12, III.3 |
-| Terman Engineering Center | Frederick Terman, dean and provost, architect of the research university. | III.10 |
-| 367 Addison Avenue, Palo Alto | The Hewlett-Packard garage, 1939. A California state landmark. | III.9 |
-| Moffett Field, Sunnyvale | Naval air station from the 1930s; became NASA Ames. | IV.4 |
+| The Stanford campus | Eight thousand acres of the Founding Grant, which forbade sale. | I.12 |
+| Palm Drive | The ceremonial entry to the Quad, called University Avenue in the early days; Memorial Arch stood at its head until the 1906 earthquake. Automobiles were banned from it until 1914. | I.12 |
+| Hoover Tower | 285 feet, completed 1941, holds the archive begun in 1919. Tallest structure on campus. | II.5 |
+| Jordan Hall | Named for the first president, an ichthyologist and eugenicist who himself named many campus streets; renamed in 2020 following a review of campus names. | I.12, II.3 |
+| Nathan Abbott Way | Nathan Abbott, recruited in 1893 to found the Stanford Law School. | I.10, II.6 |
+| Durand Way | William F. Durand, engineering professor and propulsion pioneer; national honors, 1948. | II.11, III.4 |
+| Samuel Morris Way | Samuel B. Morris, Stanford's second dean of engineering and later chief engineer of the Los Angeles Department of Water and Power; the road was dedicated in 1933 by Herbert Hoover. | II.10 |
+| Roth Way | Almon E. Roth, university controller 1919–37, who secured land and financing for the golf course and Frost Amphitheater. | II.11 |
+| Terman Engineering Center | Frederick Terman, dean and provost, architect of the research university. (Demolished 2012.) | II.10 |
+| 367 Addison Avenue, Palo Alto | The Hewlett-Packard garage, 1939. A California state landmark. | II.9 |
+| Moffett Field, Sunnyvale | Naval air station from the 1930s; became NASA Ames. | III.4 |
 
 ## Layer five — the corridor (1951– )
 
 | Name | What it is | Chapter |
 |---|---|---|
-| Page Mill Road, Palo Alto | Spine of the Stanford Research Park, opened 1951. A lumber road before it was an industrial one. | IV.1 |
-| Sand Hill Road, Menlo Park | The capital corridor. Kleiner Perkins and Sequoia, both founded 1972, four minutes from the campus. | IV.5 |
-| Coyote Hill Road, Palo Alto | Xerox PARC, established 1970. | IV.9 |
-| Mountain View | Shockley Semiconductor, 1956; Fairchild, 1957. | IV.2, IV.3 |
-| Sunnyvale | Lockheed Missiles and Space, 1956. The county's largest employer for two decades. | IV.4 |
-| Menlo Park | SRI, 1946. Second ARPANET node, 1969. | IV.4 |
-| Knight Management Center, Stanford | Dedicated 2011, funded by the author of a 1962 class paper about Japanese shoes. | IV.6 |
-| Donor-named buildings, institutes, and professorships | The current layer, allocated at published tariffs. | V.5, V.11 |
+| Page Mill Road, Palo Alto | Spine of the Stanford Research Park, opened 1951. A lumber road before it was an industrial one. | III.1 |
+| Hansen Way, Palo Alto | William W. Hansen, the physicist whose klystron and microwave work seeded Varian Associates and Stanford's defense-electronics industry. Runs Page Mill Road to El Camino through the Research Park. | III.1, III.4 |
+| Porter Drive, Palo Alto | Off Page Mill in the Research Park; the guide ties it to Frederick Terman's electrical engineering. | III.1 |
+| Sand Hill Road, Menlo Park | The capital corridor. Kleiner Perkins and Sequoia, both founded 1972, four minutes from the campus. | III.5 |
+| Coyote Hill Road, Palo Alto | Xerox PARC, established 1970. | III.9 |
+| Mountain View | Shockley Semiconductor, 1956; Fairchild, 1957. | III.2, III.3 |
+| Sunnyvale | Lockheed Missiles and Space, 1956. The county's largest employer for two decades. | III.4 |
+| Menlo Park | SRI, 1946. Second ARPANET node, 1969. | III.4 |
+| Knight Management Center, Stanford | Dedicated 2011, funded by the author of a 1962 class paper about Japanese shoes. | III.6 |
+| Avery Mall, Stanford | Named for the Avery family (Graduate School of Business, 1948) after a major athletics gift — the donor era in its ordinary form. | IV.5 |
+| Munger Graduate Residences, Stanford | Charlie Munger, of Berkshire Hathaway; the donor era written onto the housing stock. | IV.5 |
+| Donor-named buildings, institutes, and professorships | The current layer, allocated at published tariffs. | IV.5, IV.11 |
+| Knight–Hennessy Scholars | The graduate fellowship named for Phil Knight and John Hennessy, the president who sat for Cottle's street guide. Reproduction of the elite, priced and branded. | IV.5, IV.6 |
+
+## Buildings and landmarks (the same ledger, vertical)
+
+The streets are the horizontal record. The buildings are the same argument
+stacked. A short list, only the ones this book actually uses:
+
+| Name | What it is | Chapter |
+|---|---|---|
+| The Oval and Palm Drive | Ceremonial front door of the Quad; Memorial Arch stood here until 1906. | I.12, IV.11 |
+| Memorial Church | Jane Stanford's memorial logic in stone, at the centre of the Quad. | I.13 |
+| Encina Hall | Early administrative heart; used by the State Department in wartime. | II.4 |
+| Hoover Tower / Hoover Institution | 285 feet, completed 1941; holds the archive begun in 1919. | II.1, II.5 |
+| Green Library | The working archive of the university, named for Cecil H. Green. | II.5 |
+| SLAC, Sand Hill Road | Federal big science on the university's land, 1962– . | II.11, III.4 |
+| The Dish | A radio telescope on the estate; the farm still visible as landscape. | IV.12 |
+| 367 Addison Avenue, Palo Alto | The Hewlett-Packard garage, 1939. | II.9 |
+| SRI, Menlo Park | Second ARPANET node, 1969. | III.4 |
 
 ## The absences
 
-Chapter V.11's sharpest section is the negative one. Set against the ledger in
-chapter V.9, the record is as follows.
+Chapter IV.11's sharpest section is the negative one. Set against the ledger in
+chapter IV.9, the record is as follows.
 
 | Who | What is named for them on the Peninsula |
 |---|---|
@@ -86,3 +124,12 @@ chapter V.9, the record is as follows.
 
 What a place commemorates is what it has decided to remember. The list is the
 argument.
+
+One entry cuts the other way and is kept here because honesty requires it.
+**Sam McDonald** (1884–1957), a Black man who worked at Stanford for half a
+century and rose to superintendent of athletic buildings and grounds, is
+remembered in Sam McDonald Road and in the county park he assembled from land he
+bought himself and left to the university. It is a real exception — a working man,
+not a donor or a dean, named on the same ground as the Big Four. It does not undo
+the pattern the rest of the table records, but a pattern stated honestly has to
+account for the cases that resist it, and this is one.

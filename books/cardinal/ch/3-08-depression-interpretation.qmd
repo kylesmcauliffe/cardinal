@@ -1,7 +1,7 @@
 # The Depression and the Stakes of Interpretation {#sec-3-08}
 
 ::: {.chapter-meta}
-Act III — Hoover, War, and the Archive State · 1929–1939
+Act II — Hoover, War, and the Archive State · 1929–1939
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -77,7 +77,7 @@ works.
 
 The chapter ends with Hoover in Palo Alto, a defeated president assembling an
 intellectual apparatus for a comeback. It arrives in 1980 with somebody else's
-name on it, and Act IV chapter 10 collects the payment.
+name on it, and Act III chapter 10 collects the payment.
 
 The lesson California's elite absorbed is that administrative competence is not
 sufficient, and that whoever loses the argument loses everything downstream of
@@ -104,7 +104,7 @@ it. They did not make the mistake again.
    securities regulation, the shape of capital formation for fifty years.
 8. **Hoover's long afterlife.** Palo Alto, the Institution, and a defeated
    president building an intellectual apparatus for a comeback that arrives in
-   1980 with someone else's name on it. Point forward to Act IV ch. 10.
+   1980 with someone else's name on it. Point forward to Act III ch. 10.
 9. **Landing.** California's elite learns that administrative competence is not
    sufficient. It will not make that mistake again.
 :::
@@ -219,7 +219,7 @@ The state's exposure was acute and specific. Migration from the Dust Bowl states
 brought several hundred thousand people into California looking for agricultural
 work that did not exist in the quantity required, into a labour system built on
 the century-long sequence of recruited and discarded workforces described in Act
-II. Wages collapsed. Organising was met with force, by growers' associations
+I. Wages collapsed. Organising was met with force, by growers' associations
 operating with local law enforcement, in episodes that ran through the entire
 decade.
 
@@ -271,7 +271,7 @@ permanent scholars, and became a base from which a particular set of economic
 and foreign policy arguments could be developed and sustained across decades in
 which they were entirely out of fashion.
 
-The payoff arrives in 1980, with somebody else's name on the ballot. Act IV
+The payoff arrives in 1980, with somebody else's name on the ballot. Act III
 chapter 10 collects it.
 
 What California's elite learned in the 1930s is that administrative competence

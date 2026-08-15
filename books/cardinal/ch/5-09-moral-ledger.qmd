@@ -1,7 +1,7 @@
 # The Moral Ledger: Who Paid and Who Was Erased {#sec-5-09}
 
 ::: {.chapter-meta}
-Act V — The Open Era · 1769–2025
+Act IV — The Open Era · 1769–2025
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -63,7 +63,7 @@ state-sanctioned killings of the Gold Rush decade, and dispossession. The
 Chinese workforce of the Central Pacific, their 1867 strike, and the Exclusion
 Act that followed their work. The people sterilised under the 1909 law, cited as
 a range with its basis. Farm labour from the ranchos through the Bracero
-programme to the United Farm Workers — Steinbeck's subjects from Act III, and
+programme to the United Farm Workers — Steinbeck's subjects from Act II, and
 their own organising. Offshore manufacturing, from Fairchild's Hong Kong
 assembly through Nike's contract factories to electronics assembly across Asia.
 And contract and platform labour: drivers, warehouse workers, content
@@ -99,7 +99,7 @@ accounted for here.
 5. **The sterilised.** The 1909 law's subjects, with a sourced range and
    individual cases.
 6. **Farm labour.** From the ranchos through the Bracero programme to the UFW.
-   Steinbeck's subjects from Act III ch. 7, and their own organising.
+   Steinbeck's subjects from Act II ch. 7, and their own organising.
 7. **Offshore manufacturing.** Fairchild's Hong Kong assembly, Nike's contract
    factories, and electronics assembly. The same position, relocated.
 8. **Contract and platform labour.** Drivers, warehouse workers, moderators, and
@@ -214,7 +214,7 @@ formal relationship with the person generating it. And in each case, when
 resentment about the resulting inequality builds, it is directed at the
 workforce rather than at the arrangement.
 
-That last step is the one Act II chapter 11 documented most fully, and it is the
+That last step is the one Act I chapter 11 documented most fully, and it is the
 reason the mechanism is stable. A grievance aimed at the excluded costs nothing
 to satisfy. A grievance aimed at the chokepoint costs everything, and the
 chokepoint has lawyers.

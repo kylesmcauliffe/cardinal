@@ -1,7 +1,7 @@
 # The Personal Computer and the New Consumer Monopoly {#sec-4-09}
 
 ::: {.chapter-meta}
-Act IV — The Silicon Valley Machine · 1975–1985
+Act III — The Silicon Valley Machine · 1975–1985
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -18,7 +18,7 @@ IBM while retaining the right to license it to everyone else, and that single
 contractual reservation was worth more than any factory in the industry.
 
 **The mechanism.** Chokepoint control, relocated. The chapter's argument is that
-platform control is the same manoeuvre as Act II ch. 10's move into legal
+platform control is the same manoeuvre as Act I ch. 10's move into legal
 doctrine: get out of the visible, capital-intensive, competable layer, and into
 the invisible one that everything must route through.
 
@@ -66,7 +66,7 @@ system licensor took the surplus, and by the early 1990s Windows ran on the
 overwhelming majority of personal computers in the world.
 
 The structural argument is that the chokepoint moved up a layer. It is the same
-manoeuvre as the Southern Pacific's move into legal doctrine in Act II: get out
+manoeuvre as the Southern Pacific's move into legal doctrine in Act I: get out
 of the visible, capital-intensive layer where competitors can reach you, and
 into the invisible one that everything must route through. Bayh-Dole passed the
 same year as the IBM agreement, and the next chapter takes it up.
@@ -214,7 +214,7 @@ protected by the strongest moat available: every application ran on it, so
 switching meant abandoning software you had already bought.
 
 This is the same manoeuvre as the Southern Pacific's move into legal doctrine in
-Act II chapter 10, and as the studios' loss of their theatres in the previous
+Act I chapter 10, and as the studios' loss of their theatres in the previous
 chapter. Get out of the layer a competitor can attack or a court can point at.
 Get into the layer everything must route through.
 

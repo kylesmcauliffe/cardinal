@@ -1,7 +1,7 @@
 # Eugenics, Jordan, and the Science of Social Control {#sec-3-03}
 
 ::: {.chapter-meta}
-Act III — Hoover, War, and the Archive State · 1900–1913
+Act II — Hoover, War, and the Archive State · 1900–1913
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -81,7 +81,7 @@ disproportionately Mexican and Black, institutionalised at Sonoma and Patton,
 unable to consent. They are the chapter's subject, and the record preserves
 enough to write them as people.
 
-When Act IV calls this talent identification, the reader should hear this
+When Act III calls this talent identification, the reader should hear this
 chapter underneath it.
 :::
 
@@ -111,7 +111,7 @@ chapter underneath it.
    sentence, verified, and no more.
 9. **Berkeley's parallel.** Urban planning, restrictive covenants, and the
    beginnings of redlining. The science of sorting applied to a map.
-10. **Landing.** The management science is a sorting science. When Act IV calls
+10. **Landing.** The management science is a sorting science. When Act III calls
    it talent identification, the reader should hear this chapter under it.
 :::
 
@@ -146,6 +146,12 @@ of Indiana University at thirty-four and Stanford's first president at thirty-
 nine. He was a serious conservationist with connections to the Sierra Club. He
 was, notably and at some cost to himself, a committed pacifist who campaigned
 against American entry into the First World War.
+
+He was also the man who named the campus. Alvarado Row, and a long list of
+Spanish and Mexican officials still on the signs, were Jordan's choices: a
+taxonomist arranging the dead the way he arranged fish, so that students would
+walk through a classification of California power. The building that carried his
+own name was renamed in 2020. The streets he assigned were not.
 
 He was also chairman of the eugenics committee of the American Breeders
 Association, an early and influential advocate of sterilisation legislation, and
@@ -267,7 +273,7 @@ restrictive covenants as a means of maintaining neighbourhood stability.
 The consequence is that the geography of the Bay Area — who could buy where, who
 could accumulate housing equity, and whose neighbourhoods received investment —
 was determined by documents that ranked populations by supposed quality. When
-Act IV describes the Stanford Research Park and asks who could live within reach
+Act III describes the Stanford Research Park and asks who could live within reach
 of the jobs, this is the answer, and it was drawn on a map.
 
 The same intellectual move underlies both. A class of experts identifies human
@@ -283,12 +289,12 @@ beyond that date, including cases in state prisons in the first decade of this
 century, and the state established a compensation programme for survivors in
 2021.
 
-What Act III will call the science of management is, in this chapter, visibly
+What Act II will call the science of management is, in this chapter, visibly
 the science of sorting: the claim that a class of experts can identify human
 quality, rank it, and act on the ranking, for the good of everyone.
 
 The claim will change vocabulary repeatedly over the next century. It becomes
 scientific management, then aptitude testing, then admissions, then talent
-identification, then pattern recognition about founders. When Act IV describes a
+identification, then pattern recognition about founders. When Act III describes a
 venture capitalist explaining that he can tell within twenty minutes whether
 someone will succeed, the reader should hear this chapter underneath it.

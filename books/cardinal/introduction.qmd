@@ -1,4 +1,4 @@
-# Introduction: The Spirit and the Chokepoint {.unnumbered}
+# Introduction: How to Read a Street Sign {.unnumbered}
 
 ::: {.content-visible when-profile="draft"}
 
@@ -106,10 +106,20 @@ that outlasts newspapers and lawsuits, exactly who held it and in what order.
 :::
 
 ::: {.chapter-question}
-What is California's spirit of capitalism, and how would we know it if we saw it?
+What does the campus record, and how would we know if the record was the argument?
 :::
 
-In 1905 Max Weber published an argument about where capitalism came from.
+The sign at the front of the campus says Galvez.
+
+It is named for the man who ordered the missions of Alta California — a Bourbon
+administrator, not a priest — and it is the first object this book asks you to
+treat as a document. Who is commemorated. Who decided. What the name is doing
+there, still, on a university that did not exist for another century. The rest of
+the walk is the same exercise, layer by layer, until the grid itself is the
+argument.
+
+The theoretical name for that argument is older than the street. In 1905 Max
+Weber published a claim about where capitalism came from.
 
 His claim was not that Protestants were better at business. It was subtler and
 more durable: that a particular religious doctrine had produced a particular
@@ -244,40 +254,27 @@ charter is on file. The defence contracts, the patent assignments, the campaign
 finance filings, the market shares, the antitrust findings: all disclosed, most
 of it online, much of it published by the institutions concerned.
 
-## Two beginnings
+## Two books, one present
 
-This story has two starting points, and the book uses both.
+The older half of this argument — East and West growing up on different ground,
+Britain's Pacific colonies, Napoleon's war debts, the Louisiana Purchase, the
+treaty that moved a border in 1848 — is the subject of the companion volume,
+*Dawn: An American Odyssey*. *Cardinal* assumes that book rather than retelling
+it. It begins on Galvez Street, where the old world's last administrative
+decision is still posted at the front of the campus, and it follows the pattern
+forward until the costume is one the reader will recognise from this morning's
+news: a showman out front, holding the eye and absorbing the blame, while the
+people who actually hold the passage keep the surplus and the story.
 
-The first is deep and geographic. Long before California, the question this book
-keeps asking — who controls the passage, and who gets to say so — already
-organised the oldest division in the human world, between an East and a West that
-grew up on different land, around different resources, and hardened those
-accidents into different customs of rule. The people were alike enough. The
-ground was not, and the ground wrote the customs. That older story is the subject
-of this book's companion volume, *Dawn: An American Odyssey*, which runs from the
-Bronze Age to the eve of the American conquest; *Cardinal* assumes it rather than
-retells it, and begins where the two stories meet.
-
-The second is administrative and recent. A British penal colony in Australia
-grows rich enough to trade with China on its own account. A French empire
-drowning in war debt sells the middle of a continent to pay for its wars. A
-treaty signed in 1848 at Guadalupe Hidalgo moves a border and hands the United
-States a Pacific coast that Spain had governed with missions and presidios and
-Mexico had barely governed at all. Those two lines — the ancient divergence and
-the modern transfer of title — arrive at the same forty miles of shore, and the
-meeting is the subject of this book.
-
-Both run to the same present. The book follows the pattern forward until the
-costume is one the reader will recognise from this morning's news: a showman out
-front, holding the eye and absorbing the blame, while the people who actually
-hold the passage keep the surplus and the story. The figure in front is not the
-argument. The argument is who is standing behind him, and what the noise leaves
-them free to build.
+The figure in front is not the argument. The argument is who is standing behind
+him, and what the noise leaves them free to build. The university at the centre
+of the corridor is where those people are produced, credentialed, and endowed.
+That is a narrower claim than "Stanford secretly runs America," and a more
+checkable one. The rest of the book is the check.
 
 ## The corridor
 
-One last thing to hold on to before the book begins three thousand years earlier
-than it needs to.
+One last thing to hold on to before the walk begins.
 
 Talent, capital, and legitimacy have routed through the same forty miles of the
 San Francisco Peninsula for a hundred and forty years, across four unrelated

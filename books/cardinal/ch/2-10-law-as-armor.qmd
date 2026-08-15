@@ -1,7 +1,7 @@
 # Law as Monopoly Armour {#sec-2-10}
 
 ::: {.chapter-meta}
-Act II — Land, Monopoly, and Institution · 1869–1890
+Act I — Land, Monopoly, and Institution · 1869–1890
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -257,7 +257,7 @@ And the cumulative effect is that the entity a citizen would like to hold
 responsible is not the entity that holds the assets, and the entity that holds
 the assets is incorporated somewhere else.
 
-Act IV will show a research institute sold to itself, and Act V will show
+Act III will show a research institute sold to itself, and Act IV will show
 platform workforces held at arm's length through contracting firms and drivers
 classified as independent contractors. The instrument is the same and the
 purpose is the same: put a legal boundary between the activity and the party
@@ -274,7 +274,7 @@ conventions and federal commissions. Legal architecture attracts nothing,
 because almost nobody reads it and hardly anyone can litigate against it.
 
 Software patents, licensing terms, employment classification, arbitration
-clauses, and terms of service are the same instrument in later costume. Act IV
+clauses, and terms of service are the same instrument in later costume. Act III
 will show a research institute being restructured rather than reformed, and Act
 V will show a platform arguing that it is not a publisher. Each time, the fight
 that could have been had in public is relocated into a document that the other

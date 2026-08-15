@@ -158,7 +158,7 @@ Run these before the chapter leaves draft status.
 
 ## PART FOUR: EXAMPLE — TEMPLATE APPLIED
 
-**Chapter:** Act II, Chapter 8 — Railroads and the First California Monopoly (1861–1869)
+**Chapter:** Act I, Chapter 8 — Railroads and the First California Monopoly (1861–1869)
 
 **Core Question:** How does infrastructure become sovereignty?
 

@@ -1,7 +1,7 @@
 # The Logistics State {#sec-3-04}
 
 ::: {.chapter-meta}
-Act III — Hoover, War, and the Archive State · 1914–1919
+Act II — Hoover, War, and the Archive State · 1914–1919
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -20,7 +20,7 @@ function without being a state.
 **The mechanism.** Chokepoint control of an input nobody had thought of as a
 chokepoint. Food, moved through a blockade by an organisation that maintained
 its credibility through records. Also the book's clearest instance of private
-capacity performing public function — the Committees of Vigilance from Act II
+capacity performing public function — the Committees of Vigilance from Act I
 ch. 7, scaled to a continent and with better bookkeeping.
 
 **The key fact.** The Commission for Relief in Belgium negotiated with both the
@@ -59,7 +59,7 @@ able to hold both to that.
 
 What made it work was accounting. The Commission's credibility rested on books
 that either side could audit, and auditable records are what buy trust from
-enemies. This is the same insight as the mission register in Act II and the
+enemies. This is the same insight as the mission register in Act I and the
 archive in the next chapter: the record is not a description of the operation,
 it is the instrument that makes the operation possible.
 
@@ -71,7 +71,7 @@ rather than rationing by decree.
 
 The chapter names what this is structurally: private capacity performing a
 governmental function, which is the San Francisco Committee of Vigilance from
-Act II scaled to a continent and with much better bookkeeping. It also names who
+Act I scaled to a continent and with much better bookkeeping. It also names who
 is absent from the arrangement. Belgian civilians are the object of it and had
 no part in designing it, and the local committees that did the actual
 distribution worked in the credit of the man in London.
@@ -169,7 +169,7 @@ committees, tens of thousands of people, handled the actual distribution under
 supervision, and their operations were documented in a way that allowed the
 Commission to demonstrate that food had not been diverted.
 
-This is the same insight as the mission register in Act II chapter 1 and the
+This is the same insight as the mission register in Act I chapter 1 and the
 archive in the next chapter. The record is not a description of the operation.
 It is the instrument that makes the operation possible, because it is what
 allows a party with no coercive power to be believed.
@@ -230,7 +230,7 @@ ground. The next chapter is about where it went.
 
 ## Private capacity, public function
 
-The structural claim of this chapter is the one Act II chapter 7 introduced with
+The structural claim of this chapter is the one Act I chapter 7 introduced with
 the Committee of Vigilance, and it has now scaled to a continent.
 
 A private organisation performed a core governmental function — the subsistence

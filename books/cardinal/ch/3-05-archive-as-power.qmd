@@ -1,7 +1,7 @@
 # Archive as Power: The Hoover Collection {#sec-3-05}
 
 ::: {.chapter-meta}
-Act III — Hoover, War, and the Archive State · 1919
+Act II — Hoover, War, and the Archive State · 1919
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -18,7 +18,7 @@ a dissolving Europe. What became the Hoover War Collection is a chokepoint on
 proof itself: what later generations are able to cite, and what they cannot.
 
 **The mechanism.** Chokepoint control of the record — the mission register from
-Act II ch. 1, at world scale and with a research agenda. California starts
+Act I ch. 1, at world scale and with a research agenda. California starts
 accumulating memory infrastructure alongside its wealth, and memory
 infrastructure is the input to every future argument about what happened.
 
@@ -96,7 +96,7 @@ credentials, and memory. The fourth is the one nobody thinks to count.
    documents sit inside an institution with a point of view. Not a conspiracy —
    a gravitational field.
 7. **Forward reference, once.** The Institution's later political role belongs
-   to Act IV ch. 10 and Act V ch. 6. Plant the seed only.
+   to Act III ch. 10 and Act IV ch. 6. Plant the seed only.
 8. **The excluded.** What was not collected. And the honest admission that this
    book's own evidence base was shaped by these decisions.
 9. **Landing.** California now holds land, capital, credentials, and memory. The
@@ -237,7 +237,7 @@ its half-century by building an archive tall enough to be seen from a distance,
 carrying the name of its most successful graduate, holding the documentary
 record of how power had moved in Europe.
 
-Act V's chapter on street names will make the general argument about what the
+Act IV's chapter on street names will make the general argument about what the
 built environment records. This is the clearest single instance: the tallest
 building on the campus is the place where the documents are kept.
 
@@ -253,7 +253,7 @@ relief. The counterfactual collection — assembled by different people with
 different politics — would support a different literature.
 
 And this book has the same problem. Act I chapter 1 said it about the Ugarit
-tablets: we know the palaces because the palaces employed scribes. Act II said
+tablets: we know the palaces because the palaces employed scribes. Act I said
 it about the mission registers. It is true here too. Cardinal's account of
 twentieth-century California rests substantially on records created and
 preserved by the institutions it is describing, because those are the records

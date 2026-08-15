@@ -1,7 +1,7 @@
 # The Internet Gold Rush {#sec-4-11}
 
 ::: {.chapter-meta}
-Act IV — The Silicon Valley Machine · 1993–1999
+Act III — The Silicon Valley Machine · 1993–1999
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -60,7 +60,7 @@ provision, public utility treatment — were foreclosed without being seriously
 debated, and the chapter names them because their absence was a choice.
 
 What followed was a contest over the interface between people and information,
-which is the same position the mission register held in Act II and the operating
+which is the same position the mission register held in Act I and the operating
 system held two chapters ago. Netscape held the browser. Yahoo, built by two
 Stanford graduate students on university machines, held the directory. Both were
 answers to the right question, and both were about to be beaten by a better one.
@@ -218,7 +218,7 @@ ran. The capital was destroyed and the cable stayed in the ground.
 
 ## Amazon, and the model that survived
 
-One company from this period established a pattern worth marking because Act V
+One company from this period established a pattern worth marking because Act IV
 depends on it.
 
 Amazon went public in 1997 and lost money for years, deliberately, reinvesting

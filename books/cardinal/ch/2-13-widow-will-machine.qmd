@@ -1,7 +1,7 @@
 # The Widow, the Will, and the Machine That Survived Its Makers {#sec-2-13}
 
 ::: {.chapter-meta}
-Act II — Land, Monopoly, and Institution · 1893–1905
+Act I — Land, Monopoly, and Institution · 1893–1905
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -109,7 +109,7 @@ II ends with California's machinery complete and ready to think.
    reasoning; do not let the chapter's argument rest on it.
 8. **What did not happen.** No collapse, no dissolution, no change of
    governance. The self-perpetuating board simply continued.
-9. **Landing.** Both founders are dead and the machine is intact. End of Act II:
+9. **Landing.** Both founders are dead and the machine is intact. End of Act I:
    the machinery is complete, and it is ready to think.
 :::
 
@@ -280,7 +280,7 @@ on the first serious test.
 The machine did not collapse. It became quieter and more powerful, which is
 harder to argue with.
 
-Act II ends here. California's machinery is complete: land concentrated before
+Act I ends here. California's machinery is complete: land concentrated before
 markets existed, title established by conquest and confirmed by litigation, a
 chokepoint monopoly financed with public money, a legal apparatus to defend it,
 a social settlement that displaced the cost onto the people who built it, and an

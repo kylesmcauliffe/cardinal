@@ -1,6 +1,9 @@
 # CARDINAL — Master Outline
 
-### The Locked Architecture: 5 Acts, 60 Chapters
+### The Locked Architecture: 4 Acts, 52 Chapters
+
+The original Act I (*The World Before California*) now lives in the companion
+volume *Dawn*. Cardinal is four acts, opening on Galvez Street.
 
 This document supersedes every prior structural scheme. Where an older draft
 conflicts with this file, this file wins.
@@ -21,12 +24,11 @@ is visible rather than quietly forgotten.
 | Act | Chapters | Target/ch | Drafted total |
 |---|---|---|---|
 | Introduction | 1 | 3,500 | ~1,150 |
-| Act I — The World Before California | 8 | 1,900 | ~10,900 |
-| Act II — Land, Monopoly, and Institution | 13 | 2,500 | ~17,500 |
-| Act III — Hoover, War, and the Archive State | 13 | 2,500 | ~16,800 |
-| Act IV — The Silicon Valley Machine | 14 | 2,500 | ~18,200 |
-| Act V — The Open Era | 12 | 2,500 | ~16,300 |
-| **Total** | **60** | — | **~80,800** |
+| Act I — Land, Monopoly, and Institution | 13 | 2,500 | ~17,500 |
+| Act II — Hoover, War, and the Archive State | 13 | 2,500 | ~16,800 |
+| Act III — The Silicon Valley Machine | 14 | 2,500 | ~18,200 |
+| Act IV — The Open Era | 12 | 2,500 | ~16,300 |
+| **Total** | **52** | — | **~70,000** |
 
 Run `make lint` for current figures.
 
@@ -179,7 +181,7 @@ parallel. This is the causal hinge of the entire book and it was missing.
 12. How does power outlive its founders?
 13. What happens when the founders disappear but the institution remains?
 
-**Act II lands on:** California's machinery is complete. It is ready to think.
+**Act I lands on:** California's machinery is complete. It is ready to think.
 
 ---
 
@@ -229,7 +231,7 @@ counter-archive.
 12. What changes when a state becomes strategically indispensable?
 13. How does a temporary emergency become a permanent structure?
 
-**Act III lands on:** California has learned to think at the scale of empire.
+**Act II lands on:** California has learned to think at the scale of empire.
 The machinery is about to produce its first self-sustaining industry.
 
 ---
@@ -281,7 +283,7 @@ reads as deterministic.
 13. How does a failed startup become a ruling class?
 14. What happens when private networks govern public life?
 
-**Act IV lands on:** The pipeline is self-reinforcing and self-reproducing. The
+**Act III lands on:** The pipeline is self-reinforcing and self-reproducing. The
 machine no longer needs to be operated. It operates itself.
 
 ---
@@ -328,7 +330,7 @@ conspiratorial framing. Retitled to describe the mechanism instead.
 11. What does a civilisation look like from its street signs?
 12. What does a traveller see who can walk from Mission Dolores to a data centre?
 
-**Act V lands on:** the reader closes the book knowing two things — exactly how
+**Act IV lands on:** the reader closes the book knowing two things — exactly how
 it works, and that it was never a secret, only subliminal.
 
 ---
@@ -352,10 +354,10 @@ Errors found across the drafts, corrected in this architecture:
 
 - Leland Stanford Jr. died in **March 1884**, in Florence. One draft gives 1885.
   1885 is the year of the Founding Grant, not the death.
-- Act II sequencing: railroad law (1869–1890) precedes the university's
+- Act I sequencing: railroad law (1869–1890) precedes the university's
   consolidation, not the reverse.
 - A draft part titled "Hoover, War, and the Republic (1899–1945)" contained
-  chapters beginning in 1949. Act III now ends at 1945 and Act IV begins at 1945.
+  chapters beginning in 1949. Act II now ends at 1945 and Act III begins at 1945.
 - "Dynasties of the Pacific (1840s–1900s)" sat after the 1900 Boxer Rebellion
   material. That content is distributed to its correct periods or cut.
-- Two chapters covered 2020–2025 in parallel. Act V now has one pass per period.
+- Two chapters covered 2020–2025 in parallel. Act IV now has one pass per period.

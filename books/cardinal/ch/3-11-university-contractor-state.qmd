@@ -1,7 +1,7 @@
 # The University–Contractor–State Triangle {#sec-3-11}
 
 ::: {.chapter-meta}
-Act III — Hoover, War, and the Archive State · 1942–1945
+Act II — Hoover, War, and the Archive State · 1942–1945
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -252,7 +252,7 @@ For the period this chapter describes, the question sits unresolved and the
 money flows anyway, because the immediate commercial applications of most
 defence research were limited and the firms doing the development were the same
 firms holding the contracts. It becomes urgent when the research starts
-producing recombinant DNA and search algorithms, and Act IV chapter 10 is where
+producing recombinant DNA and search algorithms, and Act III chapter 10 is where
 it is settled.
 
 ## The excluded
@@ -261,7 +261,7 @@ The taxpayer and the legislature, structurally rather than rhetorically.
 
 The taxpayer funds research, cannot examine it, and does not share in the
 commercial returns when the results are eventually commercialised — a gap that
-Bayh-Dole in 1980 will widen considerably, as Act IV chapter 10 describes.
+Bayh-Dole in 1980 will widen considerably, as Act III chapter 10 describes.
 
 The legislature appropriates in aggregate and cannot see where the money lands.
 It can cut a programme; it cannot audit an allocation that is classified.

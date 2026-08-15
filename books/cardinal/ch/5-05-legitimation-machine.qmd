@@ -1,7 +1,7 @@
 # The New Philanthropy and the Legitimation Machine {#sec-5-05}
 
 ::: {.chapter-meta}
-Act V — The Open Era · 2010–2020
+Act IV — The Open Era · 2010–2020
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -92,7 +92,7 @@ the institutions that decide who is respectable.
    the mechanism lives in the structure.
 3. **The Chan Zuckerberg Initiative.** The LLC choice and its consequences.
    State the defensible reasons for it, then the effects.
-4. **University endowment as the core move.** Knight-Hennessy from Act IV ch. 6,
+4. **University endowment as the core move.** Knight-Hennessy from Act III ch. 6,
    and the buildings named for donors across the campus. The institution that
    certifies the elite is funded by it.
 5. **The Thiel Fellowship.** Paying students to leave university — the most

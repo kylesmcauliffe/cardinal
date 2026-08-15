@@ -1,7 +1,7 @@
 # Bayh–Dole, Reagan, and Valley Ideology {#sec-4-10}
 
 ::: {.chapter-meta}
-Act IV — The Silicon Valley Machine · 1980–1990
+Act III — The Silicon Valley Machine · 1980–1990
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -20,11 +20,11 @@ turned a regional politics into a national one.
 **The mechanism.** Public subsidy converted into private monopoly, now written
 into statute, and elite network reproduction operating at the level of national
 policy. This is the chapter where the Hoover Institution's function, planted in
-Act III ch. 5, finally pays off.
+Act II ch. 5, finally pays off.
 
 **The key fact.** Bayh-Dole allowed universities to take title to inventions
 made with federal research funding. The public pays for the research; the
-university patents the result; the licensee monopolises it. Act III ch. 11's
+university patents the result; the licensee monopolises it. Act II ch. 11's
 triangle acquired an intellectual property regime.
 
 **The human anchor.** George Shultz and Milton Friedman, both at the Hoover
@@ -47,7 +47,7 @@ originate in one corridor.
 The Bayh-Dole Act of 1980 is the least famous consequential statute in this
 book. It allowed universities to take title to inventions made with federal
 research funding, which means the public pays for the research, the university
-patents the result, and a licensee monopolises it. Act III's university-
+patents the result, and a licensee monopolises it. Act II's university-
 contractor-state triangle acquired an intellectual property regime, and the
 technology licensing office became a standard feature of American higher
 education.
@@ -78,7 +78,7 @@ sneering, because most of the people holding it hold it sincerely.
 The taxpayer's return on the research is the chapter's excluded party, along
 with patients on the receiving end of the pricing that the new model permitted.
 
-The pipeline now runs to Washington in both directions. Act V's inauguration
+The pipeline now runs to Washington in both directions. Act IV's inauguration
 platform is visible from here.
 :::
 
@@ -92,7 +92,7 @@ platform is visible from here.
 3. **Stanford's licensing revenue.** Concrete: the Cohen-Boyer patents, and what
    they earned. Public research, private royalty stream.
 4. **The Hoover Institution in 1980.** Friedman, Shultz, and the pipeline into
-   the administration. Then look back at Act III ch. 5 and name the payoff
+   the administration. Then look back at Act II ch. 5 and name the payoff
    explicitly.
 5. **Capital gains and deregulation.** What changed and who benefited. Venture
    capital's growth across the early 1980s, sourced.
@@ -105,7 +105,7 @@ platform is visible from here.
    it.
 8. **The excluded.** Taxpayer return; drug pricing; regions outside the favoured
    corridor.
-9. **Landing.** The pipeline now runs to Washington in both directions. Act V's
+9. **Landing.** The pipeline now runs to Washington in both directions. Act IV's
    inauguration platform is visible from here.
 :::
 
@@ -125,7 +125,7 @@ funded inventions belonged to the public. After it, the university patents the
 result of research the taxpayer paid for, licenses it to a company, and collects
 a royalty.
 
-Act III chapter 11 described a triangle with an unresolved question at its
+Act II chapter 11 described a triangle with an unresolved question at its
 centre: who owns the output. In 1980 the question was answered, and the answer
 was the university.
 
@@ -178,7 +178,7 @@ Ronald Reagan was elected in November 1980, and a substantial part of the
 intellectual apparatus of his administration came from a building on the
 Stanford campus.
 
-The Hoover Institution had spent the decades since Act III chapter 8 assembling
+The Hoover Institution had spent the decades since Act II chapter 8 assembling
 what a defeated president had begun: a permanent body of scholars developing a
 particular set of economic and foreign policy arguments, sustained through a
 period when those arguments were entirely out of fashion.
@@ -190,7 +190,7 @@ committed to deregulation, tax reduction, and a harder line in the Cold War.
 
 That is what Herbert Hoover built the archive for. He founded it in 1919 to
 collect the documentary record of how power moves; it became, over sixty years,
-an instrument for moving it. Act III chapter 5 argued that whoever gathers the
+an instrument for moving it. Act II chapter 5 argued that whoever gathers the
 documents acquires interpretive power. This is the interest payment.
 
 ## The capital consequences
@@ -221,7 +221,7 @@ the end of free tuition in the California public system, which had been a
 founding principle of the 1960 Master Plan.
 
 That is a durable shift and it belongs in this chapter because it inverts the
-arrangement Act III described. The G.I. Bill and the Master Plan had made higher
+arrangement Act II described. The G.I. Bill and the Master Plan had made higher
 education a public good financed collectively. From the 1970s the cost migrated
 to the student, through fees and then through debt, on the argument that the
 private returns to a degree were substantial and the beneficiary should pay.
@@ -268,5 +268,5 @@ investment as such because it arrived through institutions — a university, a
 research contract, a pension allocation — rather than as a cheque.
 
 Public subsidy that arrives through an institution is invisible to the person it
-benefits. That is the most durable finding in this book, and Act V is what
+benefits. That is the most durable finding in this book, and Act IV is what
 happens when the people it benefits acquire the government.

@@ -1,7 +1,7 @@
 # The Witness Who Did Not Graduate {#sec-3-07}
 
 ::: {.chapter-meta}
-Act III — Hoover, War, and the Archive State · 1919–1939
+Act II — Hoover, War, and the Archive State · 1919–1939
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -35,7 +35,7 @@ would raise over the campus.
 
 **Excluded voices.** This is the chapter where they speak, and that is the point.
 The bindlestiffs, the Filipino and Mexican field crews, the Dust Bowl migrants of
-the late thirties. Act III's other chapters describe the class that manages
+the late thirties. Act II's other chapters describe the class that manages
 crises. This one describes the class that absorbs them, through the eyes of the
 only man in the act who chose to stand in it.
 
@@ -226,7 +226,7 @@ power from the inside, which is what makes it valuable and what determines its
 shape.
 
 Steinbeck's is a shelf of novels, and it holds what institutions did not record:
-what it was like to be in the labour force that Act II chapter 11 described
+what it was like to be in the labour force that Act I chapter 11 described
 being recruited, used, and blamed in a hundred-year sequence of nationalities.
 By the 1930s that workforce was substantially made up of white American migrants
 from the Dust Bowl states, which is a large part of why this particular round

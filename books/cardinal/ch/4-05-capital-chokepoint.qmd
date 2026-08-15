@@ -1,7 +1,7 @@
 # Venture Capital and the Capital Chokepoint {#sec-4-05}
 
 ::: {.chapter-meta}
-Act IV — The Silicon Valley Machine · 1957–1980
+Act III — The Silicon Valley Machine · 1957–1980
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -268,7 +268,7 @@ resemble founders who have succeeded before, because base rates are the only
 information available at the seed stage. That explanation is honest and it
 describes a mechanism for reproducing an existing distribution indefinitely.
 
-It is also, precisely, the sorting argument from Act III chapter 3 with the
+It is also, precisely, the sorting argument from Act II chapter 3 with the
 biology removed and the vocabulary updated. A small group of credentialled
 experts assesses human quality, ranks it, and allocates resources on the
 ranking, and the ranking correlates with who was already advantaged.

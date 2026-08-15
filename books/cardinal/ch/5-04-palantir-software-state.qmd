@@ -1,7 +1,7 @@
 # Palantir and the Software State {#sec-5-04}
 
 ::: {.chapter-meta}
-Act V — The Open Era · 2003–2020
+Act IV — The Open Era · 2003–2020
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -20,8 +20,8 @@ perceives its own problem, the firm is not selling a tool. It is supplying a
 faculty.
 
 **The mechanism.** Chokepoint control of state capacity itself, and the exact
-return of Act III's university-contractor-state triangle in software. Also elite
-network reproduction: the founder is from Act IV ch. 13's staff photograph, and
+return of Act II's university-contractor-state triangle in software. Also elite
+network reproduction: the founder is from Act III ch. 13's staff photograph, and
 the early funding included the CIA's venture arm.
 
 **The key fact.** Palantir received early investment from In-Q-Tel, the CIA's
@@ -62,7 +62,7 @@ What the product does is integrate and analyse data across systems that were
 never designed to talk to one another. Described plainly and without the
 marketing vocabulary, it is a way of making an institution's own information
 legible to itself — which places it in a line running back to the mission
-register in Act II and the Hoover archive in Act III.
+register in Act I and the Hoover archive in Act I.
 
 Its customers are intelligence agencies, defence departments, and immigration
 enforcement, and the chapter works from contract records with values and dates.
@@ -72,7 +72,7 @@ unsourced number the drafts carried.
 
 The structural claim is that when the state's perception of a problem is
 mediated by a vendor's model, the vendor is not selling a tool but supplying a
-faculty. Act III's university-contractor-state triangle has reassembled in
+faculty. Act II's university-contractor-state triangle has reassembled in
 software, with the same three parties and the same flow of public money.
 
 Peter Thiel appears in this book as a PayPal founder, the principal funder of a
@@ -103,7 +103,7 @@ The excluded are the people the software is used to find.
    filings. The drafts carried an unsourced number; replace it.
 8. **Supplying a faculty, not a tool.** The chapter's argument: when the state's
    perception of a problem is mediated by a vendor's model, the vendor holds a
-   governmental function. Point back to Act III ch. 11.
+   governmental function. Point back to Act II ch. 11.
 9. **The excluded.** The people the system is pointed at.
 10. **Landing.** The triangle is complete again, in software, and this time
    nobody pretends the university is disinterested.
@@ -198,7 +198,7 @@ That is a governmental function, and it is being performed under a commercial
 contract by an entity that is not subject to freedom of information law, not
 directly accountable to any legislature, and answerable to shareholders.
 
-Act III chapter 11 set out the university-contractor-state triangle and argued
+Act II chapter 11 set out the university-contractor-state triangle and argued
 that federal money routed through universities because universities supplied
 legitimacy along with talent. This is the same triangle with the legitimacy leg
 removed and nothing pretending otherwise. Palantir never claimed to be a neutral
@@ -222,7 +222,7 @@ losses funded by private capital while building relationships with agencies
 whose procurement cycles are measured in years, followed by profitability at
 scale once those relationships matured. That is a model only available to a
 company with patient capital and a network that supplies it, which returns to
-Act IV chapter 13.
+Act III chapter 13.
 
 ## Why the state cannot build it
 

@@ -1,7 +1,7 @@
 # The Stanford Prototype: Herbert Hoover {#sec-3-01}
 
 ::: {.chapter-meta}
-Act III — Hoover, War, and the Archive State · 1891–1900
+Act II — Hoover, War, and the Archive State · 1891–1900
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -65,7 +65,7 @@ rather than an application. Ore carts in Nevada, then a clerkship, then Louis
 Janin, then Bewick, Moreing in London, then Australia in 1897 and the Sons of
 Gwalia mine at Coolgardie. What a mining engineer actually does is survey,
 account, price risk, manage labour, arrange logistics, and negotiate with
-governments — which is the same skill set Act IV's laboratory directors will
+governments — which is the same skill set Act III's laboratory directors will
 need, and the chapter names it as such.
 
 Lou Henry Hoover belongs in the chapter as a peer rather than a spouse. She took
@@ -80,7 +80,7 @@ strongest version of the case against him is given before the record is
 assessed.
 
 By 1901 he is a partner in the firm. Technical training plus capital access plus
-institutional network equals global leverage — the formula Act III spends twelve
+institutional network equals global leverage — the formula Act II spends twelve
 chapters testing.
 :::
 
@@ -108,7 +108,7 @@ chapters testing.
    litigation that followed. Give the strongest version of the case against him,
    per the voice rule, and say what the record supports.
 9. **Landing.** By 1901 he is a partner. Technical training plus capital access
-   plus institutional network equals global leverage. Name the formula; Act III
+   plus institutional network equals global leverage. Name the formula; Act II
    spends twelve chapters testing it.
 :::
 
@@ -263,6 +263,6 @@ complex systems, credentialled by an institution whose certification a distant
 market would accept, who could be dropped into any extraction economy on earth
 and produce a return.
 
-Act III spends the next twelve chapters watching that formula scale from a
+Act II spends the next twelve chapters watching that formula scale from a
 mining concession to a war economy to a research university, and the man in this
 chapter is present for most of it.

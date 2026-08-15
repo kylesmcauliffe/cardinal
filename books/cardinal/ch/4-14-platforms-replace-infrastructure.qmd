@@ -1,7 +1,7 @@
 # Platforms Replace Public Infrastructure {#sec-4-14}
 
 ::: {.chapter-meta}
-Act IV — The Silicon Valley Machine · 2000–2002
+Act III — The Silicon Valley Machine · 2000–2002
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -57,7 +57,7 @@ commerce, and the distribution of news. These were functions that had been
 provided by states, regulated monopolies, or common carriers, and they moved
 into private hands governed by contract rather than statute.
 
-The rail comparison, which this book has been building since Act II, is finally
+The rail comparison, which this book has been building since Act I, is finally
 discharged here. The Southern Pacific was eventually regulated as a common
 carrier because it was recognised as infrastructure, and the obligations
 followed the recognition. Platforms achieved the infrastructural position and
@@ -68,7 +68,7 @@ Terms of service became a governing instrument with no elections, no appeals
 process resembling due process, and no jurisdiction, applying to populations
 larger than most nations. And because other countries' civic life increasingly
 ran on Californian infrastructure, the state's power became geopolitical rather
-than merely economic — an extraterritoriality that Act V's chapter on China
+than merely economic — an extraterritoriality that Act IV's chapter on China
 examines from the other end.
 
 Network effects made the position defensible without owning anything physical,
@@ -78,8 +78,8 @@ The excluded are everyone governed without recourse: suspended, delisted,
 demonetised, or algorithmically misidentified, with no appeal that a lawyer
 would recognise as one.
 
-Act IV ends here. The pipeline is self-reinforcing and self-reproducing, and the
-machine no longer needs to be operated. Act V is what it does when nobody is
+Act III ends here. The pipeline is self-reinforcing and self-reproducing, and the
+machine no longer needs to be operated. Act IV is what it does when nobody is
 steering it.
 :::
 
@@ -105,8 +105,8 @@ steering it.
    specifics.
 8. **The excluded.** Deplatforming, demonetisation, algorithmic
    misidentification, and the absence of due process.
-9. **Landing.** End of Act IV. The pipeline is self-reinforcing and self-
-   reproducing; the machine no longer needs to be operated. Act V is what it
+9. **Landing.** End of Act II. The pipeline is self-reinforcing and self-
+   reproducing; the machine no longer needs to be operated. Act IV is what it
    does when nobody is steering.
 :::
 
@@ -156,7 +156,7 @@ private operators.
 ## The comparison this book has been building
 
 The Southern Pacific was eventually regulated as a common carrier. That is the
-point, and it took Act II two chapters to establish it.
+point, and it took Act I two chapters to establish it.
 
 A common carrier holds itself out to serve the public generally, and in exchange
 for the position it accepts obligations: to serve all comers, to charge
@@ -167,7 +167,7 @@ not discipline it.
 
 Platforms achieved the infrastructural position and avoided the classification.
 The gap between those two facts is the subject of this chapter and of most of
-Act V.
+Act III.
 
 The reasons are partly technical and partly rhetorical. Technically, a platform
 is not a natural monopoly in the way a rail line is; entry costs are low and
@@ -195,7 +195,7 @@ consistent enforcement is real but limited.
 
 Compare a rate card filed with a regulator and published. The railroad's terms
 were extractive and they were visible, contestable, and eventually subject to a
-commission. Terms of service are none of these, which is why Act II chapter 10's
+commission. Terms of service are none of these, which is why Act I chapter 10's
 rule holds: build the fortress in the law, because nobody protests a clause.
 
 ## Extraterritoriality
@@ -209,7 +209,7 @@ index maintained there. National conversations happen inside products whose
 moderation policies are written in Menlo Park and Mountain View, in English, by
 staff with limited knowledge of the societies affected.
 
-Governments noticed, and Act V describes what they did about it. What matters
+Governments noticed, and Act IV describes what they did about it. What matters
 here is the structural fact: a set of private firms in one metropolitan area
 became the operating layer of public life in most of the world, without any
 country having decided that this should happen.
@@ -273,12 +273,12 @@ That is a chokepoint holder buying a change in the law that governs it, at a
 scale no opposing interest could match, through a direct democratic mechanism
 designed to route around the legislature.
 
-Act II chapter 10 described the Southern Pacific's political bureau and its
+Act I chapter 10 described the Southern Pacific's political bureau and its
 capture of the railroad commission created to regulate it. The instrument is
 different and the manoeuvre is identical: when the rules become inconvenient,
 buy different rules.
 
-## End of Act IV
+## End of Act III
 
 The pipeline is now self-reinforcing and self-reproducing.
 
@@ -291,5 +291,5 @@ themselves.
 
 The machine no longer needs to be operated. It operates itself.
 
-Act V is what it does when nobody is steering, and when it stops bothering to be
+Act IV is what it does when nobody is steering, and when it stops bothering to be
 subtle.

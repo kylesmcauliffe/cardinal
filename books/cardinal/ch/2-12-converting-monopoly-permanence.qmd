@@ -1,7 +1,7 @@
 # Stanford University: Converting Monopoly into Permanence {#sec-2-12}
 
 ::: {.chapter-meta}
-Act II — Land, Monopoly, and Institution · 1884–1893
+Act I — Land, Monopoly, and Institution · 1884–1893
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -70,7 +70,7 @@ first day, and a practical curriculum aimed at usefulness rather than
 gentlemanly polish. They are also the legitimacy, and the chapter holds both
 facts at once. The first president, David Starr Jordan, was a distinguished
 biologist and one of the most prominent eugenicists in America — introduced
-here, and taken up properly in Act III.
+here, and taken up properly in Act I.
 
 Six centuries earlier a Florentine banking family commissioned altarpieces for
 the same reason. The structure is identical: private capital converting
@@ -104,7 +104,7 @@ can do that without its founders is the next chapter.
    curriculum. State the genuinely progressive features; they are real, and they
    are also the legitimacy.
 7. **David Starr Jordan.** The first president: a biologist and a leading
-   eugenicist. Introduce, do not resolve — ch. 3 of Act III does the work.
+   eugenicist. Introduce, do not resolve — ch. 3 of Act II does the work.
 8. **The Medici callback.** One paragraph. Private capital commissioning public
    meaning, six centuries apart, same structure.
 9. **The excluded.** Chinese labour inside the endowment; farm workers; Muwekma
@@ -167,7 +167,7 @@ That prohibition is the single most consequential clause in the document, and
 its consequences would not be visible for sixty-six years. A university that
 cannot sell its land can only lease it, and in 1951 a dean of engineering will
 notice that leasing eight thousand acres of the San Francisco Peninsula to
-technology companies is an extraordinarily good business. Act IV opens on it.
+technology companies is an extraordinarily good business. Act III opens on it.
 
 The Grant also specified the university's purposes in broad terms, provided for
 coeducation, and directed that tuition be free — which it was for the first
@@ -228,7 +228,7 @@ Breeders Association, an advocate of sterilisation legislation, and the author
 of works arguing that human quality was hereditary and that social policy should
 act on the fact.
 
-Act III chapter 3 takes this up properly and this chapter does not resolve it.
+Act II chapter 3 takes this up properly and this chapter does not resolve it.
 What matters here is the sequence: the institution built to reproduce
 California's elite selected as its first head a man whose scientific work was
 about which people should reproduce.

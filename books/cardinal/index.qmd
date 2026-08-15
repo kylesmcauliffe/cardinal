@@ -3,36 +3,59 @@
 This book began as a question about a street sign.
 
 Stanford's campus and the towns around it are named after the people in this
-story. Serra. Hoover. Terman. Page Mill. Sand Hill. Addison. The names are not
-decoration and they are not accidents. They are a record of who held power in
-California and in what order, laid down in the one medium that outlasts
-newspapers, lawsuits, and reputations: the street grid.
+story. Serra. Gálvez. Alvarado. Stanford. Jordan. Hoover. Terman. Hansen. Page
+Mill. Sand Hill. Knight. The names are not decoration and they are not accidents.
+They are a record of who held power in California and in what order, laid down in
+the one medium that outlasts newspapers, lawsuits, and reputations: the street
+grid and the buildings bolted to it.
 
-Read the grid carefully enough and it tells you the argument of this book.
+Read the grid carefully enough and it tells you the argument of this book. That
+argument, stated plainly, is that a single stretch of the San Francisco Peninsula
+— eight thousand acres of a railroad fortune's estate and the corridor around it
+— has been the controlling position in the American economy for well over a
+century, and that the institution sitting on that estate is the **secret heart of
+California**: the place where the state's power is manufactured, credentialed, and
+handed down, and, conveniently, the place that keeps the record of how.
 
-*Cardinal* is a history of how California became the most powerful economic
-force in the modern world. The standard version of that history involves
+*Cardinal* is a history of how that happened. The standard version involves
 garages, dropouts, and genius. That version is not false. It is incomplete in a
 specific way: it describes the people who arrived at the chokepoints without
 describing how the chokepoints got there, who paid to build them, and why they
 keep appearing in the same forty-mile corridor generation after generation.
 
-The book covers roughly two hundred and fifty years, from a Spanish expedition
-logging baptisms in Alta California in 1769 to an inauguration platform in
-Washington in 2025 where the founders of technology companies stood closer to
-the president than most of his cabinet. It argues that the same mechanism
-operated throughout, in different institutional costume each time, and that one
-institution connects every phase of it.
+So the book is built as a walk. Wherever it can, it sets an object on the table
+before it argues from it — a street sign, the front page of a newspaper, a line
+in a land grant, a criminal record read aloud in the street — and asks the plain
+questions a visitor asks in a museum. What does it say. Who put it there, and who
+was meant to read it. What did it feel like to stand in front of it on the day.
+Where did people go to argue about it afterward. The claims in these pages are
+large, and the way to keep a large claim honest is to anchor it to something you
+could have held in your hand or can still stand beside on a public road.
+
+This volume is four acts. It opens on Galvez Street — the administrator who
+ordered the Alta California missions, still posted at the front of the campus —
+and it ends on an inauguration platform in Washington in 2025, where the founders
+of technology companies stood closer to the president than most of his cabinet.
+The same mechanism operates throughout, in different institutional costume each
+time. The costume worn in public has often been a loud one — a showman out front,
+holding the eye and absorbing the blame — while the people who actually held the
+passage kept the surplus and the story. The figure in front is not the argument.
+The argument is who is standing behind him, and what the noise leaves them free
+to build.
 
 Nothing in these pages is a secret. Every document cited is public. The
 railroad's land grants were printed in the statutes. The university's founding
 charter is a matter of record. The defence contracts, the patent filings, the
 venture returns, the market shares — all disclosed, all available, most of it
-online. This is not a history of concealment.
+online. This is not a history of concealment. It is a history of something harder
+to see than a secret, which is a pattern running in plain sight for long enough
+that it stops looking like a pattern and starts looking like the weather.
 
-It is a history of something harder to see than a secret, which is a pattern
-running in plain sight for long enough that it stops looking like a pattern and
-starts looking like the weather.
+This is the American half of the story. Its origins — the three thousand years of
+empire, collapse, and reinvention that were finished before any of it reached the
+Pacific — are the subject of the companion volume, *Dawn: An American Odyssey*.
+You do not need *Dawn* to read *Cardinal*; *Cardinal* assumes it, and begins where
+the old world's pattern meets the new world's ground.
 
 ---
 
@@ -47,7 +70,9 @@ at the top of each chapter. Neither appears in the reader-facing build.
 - `quarto render` — the book as a reader sees it
 - `QUARTO_PROFILE=draft quarto render` — the book plus editorial apparatus
 
-Governing documents are in `_project/`. Read `_project/README.md` first.
+Governing documents are in `_project/`. Read `_project/README.md` first. The
+campus-walk street skeleton drawn from Cottle's *Stanford Street Names* is at
+`_project/street-skeleton.md`.
 :::
 
 :::

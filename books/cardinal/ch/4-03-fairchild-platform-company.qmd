@@ -1,7 +1,7 @@
 # Fairchild and the Platform Company {#sec-4-03}
 
 ::: {.chapter-meta}
-Act IV — The Silicon Valley Machine · 1957–1968
+Act III — The Silicon Valley Machine · 1957–1968
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -65,7 +65,7 @@ Jerry Sanders founded AMD; Charlie Sporck went to National. The Valley grew by
 recombination, splitting and re-forming faster than any regulator could follow.
 
 The early customers were military and aerospace, including Minuteman and Apollo.
-This is not yet a consumer industry, and the chapter keeps Act III's substrate
+This is not yet a consumer industry, and the chapter keeps Act II's substrate
 visible.
 
 Arthur Rock's contribution runs alongside. He took equity rather than issuing
@@ -189,7 +189,7 @@ shared culture that had propagated by fission from a single origin.
 
 ## The military customer
 
-The chapter keeps Act III's substrate visible, because the early market was not
+The chapter keeps Act II's substrate visible, because the early market was not
 consumer electronics and was not close to it.
 
 Integrated circuits were expensive and their first large customers were
@@ -227,7 +227,7 @@ rate of technical progress in semiconductors between 1965 and roughly 2015 was
 determined substantially by a self-fulfilling forecast published in a trade
 magazine by a research director who would found Intel three years later.
 
-It also has a chokepoint consequence, which arrives in Act V. Sustaining the
+It also has a chokepoint consequence, which arrives in Act III. Sustaining the
 curve required exponentially rising capital investment in fabrication, and the
 number of firms able to afford a leading-edge plant fell from dozens to a
 handful. The economics that made the industry fragment in 1968 reversed

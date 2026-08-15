@@ -1,7 +1,7 @@
 # Mining, Empire, and the Global Frontier {#sec-3-02}
 
 ::: {.chapter-meta}
-Act III — Hoover, War, and the Archive State · 1897–1914
+Act II — Hoover, War, and the Archive State · 1897–1914
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -20,7 +20,7 @@ ground: it had been running that model on its own goldfields for fifty years.
 **The mechanism.** Chokepoint control, exported. The mining engineer is the
 human interface between a deposit and a stock exchange, and whoever occupies
 that interface prices everything on both sides of it. Also the first appearance
-of a pattern Act IV formalises: technical expertise as the qualification for
+of a pattern Act III formalises: technical expertise as the qualification for
 governing capital.
 
 **The key fact.** Hoover's professional value was not geological but
@@ -147,7 +147,7 @@ mattered so much: they underwrote the individual.
 California had been running this system on itself for fifty years, and it is why
 the state exported engineers before it exported anything else.
 
-The Gold Rush had exhausted the placers within a few years, as Act II chapter 6
+The Gold Rush had exhausted the placers within a few years, as Act I chapter 6
 described, and what followed required capital: hydraulic operations that washed
 entire hillsides into rivers, stamp mills, and eventually deep hard-rock mining
 on the Comstock Lode in Nevada, which was financed through the San Francisco
@@ -216,7 +216,7 @@ had no recourse.
 ## The firm as an institution
 
 One more element deserves attention, because it is the direct ancestor of a
-structure Act IV will describe on Sand Hill Road.
+structure Act III will describe on Sand Hill Road.
 
 Bewick, Moreing was not a mining company in the ordinary sense. It managed mines
 on behalf of owners, took fees and participations, placed its own people as

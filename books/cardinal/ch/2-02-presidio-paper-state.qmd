@@ -1,7 +1,7 @@
 # Presidio, Port, and the Paper State {#sec-2-02}
 
 ::: {.chapter-meta}
-Act II — Land, Monopoly, and Institution · 1776–1821
+Act I — Land, Monopoly, and Institution · 1776–1821
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -199,7 +199,7 @@ of coastal California was determined by a Franciscan logistics decision in the
 The route itself is still the Peninsula's main street. Drive south from San
 Francisco today and El Camino Real runs through Millbrae, Burlingame, San Mateo,
 Redwood City, Menlo Park, Palo Alto, Mountain View, and Sunnyvale — which is to
-say it runs directly through the towns that Act IV is about, past the Stanford
+say it runs directly through the towns that Act III is about, past the Stanford
 campus, within sight of the buildings where the semiconductor industry was
 founded.
 

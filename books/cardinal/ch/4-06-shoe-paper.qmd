@@ -1,7 +1,7 @@
 # The Shoe Paper: Phil Knight, Nike, and the Offshore Turn {#sec-4-06}
 
 ::: {.chapter-meta}
-Act IV — The Silicon Valley Machine · 1962–1980
+Act III — The Silicon Valley Machine · 1962–1980
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -41,7 +41,7 @@ made Nike also made the contract-factory labour system, first in Japan, then Sou
 Korea and Taiwan, then Indonesia, China and Vietnam. The workers in those
 factories are the people the fabless model depends on and the balance sheet does
 not name. Handle with the same rigour as the Central Pacific's Chinese crews in
-Act II, and draw the parallel explicitly: the structure is the same.
+Act I, and draw the parallel explicitly: the structure is the same.
 
 **Proof.** This chapter proves that the Stanford mechanism is not a story about
 computers by showing it operating, on the same campus in the same decade as the
@@ -92,7 +92,7 @@ Closes on the return leg. In 2011 Knight dedicates the Knight Management Center
 at the Stanford Graduate School of Business — the school where the paper was
 written. Later, the Knight-Hennessy Scholars programme. Money that began as a
 class assignment returns to endow the classroom. Rail did this with a university
-in 1885. Shoes did it with a business school in 2011. Act V will show software
+in 1885. Shoes did it with a business school in 2011. Act IV will show software
 doing it with an institute.
 :::
 
@@ -122,7 +122,7 @@ doing it with an institute.
 10. **The return leg.** Knight Management Center dedicated 2011. Knight-Hennessy
     Scholars. The endowment loop closed.
 11. **Landing.** The mechanism is not about semiconductors. It is about
-    bottlenecks. Set up Act V's supply-chain chapter: Nike built the road that
+    bottlenecks. Set up Act IV's supply-chain chapter: Nike built the road that
     Apple later drove down.
 
 **Note.** Do not put a page count on the Shallenberger paper. Sources conflict;
@@ -195,7 +195,7 @@ track meets, and kept his accounting job for years while doing it.
 
 Nike's first full-time employee, hired in 1965, was Jeff Johnson, a runner
 Knight had met through Stanford intramural track. The network again, doing
-exactly what Act III said networks do: lowering the cost of finding someone you
+exactly what Act II said networks do: lowering the cost of finding someone you
 can trust.
 
 ## The structural move
@@ -251,7 +251,7 @@ employees in them, and every improvement in conditions is therefore a voluntary
 undertaking rather than an obligation, revocable and dependent on continued
 attention.
 
-This is precisely the Contract and Finance Company from Act II chapter 9. Put a
+This is precisely the Contract and Finance Company from Act I chapter 9. Put a
 legal boundary between the activity and the party benefiting from it, and the
 benefit flows across the boundary while the liability does not.
 
@@ -276,7 +276,7 @@ on a person.
 The mark itself was designed in 1971 by a graphic design student at Portland
 State for a reported thirty-five dollars.
 
-That is a chokepoint on attention, and it is the same asset that Act V's
+That is a chokepoint on attention, and it is the same asset that Act IV's
 platforms will monetise directly. Nike got there first by paying for it rather
 than by owning the channel, and the arrangement has held for forty years because
 attention, unlike manufacturing capacity, cannot be relocated to a cheaper
@@ -298,7 +298,7 @@ proceeds return to endow the institution that issued the credential, which then
 produces the next cohort, in buildings carrying the donor's name.
 
 Leland Stanford did this with a railroad in 1885. Phil Knight did it with shoes
-in 2011. Act V will show it done with software.
+in 2011. Act IV will show it done with software.
 
 The mechanism is not about technology. It never was. It is about who holds the
 part that cannot be copied, and where the proceeds go afterwards.

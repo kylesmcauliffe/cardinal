@@ -1,7 +1,7 @@
 # Gold and the Incentive Shock {#sec-2-06}
 
 ::: {.chapter-meta}
-Act II — Land, Monopoly, and Institution · 1848–1856
+Act I — Land, Monopoly, and Institution · 1848–1856
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -210,7 +210,7 @@ largely left, which had been the object.
 A second version in 1852 was aimed at the Chinese and was more durable,
 eventually supplying a significant share of state revenue. It is the first
 appearance in California of a manoeuvre that this act will describe again in
-chapter 11 and this book will describe again in Act V: extract from a group
+chapter 11 and this book will describe again in Act IV: extract from a group
 defined as outsiders, in a way that a majority of voters will support, while the
 actual concentration of wealth continues undisturbed.
 

@@ -1,7 +1,7 @@
 # Railroads and the First California Monopoly {#sec-2-09}
 
 ::: {.chapter-meta}
-Act II — Land, Monopoly, and Institution · 1862–1869
+Act I — Land, Monopoly, and Institution · 1862–1869
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -65,7 +65,7 @@ mechanism that transferred the public money into their personal accounts was the
 Contract and Finance Company — a construction firm they owned, contracting with
 a railroad they controlled, at prices they set on both sides. The margin was
 captured at the point of transfer, which is a manoeuvre this book will see again
-in Act IV when a university divests a research institute to itself.
+in Act III when a university divests a research institute to itself.
 
 Stanford was Governor of California while the Central Pacific was organised,
 advocating the railroad as a public necessity while holding its presidency.
@@ -100,7 +100,7 @@ one of these men will spend part of the proceeds on a university.
 5. **The Contract and Finance Company.** The construction company owned by the
    same four men, contracting with the railroad the same four men controlled.
    The margin captured at the point of transfer. Flag it as the manoeuvre that
-   recurs in Act IV ch. 7.
+   recurs in Act III ch. 7.
 6. **Stanford in two chairs.** Governor and president of the railroad. Advocate
    and beneficiary.
 7. **The Chinese workforce.** Recruitment, numbers, pay differential, the Sierra
@@ -211,7 +211,7 @@ returns while the men controlling it became extraordinarily rich, and the
 accounts of the Contract and Finance Company were destroyed before a
 congressional investigation could examine them.
 
-Keep this manoeuvre in mind. In Act IV a university under pressure over its
+Keep this manoeuvre in mind. In Act III a university under pressure over its
 military research will divest the research institute to itself, and the
 structure of the transaction will be recognisable.
 

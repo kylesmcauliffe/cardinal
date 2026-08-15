@@ -1,7 +1,7 @@
 # The China–California Feedback Loop {#sec-5-02}
 
 ::: {.chapter-meta}
-Act V — The Open Era · 2001–2020
+Act IV — The Open Era · 2001–2020
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -22,7 +22,7 @@ what turns the defence funding pipeline back on.
 of public subsidy. Fabrication capacity, rare earths, and assembly are
 bottlenecks California does not own — which is the first time in the book that
 the state is on the wrong end of one. The strategic response reopens the channel
-Act III built.
+Act II built.
 
 **The key fact.** The offshore turn the book has already documented twice —
 Fairchild's Hong Kong assembly in 1963, Nike's contract factories from the 1970s
@@ -37,7 +37,7 @@ success.
 **Excluded voices.** The manufacturing workforce across the Pacific supply
 chain, and the American workers whose jobs the offshore turn moved. Also
 Chinese-American and Chinese national researchers subjected to security scrutiny
-— the scapegoat mechanism from Act II ch. 11, running again with a different
+— the scapegoat mechanism from Act I ch. 11, running again with a different
 nationality.
 
 **Proof.** This chapter proves that California's strategic vulnerability was
@@ -68,7 +68,7 @@ chokepoint — advanced semiconductor fabrication, concentrated in a very small
 number of facilities — is one that California does not own, which is the first
 time in this book that the state is on the wrong end of a bottleneck.
 
-The strategic response reopened the channel Act III built. Export controls, and
+The strategic response reopened the channel Act II built. Export controls, and
 then industrial policy: public money returning to semiconductors at scale,
 routed through the same triangle of state demand, corporate production, and
 university research, under a new name.
@@ -80,7 +80,7 @@ understood by the people who hold it.
 
 Three groups pay. The supply chain workforce across the Pacific. The American
 manufacturing workers whose jobs the offshore turn moved. And Chinese and
-Chinese-American researchers placed under security suspicion — Act II's
+Chinese-American researchers placed under security suspicion — Act I's
 scapegoat mechanism running again, with a different nationality and the same
 structure.
 :::
@@ -91,7 +91,7 @@ structure.
 1. **Hook.** One device, four jurisdictions, one flag on the box.
 2. **How the dependency was built.** Trace it back: Fairchild 1963, Nike's
    contract factories, Apple's assembly. This is the payoff of chs. 3 and 6 of
-   Act IV.
+   Act II.
 3. **What China built with it.** Manufacturing capability into design
    capability. Named firms, and the researchers trained in American
    universities.
@@ -101,14 +101,14 @@ structure.
 5. **Capital flows both ways.** Chinese investment into the Valley and Valley
    investment into China, and the restrictions that followed.
 6. **Rivalry restarts the subsidy.** Export controls and the CHIPS Act. Public
-   money returning to semiconductors — Act III ch. 11's triangle, reassembled
+   money returning to semiconductors — Act II ch. 11's triangle, reassembled
    and renamed industrial policy.
 7. **TikTok as the inversion.** The first time a foreign platform occupied a
    Californian chokepoint, and the reaction to it. What that reaction reveals
    about how the position is normally understood.
 8. **The excluded.** Supply chain labour; displaced American manufacturing
    workers; researchers under suspicion. Name the scapegoat pattern and point
-   back to Act II ch. 11.
+   back to Act I ch. 11.
 9. **Landing.** Two economies, one machine, and a strategic competition that
    funds both sides of the corridor this book has been following since 1862.
 :::
@@ -179,7 +179,7 @@ This is the first time in this book that California is on the wrong end of a
 chokepoint, and the reaction to that discovery is the substance of the chapter's
 second half.
 
-The concentration happened for the reasons chapter 3 of Act IV described.
+The concentration happened for the reasons chapter 3 of Act III described.
 Moore's law required exponentially rising capital investment in fabrication, the
 number of firms that could afford a leading-edge plant fell steadily, and
 American firms increasingly chose to design rather than manufacture. The fabless
@@ -188,7 +188,7 @@ the end, a dependency on a small island that a rival power claims.
 
 ## The rivalry restarts the subsidy
 
-The response was industrial policy, and it is Act III's triangle reassembled
+The response was industrial policy, and it is Act II's triangle reassembled
 under a new name.
 
 Export controls restricted the sale of advanced chips and chipmaking equipment
@@ -274,7 +274,7 @@ affiliations that produced a small number of convictions, a larger number of
 abandoned prosecutions and ruined careers, and was wound down in 2022 after
 sustained criticism that it had operated on ethnicity.
 
-That last item is Act II chapter 11 running again with a different nationality:
+That last item is Act I chapter 11 running again with a different nationality:
 recruit a population, depend on its work, and when the strategic weather
 changes, treat it as the vulnerability. The pattern has now repeated with
 Chinese, Japanese, Filipino, Mexican, and Chinese labour again across a hundred

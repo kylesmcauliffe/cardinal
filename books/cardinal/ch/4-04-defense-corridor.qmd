@@ -1,7 +1,7 @@
 # The Defence Corridor: Lockheed, SRI, and the Military Substrate {#sec-4-04}
 
 ::: {.chapter-meta}
-Act IV — The Silicon Valley Machine · 1956–1970
+Act III — The Silicon Valley Machine · 1956–1970
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -20,7 +20,7 @@ Department funding, and that is the least surprising fact in this book.
 **The mechanism.** Public subsidy, at a scale that dwarfs everything private in
 the region for a generation. The chapter's function is corrective: it removes
 the garage from the centre of the story and puts the procurement office there,
-which is what Act III ch. 11 promised it would do.
+which is what Act II ch. 11 promised it would do.
 
 **The key fact.** The first ARPANET message was sent on 29 October 1969 from
 UCLA to SRI in Menlo Park. The system crashed after two letters. The internet's
@@ -50,7 +50,7 @@ Department money, and it is the least surprising fact in this book.
 
 The chapter's job is corrective. The garage sits at the centre of the Valley's
 story about itself; the procurement office is what actually happened, and this
-is where Act III's promise gets discharged. Lockheed Missiles and Space arrived
+is where Act II's promise gets discharged. Lockheed Missiles and Space arrived
 in Sunnyvale in 1956 and became the largest employer in the county — a fact the
 region's origin mythology has almost entirely forgotten. SRI had been founded by
 Stanford in 1946 and was still owned by the university, a detail this act's
@@ -91,7 +91,7 @@ occupy a laboratory over it.
 6. **ARPANET.** The funding agency, the purpose, the nodes, and 29 October 1969.
    Resist the mythology; describe a procurement.
 7. **Engelbart at SRI.** The 1968 demonstration. Federally funded, and the
-   interface ideas that Act IV ch. 9 will find at PARC.
+   interface ideas that Act III ch. 9 will find at PARC.
 8. **Classification and its consequences.** The public pays and cannot look.
    Name this as the grievance it will become.
 9. **Landing.** The substrate is military. Point directly at ch. 7: some of the
@@ -112,7 +112,7 @@ The internet's first word was "lo".
 
 It was sent between two Defense Department contractors, over a network the
 Defense Department had commissioned, to a node at an institute owned by Stanford
-University. Every element of that sentence is Act III's triangle, and this
+University. Every element of that sentence is Act II's triangle, and this
 chapter is about the twenty-five years in which the triangle, and not the
 garage, was Silicon Valley.
 
@@ -201,7 +201,7 @@ windowed display, hypertext links, real-time collaborative document editing,
 video conferencing, and version control. In 1968.
 
 Almost none of it was commercialised by SRI. The people went on to Xerox PARC, a
-few miles away, and Act IV chapter 9 describes what happened to it there. The
+few miles away, and Act III chapter 9 describes what happened to it there. The
 mouse patent was assigned to SRI, which licensed it to Apple years later for a
 modest sum.
 
@@ -229,7 +229,7 @@ signal processing, and the network itself all came out of the same channel.
 
 None of this would have been funded by a private market on the timescales
 involved, because the returns were decades away and unappropriable. The case for
-the arrangement is strong, and Act V's chapters on AI infrastructure will have
+the arrangement is strong, and Act IV's chapters on AI infrastructure will have
 occasion to remember it.
 
 The chapter's argument is not that public research funding is a mistake. It is

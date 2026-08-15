@@ -4,7 +4,7 @@ project:
 
 book:
   title: "Cardinal"
-  subtitle: "The Subliminal History of Silicon Valley"
+  subtitle: "The Stanford Corridor"
   author: "Kyle McAuliffe"
   date: today
   cover-image: cover.png
@@ -12,7 +12,7 @@ book:
   chapters:
     - index.qmd
     - introduction.qmd
-    - part: "Act II — Land, Monopoly, and Institution"
+    - part: "Act I — Land, Monopoly, and Institution"
       chapters:
         - ch/2-01-mission-system.qmd
         - ch/2-02-presidio-paper-state.qmd
@@ -27,7 +27,7 @@ book:
         - ch/2-11-exclusion-scapegoat.qmd
         - ch/2-12-converting-monopoly-permanence.qmd
         - ch/2-13-widow-will-machine.qmd
-    - part: "Act III — Hoover, War, and the Archive State"
+    - part: "Act II — Hoover, War, and the Archive State"
       chapters:
         - ch/3-01-stanford-prototype-hoover.qmd
         - ch/3-02-mining-empire-frontier.qmd
@@ -42,7 +42,7 @@ book:
         - ch/3-11-university-contractor-state.qmd
         - ch/3-12-california-reclassified.qmd
         - ch/3-13-the-hand-off.qmd
-    - part: "Act IV — The Silicon Valley Machine"
+    - part: "Act III — The Silicon Valley Machine"
       chapters:
         - ch/4-01-termans-garden.qmd
         - ch/4-02-shockley-and-the-eight.qmd
@@ -58,7 +58,7 @@ book:
         - ch/4-12-google-attention-monopoly.qmd
         - ch/4-13-paypal-origin.qmd
         - ch/4-14-platforms-replace-infrastructure.qmd
-    - part: "Act V — The Open Era"
+    - part: "Act IV — The Open Era"
       chapters:
         - ch/5-01-scale-as-governance.qmd
         - ch/5-02-china-california-loop.qmd

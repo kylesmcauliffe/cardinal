@@ -1,7 +1,7 @@
 # Total War and the Institutional Filter {#sec-3-09}
 
 ::: {.chapter-meta}
-Act III — Hoover, War, and the Archive State · 1939–1941
+Act II — Hoover, War, and the Archive State · 1939–1941
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -32,7 +32,7 @@ stay in California when the entire electronics industry was on the east coast �
 because their professor told them to.
 
 **Excluded voices.** Japanese Americans in California, whose incarceration from
-1942 is part of this period and belongs in this act rather than only in Act V's
+1942 is part of this period and belongs in this act rather than only in Act IV's
 ledger. The farms and businesses lost are a transfer of assets, and the transfer
 had beneficiaries.
 
@@ -64,13 +64,13 @@ California was behind at that point. MIT and Harvard captured the major early
 contracts, and nothing about the outcome was obvious in 1940. The state's
 advantage was readiness rather than destiny: a growing technical education base,
 industrial capacity, and the Pacific — geography becoming an asset for the first
-time since Spain claimed the Bay in Act II.
+time since Spain claimed the Bay in Act I.
 
 That contingency makes the eventual result more interesting rather than less.
 The corridor was selected, and it could have been selected elsewhere.
 
 The chapter also places Japanese American incarceration here, in 1942, rather
-than deferring the whole subject to Act V's ledger. Farms, businesses, and homes
+than deferring the whole subject to Act IV's ledger. Farms, businesses, and homes
 were lost, and property that is lost is property that someone else acquires. The
 transfer had beneficiaries, and the chapter names the mechanisms.
 
@@ -91,14 +91,14 @@ nobody has seen. The next chapter is about the man who had a plan for it.
    for from 1938: existing laboratories, trained people, industrial capacity,
    proximity to the theatre.
 5. **Why the Pacific matters.** Geography as an asset for the first time since
-   the Bay in Act II ch. 2.
+   the Bay in Act I ch. 2.
 6. **The competition.** MIT, Harvard, Bell Labs. California is behind at this
    point, and the chapter must say so — the outcome was not obvious in 1940.
 7. **Anti-determinism, stated.** Name the decision-makers and the criteria.
    Contingency is the honest reading and it makes the eventual result more
    interesting, not less.
 8. **Japanese American incarceration, 1942.** Place it here, with the property
-   transfers named. Do not defer the whole subject to Act V.
+   transfers named. Do not defer the whole subject to Act III.
 9. **Landing.** The state is positioned and the money is about to arrive in
    quantities nobody has seen. Hand off to Terman.
 :::
@@ -136,7 +136,7 @@ provided encouragement, a small loan, and access to the university's facilities.
 
 The point is not the loan. It is that a professor was functioning as an
 allocator of talent, deliberately, against the prevailing gradient, and that he
-understood this as a strategy rather than as mentorship. Act IV's first chapter
+understood this as a strategy rather than as mentorship. Act III's first chapter
 is about what happened when he applied the same logic with an industrial park
 behind it.
 
@@ -177,7 +177,7 @@ period after the war Route 128 was ahead.
 
 ## What California did have
 
-Geography, for the first time since Spain claimed the Bay in Act II chapter 2.
+Geography, for the first time since Spain claimed the Bay in Act I chapter 2.
 
 The Pacific war made the west coast the theatre's logistical base. Shipyards at
 Richmond, Sausalito, and Vallejo. Aircraft manufacturing in southern California
@@ -223,7 +223,7 @@ were given days or weeks to dispose of homes, farms, and businesses.
 The economic consequence was a transfer. Property was sold at distress prices,
 abandoned, or lost for non-payment during the years of absence, and it was
 acquired by people who remained. Japanese-American farmers had, despite the
-Alien Land Law of 1913 described in Act II chapter 11, built substantial
+Alien Land Law of 1913 described in Act I chapter 11, built substantial
 holdings in California agriculture, and much of it did not come back.
 
 This is the same mechanism the whole act has been describing, running at speed
@@ -262,7 +262,7 @@ directed in both dimensions at once. The same government that required
 industries to hire without discrimination was simultaneously insuring mortgages
 on terms that made segregation a condition of lending.
 
-Act IV chapter 1 will describe a research park whose workforce could live in
+Act III chapter 1 will describe a research park whose workforce could live in
 Palo Alto. This is why the question of who could live there has an answer.
 
 ## Positioned

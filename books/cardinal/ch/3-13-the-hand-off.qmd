@@ -1,7 +1,7 @@
 # The Hand-Off: From War Capacity to System Design {#sec-3-13}
 
 ::: {.chapter-meta}
-Act III — Hoover, War, and the Archive State · 1945
+Act II — Hoover, War, and the Archive State · 1945
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -74,7 +74,7 @@ The public conversation that never happened is the chapter's excluded party, and
 naming it is the point: the most consequential structural decision in postwar
 American science was made by nobody, in no room, on no date.
 
-Act III ends here. California has learned to think at the scale of empire, the
+Act II ends here. California has learned to think at the scale of empire, the
 funding is permanent, the institutional architecture is built, and the machinery
 is about to produce its first self-sustaining industry.
 :::
@@ -96,9 +96,9 @@ is about to produce its first self-sustaining industry.
 6. **The decision that was never made.** The chapter's core: no debate, no vote,
    no review. A constituency and no counter-constituency.
 7. **1951, the Research Park.** The arrangement acquires land. One paragraph,
-   because Act IV ch. 1 opens on it.
+   because Act III ch. 1 opens on it.
 8. **The excluded.** The absent public conversation.
-9. **Landing.** End of Act III. California has learned to think at the scale of
+9. **Landing.** End of Act I. California has learned to think at the scale of
    empire, the funding is permanent, and the machinery is about to produce its
    first self-sustaining industry.
 :::
@@ -238,7 +238,7 @@ By 1951 the arrangement had acquired property.
 
 The Stanford Industrial Park opened that year on university land — the first
 university-owned industrial park in the United States. It is one paragraph here
-because Act IV chapter 1 opens on it, but note what it represents. An
+because Act III chapter 1 opens on it, but note what it represents. An
 arrangement that began as an emergency measure in 1940 had, within eleven years,
 become sufficiently permanent that a university was willing to build a business
 model on the assumption that it would continue indefinitely.
@@ -255,7 +255,7 @@ indispensable to an industry that did not yet exist.
 That is a considerable bet, made in 1951, on the permanence of a funding
 arrangement that had never been formally agreed.
 
-## End of Act III
+## End of Act II
 
 California has learned to think at the scale of empire.
 
@@ -270,4 +270,4 @@ written plan and eight thousand acres.
 The machinery is complete and the money is permanent. What it has not yet
 produced is an industry of its own.
 
-Act IV is about the forty years in which it produces four.
+Act III is about the forty years in which it produces four.

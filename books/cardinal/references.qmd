@@ -31,8 +31,8 @@ project set for itself at the outset and it has been kept.
 disagree, the text states the strongest version of each position, names the
 uncertainty, and says which reading this book finds more persuasive and why. No
 chapter's argument rests on a contested fact. The clearest instances are Jane
-Stanford's death in Act II chapter 13, the doctrinal weight of the *Santa Clara*
-headnote in Act II chapter 10, and the gesture at Capital One Arena in Act V
+Stanford's death in Act I chapter 13, the doctrinal weight of the *Santa Clara*
+headnote in Act I chapter 10, and the gesture at Capital One Arena in Act IV
 chapter 7.
 
 **Figures carry dates and definitions.** Market shares, user numbers, and market
@@ -54,7 +54,7 @@ as the record.
 This is a first complete draft and the apparatus is not finished.
 
 Seven entries in the event ledger are marked `NEEDS SOURCE`, and the research log
-carries a longer verification queue, weighted toward Act V where the inherited
+carries a longer verification queue, weighted toward Act IV where the inherited
 drafts were richest in narrative and weakest in citation. Several claims carried
 over from those drafts did not survive checking and were removed; the reasoning
 is recorded at `_project/cut-material.md`.

@@ -1,7 +1,7 @@
 # Scale as Governance: The New Chokepoints {#sec-5-01}
 
 ::: {.chapter-meta}
-Act V — The Open Era · 2000–2010
+Act IV — The Open Era · 2000–2010
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -149,7 +149,7 @@ By 2010 the pattern was legible, and the useful way to see it is as five
 distinct chokepoints rather than five large companies.
 
 **Apple** held the device and the store on it. Having watched the personal
-computer commoditise around Microsoft in Act IV chapter 9, it built the opposite
+computer commoditise around Microsoft in Act III chapter 9, it built the opposite
 architecture: integrated hardware and software, and after 2008 a single
 distribution channel for applications, with a commission on transactions passing
 through it. Every developer reaching an iPhone user does so on Apple's terms.
@@ -182,7 +182,7 @@ performing. Google runs the search index and ranks its own services within it.
 
 This is not a novel arrangement. It is exactly what the Southern Pacific did
 when it set rates on a line it owned for freight in which it had an interest,
-and it is what the studios did with block booking in Act IV chapter 8. The
+and it is what the studios did with block booking in Act III chapter 8. The
 remedy in both historical cases was structural: regulate the carrier, or divest
 the theatres.
 
@@ -229,7 +229,7 @@ in the United States, with disclosed expenditures rising by orders of magnitude,
 alongside trade associations, funded academic work, and a steady traffic of
 personnel between the firms and the agencies that oversee them.
 
-Act II chapter 10 described Collis Huntington's permanent office in Washington
+Act I chapter 10 described Collis Huntington's permanent office in Washington
 and his candour about what he was doing there. The modern version is larger,
 entirely lawful, fully disclosed, and considerably more effective.
 
@@ -257,7 +257,7 @@ the cloud providers must build data centres, which almost none can afford. The
 of the consumer internet at once are the clearest demonstration of how
 concentrated the dependency has become.
 
-Act III chapter 1 opened on the Late Bronze Age and the observation that the
+Act II chapter 1 opened on the Late Bronze Age and the observation that the
 most connected system is the most brittle. Three providers is a small number.
 
 ## Who is squeezed

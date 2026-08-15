@@ -1,7 +1,7 @@
 # Google and the Attention Monopoly {#sec-4-12}
 
 ::: {.chapter-meta}
-Act IV — The Silicon Valley Machine · 1998–2004
+Act III — The Silicon Valley Machine · 1998–2004
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -245,7 +245,7 @@ infrastructure industry comes from.
 The company then built its own data centres, sited for electricity and cooling,
 and eventually designed its own chips.
 
-The chapter marks this because Act V's argument depends on it. A company that
+The chapter marks this because Act IV's argument depends on it. A company that
 begins by owning an index ends by owning the physical capacity to compute at
 scale, and computing capacity turns out to be the chokepoint of the following
 era. Vertical integration into the substrate — first the software, then the

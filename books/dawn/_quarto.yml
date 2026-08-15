@@ -22,6 +22,7 @@ book:
         - ch/1-06-china-continuity.qmd
         - ch/1-07-medici-press.qmd
         - ch/1-08-progress-property-monopoly.qmd
+        - ch/1-09-the-american-transfer.qmd
     - references.qmd
 
 bibliography: references.bib

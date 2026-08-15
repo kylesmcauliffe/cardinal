@@ -1,7 +1,7 @@
 # Epilogue: The Traveller's Tour {#sec-5-12}
 
 ::: {.chapter-meta}
-Act V — The Open Era · 1776–2025
+Act IV — The Open Era · 1776–2025
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -52,7 +52,7 @@ holder deserved it.
 It begins at 320 Dolores Street, at the mission founded in 1776, where power
 took the form of a register. Then Portsmouth Square and Grant Avenue, where the
 Gold Rush's throat and the Chinatown that the exclusion campaigns targeted sit a
-block apart — two chapters of Act II within sight of each other. Then Colton
+block apart — two chapters of Act I within sight of each other. Then Colton
 Hall at 570 Pacific Street in Monterey, where a constitution was written in 1849
 by men whose names are on the rest of the walk. Then Nob Hill, the Big Four's
 addresses, and what stands there now.
@@ -84,7 +84,7 @@ and that it was never a secret — only subliminal.
 1. **320 Dolores Street, San Francisco.** Mission Dolores, 1776. The register.
    Power as legibility.
 2. **Portsmouth Square and Grant Avenue.** The Gold Rush throat and the
-   Chinatown that the exclusion campaigns targeted. Ch. 6 and ch. 11 of Act II,
+   Chinatown that the exclusion campaigns targeted. Ch. 6 and ch. 11 of Act I,
    one block apart.
 3. **Colton Hall, 570 Pacific Street, Monterey.** 1849. The constitution, and
    who wrote it.
@@ -94,7 +94,7 @@ and that it was never a secret — only subliminal.
    one place the book cannot reach on foot is where the public money became
    private property.
 6. **The Stanford campus.** The Founding Grant's land. Hoover Tower, the Quad,
-   Jordan Hall renamed. Ch. 12 and ch. 13 of Act II and most of Act III, in one
+   Jordan Hall renamed. Ch. 12 and ch. 13 of Act I and most of Act II, in one
    square mile.
 7. **367 Addison Avenue, Palo Alto.** The garage, 1939. State plainly what the
    book has shown: the garage is real and it is not the explanation.
@@ -141,7 +141,7 @@ thousands of Ohlone and other Indigenous people buried there.
 
 ## Portsmouth Square and Grant Avenue
 
-Half an hour's walk north-east, two chapters of Act II within a block of each
+Half an hour's walk north-east, two chapters of Act I within a block of each
 other.
 
 Portsmouth Square is where the American flag was raised in 1846 and where the
@@ -172,7 +172,7 @@ Pacific-Union Club in the surviving Flood mansion. Crocker's spite fence, built
 to shadow the house of a neighbour who would not sell, is long gone. The Crocker
 family gave the block to the Episcopal diocese and Grace Cathedral is on it.
 
-A monopoly converted into hospitality and religion. The transaction from Act II
+A monopoly converted into hospitality and religion. The transaction from Act I
 chapter 12, at neighbourhood scale.
 
 ## Promontory Summit, Utah

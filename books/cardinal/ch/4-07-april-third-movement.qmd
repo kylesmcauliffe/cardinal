@@ -1,7 +1,7 @@
 # The April Third Movement {#sec-4-07}
 
 ::: {.chapter-meta}
-Act IV — The Silicon Valley Machine · 1965–1971
+Act III — The Silicon Valley Machine · 1965–1971
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -23,7 +23,7 @@ chapter that shows what the mechanism does under pressure, which is the only way
 to demonstrate that it is a mechanism and not a mood. Confronted with a demand for
 accountability, the institution did not reform and did not refuse. It
 reorganised — the same move the Big Four made with the Contract and Finance
-Company, and the same move Act V will show platforms making with contractor
+Company, and the same move Act IV will show platforms making with contractor
 workforces and offshore subsidiaries.
 
 **The key fact.** The protesters' central demand was that Stanford exercise
@@ -136,7 +136,7 @@ about, because it no longer belonged to anyone the students could petition.
     from within it. The people subject to the research had no representation in
     that room.
 12. **Landing.** Naming the move: pressure produced reorganisation, not reform.
-    Point back to the Contract and Finance Company in Act II and forward to Act
+    Point back to the Contract and Finance Company in Act I and forward to Act
     V's contractor workforces. Same manoeuvre, three centuries of costume.
 
 **Source note.** SRI's own institutional history characterises the students'
@@ -219,7 +219,7 @@ a newsletter called *Declassified* that ran throughout the occupation.
 
 Students in a building they had occupied, printing the classified research they
 found there, on the equipment they found there. It is the clearest available
-illustration of the argument from Act III chapter 11 — that classification is
+illustration of the argument from Act II chapter 11 — that classification is
 what makes the arrangement unaccountable — made by people who had simply removed
 the classification.
 
@@ -308,11 +308,11 @@ What the trustees performed in 1970 was not reform and was not refusal. It was
 reorganisation: a change in the legal ownership of an activity, leaving the
 activity untouched and removing the party that could be held responsible for it.
 
-Act II chapter 9 described the Contract and Finance Company, which put the
-railroad's profits inside an entity with no public obligations. Act II chapter
+Act I chapter 9 described the Contract and Finance Company, which put the
+railroad's profits inside an entity with no public obligations. Act I chapter
 10 described the Southern Pacific reincorporating in Kentucky while the track
-stayed in California. Act IV chapter 6 described a shoe company owning no
-factories. Act V will describe platform workforces held at arm's length through
+stayed in California. Act III chapter 6 described a shoe company owning no
+factories. Act IV will describe platform workforces held at arm's length through
 contractors and drivers classified as independent.
 
 Every one of these is the same move. When pressure arrives at a boundary, redraw

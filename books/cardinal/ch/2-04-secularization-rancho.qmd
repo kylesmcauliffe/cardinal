@@ -1,7 +1,7 @@
 # Secularisation and Rancho Power {#sec-2-04}
 
 ::: {.chapter-meta}
-Act II — Land, Monopoly, and Institution · 1834–1846
+Act I — Land, Monopoly, and Institution · 1834–1846
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -127,6 +127,14 @@ Putting the promise beside the outcome is the whole chapter, and the gap between
 them establishes a pattern this book will document for the next two centuries:
 inclusion announced, exclusion delivered, with a paper trail showing that
 somebody meant it at the time.
+
+The last private transaction in that sequence is still on the campus map. Peter
+Coutts Road, Frenchman's Road, French Lake Drive, and Ayrshire Farm Lane record
+Jean-Baptiste Paulin Caperon — "Peter Coutts," a French banker and self-described
+socialist who assembled the Matadero Rancho stock farm in 1875 and sold it to
+Leland Stanford in 1881 for $140,000. The ranchos became one estate. The estate
+became a university that was forbidden to sell the land. The street names are
+the receipt.
 
 ## Why it was done
 

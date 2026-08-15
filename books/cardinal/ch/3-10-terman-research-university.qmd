@@ -1,7 +1,7 @@
 # Frederick Terman and the Research University {#sec-3-10}
 
 ::: {.chapter-meta}
-Act III — Hoover, War, and the Archive State · 1942–1945
+Act II — Hoover, War, and the Archive State · 1942–1945
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -35,7 +35,7 @@ biggest scientific mobilisation in history, and he did not intend for that to
 happen again.
 
 **Excluded voices.** The classified nature of most of it, which means the public
-paid for research it could not examine — a structural exclusion that Act IV ch.
+paid for research it could not examine — a structural exclusion that Act III ch.
 7 will turn into a campus revolt.
 
 **Proof.** This chapter proves that Silicon Valley's institutional architecture
@@ -54,7 +54,7 @@ playbook and a grievance.
 
 The grievance matters. Stanford had been a bystander to the largest scientific
 mobilisation in history while MIT and Harvard captured the contracts, and
-Terman's diagnosis of why is the origin of everything in Act IV. Silicon Valley
+Terman's diagnosis of why is the origin of everything in Act II. Silicon Valley
 is not an accident or an emergence. It is a plan, written down in advance,
 executed by its author over three decades.
 
@@ -71,7 +71,7 @@ number of areas where federal money was flowing, in which the university would
 make itself indispensable. Electronics and microwaves first. Follow the money
 and then become the bottleneck it must pass through.
 
-The chapter also plants the asset that Act IV will pay off, and does not explain
+The chapter also plants the asset that Act III will pay off, and does not explain
 it yet: eight thousand acres of land that the Founding Grant forbids the
 university to sell.
 
@@ -80,7 +80,7 @@ could not examine it. The chapter names that as a structural exclusion, and
 points forward to the campus revolt it eventually produces.
 
 A designer, a plan, a permanent funding channel, and an enormous piece of
-unsellable land. Everything Act IV needs is now in place.
+unsellable land. Everything Act III needs is now in place.
 :::
 
 ::: {.callout-caution collapse="true"}
@@ -103,11 +103,11 @@ unsellable land. Everything Act IV needs is now in place.
    where federal money is going, and become indispensable in those rather than
    adequate everywhere.
 7. **The land.** Note it and hold it — eight thousand acres that cannot be sold
-   under the Founding Grant, and therefore must be leased. Act IV ch. 1 pays
+   under the Founding Grant, and therefore must be leased. Act III ch. 1 pays
    this off.
 8. **The excluded.** Classification. Public money, unexaminable results.
 9. **Landing.** A designer, a plan, a funding channel, and an enormous piece of
-   unsellable land. Everything Act IV needs is now in place.
+   unsellable land. Everything Act III needs is now in place.
 :::
 
 :::
@@ -218,7 +218,7 @@ An asset that cannot be sold can be leased. And a university that leases land to
 companies whose staff it trains, whose research it partners on, and whose
 legitimacy it underwrites is not a landlord in any ordinary sense.
 
-Act IV opens on the day someone acts on this.
+Act III opens on the day someone acts on this.
 
 ## Recruiting
 
@@ -242,7 +242,7 @@ the first tenant of the industrial park.
 
 That sequence is the whole model in one company: university research, a
 licensing arrangement that pays the university, a spin-out firm founded by the
-researchers, and a lease on university land. Every element of Act IV is present
+researchers, and a lease on university land. Every element of Act III is present
 in 1951, in a single tenancy agreement.
 
 Terman also encouraged faculty to consult for industry and to found companies,
@@ -267,7 +267,7 @@ and the alternative — a research establishment that discussed its work in publ
 — was not on offer while the Soviet Union existed.
 
 It became a problem in 1969, when a few hundred students walked into a building
-and shut it down. Act IV chapter 7 is that chapter, and the target they chose
+and shut it down. Act III chapter 7 is that chapter, and the target they chose
 was the laboratory Terman built.
 
 ## The plan and its author

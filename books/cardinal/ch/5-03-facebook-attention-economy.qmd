@@ -1,7 +1,7 @@
 # Facebook, Surveillance, and the Attention Economy {#sec-5-03}
 
 ::: {.chapter-meta}
-Act V — The Open Era · 2004–2018
+Act IV — The Open Era · 2004–2018
 :::
 
 ::: {.content-visible when-profile="draft"}
@@ -19,7 +19,7 @@ legally durable. In 2018 the distinction collapsed in public, and the company
 discovered that infrastructure cannot decline responsibility indefinitely.
 
 **The mechanism.** Chokepoint control of social connection, and the legitimacy
-layer failing under load — the same failure Act III ch. 8 documented for Hoover.
+layer failing under load — the same failure Act II ch. 8 documented for Hoover.
 The company's problem after 2016 was not technical or even legal. It was that
 its account of itself stopped being believed.
 
@@ -77,7 +77,7 @@ and gives the episode its full weight rather than a paragraph.
 
 The excluded are the content moderators — largely contracted, largely outside
 the United States, doing documented psychological harm to themselves at a
-fraction of engineering pay. The line from Act II's Chinese railroad crews is
+fraction of engineering pay. The line from Act I's Chinese railroad crews is
 direct: the system's stability depends on people it does not employ.
 
 What changed after 2018 was believability rather than law, which is the same
@@ -93,7 +93,7 @@ indefinitely, and the next company does not try.
 2. **Growth mechanics.** 2004 to 2012: the network effect, the real-name policy,
    and the acquisitions of Instagram and WhatsApp. Why the position became
    unassailable.
-3. **The advertising model.** Inherited from Act IV ch. 12 and extended: not
+3. **The advertising model.** Inherited from Act III ch. 12 and extended: not
    stated intent but inferred disposition. Behavioural inference as the product.
 4. **The neutrality claim.** How the company described itself, in its own words
    and dates. Then Section 230 and why the claim was legally load-bearing.
@@ -104,7 +104,7 @@ indefinitely, and the next company does not try.
    commissioned human rights assessment. Sourced carefully and given its full
    weight; this is the chapter's most serious material.
 7. **The moderators.** Contracted labour, location, pay, and documented
-   psychological harm. Draw the line from Act II ch. 11 explicitly: the system's
+   psychological harm. Draw the line from Act I ch. 11 explicitly: the system's
    stability depends on people it does not employ.
 8. **The collapse of the account.** What changed after 2018 was believability,
    not law. Compare to Hoover in 1932.
@@ -131,7 +131,7 @@ wrote it insisted that it was not making editorial decisions at all.
 
 Facebook was founded in a Harvard dormitory in 2004 and moved to Palo Alto
 within months, into the corridor described in the previous act. Its first
-outside investment came from Peter Thiel, from the group in Act IV chapter 13.
+outside investment came from Peter Thiel, from the group in Act III chapter 13.
 
 Its growth mechanics were straightforward and unusually effective. A real-name
 policy made the social graph accurate, which made it far more valuable to
@@ -152,7 +152,7 @@ scale.
 The advertising system extended Google's and differed from it in a way that
 matters.
 
-A search query is a stated intention, as Act IV chapter 12 described. A social
+A search query is a stated intention, as Act III chapter 12 described. A social
 feed has no stated intention; the user is not looking for anything. What the
 platform sells instead is inferred disposition — an assessment, built from
 behaviour, of what a person is like and what they might be susceptible to,
@@ -167,7 +167,7 @@ Throughout its expansion the company described itself as a technology company
 and a neutral platform rather than a media company, and this was not merely
 rhetoric. It was load-bearing.
 
-Section 230, from Act IV chapter 14, provides that a service is not treated as
+Section 230, from Act III chapter 14, provides that a service is not treated as
 the publisher of content supplied by its users. That protection is what made the
 business possible at scale. But the same platform was continuously making
 editorial decisions — ranking the feed, promoting some material and demoting
@@ -239,7 +239,7 @@ The psychological consequences are documented in reporting, in litigation, and
 in a 2020 settlement with American moderators over trauma-related claims.
 Workers in Kenya have brought their own cases.
 
-The line from Act II chapter 11 is direct. The system's stability depends on
+The line from Act I chapter 11 is direct. The system's stability depends on
 people it does not employ, held at arm's length through a contracting
 arrangement, doing the work that makes the product usable and appearing nowhere
 in the description of it.
@@ -285,7 +285,7 @@ neutral technology platform connecting people, with no editorial role and no
 responsibility for outcomes — stopped being accepted by regulators, by
 journalists, and eventually by a substantial part of its own workforce.
 
-That is the same failure Herbert Hoover suffered in 1932, described in Act III
+That is the same failure Herbert Hoover suffered in 1932, described in Act II
 chapter 8. The machinery was intact and the explanation had stopped working.
 
 The company changed its name in 2021 and continued.

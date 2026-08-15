@@ -129,7 +129,7 @@ it under the rule in `_project/voice.md`.
 |---|---|---|---|
 | 1980-08-12 | IBM Personal Computer development; MS-DOS licensed non-exclusively | The most valuable clause never inserted. Hardware commoditises; the operating system does not. | NEEDS SOURCE |
 | 1980-10-14 | Genentech IPO | Biology financed like software, on a Stanford and UCSF patent. | VERIFIED |
-| 1980-12-12 | Bayh-Dole Act enacted | Universities take title to federally funded inventions. Answers the question Act III left open. | VERIFIED |
+| 1980-12-12 | Bayh-Dole Act enacted | Universities take title to federally funded inventions. Answers the question Act II left open. | VERIFIED |
 | 1995-04-30 | NSFNET backbone decommissioned; the network passes to commercial operators | Thirty years of public investment transferred without compensation, equity, or public debate. | VERIFIED |
 | 1995-08-09 | Netscape IPO | Built on Mosaic, developed at a public university on federal funding. | VERIFIED |
 | 1996-02-08 | Section 230 enacted | Twenty-six words. The legal foundation of the platform economy. | VERIFIED |
@@ -147,7 +147,7 @@ it under the rule in `_project/voice.md`.
 | 2018-08-27 | UN fact-finding mission reports on Myanmar | Addresses the platform's role in the spread of hate speech. The company's own commissioned assessment follows. | VERIFIED |
 | 2019-07-24 | FTC announces $5 billion Facebook privacy settlement | Largest privacy penalty the agency had imposed. | VERIFIED |
 | 2020-11-03 | Proposition 22 passes in California | Over $200 million spent to exempt platforms from a classification law passed the previous year. | VERIFIED |
-| 2022-08-09 | CHIPS and Science Act signed | Public money returns to semiconductors. Act III's triangle under the name of industrial policy. | VERIFIED |
+| 2022-08-09 | CHIPS and Science Act signed | Public money returns to semiconductors. Act II's triangle under the name of industrial policy. | VERIFIED |
 | 2022-11-30 | OpenAI releases ChatGPT | Adoption figures widely cited from an investment bank estimate rather than a company disclosure. | VERIFIED |
 | 2023-06-29 | Students for Fair Admissions decided | Race-conscious admissions held unlawful. What is the credential screening for? | VERIFIED |
 | 2023-07-19 | Marc Tessier-Lavigne resigns as Stanford president | Review found manipulation by others in his laboratories and criticised his failure to correct the record. | VERIFIED |
