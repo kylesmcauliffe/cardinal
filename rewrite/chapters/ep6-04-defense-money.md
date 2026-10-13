@@ -102,3 +102,21 @@ When students occupied the AEL in April 1969, they were not imagining a militari
 Hewlett-Packard and Fairchild matter in legend. Lockheed mattered in payroll — tens of thousands in Sunnyvale against hundreds in a garage on Addison Avenue, for years (`books/cardinal/ch/4-04-defense-corridor.qmd`). Both were true on the same map. Only one fit the origin story the region preferred to tell about itself.
 
 The defence corridor does not end in April 1969. It changes legal address when SRI is sold to itself and contracts walk from the quad to Menlo Park. The procurement office keeps buying. The internet's first word remains "lo," typed before the crash, between nodes the Defense Department commissioned on an institute Stanford still owned when the packet left UCLA.
+
+## Moffett Field's inheritance
+
+Moffett Field in Sunnyvale had been built for airships in the 1930s and became an aeronautical research centre. NASA Ames Research Center inherited that establishment — wind tunnels, computing, space science — on the same corridor as Lockheed's missile division (`books/cardinal/ch/4-04-defense-corridor.qmd`). Geography that had been logistical for the Pacific war remained logistical for missiles and satellites.
+
+## Suppliers, not heroes
+
+Around Lockheed, SRI, and Ames accumulated electronics firms, instrument makers, and the semiconductor companies from the previous chapters. None of them needed a consumer market in the 1960s to survive. They needed a customer with a procurement office and a tolerance for secrecy. HP's oscillators, Varian's klystrons, Fairchild's chips — each could be traced to federal budgets before they could be traced to living rooms.
+
+## Stanford ownership as liability, foreshadowed
+
+SRI's founding in 1946 as a Stanford-owned nonprofit in Menlo Park was convenient for contract research and inconvenient for accountability (`books/cardinal/ch/4-04-defense-corridor.qmd`). By the late 1960s the institute's work included chemical and biological warfare research and counterinsurgency techniques relevant to Vietnam — on the public record, under a parent university students could petition.
+
+Classification made the arrangement opaque to citizens while keeping it legible to agencies. The Applied Electronics Laboratory on campus concentrated classified electronics funding by 1968. The corridor was not only geographic. It was a chain of ownership and clearance levels that would break when students published what they found inside the AEL printshop.
+
+## Corrective summary
+
+Act II promised to put the procurement office at the centre of the story instead of the garage. This chapter keeps that promise for the 1956–1969 window: Lockheed as county payroll leader, SRI as Stanford-owned contractor, ARPANET as Defense procurement, Engelbart as federal deliverable, Fairchild's chips as missile and space inputs. The garage on Addison Avenue still matters. It matters the way a storefront matters on a street paid for by railroad bonds — real, formative, and not the whole ledger.
