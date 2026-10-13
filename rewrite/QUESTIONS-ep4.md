@@ -19,10 +19,10 @@
 - Ross: "Warning Against Coolie 'Natives' and Japanese" (Call, May 8, 1900); Jordan to Howard: "keep still" (White-J ch 17, p. 101).
 - Poland Spring strychnine Jan 1905; Korea departure Feb 15 (White-J ch 28, p. 167); Moana death words (White-J ch 29, p. 173); chemists on strychnine (White-J ch 36, p. 208); Jordan "natural causes" (Examiner headline, White-J notes p. 339); mausoleum (White-J ch 45, p. 266).
 
-## Open / [TK]
-- [TK: Herbert Hoover first-day-of-class diary or letter, Oct 1, 1891]
-- [TK: exact Founding Grant clause text for land-sale prohibition, if quoting]
-- [TK: Hoover wealth/income circa 1905 at episode end]
+## Open
+- Hoover opening day: summer 1891 arrival and conditional admission from repo ch 3-01 and Harris ch 2.3 (no first-day diary in repo).
+- Founding Grant land clause: paraphrased from repo ch 2-12.
+- Hoover circa 1905: Bewick Moreing partnership timeline from repo ch 3-01 (no dollar figure asserted).
 
 ## Characters
 | Character | Motifs | Complicating scene |
@@ -32,4 +32,4 @@
 | David Starr Jordan | Scientist-president | Night visit to Howard; Honolulu narrative (White-J) |
 | Edward Ross | Outspoken economist | Fired over monopoly and immigration speeches (repo ch 2-13) |
 | Eadweard Muybridge | Horse photography | Rehired after murder scandal (Harris ch 1.3) |
-| Herbert Hoover | Orphan pioneer student | Opening day 1891 [TK detail] |
+| Herbert Hoover | Orphan pioneer student | Summer 1891 arrival, pioneer class (repo ch 3-01) |

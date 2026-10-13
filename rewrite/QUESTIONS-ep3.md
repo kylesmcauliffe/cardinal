@@ -18,10 +18,10 @@
 - *Santa Clara*: narrow tax holding; Davis headnote on Fourteenth Amendment and corporations—not the holding (repo ch 2-10; Winkler ch 4, Chronology).
 - Kentucky reincorporation 1884 (repo ch 2-10).
 
-## Open / [TK]
-- [TK: primary newspaper account of Mussel Slough shootout, May 1880]
-- [TK: exact Stanford Senate speech lines on Chinese labor, 1882 campaign, if quoting]
-- [TK: Huntington congressional vote-purchase letters—locator in published correspondence for direct quotes]
+## Open
+- Mussel Slough shootout: paraphrased from repo ch 2-10 and Rayner ch 13; no named shooters in text without primary press source in repo.
+- Stanford Senate campaign: described without direct quote (Harris ch 1.2; repo ch 2-11).
+- Huntington correspondence: paraphrased per Rayner ch 9 and repo ch 2-10; direct quotes deferred until published volumes are in `rewrite/notes/`.
 
 ## Characters
 | Character | Motifs | Complicating scene |
