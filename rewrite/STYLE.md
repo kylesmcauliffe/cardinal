@@ -55,3 +55,21 @@
 - File names: `rewrite/chapters/ep{N}-{nn}-{slug}.md`, starting with `# Episode N: Title` / `## Chapter title`.
 - American spelling. DM-style plain markdown, with no HTML beyond comments.
 - Don't touch `books/` or `main`.
+
+## Workflow (every episode)
+1. **Start from what exists.** Pull the relevant `books/cardinal/ch/*.qmd` chapters (paths are in outline.md), the older draft branch, Dawn where relevant, `rewrite/research/`, and `rewrite/notes/`.
+2. **Fact-check it** against the notes, moments, timeline, references.bib and research-log. Drop or [TK] anything you can't trace.
+3. **Dig deeper. Ask questions:**
+   - Why did this happen?
+   - Who else was in the room?
+   - What did it cost, and who paid?
+   - What happened next to these people?
+
+   Answer them from the notes and existing chapters.
+4. **Keep `rewrite/QUESTIONS-epN.md`** for each episode, with three sections:
+   - the questions asked;
+   - the answers found, with sources;
+   - the questions still open, as [TK] candidates.
+5. **Write** the chapters into `rewrite/chapters/`.
+
+Ebook full text is NOT in the repo. Only short quotes are, in `rewrite/notes/`. If you need a quote that isn't there, mark `[TK: quote from <book>, <locator>]`.
