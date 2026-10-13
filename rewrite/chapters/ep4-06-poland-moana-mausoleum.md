@@ -80,9 +80,7 @@ Within a year the San Andreas Fault would test the campus physically. Buildings 
 
 On the far side of the Pacific, a pioneer student from the class of 1891 was no longer sleeping in unfinished campus housing. Herbert Hoover, born 1874, had taken his geology training into mines in Western Australia and China (Harris 2023, ch. 2.3). By 1905 he was a young mining engineer accumulating the fortune that would later fund relief commissions, cabinet departments, a tower on the quad, and a library of war documents.
 
-[TK: Hoover income or mine stake detail circa 1905, if precise figure needed]
-
-He was not on the board yet—that cloudy appointment would come in 1912 (Whyte 2017, ch. 6). <!-- bib: TODO Whyte --> He was proof of what the opening day had promised: the university could produce a man who moved ore and capital on four continents while the founders' names moved into stone.
+By 1901 he was a partner in Bewick, Moreing; by 1908 he was running his own firm (repo ch 3-01). He was not on the board yet—that cloudy appointment would come in 1912 (Whyte 2017, ch. 6). <!-- bib: TODO Whyte --> He was proof of what the opening day had promised: the university could produce a man who moved ore and capital on four continents while the founders' names moved into stone.
 
 The orphans California claimed as children had grown into engineers the world could use. One of them was rich before he was famous, and the farm that had photographed a horse in mid-air had credentialed him.
 

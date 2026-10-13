@@ -24,8 +24,6 @@ The campaign did not need consistency to win. It needed a coalition. The Working
 
 Stanford navigated that landscape as a railroad man who had been threatened at his own mansion two years earlier by men shouting about Chinese labor. The institution he served employed the workers the law now barred. The fortune that built his house sat atop the unpaid differential those workers had accepted to keep their jobs in the snow.
 
-[TK: exact Stanford Senate campaign quotation on Chinese labor, if used, from contemporary newspaper or speech record]
-
 The Act's passage was not the end. <!-- kyle: ch/2-11 --> It was renewed and extended repeatedly over the following six decades. Communities were destroyed. Population fell. An entire class of workers was removed from the legal labor market while rates on the Southern Pacific remained what the traffic would bear.
 
 ### What the Act did on paper
@@ -94,7 +92,7 @@ The press that had called Chinatown a plague before the Act called it a problem 
 
 ### Huntington's unmolested decade
 
-Collis Huntington did not face sandlot crowds in Washington. He faced committees, and sometimes he feared what they would ask to see in the ledgers (Rayner 2008, ch. 9). The anti-Chinese movement did not put him on trial. It did not seize his correspondence about congressional votes. [TK: direct quote from published Huntington correspondence]
+Collis Huntington did not face sandlot crowds in Washington. He faced committees, and sometimes he feared what they would ask to see in the ledgers (Rayner 2008, ch. 9). The anti-Chinese movement did not put him on trial. It did not seize his correspondence about congressional votes, though investigators would later wish they had the Contract and Finance Company books Huntington feared the Wilson Committee would demand (Rayner 2008, ch. 9).
 
 The Associates lost Hopkins in a rail car. They did not lose the Southern Pacific to the Workingmen. They lost nothing on the rate sheet. That is the ledger the episode keeps.
 

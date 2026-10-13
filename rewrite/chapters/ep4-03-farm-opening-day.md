@@ -10,7 +10,7 @@ The Southern Pacific still ran trains past fields that had once been only Stanfo
 
 Among them was Herbert Hoover, seventeen years old, born in Iowa in 1874, raised in Oregon after his parents died, admitted to the pioneer class without a high school diploma (Harris 2023, ch. 2.3). He had come to study geology under John Casper Branner. He would later remember the day as the beginning of a life the university would adopt in ways he could not yet imagine—professors paying medical bills when typhoid struck, a geology lab where he would meet Lou Henry, a board seat in circumstances cloudy enough to raise questions decades later (Harris 2023, ch. 2.3; Whyte 2017, ch. 6). <!-- bib: TODO Whyte Hoover -->
 
-[TK: Herbert Hoover first-day-of-class diary or letter, Oct 1, 1891]
+Hoover had arrived in the summer of 1891, before the university opened, among the first students resident on the campus—admitted conditionally after failing every entrance subject except mathematics, working his way through with a laundry agency and a lecture bureau (repo ch 3-01; Harris 2023, ch. 2.3).
 
 Hoover stood on ground Leland Stanford had bought with railroad money. The founder himself was present for the opening. Jane Stanford was present. David Starr Jordan was inaugurated as president. Tuition was free. Women studied beside men. The curriculum promised usefulness rather than polish alone.
 

@@ -70,7 +70,7 @@ His partners would quarrel over his interest without quarreling over the model. 
 
 The night Hopkins died, Yuma was not a metropolis. It was a railroad town in territory, a place where engines took water and private cars waited on sidings while owners rested or conducted business by wire. The desert air was dry enough to crack wood. Curtains drawn against the sun became curtains drawn against glare that did not quit when the sun set.
 
-Who sat with him at the end is not in the notes this book has yet. [TK: attendant or physician on Hopkins death, if sourced] What is in the record is the fact of the car, the siding, and the line. The Associates had built a world in which a man could die inside his own rolling room on property his company owned, and the first notice to the eastern partner would be electrical.
+What is in the record is the fact of the car, the siding, and the line. The Associates had built a world in which a man could die inside his own rolling room on property his company owned, and the first notice to the eastern partner would be electrical.
 
 Collis Huntington learned by wire. He wrote to his brother in the language of river crossing. The organization did not pause for mourning. Patents still issued. Prices still posted. Kearney still spoke.
 

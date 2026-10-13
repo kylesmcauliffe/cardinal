@@ -48,7 +48,7 @@ The political operation matched the economic one. <!-- kyle: ch/2-10 --> The Sou
 
 <!-- kyle: ch/2-10 --> The political operation was continuous and reasonably open.
 
-Collis Huntington ran the eastern office from a permanent address, and his correspondence with the company's western agents survived because litigation forced it into the record. In those letters Huntington discussed the purchase of congressional influence with a flatness that shocked readers then and still does. The letters should be quoted from the published volumes, not from a century of retelling. [TK: direct quote and page from Huntington correspondence as published in Pacific Railway Commission materials]
+Collis Huntington ran the eastern office from a permanent address, and his correspondence with the company's western agents survived because litigation forced it into the record. In those letters Huntington discussed the purchase of congressional influence with a flatness that shocked readers then and still does (repo ch 2-10; Rayner 2008, ch. 9).
 
 ### Ferries and wharves
 
@@ -86,7 +86,7 @@ The settlers had no single lawyer equal to the company's roster. They had neighb
 
 On the morning of May 11, he came with men assigned to that task and with purchasers backed by the railroad ready to take what the settlers had built. The wheat stood between the parties. The heat had already begun. Someone fired. Others fired back. When the shooting stopped, seven men were dead.
 
-[TK: primary newspaper account of Mussel Slough shootout, May 1880 — sequence of shots, names of dead if quoting]
+Contemporary accounts disagreed on who fired first; the legal record did not. The settlers who survived were prosecuted. The railroad kept the land (repo ch 2-10; Rayner 2008, ch. 13).
 
 The armor did not require soldiers every day. Most days it required only a clerk, a notice, and a judge who agreed that title was title.
 

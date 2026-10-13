@@ -110,7 +110,7 @@ Leland Stanford would turn from collecting antiquities for a son to founding an 
 
 ### Buying the government, at the edge
 
-<!-- kyle: ch/2-10 --> Collis Huntington ran the Washington end from a permanent office, and his correspondence with the company's western agent survives because it was produced in litigation and published. In it he discusses the purchase of congressional votes with a flatness that startled contemporaries and still does. The letters are the best single primary source on how the operation actually worked, and they should be quoted from the published correspondence rather than from the century of paraphrase that followed. [TK: direct quote and page from Huntington correspondence as published in Pacific Railway Commission materials]
+<!-- kyle: ch/2-10 --> Collis Huntington ran the Washington end from a permanent office, and his correspondence with the company's western agent survives because it was produced in litigation and published. In it he discusses the purchase of congressional votes with a flatness that startled contemporaries and still does. The letters are the best single primary source on how the operation actually worked, published from litigation rather than from a century of paraphrase (repo ch 2-10; Rayner 2008, ch. 9).
 
 That operation continued while the boy died in Florence. It continued while Davis wrote his headnote. It did not pause for grief or for exclusion. The Associates aged. The Southern Pacific grew.
 
