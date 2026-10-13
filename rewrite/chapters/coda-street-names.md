@@ -1,0 +1,244 @@
+# Coda: The Street Names
+
+**Stanford, California. Dusk.**
+
+Walk with the narrator. No companion. Only the signs.
+
+---
+
+Different societies name their streets after different things, and the Peninsula
+names its after the people who owned it — mission founders, railroad families,
+university presidents, semiconductor executives, donors. The memorial is the
+monopoly, and it is the most honest document in California.
+
+chapter is the book's argument compressed into a walk: every mechanism it has
+described left a name on a sign, and the sequence of names is the sequence of
+chapters.
+
+Society, 2014). The chapter now uses the connective names from that guide —
+Gálvez, Serra, Alvarado, Coutts, Palm Drive, Jordan, Hansen, Knight — rather
+than waiting for a complete gazetteer. Appendix A is the reference table.
+
+centuries of proprietors.
+
+negative one: name the people from ch. 9's ledger and note what is named after
+them. The Muwekma Ohlone, the Central Pacific's crews, the sterilised, the farm
+workers. The absence is data.
+
+structure by showing the Peninsula's street names correspond, in sequence, to
+the chapters of this book.
+
+Read a street sign as a document and it tells you four things: who, when, why,
+and who decided. The Peninsula's signs answer all four consistently, and the
+answer is the argument of this book.
+
+Different societies commemorate different things. British streets carry empire.
+French streets carry artists and writers. Most American streets carry
+politicians and trees. The Peninsula names its streets after the people who
+owned it, and it does so in layers that correspond, in order, to the chapters
+here.
+
+The mission layer is oldest and still on the map: Serra, Junipero Serra
+Boulevard, and El Camino Real, which is a Spanish supply road that became the
+region's main street. The railroad layer sits on top of it — Stanford, Crocker,
+Hopkins, Huntington — and the chapter notes what kind of thing carries each
+name: a university, a hotel, a library, a hill. Then the institutional layer,
+with Hoover Tower, Terman, and Jordan Hall, which was renamed. Renamings are
+themselves evidence; what a society does when a name becomes unusable says more
+than the original naming did. And then the corporate layer: Page Mill, Sand
+Hill, and the donor names on the buildings of the campus.
+
+The connective names from Cottle's 2014 guide — Gálvez, Serra, Alvarado, Coutts,
+Palm Drive, Jordan, Hansen, Knight — slot into the layer each belongs to.
+Appendix A is the reference table. The argument does not depend on any single
+name. It depends on the sequence, which is already a walk.
+
+previous chapter's ledger and records what is commemorated and what is not: the
+Muwekma Ohlone, the Central Pacific's crews, the people sterilised under the
+1909 law, the farm workers. The absences are recorded without comment, because
+the list is the argument.
+
+The grid is a ledger. It has been legible the entire time and nobody reads it,
+which is what subliminal means.
+
+   decided.
+   empire, French streets and artists, most American streets and politicians or
+   trees. Establish the contrast before making the claim.
+   II ch. 1, still on the map.
+   names are, and what kind of thing carries them — a university, a hotel, a
+   library, a hill.
+   Terman. Note the renamings specifically: what a society does when a name
+   becomes unusable is itself evidence.
+   buildings of the campus. Donors as toponymy.
+   guide, slotted into the layer each belongs to. Do not catalogue the campus.
+   and what is not. Do this without comment; the list is the argument.
+   nobody reads it, which is what subliminal means.
+
+What does a civilisation look like from its street signs?
+
+Read a street sign as a document and it answers four questions. Who is
+commemorated. When. For what. And who decided.
+
+The Peninsula's signs answer all four with unusual consistency, and the answer
+is the argument of this book, recorded in the one medium that outlasts
+newspapers, lawsuits, and reputations.
+
+The comparison has to come first or the claim is meaningless, because all street
+names commemorate something.
+
+British street names carry empire and aristocracy: the regiments, the victories,
+the ducal estates that were subdivided. Parisian streets carry writers,
+painters, scientists, and the dates of revolutions. Dutch cities name streets
+after painters. Post-war German cities renamed extensively and now carry
+resisters and victims, which is its own kind of statement.
+
+The standard American pattern is politicians, presidents, trees, and numbers. A
+grid with Washington, Lincoln, Elm, Maple, and First through Twelfth is the
+default of the American town, and it commemorates a national civic culture
+rather than a local proprietor.
+
+The Peninsula is different. It names its streets after the people who owned it.
+
+Walk or drive the corridor and the sequence is chronological, because each layer
+of ownership named what it built and the previous names were mostly left in
+place.
+
+**The mission layer.** Galvez Street runs from El Camino Real to Serra Street
+across the front of the campus. It is named for José de Gálvez, the inspector
+general who expelled the Jesuits from New Spain and then commissioned the
+Portolá–Serra expedition — the administrator who had the idea, not the priest
+who walked it. Junípero Serra Boulevard holds the western edge. Lasuen Mall,
+the Olmsted axis through the Quad, is named for Serra's successor. Mendoza Road
+is named for the first viceroy of New Spain. El Camino Real, the royal road, is
+still the Peninsula's main street. The towns themselves — San Mateo, San Carlos,
+San Bruno, Santa Clara, San José — are mission and saint names. Act I chapter 1
+is a drive you can still take.
+
+**The rancho layer.** Alvarado Row was named by David Starr Jordan for Juan
+Bautista Alvarado, the governor who led the 1836 revolt against Mexican
+centralization; his grandfather had been on the Portolá expedition. Peter Coutts
+Road, Frenchman's Road, French Lake Drive, and Ayrshire Farm Lane record the
+French banker who assembled Matadero Rancho and sold it to Leland Stanford in
+1881 for $140,000 — the last private transaction before the farm became a
+university. Rancho names survive as neighbourhoods and parks: Las Pulgas, San
+Antonio, Corte Madera, San Francisquito. A boundary once recorded is cheaper to
+keep than to redraw.
+
+**The railroad layer.** Governor's Avenue follows the trotting track of the Palo
+Alto Stock Farm; the governor is Stanford himself. Electioneer is named for his
+champion stallion — the horse-breeding operation that produced Eadweard
+Muybridge's motion studies. Palm Drive, once called University Avenue, is the
+ceremonial front door; Memorial Arch stood at its head until 1906. Museum Way
+leads to the memorial Jane Stanford built for her son, now the Cantor Center.
+Off campus the Big Four appear as a hill, a hotel, a library, an art museum, and
+the university. The men who owned the state's transport are commemorated in the
+cultural institutions they endowed.
+
+**The institutional layer.** Hoover Tower is the tallest structure on the campus
+and holds the archive begun in 1919. Nathan Abbott Way is named for the man
+recruited in 1893 to found the Law School. Durand Way and Samuel Morris Way
+record the engineering faculty that built propulsion science and, in Morris's
+case, the Los Angeles water system; Hoover dedicated Morris's road in 1933.
+Jordan Hall carried the name of the first president — ichthyologist, pacifist,
+eugenicist, and the man who named half the streets in this chapter — until it
+was renamed in 2020. Serra came off several buildings in the same review; the
+boulevard kept him.
+
+Renamings deserve attention, because what a society does when a name becomes
+unusable is more informative than the original naming. It records the point at
+which the institution decided the association had become a liability, and it
+generally happens long after the facts are known.
+
+**The corporate layer.** Hansen Way runs from Page Mill Road to El Camino
+through the Research Park, named for the physicist whose klystron work seeded
+Varian and the microwave industry; he died of beryllium exposure. Page Mill was
+a lumber road before it was an industrial one. Porter Drive, off Page Mill, sits
+in Terman's electrical-engineering district. Sand Hill Road is four minutes
+from the Quad. Coyote Hill is where Xerox built PARC. Knight Way and the Knight
+Management Center carry the name of the student who wrote a 1962 paper about
+Japanese running shoes. Avery Mall and the Munger Graduate Residences are the
+donor era in its ordinary form: a construction family, a Berkshire partner, a
+name on the housing stock.
+
+The full table is in Appendix A. The argument does not depend on any single
+sign. It depends on the sequence, which is already a walk.
+
+The sharpest section is the negative one, and it consists of going through the
+previous chapter's ledger and asking what is named after each entry.
+
+The Muwekma Ohlone, whose territory the campus occupies. There is little on the
+map, and what recognition exists is recent and small.
+
+The Chinese workers of the Central Pacific. There is no major thoroughfare, no
+building on the campus that their labour endowed, and no monument at the scale
+of the achievement. The most substantial commemorations are recent, modest, and
+mostly the work of descendant organisations rather than of the institutions that
+benefited.
+
+The people sterilised under the 1909 law. Nothing.
+
+The farm workers. Cesar Chavez has streets and schools across California, which
+is a genuine and substantial exception, and they are overwhelmingly in the
+Central Valley and in urban Latino neighbourhoods rather than on the Peninsula.
+
+The contract workforce of the present. Nothing, and it is too early to expect
+anything.
+
+The list is the argument and it should be presented without commentary. What a
+place commemorates is what it has decided to remember, and the Peninsula has
+decided to remember the people who held the title.
+
+The layer being laid down currently is worth recording while it happens, because
+future readers will find it as unremarkable as the earlier layers look now.
+
+Institutional naming has become a priced transaction with published tariffs.
+Universities maintain schedules: a professorship costs this, a laboratory that,
+a building the other. Hospitals, museums, concert halls, and public parks
+operate comparably. A donor makes a gift and the name goes up, generally in
+perpetuity, occasionally with a term.
+
+This is not new — the Medici commissioned altarpieces, and the Victorian
+industrialists put their names on libraries — but the formalisation is. What was
+once a negotiated honour is now a listed product, and the effect is that the
+permanent memorial landscape of a wealthy society is allocated by the same
+mechanism as everything else in this book: to whoever holds the surplus.
+
+Two consequences follow. The commemorative record of an era becomes a record of
+its donors rather than of its achievements, and the two overlap only partially.
+And the names are extremely difficult to remove, because removal requires an
+institution to repudiate a gift it has already spent, which is why the renamings
+described above took so long and were so contested.
+
+A building name is a chokepoint on public memory, sold at a listed price, held
+in perpetuity, and defended by the recipient. That is a strange sentence and it
+describes standard practice at every major institution in the corridor.
+
+Here is the claim, stated plainly.
+
+The street grid of the San Francisco Peninsula is an accurate record of who
+controlled it and in what order. It is more accurate than most published
+histories, because it was not written to persuade anyone of anything. Each layer
+was laid down by people naming what they had just built, for reasons that seemed
+obvious at the time, and the accumulation is a chronology of ownership that
+nobody edited.
+
+It has been legible the entire time. Every person who has ever driven down El
+Camino Real, turned onto Page Mill Road, and passed Hoover Tower on the way to
+Sand Hill Road has read the whole argument of this book in the correct order,
+without noticing.
+
+That is what subliminal means. Not hidden — beneath the threshold at which
+something is consciously registered. The signs are twelve feet up and lit at
+night.
+
+## The walk
+
+The light is going. Campus empties. The narrator walks without a companion — only the names.
+
+Gálvez Street runs toward Serra. Lasuen Mall cuts the Quad. El Camino Real is still the Peninsula's main street. Turn onto Alvarado Row, named by David Starr Jordan for a governor whose grandfather had walked with Portolá. Stanford Avenue leads to Jane Stanford Way — renamed from Serra Mall in 2020, the same review that took Jordan's name off a biology building while leaving the boulevard's saint in place.
+
+Hoover Tower holds the archive. Terman and Page Mill name the engineering district. Sand Hill Road is four minutes from the Quad.
+
+The street signs are twelve feet up and lit at night. <!-- kyle: ch/5-11 -->
+
+It was never a secret. It was only subliminal. <!-- kyle: ch/5-11 -->
