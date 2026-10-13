@@ -104,4 +104,6 @@ The desert siding where Hopkins died was one node on a line that now reached tow
 
 March 28, 1878, was a siding date, not a headline date. The line kept moving.
 
+Huntington's letter to his brother would be quoted ever after because it sounded like scripture and bookkeeping at once. The river was metaphor. Shares were not. The Southern Pacific filed what it filed. Settlers in the valley read what they read. The year still held sandlots, patents, and the slow approach of May 1880.
+
 Mark Hopkins's car sat on the siding a little longer, then moved on with the line. The desert did not mark the spot. The Southern Pacific did not pause.
