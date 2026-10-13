@@ -4,7 +4,9 @@
 
 May 6, 1882. Washington, D.C. The spring air in the capital was thick with horse manure and ambition, and President Chester A. Arthur signed a bill that had passed both houses with margins that told their own story.
 
-In San Francisco the date was still May 6, but the hour was earlier. Chinatown had not yet heard the pen lift in Washington. Men on Dupont Street were running businesses under state hostility that would now have federal backing. The sandlots had already spoken. Congress had written the sentence into statute.
+In San Francisco the date was still May 6, but the hour was earlier. Chinatown had not yet heard the pen lift in Washington. Men on Dupont Street were still running laundries and restaurants under ordinances that would be tested in *Yick Wo* four years later. The Six Companies were still retaining counsel. The hill was still visible from the sandlots, even as the sandlots cooled.
+
+Arthur signed. Clerks stamped. The first federal bar on a nationality entered the statute books. Men on Dupont Street were running businesses under state hostility that would now have federal backing. The sandlots had already spoken. Congress had written the sentence into statute.
 
 The Chinese Exclusion Act suspended immigration of Chinese laborers for ten years, barred Chinese residents from naturalization, and made explicit what sandlot oratory had demanded in shorthand. <!-- kyle: ch/2-11 --> It was the first federal statute in American history to bar a specific nationality from entering the country.
 
