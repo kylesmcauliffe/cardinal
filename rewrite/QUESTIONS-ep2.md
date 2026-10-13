@@ -20,7 +20,7 @@
 
 ## Open ([TK] candidates)
 - [TK: White-Railroaded ch. 1–3 verification when EPUB extracted]
-- [TK: Chang ch. 7 — Stanford warning to Huntington, exact wording]
+- [TK: Chang ch. 7 — Stanford warning to Huntington, exact wording] (also marked in `ep2-06-the-summit.md`)
 - [TK: primary sources for Stanford grocery ledger 1852–56]
 
 ## Characters
