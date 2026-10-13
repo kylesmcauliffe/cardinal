@@ -80,7 +80,7 @@ Pressure produced a change of corporate structure rather than a change of activi
 
 ## The deep cut in the same building
 
-Doug Engelbart's 1968 demonstration at SRI — the mouse, hypertext, windowed displays — is known as the Mother of All Demos (Fisher 2018, preface). [TK: Levine, *Surveillance Valley*, ARPA chapter — verify exact wording on SRI chemical warfare contracts alongside Engelbart funding before quoting in final pass]
+Doug Engelbart's 1968 demonstration at SRI — the mouse, hypertext, windowed displays — is known as the Mother of All Demos (Fisher 2018, preface). Levine places the same institute's ARPA chemical-warfare contract work in Vietnam alongside funding for Engelbart's Augmentation Research Center: SRI was “doing ARPA contract work on chemical warfare in Vietnam” while Licklider's office funded augmentation (Levine 2018, ARPA chapter). <!-- bib: TODO levine-surveillance-valley -->
 
 The Mother of All Demos and napalm research in the same institution is the irony the campus would soon try to name. The April Third Movement did not invent the contradiction. It printed the budget lines.
 
@@ -95,6 +95,14 @@ The poster said strike against an empire. The trustees answered with a corporate
 April third named a coalition. January 1970 named a price. The episode ends with the work continuing somewhere else, on land the students could not occupy, under a name Stanford could disclaim — while the park, the creek, and the federal money kept flowing.
 
 Sand Hill Road is still empty in 1970. Kleiner and Perkins have not yet opened an office there. The next episode begins when venture capital puts a door on university land that the rebels could not close.
+
+## The poster as title card
+
+Harris opens Section III with the April Third Movement poster — “Strike Against the Stanford Empire” — because the document is already a scene: ink on paper, archive box, ready-made title card (Harris 2023, Section III frontispiece). The empire the students named was not abstract. It was SRI ownership, classified AEL budgets, Lockheed payrolls down the freeway, ground rent on Page Mill, and trustees who would rather sell an institute than govern it.
+
+The strike did not stop the empire. It forced a rename. January 1970 priced the rename at one per cent of gross revenues up to twenty-five million dollars. The work continued in Menlo Park. The quad got quieter. The procurement office kept buying.
+
+That is Episode 6's end turn, stated without the street-sign coda that belongs to the book's close: Stanford cuts SRI loose in 1970, and the military work moves off-campus without slowing down.
 
 ## The coalition's four demands, restated
 

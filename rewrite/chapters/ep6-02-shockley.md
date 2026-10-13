@@ -4,119 +4,144 @@
 
 **Mountain View. 1956.**
 
-Robert Noyce stepped off a train into a town that still smelled of orchards. He was twenty-nine, a physicist from Grinnell and MIT, with a wife and a toddler and a job offer from the most famous man in semiconductors.
+William Shockley located his semiconductor laboratory in Mountain View because his mother lived there.
 
-William Shockley had co-invented the transistor at Bell Laboratories. He had won the Nobel Prize that year with John Bardeen and Walter Brattain. His book *Electrons and Holes in Semiconductors* was the field's standard text. He was recruiting the best young semiconductor minds in the country, and he had put his laboratory in Mountain View because his mother lived there.
+That is the reason. He had grown up in Palo Alto, his widowed mother was still there, and when he decided in 1955 to leave Bell Laboratories and start a company to commercialise the transistor, he put it in the town he came from. Beckman Instruments financed it. Shockley Semiconductor Laboratory opened in 1956 (`books/cardinal/ch/4-02-shockley-and-the-eight.qmd`).
 
-Noyce had no particular reason to come to California except that Shockley asked.
+Robert Noyce was among the recruits. He had come from Grinnell and MIT — twenty-nine years old in 1956, with a family and a job offer from the most famous person in the field. He had no particular reason to move to a California town with no semiconductor industry except that Shockley asked. People who had no particular reason to move moved because he asked.
+
+The world's semiconductor industry sits on the San Francisco Peninsula in substantial part because of that decision, and it is worth letting the contingency sit before explaining what made it stick.
 
 ## Why anyone came
 
 Shockley in 1956 had standing that is hard to overstate.
 
-He had co-invented the transistor at Bell Labs, and the three of them shared the Nobel Prize in Physics that year. More to the point, his book was the field's standard text, and the junction transistor design that made commercial devices practical was substantially his.
+He had co-invented the transistor at Bell Labs with John Bardeen and Walter Brattain, and the three of them shared the Nobel Prize in Physics that year. More to the point, his book *Electrons and Holes in Semiconductors* was the field's standard text, and the junction transistor design that made commercial devices practical was substantially his.
 
-He was, in short, the most famous person in the most promising field in electronics, and he was recruiting. He went after the best young physicists and engineers he could identify, and he got them: people who had no particular reason to move to a California town with no semiconductor industry, and who moved because he asked.
+He was, in short, the most famous person in the most promising field in electronics, and he was recruiting. He went after the best young physicists and engineers he could identify, and he got them.
 
-The concentration of talent he assembled in one building in 1956 was extraordinary, and there was nothing like it west of New Jersey.
+The concentration of talent he assembled in one building in 1956 was extraordinary, and there was nothing like it west of New Jersey. Julius Blank, Victor Grinich, Jean Hoerni, Eugene Kleiner, Jay Last, Gordon Moore, Robert Noyce, and Sheldon Roberts were not yet the Traitorous Eight. They were employees who had moved across the country because Shockley asked.
 
-Beckman Instruments financed the venture. Shockley Semiconductor Laboratory opened in 1956.
+Harris records what Shockley would later call them: a team he tarred as “the traitorous eight” (Harris 2023, ch. 3.2). In 1956 the label did not exist yet. The science did.
 
-The world's semiconductor industry sits on the San Francisco Peninsula in substantial part because of that decision, and it is worth letting the contingency sit before explaining what made it stick.
+## The peninsula around the building
 
-William Shockley located his semiconductor laboratory in Mountain View because his mother lived there.
+Shockley's laboratory was not on Stanford land. It did not need to be.
 
-That is the reason. He had grown up in Palo Alto, his widowed mother was still there, and when he decided in 1955 to leave Bell Laboratories and start a company to commercialise the transistor, he put it in the town he came from.
-<!-- kyle: ch/4-02-shockley-and-the-eight.qmd -->
+By 1956 the industrial park along Page Mill Road was five years old. Varian was on university ground lease. Hewlett-Packard was moving toward the park from rented premises. Terman's Honors Cooperative Program, begun in 1954, was turning member companies into permanent partners in graduate education. Lockheed Missiles and Space Division was opening in Sunnyvale beside Moffett Field the same year Shockley hired in Mountain View (`books/cardinal/ch/4-01-termans-garden.qmd`; `books/cardinal/ch/4-04-defense-corridor.qmd`).
 
-## The park next door
+Federal microwave money had trained faculty who trained Shockley's hires. The Peninsula was dense with engineers because the university had decided to stop exporting them. Noyce arrived into an ecosystem the lease and the steeples had already thickened — orchards coming down for subdivisions, missile budgets hiring beside airship-era runways, ground rent flowing to a campus that could not sell its dirt.
 
-Shockley's building was not on Stanford land, but it sat inside the ecosystem the lease had built. Terman's graduates staffed HP and Varian down the road. Federal microwave money had trained the faculty who trained Shockley's hires. The Peninsula was dense with engineers because the university had decided to stop exporting them.
+Shockley brought talent. The map had already been prepared to receive it.
 
-Noyce rented a house, unpacked his oscilloscope, and went to work on silicon transistors while Shockley pushed a four-layer diode of his own design.
+## Silicon, not germanium
+
+One technical decision from this period deserves recording, because the region is named after it.
+
+Transistors in the early 1950s were made from germanium, which is easier to work and performs well at low temperatures. Shockley's laboratory was set up to make silicon devices, and silicon is harder: it melts at a much higher temperature, it is more difficult to purify, and the fabrication problems were unsolved in 1956.
+
+Silicon's advantages are that it tolerates heat, which matters for military and industrial applications, that it is abundant, and — decisively, though this was not fully appreciated when Noyce arrived — that its oxide is a stable insulator that can be grown directly on the surface of the wafer. That property is what makes the planar process of the next chapter possible, and it has no equivalent in germanium (`books/cardinal/ch/4-02-shockley-and-the-eight.qmd`).
+
+Shockley chose the harder material and was right about it, which is worth saying in a chapter otherwise concerned with his failures. His company did not commercialise the advantage. The men who left did, and the material they were working with gave the region a name that a trade journalist would put into print in 1971.
+
+Noyce and his colleagues worked silicon while Shockley pushed a four-layer diode of his own design over their objections. The market wanted what they wanted. Shockley wanted what Shockley wanted.
 
 ## The management
 
 He was also, by every surviving account, a catastrophic manager.
 
-He posted salaries. He ranked his staff publicly. He required a lie detector test after a minor workplace injury, on the theory that someone had sabotaged the equipment. He recorded conversations. He telephoned people's former colleagues to check their accounts of ordinary technical disagreements. He changed the company's technical direction away from silicon transistors toward a four-layer diode of his own design, over the objections of staff who thought the transistor was where the market was, and they were right.
+He posted salaries. He ranked his staff publicly. He required a lie detector test after a minor workplace injury, on the theory that someone had sabotaged the equipment. He recorded conversations. He telephoned people's former colleagues to check their accounts of ordinary technical disagreements. He changed the company's technical direction away from silicon transistors toward a four-layer diode of his own design, over the objections of staff who thought the transistor was where the market was, and they were right (`books/cardinal/ch/4-02-shockley-and-the-eight.qmd`).
 
-By the summer of 1957 a group of them had decided to leave.
+The management style was not a footnote to the science. It was the reason the science walked out. Semiconductor fabrication in the late 1950s required collaborative iteration — shared yields, shared failures, shared credit when a wafer finally held. Public salary rankings and lie-detector tests are incompatible with that culture. Shockley treated brilliant employees like untrusted subordinates in a war room he had once run successfully for the Navy. The war room methods did not transfer.
 
-Noyce was among them. He had come for the science. He stayed for less than two years.
+By the summer of 1957 a group of them had decided to leave. Noyce had come for the science. He would stay less than two years.
 
-## Shockley's line
+This chapter stops before September, when eight men resign on the same day. It records the arrival: a Nobel laureate's standing, a mother's address, a peninsula already organised for defense procurement and university ground rent.
 
-Shockley would later tar the men who left as “the traitorous eight” (Harris 2023, ch. 3.2). The label was meant as punishment. It became an origin story.
+## Why New Jersey did not win
+
+Before the walkout, the important comparison is Route 128.
+
+Boston's semiconductor and electronics cluster had Bell Labs' alumni, MIT and Harvard graduates, and the same federal defence budgets Shockley's staff would sell into once they incorporated Fairchild. What Boston did not have, in 1957, was California's refusal to enforce non-competes and the Peninsula's density — a new firm could recruit from an old one without litigation, school changes, or a house sale (`books/cardinal/ch/4-02-shockley-and-the-eight.qmd`).
+
+Shockley's decision to locate in Mountain View for his mother's sake therefore mattered twice. It placed the talent on the west coast. It placed the talent in the one American jurisdiction where exit was cheapest when the manager became unbearable. The Nobel laureate brought the brains. California law would let the brains leave.
+
+## The company's fate, named early
+
+Shockley Semiconductor Laboratory would not become Fairchild. It would not become Intel. It would become a cautionary tale Beckman financed and Shockley mis-managed until the eight men who mattered were gone (`books/cardinal/ch/4-02-shockley-and-the-eight.qmd`).
+
+That outcome was not visible in 1956 when the laboratory opened. It was visible by the summer of 1957 to anyone paying attention to the salary lists on the wall. The region's reproductive mechanism — spinoff, not steady employment under a genius — was already forming in grievance before it formed in articles of incorporation.
 
 ## The excluded, named as absent
 
-The semiconductor workforce in 1956 is small, credentialed, and male. The chapter says so plainly. The cost arrives in the next decade, on the fabrication lines and in offshore assembly plants.
+The chapter should say plainly that at this stage there is almost no excluded class in the semiconductor story, because saying so makes the later chapters land harder.
 
-Shockley's later career as a public advocate of eugenic argument places him directly in the line running from David Starr Jordan on the Stanford campus — the same claim, the same sorting vocabulary, a different discipline, fifty years apart.
+The semiconductor workforce in 1957 is small, credentialed, overwhelmingly male, and very well paid. The eight men who would leave Shockley were physicists and engineers with doctorates and options. Nothing about their situation in 1956 involves anyone bearing a cost on their behalf (`books/cardinal/ch/4-02-shockley-and-the-eight.qmd`).
 
-## Noyce at the bench
+That changes within six years, when Fairchild opens an assembly operation in Hong Kong, and it changes on domestic fabrication lines at the same time, where the workforce was substantially women doing precise repetitive work with solvents and acids. The next chapter is where that ledger opens. East Palo Alto across the creek is where housing exclusion already filters who can commute to the jobs Lockheed and the park are creating.
 
-In the winter of 1956 Noyce worked in a building where the founder's paranoia was already audible in the hallway. He had not yet invented the integrated circuit. He had not yet walked out with Gordon Moore and six others. He was an employee in a town chosen for motherhood, on a peninsula where the university was landlord to the companies that would buy his chips when he made them.
+## Shockley's line to Jordan
 
-The orchards were coming down for subdivisions. Lockheed was hiring in Sunnyvale. The lease on Page Mill Road was eight years old.
+Shockley's later public life is not yet visible in 1956, but the line is already on the campus three miles away.
 
-Shockley had brought the talent. He was about to demonstrate what the region did with talent when the talent refused to be managed.
+He became a professor of engineering at Stanford in 1963. From the mid-1960s he devoted his public life to arguing that intelligence was substantially hereditary, that it varied by race, and that the resulting differential reproduction constituted a national crisis — a position he advanced in lectures, in interviews, and in proposals for voluntary sterilisation incentives. He was protested and disinvited and kept going, and he regarded this work as more important than the transistor (`books/cardinal/ch/4-02-shockley-and-the-eight.qmd`).
 
-Noyce tightened a probe on a wafer and listened to Shockley explain, again, why his diode mattered more than silicon. The answer, when it came, would not be in the lab. It would be in a banker's office in San Francisco, with eight signatures on a letter asking for a company nobody yet wanted to fund.
+Place him next to David Starr Jordan from Episode 5 and Lewis Terman on the same campus, and the line is unbroken: three Stanford figures, across seventy years, in three different disciplines, arriving at the same claim that human quality is heritable and should govern policy.
 
-## Beckman and the laboratory
+The transistor and the sorting argument came out of the same county. The industry has kept one and forgotten the other, which is itself worth noticing.
 
-Beckman Instruments financed Shockley's venture. Shockley Semiconductor Laboratory opened in 1956 with the standing of a Nobel laureate and the field's standard textbook behind him. He posted salaries. He ranked his staff publicly. He required a lie detector test after a minor workplace injury. He recorded conversations. He telephoned people's former colleagues to check their accounts of ordinary technical disagreements.
+## California before the walkout
 
-He changed the company's technical direction away from silicon transistors toward a four-layer diode of his own design, over the objections of staff who thought the transistor was where the market was, and they were right.
+Three features of the place would make the 1957 departure repeatable — legal, geographic, financial — and they were already present while Noyce was still an employee.
 
-## The concentration
+California does not enforce non-compete agreements in employment contracts, a position that goes back to the state's original civil code in 1872 and has held ever since. An engineer in Massachusetts who left a firm to found a competitor could expect litigation. An engineer in California could not. Route 128 around Boston had comparable talent, comparable universities, and comparable federal money in 1957, and it did not produce the same fan-out (`books/cardinal/ch/4-02-shockley-and-the-eight.qmd`).
 
-The concentration of talent he assembled in one building in 1956 was extraordinary, and there was nothing like it west of New Jersey. Julius Blank, Victor Grinich, Jean Hoerni, Eugene Kleiner, Jay Last, Gordon Moore, Robert Noyce, and Sheldon Roberts were not yet the Traitorous Eight. They were employees who had moved across the country because Shockley asked.
+The Peninsula is dense. A new firm could recruit from an old one without anyone changing schools or selling a house, which lowers the personal cost of leaving.
 
-## Nobody excluded, yet
+The third feature — capital designed to fund people rather than assets — barely existed yet in 1956. Arthur Rock has not answered the Hayden, Stone letter. Fairchild Camera and Instrument has not agreed to back eight men who have never managed anything. The walkout is still a summer conversation in a building Shockley chose for his mother.
 
-The semiconductor workforce in 1956 is small, credentialed, and male. The chapter says so plainly. The cost arrives in the next decade, on the fabrication lines and in offshore assembly plants. Shockley's later career as a public advocate of eugenic argument places him directly in the line running from David Starr Jordan on the Stanford campus — the same claim, the same sorting vocabulary, a different discipline, fifty years apart.
+## Beckman's bet
 
-## The peninsula in 1956
+Arnold Beckman's Beckman Instruments financed Shockley's venture. Beckman had built a successful instrument company on the chemistry-automation side of the postwar economy; he was betting that the transistor's commercial future required a laboratory led by the man who had co-invented it, not by a committee in New Jersey.
 
-HP was already a tenant of the university's ambitions if not yet of the park's long lease on Page Mill. Varian's klystrons fed radar budgets. Lockheed was hiring beside Moffett Field. Terman's steeples were visible in microwave hiring and in the cooperative programme that would start in 1954.
+The financing mattered because semiconductor fabrication in 1956 required capital equipment, clean handling, and patience — none of which a group of young physicists could supply from salaries alone. Beckman put his name behind Shockley's ego. The ego would spend it on silicon, on lie detectors, and on a four-layer diode the staff did not want to build.
 
-Shockley did not need the industrial park to exist. He needed talent dense enough to recruit and a mother in Palo Alto. He got both. Noyce got a lesson in what not to do when he led Intel a decade later.
+## Gordon Moore in the same building
 
-The orchards came down. The eight would walk out. The name Shockley gave them would become a badge. The county's largest payroll would still belong to a missile division the origin story prefers to forget.
+Gordon Moore was another recruit — a chemist turned semiconductor physicist who would later plot component density against time and give the industry a coordination device masquerading as a natural law. In 1956 he was an employee sharing Shockley's roof with Noyce, Hoerni, Kleiner, and the others who would walk out together.
 
-## Why anyone came, again
+The concentration was not only intellectual. It was social. Eight men who would incorporate Fairchild in October 1957 were already eating lunch in the same cafeteria, comparing notes on a manager who ranked them in public, and on a material — silicon — that military customers would soon pay any price to buy once Fairchild made it manufacturable.
 
-Shockley in 1956 had co-invented the transistor at Bell Labs with Bardeen and Brattain. His book *Electrons and Holes in Semiconductors* was the field's standard text. The junction transistor design that made commercial devices practical was substantially his. He recruited people who had no particular reason to move to a California town with no semiconductor industry, and who moved because he asked.
+## Shockley's war, briefly
 
-Beckman Instruments financed the venture. The laboratory opened in 1956 in Mountain View — not on Stanford land, but inside the ecosystem the university's leases and steeples had thickened.
+Shockley was not new to federal problem-solving. During the Second World War his operations-research work on anti-submarine tactics had reportedly raised the success rate of attacks fivefold (Harris 2023, ch. 2.4). The Peninsula he returned to after Bell Labs was already reorganised for another kind of federal problem: missiles beside Moffett Field, microwave steeples on campus, ground leases on Page Mill.
 
-## Noyce arrives
+The same government that had funded Terman's Harvard laboratory and Lockheed's Sunnyvale plant was the implicit customer behind the devices Shockley's staff wanted to build in silicon. The manager was the variable. The customer was not going away.
 
-Robert Noyce had come from Grinnell and MIT. He was twenty-nine in 1956 with a family and a job offer from the most famous person in the field. He was one of the recruits Shockley assembled in one building in Mountain View — people who had no particular reason to move to a California town with no semiconductor industry, and who moved because he asked (`books/cardinal/ch/4-02-shockley-and-the-eight.qmd`).
+## After the walkout, foreshadowed
 
-The chapter does not yet tell the departure. It tells the arrival: a Nobel laureate's standing, a mother's address, a peninsula already thick with defense money, university leases, and engineers trained on the same campus that had ranked their parents' generation on test sheets.
+His company never recovered from the 1957 departures and was sold, resold, and eventually closed (`books/cardinal/ch/4-02-shockley-and-the-eight.qmd`). Shockley became a professor of engineering at Stanford in 1963 and, from the mid-1960s onward, devoted his public life to hereditarian argument — protested, disinvited, and persistent.
 
-## Management by suspicion
+None of that is visible to Noyce in 1956. What is visible is a Nobel portrait on the wall and a technical argument about diodes that the market will settle in the next chapter.
 
-He was also, by every surviving account, a catastrophic manager.
+## The eight named
 
-He posted salaries. He ranked his staff publicly. He required a lie detector test after a minor workplace injury, on the theory that someone had sabotaged the equipment. He recorded conversations. He telephoned people's former colleagues to check their accounts of ordinary technical disagreements. He changed the company's technical direction away from silicon transistors toward a four-layer diode of his own design, over the objections of staff who thought the transistor was where the market was, and they were right (`books/cardinal/ch/4-02-shockley-and-the-eight.qmd`).
+The men in the building in 1956 included Julius Blank, Victor Grinich, Jean Hoerni, Eugene Kleiner, Jay Last, Gordon Moore, Robert Noyce, and Sheldon Roberts — the same eight who would resign together in September 1957 and incorporate Fairchild Semiconductor in October (`books/cardinal/ch/4-02-shockley-and-the-eight.qmd`).
 
-By the summer of 1957 a group of them had decided to leave. This chapter stops before September. The county has already chosen missiles over orchards. Shockley brought the transistor west because his mother lived in Palo Alto.
+They did not yet plan a company. They planned to survive Shockley long enough to work on silicon transistors someone would actually buy. Eugene Kleiner's father's contact at Hayden, Stone would matter only after the walkout. In 1956 the relevant fact was simpler: the best semiconductor minds west of New Jersey were in one room, and the man in charge was posting their salaries on a wall.
 
-## Line to Jordan
+## Edge of the scene
 
-Shockley's later public advocacy of eugenic argument places him directly in the line running from David Starr Jordan in Act II — the same claim about heredity and leadership, the same campus, a different discipline, fifty years apart (Harris 2023, ch. 3.2). The solid-state device was new. The sorting vocabulary was not.
+Fairchild Semiconductor does not exist yet. Intel does not exist. Arthur Rock has not flown west. The traitorous eight are still employees with mortgages and babies in a town chosen for motherhood.
 
-## What Mountain View already had
+September belongs to the next chapter. April 1969 belongs to the last. Between them sit spinoffs, Minuteman and Apollo budgets buying chips, a creek that sorts housing, and a poster that will read “Strike Against the Stanford Empire.”
 
-Mountain View in 1956 sat between a university that could not sell eight thousand acres and was beginning to lease them, and a missile division that would open in Sunnyvale the same year. Hewlett-Packard was moving toward the industrial park. Varian was already on Page Mill Road. Terman's steeples were visible in hiring and in ground leases.
+Shockley had brought the talent. He was about to demonstrate what the region did with talent when the talent refused to be managed — and what California law, California density, and a banker named Rock would do with eight signatures once the door closed behind them.
 
-Shockley Semiconductor Laboratory was not on Stanford land. It did not need to be. The ecosystem was already dense enough that talent, capital, and federal procurement could meet in a town chosen for a widow's address.
+## Contingency, restated
 
-Fairchild Semiconductor does not exist yet in this chapter. Arthur Rock has not flown out from Hayden, Stone. The men who will be called the Traitorous Eight are still employees. Shockley has not yet given them the name they will wear as a badge.
+Mountain View because of his mother. Silicon because of the military market. Fairchild because of California non-competes and Arthur Rock. Intel because Fairchild would fission again. The semiconductor industry's geography is a chain of contingencies that look like destiny only after the payroll arrives.
 
-September belongs to the next chapter. April 1969 belongs to the last. Between them sit spinoffs, Minuteman budgets, a creek that sorts housing, and a poster that will read “Strike Against the Stanford Empire.”
+In 1956 only the first link is visible: a Nobel laureate recruiting in the town where he grew up, on a peninsula already leased, already militarised, already trained by a university that ranked human beings on test sheets and street names. Noyce and Moore are in the building. The traitorous eight are still a compliment Shockley has not yet spoken. The county's largest employer is pouring concrete in Sunnyvale. The creek between Palo Alto and East Palo Alto is still drawing a border the park will not acknowledge on any ground lease.
+
+The chapter ends where the next one begins: with eight men who have not yet resigned, and a manager who will give them the name they will wear as a badge.

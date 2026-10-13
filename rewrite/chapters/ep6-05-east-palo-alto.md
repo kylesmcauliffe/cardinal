@@ -46,7 +46,7 @@ By the time the industrial park signed its second decade of leases, that transfe
 
 ## Lockheed's parking lots
 
-Lockheed Missiles and Space Division opened in Sunnyvale in 1956 and grew on Polaris and classified satellite work until it was, by a wide margin, the largest industrial employer in Santa Clara County for much of the 1960s (`books/cardinal/ch/4-04-defense-corridor.qmd`). [TK: Lockheed Sunnyvale peak employment figure — Leslie or county primary source]
+Lockheed Missiles and Space Division opened in Sunnyvale in 1956 and grew on Polaris and classified satellite work until employment reached the tens of thousands — by a wide margin the largest industrial employer in Santa Clara County for much of the 1960s and 1970s, with more Valley jobs than Hewlett-Packard and Fairchild combined for years (`books/cardinal/ch/4-04-defense-corridor.qmd`).
 
 The jobs were not all engineering degrees. They were machining, assembly, security, janitorial, cafeteria, and bus routes at dawn. They were also, for many workers, jobs without access to the appreciation curve on the Palo Alto side of the creek. The park's private-sector face sat on a public-sector income stream; the county's payroll sat on a housing map drawn before either sector arrived.
 
@@ -123,3 +123,35 @@ The rebellion changes letterhead. The map changes more slowly, if at all.
 East Palo Alto beside the Stanford Research Park: the same sunlight, different appreciation curves, different schools, different police contracts (Harris 2023, ch. 3.1). The industrial park's labour force was filtered by residence before it was filtered by hiring. That sentence is Harris's. The view from the freeway is anyone's who drives south on 101.
 
 The operating system runs landlord, talent, research partner, legitimacy anchor. The fifth condition — who may live within commute distance — was written in deeds and maps before Varian signed. The poster in 1969 will say empire. The creek already drew the border.
+
+## Berkeley could not lease
+
+The comparison that clarifies Stanford's advantage is thirty miles north. Berkeley in 1951 was the stronger research university by most measures — Radiation Laboratory pedigree, Manhattan Project names, larger federal grants (`books/cardinal/ch/4-01-termans-garden.qmd`). Berkeley did not build an industrial park on unsellable acreage. It could not have leased public land to private companies on preferential terms without a fight it would have lost; its faculty consulting and spin-out arrangements were more restricted.
+
+Stanford was private, governed by a self-perpetuating board, and sitting on eight thousand contiguous acres the Founding Grant forbade selling. The memorial clause written for a grieving father in 1885 became, in the 1950s, the legal basis for ground leases that filtered who could work near Page Mill and who could afford to live within commute distance of those jobs.
+
+East Palo Alto's residents were on the wrong side of that geometry before Shockley hired Noyce.
+
+## Tax base and schools
+
+Property tax funds schools. Schools feed universities. Universities lease land to companies that hire engineers. Engineers buy houses where lenders and realtors will sell to them (`books/cardinal/ch/4-01-termans-garden.qmd`). Harris places East Palo Alto's racial and economic split beside the first industrial park lease because the coupling is not metaphorical: different tax bases, different schools, no access to the housing appreciation happening a mile away (Harris 2023, ch. 3.1).
+
+The Honors Cooperative Program educated company engineers part-time while employed, with employers paying fees — but only employees within commuting distance benefited, and commuting distance was sorted by covenants and lenders before HR posted openings (`books/cardinal/ch/4-01-termans-garden.qmd`).
+
+## 9066 and the 1950s market
+
+Japanese American incarceration in 1942 transferred farmland in Santa Clara County at distress prices. Families returning after the war often could not recover property (`books/cardinal/ch/3-09-total-war-filter.qmd`; Harris 2023, ch. 2.4). The 1950s housing market East Palo Alto's Black residents entered was already shaped by removal, redlining, and covenant language the Supreme Court would not enforce after 1948 but deeds still carried.
+
+Shockley and Fairchild chapters tell a story about genius and exit. This chapter tells a story about who could afford to stay near the genius's parking lot.
+
+## Lockheed shifts and bus routes
+
+Lockheed's tens of thousands of Sunnyvale jobs — more than Hewlett-Packard and Fairchild combined for years — required assemblers, technicians, janitors, and cafeteria workers who did not appear in semiconductor legend (`books/cardinal/ch/4-04-defense-corridor.qmd`). Many could not buy in Palo Alto. Many lived across the freeway in East Palo Alto or farther east, riding buses past Stanford's gates toward suppliers whose names never appeared on brochures.
+
+The industrial park collected ground rent from tenants selling into missile budgets. East Palo Alto collected property tax into schools that did not feed the cooperative programme pipeline. Same county. Same sunlight. Different appreciation curves.
+
+## Poster foreshadowed
+
+“Strike Against the Stanford Empire” (Harris 2023, Section III frontispiece) will hang on a wall in 1969. The empire in 1954 is already visible in lease checks, covenant deeds, and FHA map colors — not yet in a slogan, but in who crosses the creek before dawn for a shift Lockheed posted and who signs a ground lease on Page Mill before lunch.
+
+The April Third Movement will speak from inside the university. This chapter is the geography outside the lease: who the park priced out before the poster went up, and who still rides the bus when the occupation ends and SRI sells itself to itself.

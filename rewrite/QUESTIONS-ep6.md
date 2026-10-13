@@ -30,6 +30,12 @@
 
 - `ep6-05-east-palo-alto.md` uses Harris ch. 3.1 and `ch/4-01` only — no composite family POV (per `EXCLUDED.md`).
 
+## Resolved in polish pass (Oct 2026)
+
+- Lockheed employment: “tens of thousands,” more than HP + Fairchild (`ch/4-04`).
+- Minuteman / Apollo early IC customers (`ch/4-03`).
+- Levine SRI chemical warfare + Engelbart juxtaposition (exact quote in `notes/Levine-Surveillance-Valley.md`).
+
 ## Open / [TK]
 
 - [TK: Lockheed Sunnyvale headcount by year — Leslie or company history; ledger marks NEEDS SOURCE]
