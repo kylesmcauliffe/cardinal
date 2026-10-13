@@ -108,3 +108,20 @@ Ebook full text is NOT in the repo. Only short quotes are, in `rewrite/notes/`. 
 ## Exclusions
 - Leave out all fiction and creative-exercise material. That includes anything involving "Trinity" as a character or voice, the epilogue's invented "traveller," and any invented scene, dialogue or composite.
 - See `rewrite/EXCLUDED.md`. Add anything new you find there; never delete it from the original files.
+
+## Characters: the legend vs. the person (north star)
+The model is Ambrose on Lincoln: you think you know the figure, and the story reveals the real person.
+- Reveal every major character through **specific, sourced moments, choices and private words**: letters, diaries, testimony. This covers Leland and Jane Stanford, Huntington, Crocker, Jordan, Hoover, Lewis and Fred Terman, Shockley, the founders, Thiel and Musk.
+- **Track what repeats**: habits, recurring behaviors, memories a person kept returning to, and stories others kept telling about them. Use these as **motifs** that recur across chapters and episodes. Leads from the notes:
+  - Jane's Florence grief and her spiritualism;
+  - Stanford's horses and photographs;
+  - Huntington's letters to his brother;
+  - Hoover the orphan adopted by Branner and the university;
+  - the Termans, father and son, ranking people;
+  - Shockley's "traitorous eight";
+  - Musk's "two days" at Stanford story.
+- **Each major character gets at least one scene that complicates the legend**, sourced. Examples:
+  - The humanitarian Hoover's "notably bad" mine air (Whyte).
+  - Jane, the grieving mother, as the executive who ran the university in probate and fired Ross (White-J).
+  - The heroic Promontory swing that missed (Ambrose).
+- Log each character's motifs and their complicating scene in `QUESTIONS-epN.md` under a "Characters" heading. Recurring characters must be consistent across episodes (see GLOSSARY.md).
