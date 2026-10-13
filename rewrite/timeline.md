@@ -1,0 +1,90 @@
+# Cardinal — Master Timeline
+*Every entry is in date order and has a source. ★ DEEP CUT marks a cross-book connection, irony or recurring person. "Contested" marks facts in dispute, which the narrator states in one sentence.*
+
+- **1769, Nov.** Portolá expedition names the redwood El Palo Alto. (Harris, intro)
+- **1777.** Mission Santa Clara founded. (repo ch 2-01; Madley)
+- **1839.** Rancho San Francisquito granted. (repo ch 2-04)
+- **1848, Jan 24 / Feb 2.** Gold at Coloma; the Treaty of Guadalupe Hidalgo is signed nine days later. (repo ch 2-05)
+- **1849.** Huntington stranded in Panama: "eight to ten deaths a day." (Rayner ch 2)
+- **1856.** San Francisco Vigilance Committee, Fort Gunnybags. (repo ch 2-07)
+- **1860, Nov 9.** Judah: "I have struck a lucky streak." (Rayner, notes ch 3)
+- **1861.** Stanford elected governor. (Rayner)
+- **1862, Jul 1.** Pacific Railway Act. (senate.gov; Ambrose)
+- **1867, late May.** Chinese workers' strike at the Sierra summit; Crocker cuts off provisions. (Ambrose ch 11; Chang ch 7)
+  - ★ DEEP CUT: Stanford himself relayed the warning about Chinese unhappiness to Huntington weeks earlier (Chang ch 7).
+- **1869, Apr 28.** Ten miles of track in one day, won on a $10,000 bet. (Ambrose ch 16)
+- **1869, May 10.** Promontory: Stanford "swung and missed." (Ambrose ch 17)
+- **1872–78.** Muybridge photographs Stanford's horses. In between, in 1874, he killed his wife's lover; Stanford rehired him in 1876. (Harris ch 1.3)
+  - ★ DEEP CUT: the man who invents cinema on the Stanford farm had just killed a man.
+- **1877.** Kearney's Workingmen march on Stanford's Nob Hill mansion. (Harris ch 1.2; White-R ch 7)
+- **1878, Mar 28.** Mark Hopkins dies in his rail car at Yuma. (Rayner ch 12)
+- **1880, May 11.** Mussel Slough. (Rayner ch 13)
+- **1882.** Chinese Exclusion Act. (repo ch 2-11)
+- **1884, Mar 13.** Leland Jr. dies in Florence. (Harris ch 1.3)
+- **1885.** Founding grant of the university. (repo ch 2-12)
+- **1886.** *Santa Clara County v. Southern Pacific*: J. C. Bancroft Davis's inaccurate headnote treats corporations as persons. (Winkler ch 4)
+  - ★ DEEP CUT: Davis had been president of the Newburgh and New York Railway (Winkler ch 4).
+- **1890.** The Stanfords travel to Bloomington to recruit David Starr Jordan. (Miller ch 4)
+- **1891, Oct 1.** Opening day; Herbert Hoover is in the pioneer class. (Harris ch 2.3)
+- **1893, Jun.** Leland Stanford dies; the estate is frozen and Jane funds the university. (White-J)
+- **1894–95.** Hoover meets Lou Henry in Branner's geology lab. (Whyte ch 2, p. 43)
+  - ★ DEEP CUT: Branner had earlier paid Hoover's typhoid bills (Harris ch 2.3).
+- **1897–1908.** Hoover in Western Australia; his Sons of Gwalia mine has air "notably bad." (Whyte ch 5, p. 100)
+- **1900, May 7–Nov 14.** The Ross affair. Jane wants Ross out over speeches including "Warning Against Coolie 'Natives' and Japanese." Jordan tells Howard to "keep still." (White-J ch 16–17, p. 101)
+  - ★ DEEP CUT: the railroad that ran on Chinese labor costs a professor his job for attacking it.
+- **1905, Jan 14.** Strychnine in Jane's Poland Spring water. (White-J ch 28; Miller ch 9)
+- **1905, Feb 28.** Jane dies at the Moana Hotel: "This a horrible death to die." (White-J ch 29, p. 173)
+- **1905, Mar.** The inquest finds strychnine poisoning. Jordan sails to Honolulu and backs "natural causes." (White-J ch 36–38, pp. 208–217; Miller ch 9) Contested.
+  - ★ DEEP CUT: the president of the university controls the narrative of its founder's death.
+- **1905, Mar 15.** Jordan leaves Honolulu with the body; "Tay Wang" writes to him. (White-J ch 43, p. 248)
+- **1906, Apr 18.** Earthquake; the Memorial Church spire falls. (Harris ch 2.1)
+- **1912.** Hoover joins the Stanford board of trustees. (Whyte ch 6, p. 124)
+- **1916.** Lewis Terman publishes the Stanford–Binet IQ test. (Harris ch 2.2; Stern)
+  - ★ DEEP CUT: his son Fred becomes the "father of Silicon Valley" (Harris ch 2.4).
+- **1919.** Hoover War Library founded. (repo ch 3-05; Whyte)
+- **1929–33.** Hoover's presidency. (Whyte)
+- **1939.** HP in the Addison Ave garage. (repo ch 4-01)
+- **1942.** Japanese American internment on the Peninsula. (Harris ch 2.4)
+- **WWII.** Shockley's operations research raises successful anti-submarine attacks fivefold. (Harris ch 2.4)
+- **1953.** First Stanford Industrial Park lease goes to Varian; Terman is an investor and board member. (Harris ch 3.1)
+- **1955–56.** Lockheed moves its missiles division to Sunnyvale. (Harris ch 3.1)
+- **1956–57.** Shockley Semiconductor, then the "traitorous eight." (Harris ch 3.2)
+  - ★ DEEP CUT: Shockley's later eugenics echoes Lewis Terman's (Harris ch 2.2/3.2).
+- **1968, Dec 9.** Engelbart's demo at SRI, while SRI does ARPA chemical-warfare contract work. (Levine; Fisher)
+  - ★ DEEP CUT
+- **1969, Apr 3.** April Third Movement occupies the Applied Electronics Lab. (Harris §III; NYT 1969)
+- **1970s.** Bechtel recruits Shultz, who rises to company president within a year. (McCartney ch 14)
+- **1972.** Kleiner & Perkins starts at 3000 Sand Hill Road. (Berlin ch 15)
+- **1974.** Reimers files the Cohen–Boyer recombinant-DNA patent for Stanford. (Berlin pt 3)
+- **1976.** Genentech; Swanson, fired from Kleiner, co-founds it. (Berlin ch 15)
+- **1980.** Bayh–Dole Act. (Berlin ch 19; Harris ch 4.2)
+- **1981–82.** Reagan cabinet: Weinberger (Defense) and Shultz (State), both ex-Bechtel. (Denton chs 24, 35; McCartney)
+  - ★ DEEP CUT
+- **1987.** Thiel founds the *Stanford Review*. (Chafkin ch 2, p. 24)
+- **1995.** Musk enrolls in Stanford and leaves "after two days," as the story goes. (Vance)
+- **1997, Jan.** Page's Excite pitch for BackRub includes "$300,000 to Stanford for the license." (Levy ch 1)
+- **1998.** Google in the Santa Margarita Ave. garage at $1,700/month. (Levy ch 1)
+- **1999–2002.** X.com / PayPal in Palo Alto. (Soni)
+- **2003–04.** Palantir is named for the "seeing stone." (Chafkin ch 8, p. 113)
+- **2008.** Sequoia hires two investors from the Stanford endowment. (Mallaby ch 13, p. 334)
+  - ★ DEEP CUT
+- **2015–18.** Theranos collapses; its money came mostly from outside Sand Hill. (Mallaby ch 14, p. 340)
+- **2016–18.** Cambridge Analytica. (Wylie)
+- **2022, Nov.–2023, Jul.** Theo Baker's *Daily* reporting; Tessier-Lavigne resigns. (Baker ch 4, p. 94; stanford-special-committee-2023)
+- **2025, Jan 20.** Second Trump inauguration with tech founders present; then DOGE. (Siddiqui; press coverage, still needs a source)
+- **Recurring people:** Stanford (Eps 2–4); Huntington (2–3); Jordan (4–5); Hoover (4–8, via the Hoover Institution); Terman father and son (5–6); Shultz (Chicago business-school dean → Bechtel → State → Hoover Institution at Stanford); Thiel (7–8); Musk (7–8).
+
+## Needs-a-source list: status
+- **Michigan Bluff "500% markups":** not found in Harris, Rayner, White-R or Chang. **CUT.**
+- **Bancroft Davis headnote:** **SOURCED** (Winkler ch 4 plus the chronology).
+- **Crespí / El Palo Alto naming:** **SOURCED** at the secondary level (Harris, intro). For the primary source, Crespí's diary, keep the source to be identified (TBD).
+- **Soto rancho diseño:** not found in the EPUBs. **Primary needed** (Bancroft Library); otherwise **CUT** the image and keep the grant.
+- **Kearney sandlot:** **SOURCED** (Harris ch 1.2; White-R ch 7).
+- **2025 inauguration seating:** not in the EPUBs (Siddiqui runs to early 2025). **Primary needed** (news photos, Jan 20, 2025).
+- **Hoover archive crate:** partly sourced (Whyte, Hoover Institution context). Find the specific Whyte chapter on the War Library.
+- **Sons of Gwalia:** **SOURCED** (Whyte ch 5, p. 100).
+- **Lockheed / Sunnyvale:** **SOURCED** (Harris ch 3.1). For the Minuteman program, use Leslie (not in Drive).
+- **Shultz / Weinberger "Bechtel cabinet":** **SOURCED** from two books (Denton, McCartney).
+- **Bohemian Grove:** two sources (Denton, McCartney). Allowed as a detail only.
+- **Remote viewing (Jacobsen):** **CUT.**
+- **Facebook scenes:** the Levy MOBI isn't converted yet (calibre not installed). Use the FTC 2019 report meanwhile.
