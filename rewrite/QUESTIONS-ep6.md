@@ -26,6 +26,10 @@
 9. SRI history calls student claims “usually unfounded,” CW work “almost exclusively defensive” — cite as institutional position only (`ch/4-07` source note).
 10. Police tear gas 16 May 1969 protesting divestment; ~$800k contracts moved AEL → SRI (`ch/4-07`).
 
+## Notes on drafting
+
+- `ep6-05-east-palo-alto.md` uses Harris ch. 3.1 and `ch/4-01` only — no composite family POV (per `EXCLUDED.md`).
+
 ## Open / [TK]
 
 - [TK: Lockheed Sunnyvale headcount by year — Leslie or company history; ledger marks NEEDS SOURCE]

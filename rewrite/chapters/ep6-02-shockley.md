@@ -93,44 +93,30 @@ Shockley in 1956 had co-invented the transistor at Bell Labs with Bardeen and Br
 
 Beckman Instruments financed the venture. The laboratory opened in 1956 in Mountain View — not on Stanford land, but inside the ecosystem the university's leases and steeples had thickened.
 
-## Noyce's winter
+## Noyce arrives
 
-Robert Noyce had come from Grinnell and MIT. He was twenty-nine in 1956 with a family and a job offer from the most famous man in the field. He worked silicon while Shockley pushed the four-layer diode. By the summer of 1957 a group had decided to leave.
+Robert Noyce had come from Grinnell and MIT. He was twenty-nine in 1956 with a family and a job offer from the most famous person in the field. He was one of the recruits Shockley assembled in one building in Mountain View — people who had no particular reason to move to a California town with no semiconductor industry, and who moved because he asked (`books/cardinal/ch/4-02-shockley-and-the-eight.qmd`).
 
-The chapter does not yet tell the departure. It tells the arrival: a Nobel laureate's ego, a mother's address, a peninsula full of defense money and university-trained engineers. Noyce tightened a probe and listened. The county had already chosen shock over orchards. Shockley brought the shock in human form.
+The chapter does not yet tell the departure. It tells the arrival: a Nobel laureate's standing, a mother's address, a peninsula already thick with defense money, university leases, and engineers trained on the same campus that had ranked their parents' generation on test sheets.
+
+## Management by suspicion
+
+He was also, by every surviving account, a catastrophic manager.
+
+He posted salaries. He ranked his staff publicly. He required a lie detector test after a minor workplace injury, on the theory that someone had sabotaged the equipment. He recorded conversations. He telephoned people's former colleagues to check their accounts of ordinary technical disagreements. He changed the company's technical direction away from silicon transistors toward a four-layer diode of his own design, over the objections of staff who thought the transistor was where the market was, and they were right (`books/cardinal/ch/4-02-shockley-and-the-eight.qmd`).
+
+By the summer of 1957 a group of them had decided to leave. This chapter stops before September. The county has already chosen missiles over orchards. Shockley brought the transistor west because his mother lived in Palo Alto.
 
 ## Line to Jordan
 
-Shockley's later eugenic advocacy places him in the line from David Starr Jordan — same campus, same sorting vocabulary, different discipline, fifty years apart. The transistor was new. The argument about who deserved to lead was not.
+Shockley's later public advocacy of eugenic argument places him directly in the line running from David Starr Jordan in Act II — the same claim about heredity and leadership, the same campus, a different discipline, fifty years apart (Harris 2023, ch. 3.2). The solid-state device was new. The sorting vocabulary was not.
 
-## Waiting for September
+## What Mountain View already had
 
-Fairchild Semiconductor does not exist yet in this chapter. Arthur Rock has not flown out from Hayden, Stone. The Traitorous Eight are still employees with mortgages and babies. Shockley posts salaries on a wall. Noyce reads them and says nothing.
+Mountain View in 1956 sat between a university that could not sell eight thousand acres and was beginning to lease them, and a missile division that would open in Sunnyvale the same year. Hewlett-Packard was moving toward the industrial park. Varian was already on Page Mill Road. Terman's steeples were visible in hiring and in ground leases.
 
-Mountain View in 1956 is a town between a university that leases land and a missile division that hires thousands. Shockley put his laboratory in the middle because his mother lived nearby. That is enough to change the map.
+Shockley Semiconductor Laboratory was not on Stanford land. It did not need to be. The ecosystem was already dense enough that talent, capital, and federal procurement could meet in a town chosen for a widow's address.
 
-## Standing in the field
+Fairchild Semiconductor does not exist yet in this chapter. Arthur Rock has not flown out from Hayden, Stone. The men who will be called the Traitorous Eight are still employees. Shockley has not yet given them the name they will wear as a badge.
 
-He had co-invented the transistor at Bell Labs. The Nobel arrived the same year the laboratory opened. His text was what graduate students carried. He recruited across the country — Blank, Grinich, Hoerni, Kleiner, Last, Moore, Noyce, Roberts not yet traitors, only believers that Shockley's silicon bet was wrong and his management unbearable.
-
-## Lie detector
-
-The lie detector episode over a minor workplace injury is the detail survivors remember. Public salary rankings. Recorded calls. Phone checks with former colleagues over technical disagreements. Paranoia as management style.
-
-## Four-layer diode
-
-He moved the company toward a four-layer diode of his own design while the staff wanted silicon transistors. The market wanted what the staff wanted. Shockley wanted what Shockley wanted. By summer 1957 the eight were meeting after hours.
-
-## Mother's address
-
-William Shockley located his semiconductor laboratory in Mountain View because his mother lived there. Contingency sits at the origin of an industry worth trillions. The peninsula had Terman, HP, Varian, Lockheed coming, federal money, and California non-competes. It also had a widowed mother in Palo Alto and a son who wanted to be near her.
-
-Noyce in 1956 does not know he will walk out in thirteen months. He knows Shockley is brilliant and impossible. That is enough for this chapter. September belongs to the next file. April 1969 belongs to the last. Between them sit Fairchild, Minuteman budgets, East Palo Alto across the creek, and a poster that says Strike Against the Stanford Empire.
-
-## Lunchroom, summer 1957
-
-The salaries are on the wall again. Someone jokes about the four-layer diode nobody wants to build. Shockley passes the table without stopping. Moore and Noyce exchange a look that has become a language. Kleiner mentions his father's contact in New York banking. Last sketches planar ideas on a napkin. The orchards outside are coming down for tract housing Lockheed workers will buy if the realtor allows them.
-
-Nobody says traitor yet. Nobody says Fairchild. They say silicon and lie detectors and whether California law will let them leave if they all leave together. Shockley chose Mountain View for his mother. They will choose exit for each other. The peninsula is dense enough that exit is local. The law is old enough that exit is legal. Capital is young enough that Arthur Rock is about to answer the phone.
-
-The Nobel laureate in the next office does not know his staff is already a coalition. The university three miles away is already a landlord. The missile division filling Sunnyvale is already the county's payroll. The garage on Addison is already a tenant waiting for Page Mill. Shockley thinks the story is genius. The story is departure.
+September belongs to the next chapter. April 1969 belongs to the last. Between them sit spinoffs, Minuteman budgets, a creek that sorts housing, and a poster that will read “Strike Against the Stanford Empire.”

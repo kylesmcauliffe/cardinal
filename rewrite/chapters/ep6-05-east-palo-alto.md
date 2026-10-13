@@ -2,140 +2,124 @@
 
 ## East Palo Alto
 
-**San Francisquito Creek. 1958.**
+**San Francisquito Creek. 1954.**
 
-The creek marked the line well enough that a child could see it: oaks and mowed lawns on one side, tighter lots and older pavement on the other. The family had saved for three years — double shifts at the cannery, a church raffle, a loan from an uncle in Oakland — and the realtor in Palo Alto had been polite until he saw who was standing on the porch.
+The creek runs low in October, brown after the first rains, clear enough in summer that children on both banks could see the same minnows if they looked. It also marked a boundary the housing market had been drawing for decades before anyone called the land beside it an industrial park.
 
-The answer was no. Not shouted. Not even cruel. Just no, and a card for someone across the freeway.
+On one side: Palo Alto, Menlo Park, Atherton, and the towns whose names would soon sit on Stanford street signs. On the other: East Palo Alto, incorporated later, taxed differently, and in the same decades becoming substantially Black while the peninsula beside the university appreciated at a different rate (Harris 2023, ch. 3.1).
 
-They bought in East Palo Alto instead, in a house that appreciated slowly if at all, with schools that would not send anyone to the Honors Cooperative Program on Page Mill Road.
+The Stanford Industrial Park had opened along Page Mill Road in 1951. Varian Associates signed the first long ground lease for its research and development operation in 1953, with Frederick Terman on the company's board and among its investors (Harris 2023, ch. 3.1). Hewlett-Packard would move from rented premises to university land in 1956. Lockheed Missiles and Space would open in Sunnyvale the same year.
 
-## The park's workforce
+Every job in those buildings required a worker who could reach the job. Every worker required a house within driving distance. The map that decided who could live within reach had been inked before the park collected its first rent check.
 
-The Stanford Industrial Park opened in 1951. Hewlett-Packard moved to university land in 1956. Lockheed hired by the thousands in Sunnyvale. Fairchild Semiconductor incorporated in Mountain View in 1957.
+## Covenants and maps
 
-Every one of those jobs needed a body that could get to work on time. Every one of those bodies needed a bed within driving distance. The map that determined who could sleep where had been drawn before any of the companies existed.
+Palo Alto, Menlo Park, Atherton, and the surrounding towns operated restrictive covenants, and federal underwriting maps graded the area accordingly. The covenants became judicially unenforceable in 1948 but remained in deeds and continued to be honoured informally, and the practices of local real estate boards and lenders sustained the pattern for decades afterwards (Harris 2023, ch. 3.1).
 
-Palo Alto, Menlo Park, Atherton, and the surrounding towns operated restrictive covenants, and the federal underwriting maps graded the area accordingly. The covenants became judicially unenforceable in 1948 but remained in deeds and continued to be honoured informally, and the practices of local real estate boards and lenders sustained the pattern for decades afterwards (Harris 2023, ch. 3.1).
+<!-- kyle: ch/4-01-termans-garden.qmd -->
+
+That is not a footnote to the technology story. It is a condition of it. The industrial park's labour force was filtered by residence before it was filtered by hiring. Harris places East Palo Alto's racial and economic split beside the first industrial park lease deliberately: the prosperity on one side of the freeway and the exclusion on the other were not independent events (Harris 2023, ch. 3.1).
 
 ## Eichler as exception
 
-The best-documented local case is the developer Joseph Eichler, who from the early 1950s built subdivisions on the Peninsula and refused to discriminate, selling to Black and Asian buyers when almost nobody else in the region would. He resigned from the National Association of Home Builders over its refusal to adopt a non-discrimination policy. His developments were exceptional, and their being exceptional is the evidence.
+The best-documented local counterexample is the developer Joseph Eichler, who from the early 1950s built subdivisions on the Peninsula and refused to discriminate, selling to Black and Asian buyers when almost nobody else in the region would. He resigned from the National Association of Home Builders over its refusal to adopt a non-discrimination policy. His developments were exceptional, and their being exceptional is the evidence that the rule was exclusion (Harris 2023, ch. 3.1).
 
-## East Palo Alto
+Eichler's houses — flat roofs, atriums, the postwar California modern look — still read as integrationist architecture in a market that often would not sell the same roofline to the same buyer if the buyer was Black. The exception does not disprove the pattern. It measures how strong the pattern was.
+
+## East Palo Alto in the record
 
 East Palo Alto, immediately across the freeway from the university and the park, became substantially Black in the same decades, with a very different tax base, different schools, and no access to the housing appreciation happening a mile away (Harris 2023, ch. 3.1).
 
-The industrial park's labour force was filtered by residence before it was filtered by hiring. That is not incidental to the story of Silicon Valley's prosperity. It is a condition of it, and the boundary is still visible from the road.
+The sentence is flat in Harris's prose because the facts are flat. Property tax funds schools. Schools feed universities. Universities lease land to companies that hire engineers. Engineers buy houses where lenders and realtors will sell to them. Each step is legal. Each step is ordinary. The outcome is a creek that functions as a social border while remaining a watercourse.
 
-## The university's position
+## The university's four roles, and the fifth
 
-Stanford was landlord to the park, talent supplier to the firms, research partner, legitimacy anchor. It was not, in these years, the zoning authority for East Palo Alto. It benefited from a labour market shaped by exclusion it did not have to sign.
+By the mid-1950s Stanford occupied four positions at once with respect to the firms on its land: landlord, talent supplier, research partner, and legitimacy anchor (Harris 2023, ch. 3.1; see also `books/cardinal/ch/4-01-termans-garden.qmd`). None of those roles required the university to zone East Palo Alto. None prevented it from benefiting from a labour market shaped by exclusion it did not have to sign.
 
-The Honors Cooperative Program from 1954 let engineers at member companies take graduate courses while employed. The employees who could live near Page Mill Road were overwhelmingly the employees who could pass the housing screen. The credentialing loop ran faster on one side of the creek.
-
-## Internment's shadow
-
-The previous episode placed Japanese American incarceration in 1942 beside Terman's war laboratory. Property transfers in Santa Clara County during removal had already reshaped who owned farmland within reach of the future park. Redlining and covenant enforcement reshaped who could buy houses after the war.
-
-The family in this chapter arrives in 1958, not 1942, but they step into a market whose inventory was sorted by federal order and local deed language before they saved their first down payment.
-
-## A job without a promotion
-
-The father in this story takes work as a technician at a supplier plant — [TK: named employer and wage source for Black technicians in Santa Clara County 1950s, Harris ch. 3.1 or Lowen]
-
-He rides the bus past Stanford's gates. His daughter will attend schools funded by a tax base the park does not share. His son will see Lockheed's parking lots fill each morning and will not be told, in any class, that those lots are the county's largest payroll.
-
-## The view from the freeway
-
-Driving south on 101 today, East Palo Alto sits beside the research park like a negative print. The same sunlight. Different appreciation curves. Different police contracts. Different futures sold from the same billboard stretch.
-
-In 1958 the family crosses the creek with keys to a house the other side would not sell them. On Page Mill Road, Varian's lease payments hit the university's ledger. On the other side of the water, homework gets done at a kitchen table that will never be worth what a bungalow in Palo Alto will be worth in 1970.
-
-The park leases land that cannot be sold. The housing market leases opportunity the same way — long terms, quiet clauses, eviction by price instead of by notice.
-
-## What the episode owes this chapter
-
-The rebellion in 1969 will come from students inside the elite, arguing about classified research. This chapter is the people outside the lease, barred from buying across the creek, working jobs the park depends on without owning the appreciation the park creates.
-
-The operating system runs on four roles at once. The fifth role — who is kept across the freeway — is not on the university's org chart. It is on the map.
-
-The family hangs curtains. The park hangs a sign: Stanford Industrial Park. The creek runs between them, low in summer, brown after rain, old as the grant.
-
-## Eichler's exception
-
-Joseph Eichler built subdivisions on the Peninsula from the early 1950s and refused to discriminate, selling to Black and Asian buyers when almost nobody else in the region would. He resigned from the National Association of Home Builders over its refusal to adopt a non-discrimination policy. His developments were exceptional, and their being exceptional is the evidence that the rule was exclusion.
-
-## The cooperative programme
-
-From 1954, the Honors Cooperative Program let engineers at member companies take graduate courses part-time while employed, with employers paying fees. A university that educates a company's staff for the duration of their careers is infrastructure, not a supplier. The employees who could live near Page Mill Road were overwhelmingly the employees who could pass the housing screen.
+The Honors Cooperative Program, begun in 1954, let engineers at member companies take graduate courses part-time while employed, with employers paying fees. A university that educates a company's staff for the duration of their careers is infrastructure, not a supplier. The employees who could live near Page Mill Road were overwhelmingly the employees who could pass the housing screen drawn by covenant and lender before human resources ever opened a job posting.
 
 ## Internment's inventory
 
-Japanese American incarceration in 1942 had already transferred farmland in the county at distress prices. The family in 1958 steps into a housing market shaped by that transfer and by covenants the Supreme Court would not enforce after 1948 but deeds still carried.
+The previous episode placed Japanese American incarceration in 1942 beside Frederick Terman's war laboratory. Executive Order 9066 led to the forced removal of roughly a hundred and twenty thousand people of Japanese ancestry from the west coast, about two-thirds of them United States citizens (Harris 2023, ch. 2.4). Farms, businesses, and homes were lost or sold under distress, and property that is lost is property someone else acquires.
 
-## Two sides of the freeway
+By the time the industrial park signed its second decade of leases, that transfer had already reshaped who owned farmland within reach of the future corridor. Redlining and covenant enforcement reshaped who could buy houses after the war. East Palo Alto's 1950s demography sits inside that inventory, not beside it.
 
-East Palo Alto became substantially Black in the same decades the park appreciated, with a different tax base, different schools, and no access to the housing appreciation happening a mile away (Harris 2023, ch. 3.1). The industrial park's labour force was filtered by residence before it was filtered by hiring.
+## Lockheed's parking lots
 
-The father rides the bus past Stanford's gates. His daughter will not take the cooperative programme. His son will see Lockheed's lots fill each morning without a lesson that those lots are the county's largest payroll.
+Lockheed Missiles and Space Division opened in Sunnyvale in 1956 and grew on Polaris and classified satellite work until it was, by a wide margin, the largest industrial employer in Santa Clara County for much of the 1960s (`books/cardinal/ch/4-04-defense-corridor.qmd`). [TK: Lockheed Sunnyvale peak employment figure — Leslie or county primary source]
 
-## The boundary visible
+The jobs were not all engineering degrees. They were machining, assembly, security, janitorial, cafeteria, and bus routes at dawn. They were also, for many workers, jobs without access to the appreciation curve on the Palo Alto side of the creek. The park's private-sector face sat on a public-sector income stream; the county's payroll sat on a housing map drawn before either sector arrived.
 
-Driving south on 101, East Palo Alto sits beside the research park like a negative print. The same sunlight. Different appreciation curves. The park leases land the grant forbids selling. The housing market leases opportunity with quiet clauses and eviction by price.
+## What the April Third Movement will not be about
 
-The university collects rent, tuition, and overhead on work it often cannot describe to its own students. The family across the creek pays property tax into schools that do not feed the park's pipeline. The operating system runs on four roles at once. The fifth role — who is kept across the freeway — is on the map, not the org chart.
+In 1969 roughly seven hundred people will fill Dinkelspiel Auditorium, and about four hundred will walk into the Applied Electronics Laboratory. They will be students at an expensive private university, most of them from backgrounds the deferment system was designed to protect. They will publish classified research they find inside a building they occupy.
 
-## Palo Alto's covenants
+This chapter is not their chapter. It is the geography their university leased while the housing market sorted who could live near the lease.
 
-Palo Alto, Menlo Park, Atherton, and surrounding towns operated restrictive covenants; federal underwriting maps graded the area accordingly. Covenants became judicially unenforceable in 1948 but remained in deeds and were honoured informally for decades. Real estate boards and lenders sustained the pattern.
-
-## The job without a name in the annual report
-
-The father takes work as a technician at a supplier plant — [TK: named employer and wage source for Black technicians in Santa Clara County 1950s]. He rides the bus past Stanford's gates. His children attend schools funded by a tax base the park does not share.
-
-## 1958 as hinge
-
-In 1958 Fairchild is a year old. Lockheed fills Sunnyvale. HP is moving toward the park. The family buys in East Palo Alto because Palo Alto said no without shouting. The creek marks the line a child can see.
+The poster on the wall will read “Strike Against the Stanford Empire” (Harris 2023, Section III frontispiece). The empire, by then, included Menlo Park research institutes, Sunnyvale missile plants, and a research park that could not sell its dirt. It also included a creek where the same economy paid different prices for the same commute.
 
 ## Visible boundary
 
-The boundary is still visible from the road. Prosperity on one side was a condition of exclusion on the other, not an accident. Harris places East Palo Alto's racial and economic split beside the first industrial park lease (Harris 2023, ch. 3.1). The episode's rebellion will come from inside the university. This chapter is who the lease priced out before the poster went up.
+Driving south on U.S. 101 today, East Palo Alto still sits beside the Stanford Research Park like a negative print: the same sunlight, different appreciation curves, different police contracts, different school rankings. In the 1950s the boundary was newer. It was no less deliberate.
 
-## Curtains
+The operating system Terman assembled — federal money into steeples, steeples into companies, companies into ground leases, leases into endowment — did not need to mention East Palo Alto in any annual report. The map mentioned it every day.
 
-The family hangs curtains. The park hangs a sign. The grant still forbids selling the dirt. The freeway runs between them like a sentence finished in concrete.
+The park hangs a sign: Stanford Industrial Park. The grant still forbids selling the land beneath it. The creek runs between prosperity and exclusion, low in summer, brown after rain, older than the lease and older than the university.
 
-## Morning bus
+Nobody in Menlo Park needed to argue about the creek in 1954. They needed engineers who could arrive on Page Mill Road by eight in the morning. The housing market had already decided who that would be.
 
-The father's shift starts before dawn. The bus crosses the freeway toward suppliers whose names do not appear on Stanford brochures. His wife packs lunches for children who will not tour the industrial park on field trips. The cannery double shift paid for the down payment East Palo Alto accepted when Palo Alto would not.
+## Page Mill as spine
 
-## Daughter's school
+Page Mill Road became the industrial park's spine the way El Camino had been the Spanish road and the railroad had been the Associates' road: a line on which money could move. Varian's klystron work had begun on campus; the company's ground lease put the microwave supply chain on university dirt. Hewlett-Packard's move in 1956 meant the garage company's graduate founders became tenants of the institution whose professor had told them to stay (`books/cardinal/ch/4-01-termans-garden.qmd`).
 
-Her school is funded by a tax base without Page Mill leases. His son sees Stanford's towers on the horizon and Lockheed's lots filling at dawn. Neither child is told the county's largest employer builds missiles in secret while HP sells oscillators into the same budgets.
+The leases ran fifty-one years, then ninety-nine. Restrictions on what could be built and who could occupy space were written into the ground rent. Stanford was not merely collecting checks. It was zoning an economy.
 
-## Eichler again
+## Federal maps and local deeds
 
-Eichler's non-discriminating subdivisions prove the rule by exception. He resigned from the National Association of Home Builders when it refused non-discrimination. Almost nobody else on the Peninsula would sell to the family in 1958. Exception as evidence.
+The Federal Housing Administration's underwriting maps graded Palo Alto and its neighbors as low-risk investments for lenders while marking other blocks — including much of East Palo Alto — as higher risk. The maps did not use the word Black. They used colors. Realtors and boards translated colors into practice long after courts struck down the covenants on paper (Harris 2023, ch. 3.1).
 
-## Honors Cooperative
+Students in the Honors Cooperative Program could attend evening classes while working day shifts at park tenants. Commuting distance was therefore a credential requirement nobody printed in a catalogue. If you could not buy within thirty minutes of Page Mill, you could not easily take the classes that kept you eligible for promotion on the park's payroll.
 
-From 1954 the Honors Cooperative Program educated company engineers part-time while employed. Only employees within commuting distance benefit. Commuting distance was sorted by covenants and lenders before it was sorted by HR.
+## Two universities, one county
 
-## 9066 shadow
+Berkeley in 1951 was the stronger research university by most measures: Radiation Laboratory pedigree, Manhattan Project names, larger federal grants (`books/cardinal/ch/4-01-termans-garden.qmd`). Berkeley did not build an industrial park on unsellable acreage. Stanford could, because a grieving father's clause in 1885 forbade sale and a dean in the 1950s noticed that lease was not forbidden.
 
-Japanese American incarceration in 1942 transferred farmland at distress prices. The 1958 purchase steps into a market already shaped by removal and redlining. The creek is old. The sorting is older.
+East Palo Alto did not host the park. It hosted the workers the park priced out of Palo Alto's deeds. The county's prosperity story would later be told through garages and transistors. Harris tells it through the freeway and the creek (Harris 2023, ch. 3.1).
 
-## Visible from 101
+## Before the poster
 
-East Palo Alto beside the research park: same sunlight, different appreciation. Harris places the split beside the first industrial park lease (Harris 2023, ch. 3.1). Episode 6's rebellion will speak from inside the university. This chapter is who the lease priced out.
+In 1954 there is no April Third Movement, no occupation of the Applied Electronics Laboratory, no tear gas on Sand Hill Road. There is only ground rent flowing to a university, wages flowing to workers who cross the creek, and appreciation flowing to homeowners on the side the realtor will show.
 
-The operating system runs landlord, talent, research partner, legitimacy anchor. The fifth role — who lives across the freeway — is on the map. The family hangs curtains. The park collects rent. The creek runs.
+The rebellion in 1969 will ask Stanford to own what it owns. This chapter is the map that shows who already owned the commute before the students read the classified budgets.
 
-## Sunday on the creek
+The family names are not in the annual report. The covenant language is in the deed. The creek is in the open. All three are sources. None required invention to see.
 
-The daughter skips stones while her father reads the want ads. Lockheed needs assemblers. HP needs wire harness hands. The Stanford bookstore sells sweatshirts she cannot afford. Across the water, Eichler roofs look like magazines. Her mother explains none of it is personal. The realtor was polite. The covenant is in the deed even when the law says unenforceable. The bank map is red where they stand and green where Page Mill runs.
+## Jane Stanford's ratio, still echoing
 
-In 1942 a Japanese neighbor lost a nursery. Someone bought it cheap. In 1958 this family buys in East Palo Alto because the other side said no. In 1969 students will occupy a lab over war research. Nobody will occupy the gap between creek and freeway. The gap is the point. Jobs without appreciation. Work without the cooperative programme. Taxes without Stanford's lease checks.
+Jane Stanford had capped women's enrolment at five hundred in 1899; the university maintained a ratio for decades afterward (`books/cardinal/ch/3-06-credentialing-interface.qmd`). By the 1950s the industrial park hired engineers credentialed on a campus that had long screened who could attend, live in campus housing, and join social organisations. East Palo Alto's demography was screened by lenders and realtors before HR ever posted a job on Page Mill.
 
-The father gets hired Mondays. The buses run before dawn. The park signs say Stanford Industrial Park. The family sign says a name on a mailbox. Both are true addresses on the same economy sorted before hiring begins.
+## Terman as provost, 1955
+
+When Terman became provost in 1955, the park was expanding and the Honors Cooperative Program was enrolling company engineers part-time (`books/cardinal/ch/4-01-termans-garden.qmd`). His wartime grievance — Stanford a bystander while MIT and Harvard captured contracts — had become a land-and-lease strategy that Berkeley could not replicate. The competitive advantage was governance: a self-perpetuating board, unsellable acreage, and the freedom to select tenants as industrial policy.
+
+## Harris's juxtaposition
+
+Harris places the first industrial park lease beside East Palo Alto's racial and economic split because the book's argument requires both pins on the same map (Harris 2023, ch. 3.1). Prosperity on the Palo Alto side and exclusion on the East Palo Alto side were not independent stories that happened to overlap. They were coupled conditions of the same economy — jobs without affordable housing on one side of the freeway, appreciation without access to the park's payroll on the other.
+
+## Before Shockley, before Fairchild
+
+In 1954 Shockley is still at Bell Labs. Fairchild does not exist. The traitorous eight have not met Arthur Rock. What already exists is ground rent, klystron royalties, cooperative graduate enrolment, and a housing map that decides who can commute to either.
+
+The episode's cold open signed a lease in 1953. This chapter signs the social lease written in covenants and FHA colors: who may buy within reach of the jobs the park creates.
+
+## What April Third will not fix
+
+The April Third Movement will demand that Stanford own and control its military research. It will win on classified work on campus and lose on SRI when trustees sell the institute to itself. It will not redraw the creek. It will not unwind East Palo Alto's tax base. It will not make Palo Alto's 1948 covenant language disappear from practice because a senate voted on laboratory guidelines.
+
+The rebellion changes letterhead. The map changes more slowly, if at all.
+
+## Closing image, sourced
+
+East Palo Alto beside the Stanford Research Park: the same sunlight, different appreciation curves, different schools, different police contracts (Harris 2023, ch. 3.1). The industrial park's labour force was filtered by residence before it was filtered by hiring. That sentence is Harris's. The view from the freeway is anyone's who drives south on 101.
+
+The operating system runs landlord, talent, research partner, legitimacy anchor. The fifth condition — who may live within commute distance — was written in deeds and maps before Varian signed. The poster in 1969 will say empire. The creek already drew the border.

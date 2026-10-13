@@ -134,10 +134,10 @@ Defence and aerospace — Minuteman, Apollo — bought the first years of integr
 
 September 1957 is a date like April 1969: a coalition forms and a name attaches. One founds an industry by leaving. The other will try to stop an empire by occupying a lab. The trustees will answer both with structure — Fairchild's parent company, SRI's self-sale — leaving activity intact while moving responsibility.
 
-## Arthur Rock's plane
+## Rock and Fairchild
 
-Rock flies west because a letter from Hayden, Stone asks whether thirty firms might employ eight defectors as a group. He meets them in a living room without Shockley. He concludes they should not join anyone; they should start. He calls Sherman Fairchild. Fairchild Camera wants an option on success. The eight want freedom from Shockley's diode and his lie detectors.
+Arthur Rock traveled to California after the Hayden, Stone letter, met the eight engineers, and concluded they should start a company rather than join an existing employer (`books/cardinal/ch/4-02-shockley-and-the-eight.qmd`). He approached roughly thirty established firms; almost all declined. Fairchild Camera and Instrument agreed, with an option to buy the venture if it succeeded. Fairchild Semiconductor incorporated in Mountain View in October 1957 — same town, same talent pool, different cap table, different building.
 
-In October the articles incorporate Fairchild Semiconductor in Mountain View — same town, same talent, different building, different parent on the cap table. Shockley shouts traitor. History prints the label on T-shirts a generation later. Minuteman waits for chips small enough to trust in a silo. Apollo waits on the same curve. The Pentagon does not care about office politics. It cares about weight and reliability. Fairchild will sell to that customer before it sells to radios.
+Shockley called them traitors. Harris records the phrase “the traitorous eight” (Harris 2023, ch. 3.2). The label was meant as punishment. It became an origin myth with a villain's own nickname attached.
 
-The eight win by leaving. California wins by letting them. Stanford wins by having trained them and leased land to their suppliers. Shockley loses the staff and keeps the Nobel. The county's story will prefer garages. The payroll will prefer missiles. Both are true. This chapter is the walkout that makes the rest possible.
+The eight won by leaving. California law made leaving legal. Rock made leaving fundable. Stanford had trained them and was already leasing land to the suppliers and tenants who would buy their chips. Shockley kept the Nobel and lost the staff. The county's story would prefer garages. The payroll would prefer missiles. Both were true on the same map.

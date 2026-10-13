@@ -4,7 +4,7 @@
 
 **Stanford Industrial Park. 1953.**
 
-The signature line was on the last page of a ground lease measured in decades. Varian Associates — Russell and Sigurd Varian, William Hansen's klystron work behind them — would put research and development on university land along Page Mill Road. Frederick Terman was on Varian's board and among its investors. “The first lease at the Stanford Industrial Park was granted to Varian’s R & D department in 1953—no surprise, because Terman was an investor and board…” (Harris 2023, ch. 3.1).
+The signature line was on the last page of a ground lease measured in decades. Varian Associates — Russell and Sigurd Varian, William Hansen's klystron work behind them — would put research and development on university land along Page Mill Road. Frederick Terman was on Varian's board and among its investors. Harris's summary is blunt: the first lease at the Stanford Industrial Park went to Varian's R&D department in 1953, and it was no surprise, because Terman was an investor and sat on the board (Harris 2023, ch. 3.1).
 
 The ink dried. Rent would flow to a university that could not sell the dirt beneath the buildings.
 
@@ -133,12 +133,26 @@ When Varian's R&D department signed in 1953, Terman was investor and board membe
 
 The through-line of Episode 6 is land that cannot be sold leased to the future. The signature line in 1953 is the future arriving on Hansen Way, on dirt the grant locked, under terms the university wrote.
 
-## Night on Page Mill, 1954
+## The loop in one tenancy
 
-A security guard walks the edge of a construction pad where Varian's new footprint meets Kodak's loading dock. The leases run fifty-one years, then ninety-nine. The university's business office in the morning will record another ground-rent check. In the afternoon a graduate student from the Honors Cooperative Programme will sit in a Hewlett-Packard conference room after her shift, taking a microwave course her employer pays for. Her professor consulted for Varian last month. Her thesis advisor sits on a board. She does not yet know the word ecosystem. She knows she cannot afford Palo Alto on an technician's wage unless she lives with three roommates south of campus.
+Federal money funds research in the fields Terman selected. The research produces technology and trained people. Faculty and graduates found companies to commercialise it. The companies lease land in the park, which pays the university. Their employees enrol in the Honors Cooperative Program, which pays the university again. Their research needs sponsor further work, which pays the university and generates the next technology. Their success attracts the next generation of students and faculty, which strengthens the steeples, which attracts more federal money (`books/cardinal/ch/4-01-termans-garden.qmd`).
 
-That is four roles in one evening: landlord, talent supply, research partner, legitimacy anchor. No other American university held all four in 1954. Berkeley had Lawrence's lab and political regents. Stanford had eight thousand acres it could not sell and a provost who had spent the war in Cambridge learning how federal money moved.
+Every stage feeds the next, and the university takes a position at every stage. Varian's 1953 lease is one visible signature on that circuit — investor-board member-landlord-dean in a single name.
 
-The cold open's pen in 1953 merely made visible what 1951's park opening began. Terman on Varian's board. Varian's klystron royalties paying the university. Varian's lease paying again. The loop closed before Shockley hired Noyce. The loop would survive Shockley, Fairchild, SRI's sale, and every poster on the quad.
+## Klystron royalties before ground rent
 
-Land that cannot be sold must be leased. The future signs the last page of the ground lease and calls it research and development.
+Russell and Sigurd Varian, with William Hansen, had developed the klystron tube at Stanford before the war under an arrangement that gave the university a share of the royalties. The klystron mattered to radar, microwave communications, and accelerators. Varian Associates was founded in 1948; the industrial park tenancy followed in 1951–53 (`books/cardinal/ch/3-10-terman-research-university.qmd`).
+
+The sequence is the model in one company: university research, a licensing arrangement that pays the university, a spin-out firm founded by the researchers, and a lease on university land. Every element of Episode 6 is present in a single tenancy agreement before Shockley recruits in Mountain View.
+
+## Defence revenue under the private face
+
+The park's early tenants were not consumer companies. Varian made klystrons and microwave equipment for military customers. Hewlett-Packard's instrument business depended heavily on defence and aerospace purchasing. Lockheed's missile division would arrive in Sunnyvale in 1956 (`books/cardinal/ch/4-01-termans-garden.qmd`).
+
+The private-sector face of the arrangement sat on a public-sector income stream. Federal procurement paid for most of it, and the park was the mechanism by which that money became a real estate portfolio, a graduate programme, and a set of private fortunes.
+
+## Cold open, restated
+
+When Varian's R&D department signed in 1953, Terman was investor and board member (Harris 2023, ch. 3.1). The ink on the ground lease was not the beginning of Silicon Valley. It was the moment the operating system became legible on paper: land that cannot be sold, leased to the future, with the insider's signature on the last page.
+
+Land that cannot be sold must be leased. The next chapters put transistors, missiles, and occupied laboratories on top of that clause.
