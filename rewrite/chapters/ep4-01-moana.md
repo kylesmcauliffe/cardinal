@@ -24,57 +24,9 @@ That story belongs to the end of this episode. What belongs here is the room at 
 
 Twenty-one years earlier, the grief had not yet been named in a charter.
 
-### March 1884
+### Twenty-one years back
 
-March 1884. Florence, Italy. The Hotel Bristol faced the Arno, and upstairs in a fever room the Stanfords' only child was dying of typhoid two months before his sixteenth birthday.
-
-Leland Stanford Jr. had been travelling in Europe with his parents as they often did. He collected antiquities with the seriousness of a boy who intended to have a museum. His father had been a grocer in Sacramento, a governor, a senator, and one of four men who had built the Central Pacific Railroad across the Sierra and out to the salt flats of Utah. His mother had managed households on Nob Hill and on the farm south of San Francisco Bay, where trotting horses ran on a private track and a photographer had once frozen a horse in mid-air for science and for pride.
-
-The disease moved faster than the doctors' assurances. Typhoid did not negotiate with fortune.
-
-He died on March 13, 1884 (Harris 2023, ch. 1.3). He was fifteen. He would not inherit the railroad, the mansions, or the lawsuits that followed monopoly.
-
-The telegram that crossed the Atlantic in the days afterward did not carry only a boy's name. It carried the end of a direct heir to one of the largest fortunes on the Pacific coast, and the beginning of a question no grief could answer simply: what does a man with no child do with a fortune everyone hates?
-
-California in the 1880s still answered to the Southern Pacific. Settlers had died in wheat fields over the price of railroad land. Workers had marched up to Leland Stanford's mansion and threatened him during the crisis of 1877 (Harris 2023, ch. 1.2). Congress had passed the Chinese Exclusion Act with Stanford's support in the Senate race that followed. The octopus, as the novelist Frank Norris would later call it, had tentacles in courts, in legislatures, and in the deeds that said who could farm which acre of the San Joaquin.
-
-A railroad fortune was not a quiet inheritance. It was a target.
-
-Leland Stanford had left the Senate. He still sat on boards. He still owned stock. The mansions on Nob Hill remained visible symbols of everything sandlot orators hated. When his son died, the fortune did not shrink. The political exposure did not shrink either. A man with no heir and every enemy had to decide quickly what permanence looked like.
-
-Jane had buried parents and siblings. She had moved from Albany, New York, to Wisconsin to California with a husband whose ambitions kept outrunning his origins. She knew how to manage staff, budgets, and social obligation. She did not yet know she would manage a university through a depression while the United States sued her for railroad bonds.
-
-### The farm before the campus
-
-South of the city, on the peninsula, Leland Stanford had bought land for a stock farm. He bred and raced trotting horses there with the intensity of a man who could afford to settle any argument with money. In the 1870s he wanted to know whether a trotting horse ever lifted all four hooves off the ground at once. The human eye could not decide. The bet required proof.
-
-He hired Eadweard Muybridge, a photographer who had already scandalized San Francisco by shooting his wife's lover dead and who had been acquitted on grounds of justifiable homicide. Stanford rehired him in 1876, "apparently not begrudging Helios the murder and child abandonment" in between (Harris 2023, ch. 1.3). Muybridge rigged a line of cameras along the track, triggered in sequence by the horse itself. In 1878 the sequential photographs showed what the eye could not hold: the horse does leave the ground.
-
-Motion pictures would come from many hands in the decades that followed. The standard claim that this episode alone invented cinema overstates the case. What it demonstrated was simpler and more durable. A private fortune of sufficient size could commission the answer to a question nobody else had the resources to ask, and the resulting images carried the patron's name. Stanford paid. Muybridge worked. They quarreled over credit and publication. The farm kept running.
-
-That farm would become a campus. The fortune that paid for the cameras would be entombed in a different kind of instrument, one that could not be picketed at a depot door.
-
-Visitors to Palo Alto in the 1870s saw fences, barns, and horses worth more than many families' yearly wages. Visitors after 1891 would see the same acreage reframed as education. The land could not be sold under the grant. It could only change use. That clause would matter when silicon replaced hay.
-
-Muybridge's 1878 plates still circulated in lectures and in Stanford's pride. They proved patronage could buy time sliced thin enough to settle a bet. The university would later slice time in physics labs and film studies departments without remembering the horse.
-
-### What the widow would do
-
-Jane Stanford survived her son by twenty-one years. She did not survive him by retreating into mourning on Nob Hill alone, though she grieved and though spiritualism would later draw her toward mediums and séances when fear returned.
-
-In the months after Florence she and her husband faced a choice that would outlast every spike driven at Promontory. They could leave the money to cousins. They could fund charities. They could build monuments. They had already been trustees of institutions. They knew what endowments could do.
-
-The vow Leland was supposed to have spoken after the collapse in Italy would be recorded in the language of adoption: not a child of their blood, but a state full of children who would never know the boy's name unless they read it on a gate. That vow would be executed in a legal document in November 1885 and opened to students in October 1891.
-
-Between Florence and the Founding Grant, twenty months passed. Between the grant and opening day, six years. Between opening day and the night at the Moana, fourteen years of payrolls, panics, professors, and poison.
-
-The woman dying in Honolulu in 1905 had lived all of those intervals. She had seen her husband die in his sleep during the Panic of 1893. She had watched the federal government sue his estate for railroad debts while four hundred students still expected classes. She had removed an economist who criticized coolie labor from a lectern built with coolie labor's unpaid differential inside the endowment. She had tasted strychnine in January and booked passage on the *Korea* in February.
-
-The trade wind moved the palms. Inside the Moana she asked whether her soul was prepared.
-
-The physicians would write their verdict. The president would write another. The choir would sing at the mausoleum. The board would appoint its own successors, as the grant allowed, and the campus on the farm would keep teaching.
-
-Twenty-one years before that night, the only child was still breathing in Florence. The fortune had not yet been converted. The boy was still collecting antiquities, and his mother was still a mother in a fever room, not yet the executive who would keep a university alive when the government came for fifteen million dollars.
+Episode 3 ended on a telegram from Florence announcing that Leland Stanford Jr. had died of typhoid on March 13, 1884, two months before his sixteenth birthday (Harris 2023, ch. 1.3). The next chapters take up that fever room, the vow that followed, the farm where cameras froze a horse mid-stride, and the opening day that brought orphans and engineers to a campus the railroad fortune built.
 
 ### The hotel on the beach
 
