@@ -4,7 +4,7 @@
 
 **Palo Alto, California. 1999.**
 
-Elon Musk had enrolled at Stanford for a PhD in applied physics in 1995 and left after two days, as the story goes, to start Zip2. [TK: verify days from Vance, *Elon Musk*] By 1999 he was running X.com on University Avenue, two blocks from where Hoover had once fed Belgium from an archive crate.
+Elon Musk had enrolled at Stanford for a PhD in applied physics in 1995. "As the story goes," Ashlee Vance writes, Musk dropped out after two days to start Zip2. (Vance 2015) <!-- bib: TODO --> By 1999 he was running X.com on University Avenue, two blocks from where Hoover had once fed Belgium from an archive crate.
 
 Musk's joy when the X.com debit card successfully spit out money at an ATM close to the company's Palo Alto office is preserved in a photograph in Jimmy Soni's account of the period (Soni 2022). <!-- bib: TODO -->
 
@@ -222,4 +222,4 @@ In 2007 *Fortune* photographed a group of former PayPal employees dressed as a c
 
 The young men walked out with cash and a network. The road had done its work again.
 
-Nobody in the parking lot that afternoon knew which of them would sit in a rotunda twenty-three years later. [TK: Jan 20, 2025 inauguration seating, press photos]
+Nobody in the parking lot that afternoon knew which of them would sit in a rotunda twenty-three years later, behind a president and ahead of a cabinet. (Collins 2025; AP News 2025)

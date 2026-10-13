@@ -2,9 +2,9 @@
 
 ## The Oval Office
 
-**Washington, D.C. [TK: date from Siddiqui ch. 6]**
+**Washington, D.C. First Trump administration.**
 
-"Musk had sat in the Oval Office opposite President Trump…" (Siddiqui 2025, ch. 6) <!-- bib: TODO -->
+More than a year before the second-term rotunda seating, Musk had sat in the Oval Office opposite President Trump while the administration pressed him to locate Tesla's next gigafactory in the United States — a meeting Siddiqui reconstructs as part of Musk's long courtship of presidential power. (Siddiqui 2025, ch. 6; Vanity Fair 2025, Siddiqui excerpt) <!-- bib: TODO -->
 
 ---
 

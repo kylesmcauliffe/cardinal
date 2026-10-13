@@ -1,0 +1,6 @@
+# Inauguration seating — Jan 20, 2025 (primary news)
+
+- **AP News**, “A guide to the wealthiest and most powerful at Trump's swearing-in,” Jan. 20, 2025: rotunda seating included tech leaders among “wealthiest and most powerful”; TikTok CEO Shou Zi Chew seated near Tulsi Gabbard. https://apnews.com/article/trump-inauguration-who-stood-where-a689828e986838c1735aeef03f3b32b3
+- **AP News**, “These tech billionaires flanked Trump at inauguration,” Jan. 20, 2025: photo captions name Jeff Bezos, Sundar Pichai, Elon Musk, Mark Zuckerberg (with Priscilla Chan) in the rotunda. https://apnews.com/article/trump-inauguration-tech-billionaires-zuckerberg-musk-wealth-0896bfc3f50d941d62cebc3074267ecd
+- **Wall Street Journal**, Eliza Collins, “Tech Elites Take Center Stage at Trump Inauguration,” Jan. 20, 2025: Musk, Zuckerberg, Bezos, Cook, and Pichai seated behind Trump’s family, “directly behind Trump”; described as more prominent than much of the incoming cabinet. https://www.wsj.com/politics/elections/tech-elites-take-center-stage-at-trump-inauguration-af846e64
+- **BBC**, Jan. 20, 2025: Bezos, Zuckerberg, Pichai, Cook at church; Musk, Zuckerberg, others in rotunda. https://www.bbc.com/news/articles/cvgpqeq82rvo

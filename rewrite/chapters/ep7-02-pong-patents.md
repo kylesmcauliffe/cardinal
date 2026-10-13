@@ -8,7 +8,7 @@ Al Alcorn had built a cabinet with one game on the screen: two paddles, a dot, a
 
 They did.
 
-Nolan Bushnell had hired Alcorn at Atari because he was young, cheap, and good with a soldering iron. The company was still small enough that the engineer who built the game was also the man who fixed it when the coin mechanism jammed. [TK: Berlin ch. 20, Atari founding details]
+Nolan Bushnell had hired Al Alcorn at Atari when the company was still small enough that the engineer who built the game was also the man who fixed it when the coin mechanism jammed. (Berlin 2017, ch. 20) <!-- bib: TODO -->
 
 What Pong proved was not that Americans wanted video games. Shopkeepers had known that since pinball. What it proved was that a hit could be manufactured in a garage, installed in a bar, and scaled — if someone could raise the money to build more cabinets than one engineer could solder.
 

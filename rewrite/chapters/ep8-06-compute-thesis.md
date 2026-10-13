@@ -2,9 +2,11 @@
 
 ## Compute
 
-**[TK: data centre location and date from sourced reporting]**
+**The Dalles, Oregon. 2006.**
 
-A data centre sited for the price of electricity, drawing the power of a small city, is the physical form of the current chokepoint.
+Google broke ground on a data centre campus near the Columbia River in The Dalles, Oregon — a town that wanted the jobs and accepted the water and power draw. Press accounts at the time described the facility as part of a new generation of internet infrastructure sited for cheap electricity and cooling, not for proximity to users. (NYT 2006-06-14; AP 2006)
+
+A building sized for the price of electricity, drawing the load of a small city, is the physical form of the current chokepoint.
 
 ---
 
@@ -492,6 +494,6 @@ it.
 
 ## January 20, 2025
 
-[TK: return to inauguration seating, primary sources]
+Back in the rotunda on January 20, 2025, the men who owned the indexes and the accelerators sat where the cameras could see them. Musk. Zuckerberg. Bezos. Pichai. Cook. Behind the family. Ahead of the cabinet. (Collins 2025; AP News 2025)
 
 Rail controlled movement. Stanford controls succession.

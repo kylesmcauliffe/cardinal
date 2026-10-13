@@ -22,12 +22,15 @@
 
 ## Open / [TK]
 
-- [TK: Jan 20, 2025 inauguration seating — news photos]
-- [TK: Cambridge Analytica figures — Wylie]
-- [TK: China loop — Sheehan]
-- [TK: Google antitrust decision citations]
-- [TK: data centre hook location]
-- [TK: Siddiqui Oval Office date]
+- [TK: China loop — Sheehan EPUB not in repo]
+- [TK: Wylie *Mindf*ck* — primary quotes beyond FTC/Facebook filings]
+
+## Resolved this pass
+
+- Inauguration seating → AP/WSJ/BBC Jan. 20, 2025.
+- Cambridge Analytica counts → Facebook Apr. 4, 2018 (87M); FTC Jul. 2019 complaint (250k–270k users; 50–65M friends).
+- Compute cold open → The Dalles, OR 2006 (NYT/AP — locators to pin).
+- Siddiqui Oval Office scene → first Trump term (ch. 6; Vanity Fair excerpt).
 
 ## Characters
 

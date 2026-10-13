@@ -353,7 +353,7 @@ happens when the people it benefits acquire the government.
 
 ## Bechtel
 
-Caspar Weinberger became Secretary of Defense in 1981. George Shultz became Secretary of State in 1982. Both men had been executives at Bechtel, the San Francisco engineering firm that had grown on public-works contracts the way the railroad had grown on land grants. [TK: McCartney, *Friends in High Places*, ch. 14 — Shultz recruitment timeline]
+Caspar Weinberger became Secretary of Defense in 1981. George Shultz became Secretary of State in 1982. Both men had been executives at Bechtel, the San Francisco engineering firm that had grown on public-works contracts the way the railroad had grown on land grants. Shultz — "the outsider and former academic" — had become president of Bechtel a year after joining the company. (McCartney 1988, ch. 14) <!-- bib: TODO -->
 
 Shultz told his 1982 nomination hearing that "Private interests have no business with nuclear weapons." (Denton 2016, ch. 35) <!-- bib: TODO -->
 

@@ -22,12 +22,17 @@
 
 ## Open / [TK]
 
-- [TK: NVCA or academic study for founder demographics on Sand Hill]
-- [TK: Berlin ch. 20 Atari founding details]
-- [TK: McCartney ch. 14 Shultz recruitment]
-- [TK: Vance — Musk Stanford two days]
-- [TK: EU/US antitrust decisions for Google default payments]
-- [TK: Jan 2025 inauguration seating — primary press]
+- [TK: EU/US antitrust — add formal case citations to references.bib when EPUB/PDF locators are pinned]
+- [TK: Levy ch. 1 — verify Bell bake-off dialogue against EPUB when Text OK in Drive]
+- [TK: NYT 2006-06-14 / AP 2006 — pin exact data-centre reporting locators for ep8-06 cross-ref]
+
+## Resolved this pass
+
+- McCartney ch. 14 Shultz/Bechtel timeline → ep7-03.
+- Vance Musk “two days” → ep7-06.
+- Jan 20, 2025 inauguration seating → ep8-01, ep8-06; notes/inauguration-2025-01-20.md.
+- Berlin ch. 20 Alcorn → ep7-02.
+- Google antitrust decisions (headline dates) → ep7-05.
 
 ## Characters
 

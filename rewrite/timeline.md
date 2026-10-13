@@ -80,7 +80,7 @@
 - **Crespí / El Palo Alto naming:** **SOURCED** at the secondary level (Harris, intro). For the primary source, Crespí's diary, keep the source to be identified (TBD).
 - **Soto rancho diseño:** not found in the EPUBs. **Primary needed** (Bancroft Library); otherwise **CUT** the image and keep the grant.
 - **Kearney sandlot:** **SOURCED** (Harris ch 1.2; White-R ch 7).
-- **2025 inauguration seating:** not in the EPUBs (Siddiqui runs to early 2025). **Primary needed** (news photos, Jan 20, 2025).
+- **2025 inauguration seating:** **SOURCED** (AP News and WSJ, Jan. 20, 2025; see rewrite/notes/inauguration-2025-01-20.md).
 - **Hoover archive crate:** partly sourced (Whyte, Hoover Institution context). Find the specific Whyte chapter on the War Library.
 - **Sons of Gwalia:** **SOURCED** (Whyte ch 5, p. 100).
 - **Lockheed / Sunnyvale:** **SOURCED** (Harris ch 3.1). For the Minuteman program, use Leslie (not in Drive).

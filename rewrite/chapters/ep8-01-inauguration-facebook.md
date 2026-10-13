@@ -6,7 +6,11 @@
 
 The cold was not the story. The seating was.
 
-[TK: identify tech founders and executives seated ahead of incoming cabinet members from Jan 20, 2025 inauguration press photos and contemporaneous reporting]
+In the Capitol rotunda, Elon Musk, Mark Zuckerberg, Jeff Bezos, Sundar Pichai, and Tim Cook were placed in the first rows behind Donald Trump's family — ahead of much of the incoming cabinet in the photographs the wire services published that afternoon. The *Wall Street Journal* reported that the chief executives of the world's largest technology companies sat "directly behind Trump" while he took the oath, a prominence the paper contrasted with cabinet secretaries still finding their places. (Collins 2025; AP News 2025; see rewrite/notes/inauguration-2025-01-20.md)
+
+Musk had spent more than a quarter of a billion dollars to help elect him. Zuckerberg and Bezos had ended years of public friction with Trump and appeared at St. John's Church that morning alongside Cook and Pichai. (Reuters 2025-01-20; BBC 2025-01-20)
+
+Nobody in the rotunda needed a historian to explain what the seating meant. They needed only to look.
 
 Then cut back twenty-one years.
 

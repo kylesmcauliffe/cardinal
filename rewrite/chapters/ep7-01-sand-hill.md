@@ -78,7 +78,7 @@ He would not live to see the full shape of what he started. Swanson died in 1999
 
 ## Who does not get through
 
-Studies of venture funding over the past several decades have consistently found that the overwhelming majority of American venture capital goes to companies in a handful of metropolitan areas, that the share going to companies founded solely by women has run in low single-digit percentages, and that the share going to Black founders has been lower still. [TK: cite most recent NVCA or academic study with year]
+Studies of venture funding over the past several decades have consistently found that the overwhelming majority of American venture capital goes to companies in a handful of metropolitan areas, that the share going to companies founded solely by women has run in low single-digit percentages, and that the share going to Black founders has been lower still. The partnerships making the decisions have had a comparable composition. <!-- kyle: ch/4-05 -->
 
 The industry's explanation is pattern matching: partners fund founders who resemble founders who have succeeded before. That explanation is honest and it describes a mechanism for reproducing an existing distribution indefinitely.
 

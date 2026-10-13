@@ -4,7 +4,9 @@
 
 **London / Menlo Park. 2014–2018.**
 
-[TK: Cambridge Analytica disclosures, affected account counts, dates — Wylie, *Mindf*ck*]
+In March 2018, reporting in the *Observer* and the *New York Times* described how a personality-quiz app had harvested Facebook data and passed it to the political consultancy Cambridge Analytica. On April 4, 2018, Facebook's chief technology officer, Mike Schroepfer, wrote that the company believed the information of up to **87 million** people — mostly in the United States — may have been improperly shared with Cambridge Analytica, a higher figure than the fifty-million estimate in earlier press accounts. (Facebook 2018; Reuters 2018-04-05; NYT 2018-04-04)
+
+The Federal Trade Commission's July 2019 administrative complaint against Cambridge Analytica alleged that the firm's app harvested profile data from roughly **250,000–270,000** users who installed it and from an additional **50–65 million** "friends" in those users' networks, including at least thirty million identifiable U.S. consumers. (FTC 2019, Cambridge Analytica complaint)
 
 ---
 
