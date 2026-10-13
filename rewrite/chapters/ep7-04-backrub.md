@@ -43,3 +43,11 @@ They concluded that it is crucial to have a competitive search engine that is tr
 Then they built the largest advertising-funded search engine in history.
 
 They would need a garage, venture capital, and a business model before the appendix caught up with them.
+
+Brin and Page had started from a simple observation about citations. Academic papers accrue authority because other papers cite them; the web, they reasoned, might work the same way if links were treated as votes. The Digital Libraries project gave them NSF-backed time and machines on campus. Every crawl packet left a trace in the department's logs. Every improvement in ranking made it harder to argue that BackRub was a hobby.
+
+Khosla forwarded the Excite pitch. Excite's executives looked at the price and at their own portal strategy and said no. They were not wrong that $1.6 million felt high for a graduate experiment. They were wrong about what the experiment would become.
+
+Stanford's licensing office watched the same traffic. Reimers's shop had learned from Cohen–Boyer that a patent filed early could fund a generation of labs. PageRank was not biology, but the form was identical: federally supported research, a disclosure, a title assigned to the university, a startup founded by the inventors, Sand Hill Road waiting to price the equity.
+
+The Excite number had made the university's share visible before the company existed. Three hundred thousand dollars for the license, inside a failed deal. When Google incorporated, the line item would return as shares.

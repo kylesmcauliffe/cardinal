@@ -32,6 +32,8 @@ The result aligned three interests that ordinarily conflict. Users got advertise
 
 ## Intent as an asset
 
+A magazine advertisement reaches people who happen to be reading a magazine. A television advertisement reaches people who happen to be watching. Both are sold on demographics, which is a guess about who is present. <!-- kyle: ch/4-12 -->
+
 A search query is a person stating, in their own words, at a specific moment, what they are trying to find. It is a declared intention, timestamped and immediately actionable, and its commercial value is correspondingly enormous. <!-- kyle: ch/4-12 -->
 
 Google did not invent human intention. It occupied the position between a stated desire and the market that could satisfy it, and priced the passage — which is what the Southern Pacific did to freight, what the studios did to films, and what Microsoft did to applications.
@@ -40,7 +42,7 @@ Each of these is the same toll in a different medium. This one turned out to be 
 
 ## The infrastructure underneath
 
-Serving search at web scale on commodity hardware required a different kind of computing, and Google built it: enormous numbers of inexpensive machines, software that assumed individual machines would fail constantly, and distributed systems for storing and processing data across all of them. <!-- kyle: ch/4-12 -->
+Serving search at web scale on commodity hardware required a different kind of computing, and Google built it: enormous numbers of inexpensive machines, software that assumed individual machines would fail constantly, and distributed systems for storing and processing data across all of them. The published papers describing these systems in the early 2000s were read very widely and were reimplemented in the open, which is where a substantial part of the modern data infrastructure industry comes from. <!-- kyle: ch/4-12 -->
 
 The company then built its own data centres, sited for electricity and cooling, and eventually designed its own chips.
 
