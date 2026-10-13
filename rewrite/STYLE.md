@@ -4,6 +4,15 @@
 - Write it like *O.J.: Made in America*: an eight-episode HBO or Netflix documentary on the page.
 - One complete story, told as established fact. The reader watches time pass, learns, and realizes things for themselves.
 
+## The bar
+- Aim for a nonfiction bestseller at the level of Erik Larson, Patrick Radden Keefe and Laura Hillenbrand.
+- **Openings:** strong. The first line of every chapter drops us into a person, place and moment.
+- **Momentum:** keep it.
+- **Characters:** vivid, drawn from sourced detail about appearance, habits and their own documented words.
+- **Chapters:** short and readable, about 2,000–3,500 words.
+- **Chapter endings:** page-turners, built on a revelation, a reversal or a door opening onto the next scene.
+- **Rigor:** all of this under strict nonfiction rules. Craft never licenses invention.
+
 ## Narrator
 - The narrator knows everything and already knows how it ends, like a detective or a time traveler: calm, certain, sometimes dry.
 - The narrator may foreshadow ("He would not live to see it finished"), but never lectures.
@@ -73,3 +82,7 @@
 5. **Write** the chapters into `rewrite/chapters/`.
 
 Ebook full text is NOT in the repo. Only short quotes are, in `rewrite/notes/`. If you need a quote that isn't there, mark `[TK: quote from <book>, <locator>]`.
+
+## Exclusions
+- Leave out all fiction and creative-exercise material. That includes anything involving "Trinity" as a character or voice, the epilogue's invented "traveller," and any invented scene, dialogue or composite.
+- See `rewrite/EXCLUDED.md`. Add anything new you find there; never delete it from the original files.
