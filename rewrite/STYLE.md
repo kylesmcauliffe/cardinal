@@ -13,9 +13,31 @@
 - **Chapter endings:** page-turners, built on a revelation, a reversal or a door opening onto the next scene.
 - **Rigor:** all of this under strict nonfiction rules. Craft never licenses invention.
 
+## Voice: Ambrose (primary model)
+Model: Stephen E. Ambrose, *Nothing Like It in the World*. Larson and Keefe are secondary, for pacing and chapter endings.
+
+Measured on the extracted text: the average sentence is about 18 words, roughly a third of sentences are 8 words or fewer, and there are about 10 quotation marks per 1,000 words, almost all from letters, telegrams and reports of the time.
+
+**Techniques**
+1. **Open on a date, a place and the weather, flatly.** Ambrose's Chapter One starts with a hot August day in Council Bluffs, then names who came to town. Write: *Date. Place. One physical fact. One person arriving.*
+2. **Long sentence, then a short one that lands.** For example: "Stanford swung and missed, striking only the rail. It made no difference." Use a run of detail, then a 3–8-word verdict.
+3. **A plainspoken narrator: admiration mixed with judgment in the same paragraph.** Praise the engineering and name the graft. Neither cancels the other, and no adjectives are needed to editorialize.
+4. **Let the letters talk.** Quote short lines from the people's own correspondence, telegrams and diaries, e.g. E. B. Crocker's "This is the hardest blow we have had." Put them inside the action, attributed and dated. One or two per scene keeps the voice of the time.
+5. **Make numbers human.** Turn miles a day, wages, tons and dollars into what they meant for a body or a crew: ten miles of track in one day becomes the men, the rails, the hours. Give the number, then the cost.
+6. **Dialogue only when a source records it.** Crocker told Strobridge it "had to be done." Short reported exchanges from the record, never invented ones.
+7. **Chapter shape:** a chronological push through a defined span (Ambrose titles chapters by span, e.g. "1867"). Open with arrival or departure, build through obstacles, and end on an outcome that tees up the next obstacle.
+
+**Real time (Kyle's key point)**
+- Stay inside the moment as it unfolds: what people knew then and did not yet know; the weather, distances, waiting and costs, as they were felt.
+- Use contemporary letters, diaries, telegrams and newspapers to keep the clock running.
+- Keep the past tense close to the action.
+- **No hindsight inside scenes.** The all-knowing narrator steps in only at scene edges.
+  - Inside: "The telegraph operator closed the circuit."
+  - At the edge: "Nobody in the crowd knew where the money had gone."
+
 ## Narrator
 - The narrator knows everything and already knows how it ends, like a detective or a time traveler: calm, certain, sometimes dry.
-- The narrator may foreshadow ("He would not live to see it finished"), but never lectures.
+- The narrator may foreshadow ("He would not live to see it finished") **only at scene edges**: the first or last lines of a scene or chapter. It never lectures.
 - Never stage a debate between historians. No "some scholars argue / others contend."
 - **Contested facts get one confident sentence, then move on.** For example: "The coroner's jury named strychnine; the university's president named her heart; the chemists had found the poison." Cite it.
 
