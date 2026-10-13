@@ -152,4 +152,6 @@ The telegram was the first instrument of that news at home. It would reach offic
 
 Two years earlier, President Arthur had signed exclusion into federal law. Two years earlier, seven men had died in a wheat field over posted prices. Six years earlier, Hopkins had died in a car at Yuma. The decade's ledger was full before the wire crossed the ocean.
 
+In California, men who still read Southern Pacific land notices would not learn the boy's name from the first wire. They would learn later that the senator's house had lost its heir. The valley and the sandlots and Chinatown would keep their own calendars. The telegram joined them only at the level of power: who would own what next, and what would be built when bloodline failed.
+
 Episode 3 ends on the wire from Florence. Episode 4 picks up in the fever room.
