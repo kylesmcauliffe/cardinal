@@ -124,7 +124,7 @@ The street signs on the way to Sand Hill Road already named railroad men, univer
 
 The appendix still said advertising would distort search. The auction made distortion profitable. The shares made distortion permanent for the institution that had hosted BackRub when the network failed on December 4, 1997, and apologized on a Stanford web page that the failure was beyond the students' control.
 
-When the company moved out of the garage, it did not move out of the corridor. Every later round, every default payment, every data-centre acre would still route through the same geography: graduate students from the Gates building, term sheets from Sand Hill, patents from the OTL, pension money from the ERISA clarification that had enlarged the funds waiting in those glass-walled offices. The garage was a photograph. The gate was the business. PayPal's parking lot was next, and the young men there would learn the same lesson in money before they learned it in politics.
+When the company moved out of the garage, it did not move out of the corridor. Every later round, every default payment, every data-centre acre would still route through the same geography: graduate students from the Gates building, term sheets from Sand Hill, patents from the OTL, pension money from the ERISA clarification that had enlarged the funds waiting in those glass-walled offices. The garage was a photograph. The gate was the business. PayPal's parking lot was next, and the young men there would learn the same lesson in money before they learned it in politics. The road would fund both exits.
 
 ## The IPO line
 
