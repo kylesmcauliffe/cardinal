@@ -8,7 +8,7 @@ Leland Stanford Jr. had been collecting antiquities with the seriousness of a ch
 
 The room smelled of heat and linen. Steam rose from bowls the nurses changed. Outside, Florence went on with carriages and church bells and the ordinary commerce of a city the Stanfords had chosen for culture, not for medicine. Leland Stanford paced hallways a father paces. Jane Stanford kept vigil. The boy who was meant to inherit a name and a fortune weakened by the day.
 
-He died on March 13, 1884 (Harris 2023, ch. 1.3). He was the Stanfords' only child.
+He died on March 13, 1884. He was the Stanfords' only child.
 
 The telegram that crossed the ocean in the days afterward did not carry the boy's name to California alone. It carried the end of a direct heir to one of the largest fortunes on the Pacific coast, and the beginning of a decision that would outlast every rail spike.
 
@@ -28,23 +28,7 @@ The court reporter, J. C. Bancroft Davis, prefaced the opinion with a headnote r
 
 It was cited, and cited again, and within a generation the proposition that corporations are persons for purposes of the Fourteenth Amendment was settled American law.
 
-### Getting this right
-
-<!-- kyle: ch/2-10 --> This episode is one of the most overstated in American legal history, and the precision matters more than the punchline.
-
-<!-- kyle: ch/2-10 --> The strongest sceptical account runs as follows. Corporate personhood did not originate in 1886 and was not created by a headnote. Corporations had been recognised as legal persons for many purposes for centuries; the question was which constitutional protections attached. The doctrine developed through subsequent decided cases over decades, in which the Court did rule on the question, and it would very likely have developed in a similar direction without Davis's note.
-
-Corporate personhood did not originate in 1886 and was not created by a headnote alone. Corporations had been recognized as legal persons for many purposes for centuries. The doctrine developed through subsequent cases over decades. Treating a clerical artifact as the sole cause of a fifty-year movement is bad legal history, and the skeptical account is correct.
-
-<!-- kyle: ch/2-10 --> All of that is correct, and this chapter concedes it.
-
-What remains is still remarkable, and it is structural rather than dramatic. <!-- kyle: ch/2-10 --> An amendment ratified in 1868 to secure the rights of people freed from slavery became, within two decades, an instrument regularly and successfully invoked by the largest corporation in the western United States. In the decades following *Santa Clara*, Fourteenth Amendment cases brought by corporations vastly outnumbered those brought by Black litigants, and the corporations won far more often.
-
-Whatever the path, the result is that a protection written for the most vulnerable class in the country did its most consistent work for the most powerful. That is the migration this episode has been tracing: monopoly moving out of the physical layer and into the legal one.
-
-What remains is still remarkable. An amendment ratified in 1868 to secure the rights of people freed from slavery became, within two decades, an instrument regularly invoked by the largest corporation in the western United States. In the decades following *Santa Clara*, Fourteenth Amendment cases brought by corporations vastly outnumbered those brought by Black litigants. Davis, it turns out, had once served as president of the Newburgh and New York Railway Company (Winkler 2018, ch. 4). <!-- bib: winkler-we-the-corporations -->
-
-Winkler's chronology notes that Davis included a headnote saying the Supreme Court held that corporations were persons — an inaccuracy in the strict sense, because the Court's holding decided the fence tax, not personhood (Winkler 2018, Chronology). Lawyers cited the headnote anyway until it became doctrine. The railroad lost the fence tax argument and won something larger in the citations.
+The headnote did not invent corporate personhood; the Court's holding decided the fence tax, and the doctrine grew through later cases. But J. C. Bancroft Davis, the reporter who wrote it, had once been president of the Newburgh and New York Railway Company, and he put the sentence at the top of the report. Lawyers cited it until it became doctrine. Within two decades an amendment ratified in 1868 to protect people freed from slavery was being invoked far more often, and far more successfully, by corporations than by Black litigants. The railroad lost the fence tax argument and won something larger in the citations.
 
 ### The octopus, named later
 
@@ -78,7 +62,7 @@ The Stanfords had money enough to hire the best doctors Florence offered. Typhoi
 
 Leland Jr.'s antiquities sat in cases or crates, depending on how far packing had progressed. His parents had crossed the ocean for education and culture. They would cross back with ashes and a decision forming in grief before it had words.
 
-March 13, 1884, was two months before the birthday he would not reach (Harris 2023, ch. 1.3). The date would be fixed in university lore later. On the day itself it was only a death in a hotel room, reported by wire to men who understood heirs.
+March 13, 1884, was two months before the birthday he would not reach. The date would be fixed in university lore later. On the day itself it was only a death in a hotel room, reported by wire to men who understood heirs.
 
 ### How the wire worked
 
@@ -106,11 +90,11 @@ The fortune remained. The passage remained. The question, which the next episode
 
 Jane Stanford would keep the boy's memory close for the rest of her life. Spiritualists would later claim seats at her table. Grief would outspend reason before it outspent cash. None of that was in the wire. The wire only said the line of descent had broken.
 
-Leland Stanford would turn from collecting antiquities for a son to founding an institution that would claim California's children as its own. Harris records the vow: "The children of California shall be our children," Stanford told Jane when they decided to build Palo Alto (Harris 2023, intro). That sentence belongs to the next episode. This one stops when the cable goes under the sea.
+Leland Stanford would turn from collecting antiquities for a son to founding an institution that would claim California's children as its own. Harris records the vow: "The children of California shall be our children," Stanford told Jane when they decided to build Palo Alto. That sentence belongs to the next episode. This one stops when the cable goes under the sea.
 
 ### Buying the government, at the edge
 
-<!-- kyle: ch/2-10 --> Collis Huntington ran the Washington end from a permanent office, and his correspondence with the company's western agent survives because it was produced in litigation and published. In it he discusses the purchase of congressional votes with a flatness that startled contemporaries and still does. The letters are the best single primary source on how the operation actually worked, published from litigation rather than from a century of paraphrase (repo ch 2-10; Rayner 2008, ch. 9).
+<!-- kyle: ch/2-10 --> Collis Huntington ran the Washington end from a permanent office, and his correspondence with the company's western agent survives because it was produced in litigation and published. In it he discusses the purchase of congressional votes with a flatness that startled contemporaries and still does. The letters are the best single primary source on how the operation actually worked, published from litigation rather than from a century of paraphrase.
 
 That operation continued while the boy died in Florence. It continued while Davis wrote his headnote. It did not pause for grief or for exclusion. The Associates aged. The Southern Pacific grew.
 
@@ -118,13 +102,13 @@ That operation continued while the boy died in Florence. It continued while Davi
 
 Jane Stanford kept house on Nob Hill and on the road. In Florence she kept vigil while doctors failed. She would outlive the boy by decades. She would run a university in probate. She would fire a president. She would die by strychnine in a hotel on another continent. None of that was in March 1884. In March 1884 she was a mother watching typhoid take an only child.
 
-Spiritualism would come later, when grief sought voices. This chapter stops at death and wire.
+Spiritualism would come later, when grief sought voices.
 
 ### Leland Sr. without an heir
 
 Leland Stanford had been governor. He would be senator. He had built a fortune on passage and land and rates. Without Leland Jr., the fortune needed a story that did not depend on a teenager collecting antiquities.
 
-The wire made that need urgent. The university vow would follow. Harris records Stanford telling Jane, when they decided to build Palo Alto, that the children of California would be their children (Harris 2023, intro). That sentence is the bridge to Episode 4. This episode refuses to state it as thesis. It only notes that grief and money together build institutions when heirs disappear.
+The wire made that need urgent. The university vow would follow. Harris records Stanford telling Jane, when they decided to build Palo Alto, that the children of California would be their children. That sentence is the bridge to Episode 4. This episode refuses to state it as thesis. It only notes that grief and money together build institutions when heirs disappear.
 
 <!-- kyle: ch/2-12 — grief and Founding Grant setup; thesis sentence in source omitted per Ep 8 rule -->
 
@@ -132,15 +116,9 @@ The wire made that need urgent. The university vow would follow. Harris records 
 
 Return once more to the fence, because the episode's legal turn is easy to caricature and the sources insist on precision.
 
-The county assessor valued railroad property including fences along the track. The Southern Pacific objected. The Court's holding turned on assessment mechanics, not on whether corporations have souls. Davis prefaced the published opinion with a headnote about the Chief Justice's bench remark on the Fourteenth Amendment. Winkler notes the headnote was inaccurate as a description of a holding (Winkler 2018, Chronology). Citation culture treated it as gospel anyway.
+The county assessor valued railroad property including fences along the track. The Southern Pacific objected. The Court's holding turned on assessment mechanics, not on whether corporations have souls. Davis prefaced the published opinion with a headnote about the Chief Justice's bench remark on the Fourteenth Amendment. Winkler notes the headnote was inaccurate as a description of a holding. Citation culture treated it as gospel anyway.
 
 That is the doctrinal edge beside Mussel Slough's physical edge and exclusion's social edge. Three kinds of force, one company still standing when the Florence wire arrived.
-
-### Closing the decade
-
-Episode 3 opened in a wheat field with seven dead. It passed through sandlots, a private car in Yuma, a signing desk in Washington, and a headnote about fences. It ends with a cable under the ocean.
-
-The reader who has watched the decade knows what monopoly did when it met courts and crowds. The reader does not yet know what grief would build on the farm south of the city, where a horse would freeze mid-stride in a line of cameras and a university would open its doors to orphans and engineers alike.
 
 ### March 1884, end
 

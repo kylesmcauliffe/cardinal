@@ -4,7 +4,7 @@
 
 **Stanford. Autumn 1906.**
 
-The test sheet lay on the desk in neat rows: vocabulary, analogies, arithmetic, a column for the examiner to enter a number at the end. Lewis Terman had been revising Alfred Binet's French instrument for American schools, and what he wanted from it was not what Binet had wanted. Binet had designed his scale to find children who needed help. Terman's Stanford revision, published in 1916, would produce a single score intended to represent a stable, largely inherited general capacity — something you could administer to a roomful of recruits and sort (Harris 2023, ch. 2.2).
+The test sheet lay on the desk in neat rows: vocabulary, analogies, arithmetic, a column for the examiner to enter a number at the end. Lewis Terman had been revising Alfred Binet's French instrument for American schools, and what he wanted from it was not what Binet had wanted. Binet had designed his scale to find children who needed help. Terman's Stanford revision, published in 1916, would produce a single score intended to represent a stable, largely inherited general capacity — something you could administer to a roomful of recruits and sort.
 
 In 1906 the revision was still in progress. Terman was thirty years old, a psychologist on a campus whose first president had spent twenty years arguing that nations rose and fell on heredity. The sheet on the desk was an interface waiting for a nation that was about to ask for one.
 
@@ -14,7 +14,7 @@ David Starr Jordan was one of the most distinguished American scientists of his 
 
 He was also the man who named the campus. Alvarado Row, and a long list of Spanish and Mexican officials still on the signs, were Jordan's choices: a taxonomist arranging the dead the way he arranged fish, so that students would walk through a classification of California power. The building that carried his own name was renamed in 2020. The streets he assigned were not.
 
-He was also chairman of the eugenics committee of the American Breeders Association, an early and influential advocate of sterilisation legislation, and the author of works arguing that the quality of a nation is a matter of heredity and that social policy should be organised accordingly (Harris 2023, ch. 2.2).
+He was also chairman of the eugenics committee of the American Breeders Association, an early and influential advocate of sterilisation legislation, and the author of works arguing that the quality of a nation is a matter of heredity and that social policy should be organised accordingly.
 
 All of this is the same man, at the same time, and the record is more damning for refusing to separate the parts. Eugenics in the first decades of the twentieth century was not a fringe enthusiasm held by cranks. It was mainstream progressive science, held by university presidents, public health officials, conservationists, and social reformers, and it was attractive precisely to people who believed that expertise should govern.
 
@@ -82,17 +82,11 @@ The boy who would run Harvard's radar laboratory in the next war was eleven year
 
 ## What was done, and to whom
 
-The 1909 law was amended and broadened in 1913 and again in 1917. The operations were performed at state hospitals including Sonoma and Patton. The people subjected to them were overwhelmingly poor, disproportionately Mexican and Black, institutionalised and unable to consent.
-
-Individual cases survive in institutional files — names reduced to case numbers, diagnoses written in the language of the era, signatures of superintendents who believed they were performing public health. The chapter owes them presence as people, within what the record preserves, because the argument about heredity was not abstract. It authorized knives.
+Individual cases survive in institutional files — names reduced to case numbers, diagnoses written in the language of the era, signatures of superintendents who believed they were performing public health. It authorized knives.
 
 ## Berkeley's parallel
 
 Berkeley's parallel track in urban planning and restrictive covenants applied the science of sorting to a map. The university on the farm and the university across the Bay were both producing expertise that explained who should live where and who should not reproduce. The street names Jordan chose on campus — Alvarado, Lasuen, the Spanish officials — were a taxonomist's walk through conquest. Students still passed under them in 1906 when the spire fell.
-
-## The export, flagged
-
-German officials studied California's sterilisation programme in the 1920s and 1930s, and the Human Betterment Foundation was founded in 1928. Both lie outside this chapter's window. One sentence is enough: the export of the argument was real, and it was noticed abroad.
 
 ## Terman in 1916
 
@@ -106,7 +100,7 @@ By the 1920s the campus cap on women, the housing exclusions, and the testing ap
 
 ## Graduate School of Business
 
-The Graduate School of Business opened in 1925 among the earliest on the west coast. An undergraduate degree certifies general capability. A graduate business degree certifies fitness for management for people already in the working world — a second gate that re-sorts people who passed the first (`books/cardinal/ch/3-06-credentialing-interface.qmd`).
+The Graduate School of Business opened in 1925 among the earliest on the west coast. An undergraduate degree certifies general capability. A graduate business degree certifies fitness for management for people already in the working world — a second gate that re-sorts people who passed the first.
 
 ## Jordan until 1913
 

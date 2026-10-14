@@ -4,7 +4,7 @@
 
 **Stanford, California. January 1997.**
 
-The Gates Computer Science building was quiet after hours, but the network was not. Larry Page had been crawling the web from Stanford's machines for months. He called the project BackRub. That's why Page called his system BackRub. (Levy 2011, ch. 1) <!-- bib: TODO -->
+The Gates Computer Science building was quiet after hours, but the network was not. Larry Page had been crawling the web from Stanford's machines for months. He called the project BackRub. <!-- bib: TODO -->
 
 The name was literal. A search engine that ranked pages by who linked to them was measuring the web's back links — the citations of the open internet, the way footnotes work in a journal. Sergey Brin had joined the effort; together they were graduate students on federally supported research, turning a library problem into an engineering one.
 
@@ -20,15 +20,15 @@ Page had started from academic citations. Brin brought the statistical machinery
 
 ## Excite
 
-Vinod Khosla was on the board of Excite, the portal that had grown out of the same Stanford orbit a few years earlier. Khosla had co-founded Sun Microsystems and was now a partner at Kleiner Perkins on Sand Hill Road — the same corridor Eugene Kleiner had opened in 1972, a few minutes from the quad. (Berlin 2017, ch. 15) <!-- bib: TODO -->
+Vinod Khosla was on the board of Excite, the portal that had grown out of the same Stanford orbit a few years earlier. Khosla had co-founded Sun Microsystems and was now a partner at Kleiner Perkins on Sand Hill Road — the same corridor Eugene Kleiner had opened in 1972, a few minutes from the quad. <!-- bib: TODO -->
 
-Page wanted to finish his doctorate. He also believed BackRub could make money immediately if someone with traffic would license it. In January 1997 he emailed Khosla a plan for Excite to buy the technology. "Excite's total outlay would be $1.6 million, including $300,000 to Stanford for the license." (Levy 2011, ch. 1) <!-- bib: TODO -->
+Page wanted to finish his doctorate. He also believed BackRub could make money immediately if someone with traffic would license it. In January 1997 he emailed Khosla a plan for Excite to buy the technology. "Excite's total outlay would be $1.6 million, including $300,000 to Stanford for the license." <!-- bib: TODO -->
 
 Stanford's cut sat inside the pitch like a line item on a grocery receipt. The university was not an afterthought. It was part of the price.
 
 Khosla arranged the meeting that mattered. Excite had taken venture money and, like many Valley firms of the period, had been told to hire adult supervision. George Bell, a magazine executive, ran the company now. In Bell's office the Stanford team opened two windows on the same monitor: Excite's search and BackRub's. They typed the query "Internet."
 
-Levy's account of what happened next is a parable about the wrong metric. Excite's results, according to the contemporaries Levy interviewed, surfaced pages where the English word appeared among unrelated text. BackRub returned pages that actually explained how to use browsers — the answer a person typing "Internet" in 1997 likely wanted. Bell worried that a search engine which solved the query too well would send users away. Portals in that era sold advertising against time on site; relevance was secondary to stickiness. (Levy 2011, ch. 1; paraphrase in rewrite/notes/Levy-In-the-Plex.md)
+Levy's account of what happened next is a parable about the wrong metric. Excite's results, according to the contemporaries Levy interviewed, surfaced pages where the English word appeared among unrelated text. BackRub returned pages that actually explained how to use browsers — the answer a person typing "Internet" in 1997 likely wanted. Bell worried that a search engine which solved the query too well would send users away. Portals in that era sold advertising against time on site; relevance was secondary to stickiness.
 
 Excite passed.
 
@@ -36,7 +36,7 @@ Khosla reportedly floated a lower cash figure — seven hundred fifty thousand d
 
 ## Reimers
 
-Niels Reimers was not in the room at Excite. He did not need to be. His office at Stanford's technology licensing shop had already learned the Cohen–Boyer lesson: federally funded science, filed early, licensed broadly, could return hundreds of millions to the university. (Berlin 2017, pt. 3) <!-- bib: TODO -->
+Niels Reimers was not in the room at Excite. He did not need to be. His office at Stanford's technology licensing shop had already learned the Cohen–Boyer lesson: federally funded science, filed early, licensed broadly, could return hundreds of millions to the university. <!-- bib: TODO -->
 
 When Reimers filed on recombinant DNA, critics inside Stanford said the application risked undermining the university's fundamental mission. The same tension applied to PageRank. A public institution was about to patent the map of the public web, developed on its machines with public grants, and lease it back to its own students.
 
@@ -46,7 +46,7 @@ Reimers's structural answer, reduced to its bones, was that if Stanford did not 
 
 The university owned the patent.
 
-PageRank was developed on federally funded research at Stanford — the Digital Libraries project, supported by the National Science Foundation among others — and under the Bayh–Dole arrangement the university took title. It would license the patent to the company exclusively, in exchange for fees and shares. Patent 6,285,999, "Method for node ranking in a linked database," lists Lawrence Page as inventor and Stanford as assignee. (rewrite/research/chronology.md; Levy 2011, ch. 1–2)
+PageRank was developed on federally funded research at Stanford — the Digital Libraries project, supported by the National Science Foundation among others — and under the Bayh–Dole arrangement the university took title. It would license the patent to the company exclusively, in exchange for fees and shares. Patent 6,285,999, "Method for node ranking in a linked database," lists Lawrence Page as inventor and Stanford as assignee.
 
 The equity leg mattered as much as the license fee. Chronologies of the deal report roughly 1.8 million shares to Stanford in exchange for exclusive rights — the university becoming a shareholder in the chokepoint its own students built. After the 2004 initial public offering, Stanford would sell most of those shares for on the order of three hundred thirty-six million dollars. <!-- kyle: ch/4-12 -->
 

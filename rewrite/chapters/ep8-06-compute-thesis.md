@@ -4,7 +4,7 @@
 
 **The Dalles, Oregon. 2006.**
 
-Google broke ground on a data centre campus near the Columbia River in The Dalles, Oregon — a town that wanted the jobs and accepted the water and power draw. Press accounts at the time described the facility as part of a new generation of internet infrastructure sited for cheap electricity and cooling, not for proximity to users. (NYT 2006-06-14; AP 2006)
+Google broke ground on a data centre campus near the Columbia River in The Dalles, Oregon — a town that wanted the jobs and accepted the water and power draw. Press accounts at the time described the facility as part of a new generation of internet infrastructure sited for cheap electricity and cooling, not for proximity to users.
 
 A building sized for the price of electricity, drawing the load of a small city, is the physical form of the current chokepoint.
 
@@ -37,12 +37,6 @@ important, essentially all of the research tooling had been written against
 Nvidia's hardware. That software ecosystem is a switching cost, and it is at
 least as important as the silicon.
 
-The chapter states market share figures with a date and a definition or not at
-all, because accelerator share depends entirely on how the market is drawn —
-whether in-house designs by the cloud providers are counted, whether inference
-is separated from training, whether revenue or units are measured. The drafts of
-this project carried a round number with no source, and it has been removed.
-
 What is durable: through the 2020s a single firm supplied the great majority of
 merchant accelerators used for frontier model training, its allocation decisions
 determined which laboratories could train what, and its market capitalisation
@@ -51,14 +45,13 @@ rose to a level that placed it among the most valuable companies ever listed.
 The Standard Oil comparison is apt in the specific respect that matters. A
 single firm astride a passage that everyone downstream must use, with pricing
 power over an entire industry, is the same structural position — and the same
-position the Central Pacific held over California freight in Act I chapter 9.
+position the Central Pacific held over California freight.
 It is not apt in others: Nvidia does not own the refineries, competition exists,
 and the position depends on continued technical leadership rather than on
 infrastructure that cannot be duplicated.
 
-Fabrication, from chapter 2 of this act, is the deeper constraint. Nvidia
-designs and does not manufacture — the fabless model that Act III traced from
-Nike's contract factories through the semiconductor industry — and the
+Fabrication is the deeper constraint. Nvidia
+designs and does not manufacture — the fabless model that ran from Nike's contract factories through the semiconductor industry — and the
 manufacturing is concentrated in Taiwan.
 
 So the most valuable position in the American economy depends on a small number
@@ -71,9 +64,7 @@ faster than any consumer product before it.
 The frequently cited figure of a hundred million users within two months
 originates in an investment bank's estimate based on third-party traffic data,
 not in a company disclosure, and it is repeated everywhere without that
-qualification. The chapter uses company-reported weekly active user figures
-where they exist, with dates, and states the definition in the text, because in
-this industry the definition of a user does most of the work.
+qualification.
 
 The clearest available test of whether governance structures constrain this
 class of organisation ran for five days.
@@ -95,8 +86,7 @@ a week to a combination of employee equity interests and investor pressure.
 
 Whatever one thinks of the merits, the structural finding is unambiguous: a
 governance mechanism designed specifically to constrain commercial logic in the
-most consequential technology of the era was tested once and failed. The chapter
-does not need to argue this. It happened.
+most consequential technology of the era was tested once and failed. It happened.
 
 And the triangle reassembles.
 
@@ -106,7 +96,7 @@ laboratories procure compute at scale. Sovereign wealth funds from the Gulf have
 committed very large sums to AI infrastructure. Defence agencies are among the
 significant customers for frontier capabilities.
 
-Act II chapter 11's arrangement — state demand, corporate production,
+the earlier arrangement — state demand, corporate production,
 university research, public money, private returns — is running again, at larger
 scale, under the name of industrial policy.
 
@@ -121,7 +111,7 @@ The people who labelled the training data, working through outsourcing firms in
 Kenya, in the Philippines, in India, and in Venezuela, paid a few dollars an
 hour to classify text and images including material selected precisely because
 it is disturbing. Reporting on this has been extensive and the arrangement is
-the content moderation system of chapter 3 applied to a new purpose.
+the content moderation system applied to a new purpose.
 
 The writers, artists, photographers, and programmers whose work was used as
 training data without consent, compensation, or in most cases knowledge. The
@@ -214,11 +204,10 @@ in.
 A book that only reports confirmations is a polemic. Here is where this one is
 most exposed.
 
-**The Santa Clara headnote.** Act I chapter 10 gives prominence to an episode
+**The Santa Clara headnote.** Episode 3 gives prominence to an episode
 that specialists consider substantially overstated. Corporate personhood
 developed over decades through decided cases, and the headnote did not create
-it. The chapter concedes this and still uses the episode, and a reader is
-entitled to think it is doing more work than the evidence supports.
+it.
 
 **Selection versus causation.** The book's central structural claim is that the
 corridor persists because chokepoints reproduce there. The competing explanation
@@ -230,7 +219,7 @@ cannot be fully answered, because the two explanations predict most of the same
 observations.
 
 **Single-source chapters.** Several chapters rest more heavily than is ideal on
-one account, particularly in Act I and in the parts of Act III that depend on
+one account, particularly in Episodes 1 to 4 and in the parts of Episode 7 that depend on
 institutional histories written by participants.
 
 **Counterfactuals.** The book argues that secession chose the railroad route and
@@ -304,6 +293,6 @@ those. It has gravity.
 
 ## January 20, 2025
 
-Back in the rotunda on January 20, 2025, the men who owned the indexes and the accelerators sat where the cameras could see them. Musk. Zuckerberg. Bezos. Pichai. Cook. Behind the family. Ahead of the cabinet. (Collins 2025; AP News 2025)
+Back in the rotunda on January 20, 2025, the men who owned the indexes and the accelerators sat where the cameras could see them. Musk. Zuckerberg. Bezos. Pichai. Cook. Behind the family. Ahead of the cabinet.
 
 Rail controlled movement. Stanford controls succession.

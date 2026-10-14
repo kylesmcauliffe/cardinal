@@ -4,9 +4,9 @@
 
 **Palo Alto, California. 1999.**
 
-Elon Musk had enrolled at Stanford for a PhD in applied physics in 1995. "As the story goes," Ashlee Vance writes, Musk dropped out after two days to start Zip2. (Vance 2015) <!-- bib: TODO --> By 1999 he was running X.com on University Avenue, two blocks from where Hoover had once fed Belgium from an archive crate.
+Elon Musk had enrolled at Stanford for a PhD in applied physics in 1995. "As the story goes," Ashlee Vance writes, Musk dropped out after two days to start Zip2. <!-- bib: TODO --> By 1999 he was running X.com on University Avenue, two blocks from where Hoover had once fed Belgium from an archive crate.
 
-Musk's joy when the X.com debit card successfully spit out money at an ATM close to the company's Palo Alto office is preserved in a photograph in Jimmy Soni's account of the period (Soni 2022). <!-- bib: TODO -->
+Musk's joy when the X.com debit card successfully spit out money at an ATM close to the company's Palo Alto office is preserved in a photograph in Jimmy Soni's account of the period. <!-- bib: TODO -->
 
 The product was money by email. The fight was over who would own the network.
 
@@ -27,9 +27,7 @@ Founders Fund. One mid-sized exit capitalised an entire generation.
 feature that named them a mafia and, in doing so, told them they were one. Self-
 description as a network-formation event.
 
-whom the same capital was not available on the same terms. The chapter should
-resist admiration: the network's efficiency at reproducing itself is precisely
-the barrier.
+whom the same capital was not available on the same terms.
 
 modest financial outcome produce an enduring concentration of capital and
 influence.
@@ -45,7 +43,7 @@ $1.5 billion. The business itself was frequently in trouble — fraud losses,
 dependence on a single marketplace, and a management fight that removed Musk as
 chief executive while he was on a plane.
 
-The durable asset was the address book. The proceeds and the relationships from
+ The proceeds and the relationships from
 that one exit capitalised Tesla, SpaceX, LinkedIn, Palantir, YouTube, Yelp, and
 Affirm, and supplied partners to Sequoia and Founders Fund. Peter Thiel, Reid
 Hoffman, Max Levchin, David Sacks, Roelof Botha, Keith Rabois, and Musk have
@@ -53,29 +51,16 @@ funded, advised, and recruited for one another for a quarter of a century.
 
 shared risk assessment, dramatically lowered transaction costs, and trust as a
 form of capital — which is a credentialing system with no examination and no
-institution, and Act I's chapters on Greek schools and Chinese examinations are
+institution, and the earlier chapters on Greek schools and Chinese examinations are
 the comparison the chapter reaches for. It also has a coherent and consequential
-politics held largely in common, and Act IV will show what that produces.
+politics held largely in common.
 
-The chapter resists admiration. The efficiency with which the network reproduces
+The efficiency with which the network reproduces
 itself is precisely the barrier facing everyone outside it, and founders without
 access to that address book were not raising money on the same terms.
 
 A ruling class assembled from one company's payroll. This book's thesis, running
 at the scale of a staff photograph.
-
-   fact that the joke described something real.
-   company; the merger and the management fight.
-   unromantic — the company was in trouble more often than not.
-   what follows, small.
-   This is the chapter's engine and it should be concrete.
-   Founders Fund. Founding dates and cross-investments, so the network is
-   visible as a structure rather than an anecdote.
-   costs, and trust as capital. Return to Act I ch. 2 and Act I ch. 6: this is a
-   credentialing system with no examination and no institution.
-   common and funded in common. Describe accurately; Act IV ch. 4 and ch. 7 will
-   show the consequences.
-   thesis, running at the scale of a staff photograph.
 
 How does a failed startup become a ruling class?
 
@@ -142,15 +127,11 @@ expensive. A group that has already assessed each other under pressure can move
 faster and with more conviction than anyone outside it, and speed and conviction
 are what win competitive deals.
 
-This is a credentialling system with no examination and no institution. Act I
-chapter 2 described a school converting a method into a certificate that states
-would buy; Act I chapter 6 described an empire administering the certificate at
-industrial scale. This is the same function performed by a shared employment
+This is a credentialling system with no examination and no institution. Stanford had been built to issue exactly that kind of certificate. This is the same function performed by a shared employment
 history and a photograph.
 
 The group also holds, in substantial part, a coherent set of political
-commitments, and they are consequential enough that Act IV cannot be understood
-without them.
+commitments.
 
 Thiel has been explicit for two decades: a scepticism about the compatibility of
 democracy and freedom as he defines them, a conviction that competition is
@@ -164,8 +145,7 @@ later. Others in the group have funded candidates, founded political
 organisations, and acquired media. Musk bought a communications platform in 2022
 and subsequently took a role in the federal government.
 
-The chapter records this without alarm, because alarm is not the register, and
-because the facts are on public disclosure filings. What it records is that a
+What it records is that a
 group of colleagues from one company's payroll in 2002 held, twenty years later,
 positions in defence software, space launch, electric vehicles, social
 networking, payments, venture capital, and national politics.
@@ -194,8 +174,7 @@ reoriented by one of them on explicitly political grounds.
 
 view about the inadequacy of public institutions, held by people with the
 capital and the network to act on it, produces a systematic pattern of private
-substitution — and that Act IV is largely a record of what that substitution
-looks like when it succeeds.
+substitution.
 
 The efficiency of the network is precisely the problem for everyone outside it.
 
@@ -205,21 +184,18 @@ composition of that process looks like. The network lowers transaction costs for
 its members by raising them, relatively, for everybody else, which is what a
 network always does and is the reason concentration compounds.
 
-Act I chapter 6 described an examination that was formally open to all and
-practically available to families who could support years of preparation. This
+Admission to Stanford had long been formally open to all and practically available to families who could support years of preparation. This
 is the same structure with the examination removed. A ruling class assembled
 from one company's staff list, reproducing by introduction.
 
 ## October 2002
 
-PayPal went public in February 2002 and was acquired by eBay in October of that year for roughly one and a half billion dollars in stock.
-
 That is a good outcome and an unremarkable one. Several dozen companies of the period did comparably well.
 
-What made this one different is what the participants did with the proceeds and with each other. Musk put most of his share into SpaceX and Tesla. Thiel founded Palantir in 2003 and made the first outside investment in Facebook in 2004. Hoffman would build LinkedIn. Levchin would start Affirm. The address book became a governing class.
+ Musk put most of his share into SpaceX and Tesla. Thiel founded Palantir in 2003 and made the first outside investment in Facebook in 2004. Hoffman would build LinkedIn. Levchin would start Affirm. The address book became a governing class.
 
-In 2007 *Fortune* photographed a group of former PayPal employees dressed as a crime family and ran the picture under the label the PayPal Mafia. It was a joke about a real thing, and by naming it the magazine made it more so.
+In 2007 *Fortune* photographed a group of former PayPal employees dressed as a crime family and ran the picture under the label the PayPal Mafia.
 
 The young men walked out with cash and a network. The road had done its work again.
 
-Nobody in the parking lot that afternoon knew which of them would sit in a rotunda twenty-three years later, behind a president and ahead of a cabinet. (Collins 2025; AP News 2025)
+Nobody in the parking lot that afternoon knew which of them would sit in a rotunda twenty-three years later, behind a president and ahead of a cabinet.

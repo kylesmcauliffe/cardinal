@@ -43,19 +43,6 @@ the list is the argument.
 The grid is a ledger. It has been legible the entire time and nobody reads it,
 which is what subliminal means.
 
-   decided.
-   empire, French streets and artists, most American streets and politicians or
-   trees. Establish the contrast before making the claim.
-   II ch. 1, still on the map.
-   names are, and what kind of thing carries them — a university, a hotel, a
-   library, a hill.
-   Terman. Note the renamings specifically: what a society does when a name
-   becomes unusable is itself evidence.
-   buildings of the campus. Donors as toponymy.
-   guide, slotted into the layer each belongs to. Do not catalogue the campus.
-   and what is not. Do this without comment; the list is the argument.
-   nobody reads it, which is what subliminal means.
-
 What does a civilisation look like from its street signs?
 
 Read a street sign as a document and it answers four questions. Who is
@@ -93,8 +80,7 @@ who walked it. Junípero Serra Boulevard holds the western edge. Lasuen Mall,
 the Olmsted axis through the Quad, is named for Serra's successor. Mendoza Road
 is named for the first viceroy of New Spain. El Camino Real, the royal road, is
 still the Peninsula's main street. The towns themselves — San Mateo, San Carlos,
-San Bruno, Santa Clara, San José — are mission and saint names. Act I chapter 1
-is a drive you can still take.
+San Bruno, Santa Clara, San José — are mission and saint names. The Portolá road is a drive you can still take.
 
 **The rancho layer.** Alvarado Row was named by David Starr Jordan for Juan
 Bautista Alvarado, the governor who led the 1836 revolt against Mexican
@@ -143,7 +129,7 @@ donor era in its ordinary form: a construction family, a Berkshire partner, a
 name on the housing stock.
 
 The full table is in Appendix A. The argument does not depend on any single
-sign. It depends on the sequence, which is already a walk.
+sign.
 
 The sharpest section is the negative one, and it consists of going through the
 previous chapter's ledger and asking what is named after each entry.
@@ -219,7 +205,7 @@ The light is going. Campus empties. The narrator walks without a companion — o
 
 Gálvez Street runs toward Serra. Lasuen Mall cuts the Quad. El Camino Real is still the Peninsula's main street. Turn onto Alvarado Row, named by David Starr Jordan for a governor whose grandfather had walked with Portolá. Stanford Avenue leads to Jane Stanford Way — renamed from Serra Mall in 2020, the same review that took Jordan's name off a biology building while leaving the boulevard's saint in place.
 
-Hoover Tower holds the archive. Terman and Page Mill name the engineering district. Sand Hill Road is four minutes from the Quad.
+Hoover Tower holds the archive. Terman and Page Mill name the engineering district.
 
 The street signs are twelve feet up and lit at night. <!-- kyle: ch/5-11 -->
 

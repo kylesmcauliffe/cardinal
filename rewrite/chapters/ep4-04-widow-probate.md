@@ -12,9 +12,7 @@ On campus, the question was narrower and more urgent: who pays the geology instr
 
 The university had four hundred students. Four hundred payrolls worth of hope that probate would end before enrolment collapsed. Each month without endowment release was a month the institution lived on allowance, jewelry, and nerve.
 
-In 1894 the federal government sued the Stanford estate for fifteen million dollars, claiming Leland Stanford was personally liable for the Central Pacific's unpaid debts to the United States under the Pacific Railway Act (repo ch 2-13). Until that suit was resolved, no money could flow from the estate to the university. The payroll still came due.
-
-This chapter belongs to Jane Stanford, who was not merely a widow in mourning but the executive who kept the doors open.
+In 1894 the federal government sued the Stanford estate for fifteen million dollars, claiming Leland Stanford was personally liable for the Central Pacific's unpaid debts to the United States under the Pacific Railway Act. Until that suit was resolved, no money could flow from the estate to the university. The payroll still came due.
 
 Leland Stanford's funeral drew dignitaries. Newspapers eulogized the railroad baron turned educator. The balance sheet underneath was uglier: creditors circling, students enrolling, faculty expecting June paychecks in a June when the founder's accounts locked.
 
@@ -36,7 +34,7 @@ Jane Stanford delivered all three longer than the drafts of history usually cred
 
 ### The household allowance
 
-What she did over the following six years deserves plain description (repo ch 2-13).
+What she did over the following six years deserves plain description.
 
 She kept the institution open. She argued successfully that faculty were her personal servants so their salaries could be paid from the household allowance the probate court permitted her—a lawyer's device and an effective one. She cut expenditure to the bone. She closed the university's construction program when new stone could wait. She sold personal property. She offered her jewels, a gesture romanticized in later accounts; the collection was genuinely enormous, and its eventual sale did fund a library.
 
@@ -52,7 +50,7 @@ The drafts that made her only a grieving spiritualist missed the ledgers she rea
 
 Herbert Hoover was still a student when the panic hit. Born in 1874, he had entered with the pioneer class in October 1891. By June 1893 he was not yet graduated. He watched the founder die and the estate lock without knowing whether his free tuition would outlast the term.
 
-Branner's geology department continued. Classes met. The orphan who had been adopted by professors felt the institution wobble and did not leave. Typhoid would strike him later; Branner would pay the bills (Harris 2023, ch. 2.3). The university's habit of keeping its favored children would deepen in those years because the alternative was sending them home to empty accounts.
+Branner's geology department continued. Classes met. The orphan who had been adopted by professors felt the institution wobble and did not leave. Typhoid would strike him later; Branner would pay the bills. The university's habit of keeping its favored children would deepen in those years because the alternative was sending them home to empty accounts.
 
 Hoover learned extraction in labs while Jane extracted cash from allowances and sales. The parallel is not poetry. It is staffing. The school needed bodies in seats to justify its existence. Hoover was one of them.
 
@@ -62,7 +60,7 @@ The government's claim was enormous because the railroad's federal financing had
 
 Jane argued the university was separate. She argued the estate's structure. She argued in person when argument required a widow's face in a committee room.
 
-In 1895 the suit was decided in the estate's favor. In 1896 the Supreme Court affirmed: the government's claim ran against the corporation, not against the stockholder personally (repo ch 2-13). Probate closed in 1898. The endowment was released.
+In 1895 the suit was decided in the estate's favor. In 1896 the Supreme Court affirmed: the government's claim ran against the corporation, not against the stockholder personally. Probate closed in 1898. The endowment was released.
 
 The Supreme Court decision mattered beyond Palo Alto. If stockholders could be held personally liable for every subsidized railroad that stumbled, every fortune built on federal land grants would face retroactive tax. The justices chose corporate liability instead. Jane's university benefited from a doctrine that also shielded Gilded Age wealth more broadly.
 

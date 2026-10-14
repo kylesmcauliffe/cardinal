@@ -136,8 +136,7 @@ Cession endured for decades.
 
 That speed is a fact about gold and about congressional arithmetic, and it puts
 California on the sectional chessboard from its first day in the Union. Two
-senators from a free state, in a chamber balanced on exactly that count. Hold
-it; chapter 8 depends on it.
+senators from a free state, in a chamber balanced on exactly that count.
 
 ## Why the institutions did not work
 
@@ -190,106 +189,6 @@ a moment when decent men restored order.
 Private organisation substituted for public authority, and was honoured for it.
 
 That is the premise the story will need repeatedly. It is the premise underlying
-the Hoover Commission for Relief in Belgium in a later episode, which fed a country
-without being a state. It is the premise underlying the university-contractor
-arrangement, in which public functions are performed by private institutions
-because the private institutions are better at them. It is the premise
-underlying every platform that now performs a governmental function under terms
-of service, and it is the reason those arrangements attract so little objection:
-California decided in 1856 that competent private governance was preferable to
-incompetent public governance, and it has never seriously revisited the
-question.
-
-## The water and the land
-
-Two other decisions of these years determined more about California's future
-than the hangings did, and both followed the same logic.
-
-The first was water. California adopted, largely from mining practice, the
-doctrine of prior appropriation: the first party to divert water to a beneficial
-use acquires a right to continue doing so, superior to later claimants, whether
-or not they own land adjoining the stream. This is not how water law worked in
-the eastern states, where riparian rights attached to the land itself, and
-California ended up with an awkward hybrid of both.
-
-What prior appropriation does is convert a common resource into a form of
-property allocated by speed. It rewarded whoever arrived first with capital
-enough to build a diversion, which in practice meant hydraulic mining companies
-and, later, large agricultural operators. The rule that would determine who
-could farm the Central Valley was made by miners in the 1850s for reasons that
-had nothing to do with farming.
-
-The second was land, in the form of the state's disposal of the federal acreage
-it received on admission. Substantial holdings passed in large blocks to a small
-number of buyers through methods that were loosely administered and
-frequently abused, including the swampland grants, which allowed a purchaser to
-acquire land at a nominal price by declaring it wet. Vast tracts of the Central
-Valley were acquired this way.
-
-By the 1870s a handful of individuals and companies held agricultural properties
-of a scale unknown anywhere in the eastern United States. Henry George, writing
-in California in 1871, made the concentration of land the centre of his argument
-about poverty amid progress, and he was describing what he could see out of the
-window.
-
-Concentration preceded the market here as it had under the ranchos, and the
-instruments were public.
-
-## Who had no standing
-
-The men hanged had no appeal, and two of them had colourable defences that a
-court would have had to consider.
-
-Beyond that, entire populations stood outside both the formal order and the
-informal one. Chinese residents were subject to a statute, upheld by the state
-supreme court in 1854, holding that Chinese witnesses could not testify against
-a white defendant. Indigenous Californians were subject to the labour and
-vagrancy provisions described in the previous chapter. Californio landholders
-were in court defending titles the treaty had promised to protect.
-
-The Committee of Vigilance is remembered as a story about order. It was a story
-about who counted, and the answer was decided by the people who had the
-sandbags.
-
-
-
-
-## The precedent, and the target
-
-This was the second time the city's merchants had done it. The first Committee of
-Vigilance had formed in June 1851, after a run of fires and robberies blamed on a
-group of Australian arrivals known as the Sydney Ducks; it hanged four men,
-deported others, and dissolved within months. So by 1856 the move was not an
-improvisation. It was a remembered instrument, taken down off the shelf when it
-was wanted.
-
-And what it was wanted for is the part the civic-virtue version leaves out. The
-1856 Committee's energy was aimed, with considerable precision, at the Irish and
-Catholic immigrants of the city and at the Democratic organisation that turned
-their votes into offices. Both men hanged during the King affair were Irish
-Catholics. The Committee's own membership was overwhelmingly Protestant and
-mercantile, much of it transplanted from New England, and the party that grew out
-of that summer — running under the banner of reform — took the city's government
-at the next election and held it. The ballot box that Casey was accused of
-stuffing did change hands. It changed hands to the men who had built the fort.
-
-It was, in other words, a factional instrument wearing the costume of civic
-order, and it worked.
-
-## The important detail
-
-The important thing is not the violence. It is the respectability.
-
-These men were not outlaws and were never treated as such. They were the city's
-leading businessmen, they operated openly with published membership, they kept
-records, and they emerged from the episode with enhanced standing rather than
-criminal liability. Nobody was prosecuted. The Committee's leaders went on to
-prominent careers, and the episode entered San Francisco's account of itself as
-a moment when decent men restored order.
-
-Private organisation substituted for public authority, and was honoured for it.
-
-That is the premise this book will need repeatedly. It is the premise underlying
 the Hoover Commission for Relief in Belgium in a later episode, which fed a country
 without being a state. It is the premise underlying the university-contractor
 arrangement, in which public functions are performed by private institutions

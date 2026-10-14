@@ -4,7 +4,7 @@
 
 **Menlo Park, California. September 1998.**
 
-Susan Wojcicki rented rooms in her house on Santa Margarita Avenue to make mortgage payments. She charged Google $1,700 a month to rent the garage and several rooms. (Levy 2011, ch. 1) <!-- bib: TODO -->
+Susan Wojcicki rented rooms in her house on Santa Margarita Avenue to make mortgage payments. She charged Google $1,700 a month to rent the garage and several rooms. <!-- bib: TODO -->
 
 The garage myth had a rent receipt.
 
@@ -14,7 +14,7 @@ Inside the house on Santa Margarita, servers stacked where a car should have bee
 
 ## Sand Hill again
 
-The venture meetings happened in the glass-walled buildings in Menlo Park's Sand Hill Road. (Levy 2011, ch. 2) <!-- bib: TODO -->
+The venture meetings happened in the glass-walled buildings in Menlo Park's Sand Hill Road. <!-- bib: TODO -->
 
 Kleiner Perkins and Sequoia Capital both invested in June 1999 — rival firms sharing a round, which Valley gossip treated as a sign that the deal was obvious. The money was not only money. It was board discipline, hiring introductions, and credibility with the next fund on the road. Tom Perkins's firm sat four minutes from the quad where the crawl had started. Don Valentine's firm had funded Apple and Cisco from the same oak-shaded parking lots. The gate recognized its own.
 
@@ -61,14 +61,6 @@ Each of these is the same toll in a different medium. This one turned out to be 
 Serving search at web scale on commodity hardware required a different kind of computing, and Google built it: enormous numbers of inexpensive machines, software that assumed individual machines would fail constantly, and distributed systems for storing and processing data across all of them. The published papers describing these systems in the early 2000s were read very widely and were reimplemented in the open, which is where a substantial part of the modern data infrastructure industry comes from. <!-- kyle: ch/4-12 -->
 
 The company then built its own data centres, sited for electricity and cooling along rivers and in counties that wanted the tax base, and eventually designed its own chips. A company that begins by owning an index ends by owning the physical capacity to compute at scale. The garage on Santa Margarita was already a fiction by the time the first custom silicon arrived.
-
-## The appendix, again
-
-They wrote that advertising funding creates a mixed incentive and that the bias would be difficult for users to detect. Twenty-five years later, competition authorities on two continents had reached similar conclusions in formal decisions. The European Commission fined Google for abusing dominance in comparison shopping in June 2017, and for practices tied to its Android mobile operating system in July 2018. The United States Department of Justice filed a civil antitrust suit alleging monopolization of search and search advertising in October 2020. Those proceedings documented preferential placement, exclusive default agreements with device makers, and payments to secure search placement — including arrangements with Apple that made Google the default on most phones in the United States. (European Commission 2017, 2018; U.S. DOJ 2020)
-
-Both the regulators' findings and the appendix described the same hazard: a search engine that serves advertisers will shape what users see.
-
-The two documents sit next to each other, written by the same people about the same system, a generation apart. The juxtaposition is the argument.
 
 ## The excluded
 

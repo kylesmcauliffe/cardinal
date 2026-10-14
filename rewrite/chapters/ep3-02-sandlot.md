@@ -8,7 +8,7 @@ Men gathered on a vacant lot beside the building, in what the newspapers called 
 
 <!-- kyle: ch/2-11 --> Denis Kearney addressed unemployed men on a vacant lot beside the half-built city hall in San Francisco, in what were called the sandlot meetings, and he ended his speeches with the same line: the Chinese must go.
 
-Denis Kearney stood on a box or a barrel and spoke. He was a drayman and petty entrepreneur, in Richard White's phrase, who had turned anti-Chinese politics into an insurgency by the late 1870s (White 2011, ch. 7). He ended his speeches with a line the crowd could carry home: the Chinese must go.
+Denis Kearney stood on a box or a barrel and spoke. He was a drayman and petty entrepreneur, in Richard White's phrase, who had turned anti-Chinese politics into an insurgency by the late 1870s. He ended his speeches with a line the crowd could carry home: the Chinese must go.
 
 <!-- kyle: ch/2-11 --> Nob Hill was visible from where he was standing. The mansions of Stanford, Crocker, Hopkins, and Huntington were up there, built with the proceeds described in the previous episode, and Crocker had constructed a forty-foot fence around a neighbor's house on three sides after the man refused to sell — the Spite Fence, which became a standing local grievance and a perfect symbol available to anyone who wanted one.
 
@@ -16,13 +16,11 @@ Nob Hill rose above them. The mansions of Stanford, Crocker, Hopkins, and Huntin
 
 <!-- kyle: ch/2-11 --> Kearney did attack the railroad. He also attacked the Chinese, and it was the second attack that produced legislation.
 
-Kearney attacked the Central Pacific. He attacked the banks. He also attacked the Chinese, and it was the second attack that produced legislation.
+Kearney attacked the Central Pacific. He attacked the banks.
 
 ### Take the grievance seriously
 
 <!-- kyle: ch/2-11 --> This chapter fails if the men on the sandlots are caricatured, so it starts with what was actually happening to them.
-
-This chapter fails if the men on the sandlots are caricatured.
 
 The 1870s were bad in California. <!-- kyle: ch/2-11 --> The completion of the transcontinental line had released thousands of construction workers into the labor market at the same moment it exposed California manufacturers to eastern competition for the first time. The Comstock silver bonanza collapsed. Drought killed the cattle. The national depression that began in 1873 arrived, and unemployment in San Francisco was severe and sustained.
 
@@ -34,7 +32,7 @@ The Southern Pacific was, on the merits, an excellent target. Its rates were ext
 
 The Workingmen's Party of California formed in 1877 with Kearney as its most prominent voice. Its program included legitimate labor demands: the eight-hour day, an end to convict labor competition, regulation of the railroad and the banks. It also included, as its most effective and most emphasized element, the exclusion of the Chinese.
 
-Anti-Chinese violence was extensive and specific. <!-- kyle: ch/2-11 --> There had been a massacre in Los Angeles in 1871 in which a mob killed some seventeen or eighteen Chinese residents, one of the largest mass lynchings in American history. In San Francisco in July 1877 crowds attacked Chinese laundries and businesses over several nights. Chinese communities were driven out of towns across California and the wider West over the following decade, in Eureka, in Tacoma, in Seattle, and at Rock Springs in Wyoming in 1885, where at least twenty-eight Chinese miners were killed. These were not disturbances. They were expulsions, and they were frequently organised by people who announced them in advance.
+Anti-Chinese violence was extensive and specific. <!-- kyle: ch/2-11 --> There had been a massacre in Los Angeles in 1871 in which a mob killed some seventeen or eighteen Chinese residents, one of the largest mass lynchings in American history. These were not disturbances. They were expulsions, and they were frequently organised by people who announced them in advance.
 
 These were not disturbances. They were expulsions, frequently announced in advance.
 
@@ -42,7 +40,7 @@ In July 1877 the city did not sleep easy. Crowds moved through streets where lau
 
 ### At Stanford's door
 
-During the crisis, workers marched up to Leland Stanford's mansion and threatened him (Harris 2023, ch. 1.2). Kearney said, "I will give the Central Pacific just three months to discharge their Chinamen" (Harris 2023, ch. 1.2).
+During the crisis, workers marched up to Leland Stanford's mansion and threatened him. Kearney said, "I will give the Central Pacific just three months to discharge their Chinamen".
 
 The mob was at the door of a man who would soon campaign for the United States Senate as a friend of labor and a defender of California's workingmen.
 
@@ -54,7 +52,7 @@ Up the hill, the Spite Fence still walled a neighbor in. Down below, men who had
 
 <!-- kyle: ch/2-11 --> The party won substantial representation at California's 1879 constitutional convention and shaped the resulting document, which contained provisions targeting Chinese residents directly — prohibiting their employment by corporations and by public bodies, and authorising municipalities to remove them from city limits. Most of these were struck down in federal court, which is itself part of the story.
 
-The Workingmen's Party won substantial representation at California's 1879 constitutional convention and shaped the resulting document. Provisions targeted Chinese residents directly: prohibitions on employment by corporations and public bodies, authorizations for municipalities to remove Chinese residents from city limits. Most of these were struck down in federal court, which is itself part of the story. The convention also created a railroad commission empowered to set rates. Within a few years that commission would function as an instrument of the company it was created to regulate.
+The Workingmen's Party won substantial representation at California's 1879 constitutional convention and shaped the resulting document. Provisions targeted Chinese residents directly: prohibitions on employment by corporations and public bodies, authorizations for municipalities to remove Chinese residents from city limits. The convention also created a railroad commission empowered to set rates. Within a few years that commission would function as an instrument of the company it was created to regulate.
 
 The party burned out within a few years. The energy it generated did not disappear. It narrowed.
 
@@ -70,7 +68,7 @@ The Chinese communities of California were not passive in any of this.
 
 Chinatown in San Francisco, centered on Dupont Street and Portsmouth Square, sustained businesses, associations, newspapers, temples, and a formidable body of legal action. The Chinese Six Companies functioned as a governing and mutual-aid body and retained prominent attorneys for decades.
 
-They won cases that remain load-bearing in American constitutional law. <!-- kyle: ch/2-11 --> In *Yick Wo v. Hopkins*, in 1886 — the same year as *Santa Clara* — the Supreme Court struck down a San Francisco ordinance regulating laundries that was neutral on its face and had been enforced almost exclusively against Chinese operators. The Court held that a law fair in its terms but administered with an evil eye and an unequal hand violates the Fourteenth Amendment. It is one of the foundational cases on discriminatory enforcement and it is cited constantly.
+They won cases that remain load-bearing in American constitutional law. <! The Court held that a law fair in its terms but administered with an evil eye and an unequal hand violates the Fourteenth Amendment. It is one of the foundational cases on discriminatory enforcement and it is cited constantly.
 
 In *Yick Wo v. Hopkins*, in 1886, the Supreme Court struck down a San Francisco ordinance regulating laundries that was neutral on its face and enforced almost exclusively against Chinese operators. In *United States v. Wong Kim Ark*, in 1898, the Court held that a man born in San Francisco to Chinese parents was a United States citizen by birth notwithstanding that his parents were barred from naturalization.
 
@@ -86,7 +84,7 @@ Crowds moved when the fog burned off. They broke glass where Chinese families ke
 
 Kearney's rhetoric gave the violence a sentence men could repeat. It did not invent the violence. Los Angeles in 1871 had already shown what a mob could do when it decided a neighborhood was disposable. The sandlots added unemployment and a visible hill.
 
-Stanford's mansion sat in the row with Crocker's fence. Workers marched to that door and threatened the man inside (Harris 2023, ch. 1.2). They did not march with equal force on Huntington's Washington office or on the Sacramento bureau that drafted bills. The geography of grievance stopped where the cable car stopped climbing.
+Stanford's mansion sat in the row with Crocker's fence. Workers marched to that door and threatened the man inside. They did not march with equal force on Huntington's Washington office or on the Sacramento bureau that drafted bills. The geography of grievance stopped where the cable car stopped climbing.
 
 ### Eight hours and convict labor
 
@@ -120,7 +118,7 @@ Stanford's mansion did not need a fence. His power sat in stock, in senators, in
 
 ### White's drayman
 
-Richard White calls Kearney a San Francisco drayman and petty entrepreneur who turned anti-Chinese politics into an insurgency in the late 1870s (White 2011, ch. 7). The phrase matters because it denies genius. Kearney was not a theorist. He was a man with a wagon and a microphone made of box and barrel who read the crowd's appetite and fed it.
+Richard White calls Kearney a San Francisco drayman and petty entrepreneur who turned anti-Chinese politics into an insurgency in the late 1870s. The phrase matters because it denies genius. Kearney was not a theorist. He was a man with a wagon and a microphone made of box and barrel who read the crowd's appetite and fed it.
 
 Insurgency does not require a manifesto. It requires a sentence repeated until newspapers quote it without attribution.
 
@@ -138,7 +136,7 @@ The sandlots were not a permanent institution. They were a pressure valve.
 
 When delegates met to rewrite the state constitution, many carried sandlot credentials. They wrote railroad regulation into the document because monopoly was real. They wrote Chinese exclusion into the document because monopoly was hard to hit. Federal courts would strike much of the exclusion language. The railroad commission would cozy up to the company it was meant to restrain. The party would burn out. The sentence would remain.
 
-Kearney's three-month ultimatum to the Central Pacific passed without discharge of Chinese crews on the terms he had named (Harris 2023, ch. 1.2). The railroad kept its labor force and its differential. The mob had threatened Stanford. It had not rewritten the wage ledger.
+Kearney's three-month ultimatum to the Central Pacific passed without discharge of Chinese crews on the terms he had named. The railroad kept its labor force and its differential. The mob had threatened Stanford. It had not rewritten the wage ledger.
 
 Episode 3's next death among the famous would be quiet: a bookkeeper in a private car. The loudest deaths were still ahead in a wheat field and in a Congress that would close a border.
 
@@ -148,6 +146,6 @@ The vacant lot beside the half-built city hall was not a ballroom. It was dirt, 
 
 Kearney's gift was to make the hill visible in every sentence even when the sentence named someone else. The Chinese must go. The Central Pacific must discharge. The banks must answer. Only one of those targets could not answer with a senator.
 
-When workers marched on Stanford's mansion, they climbed toward cable-car country (Harris 2023, ch. 1.2). They did not stay for tea. They threatened a man whose company had employed the workers they now demanded discharged within three months (Harris 2023, ch. 1.2). The ultimatum expired. The payroll did not empty on Kearney's schedule.
+When workers marched on Stanford's mansion, they climbed toward cable-car country. They did not stay for tea. They threatened a man whose company had employed the workers they now demanded discharged within three months. The ultimatum expired. The payroll did not empty on Kearney's schedule.
 
 That failure mattered. It showed where sandlot power stopped and corporate power continued. The next episodes in this book will show the same stop line in court reporters' notes and in Kentucky incorporation filings. In July 1877 it was visible as a door on Nob Hill that closed without changing a rate.

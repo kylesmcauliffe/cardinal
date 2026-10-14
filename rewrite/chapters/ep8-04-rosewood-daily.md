@@ -4,7 +4,7 @@
 
 **Stanford, California. November 2022.**
 
-"I called Sam, the Daily editor. 'Holy shit,' he said. 'We need to get going.'" (Baker 2026, ch. 4, p. 94) <!-- bib: TODO -->
+"I called Sam, the Daily editor. 'Holy shit,' he said. 'We need to get going.'" <!-- bib: TODO -->
 
 Theo Baker was a freshman. The president of the university was Marc Tessier-Lavigne.
 
@@ -31,12 +31,6 @@ decade was written by undergraduates at the *Stanford Daily*, and it ended a
 presidency. Marc Tessier-Lavigne resigned on 19 July 2023 following a
 university-commissioned review of papers he had co-authored.
 
-The chapter is exact about the findings, because this is precisely where the
-reporting was loosest and the distinction matters: the review addressed
-manipulated images in work from laboratories he led, and the question of what he
-personally knew and did is not the same question as whether the papers were
-sound. The chapter cites the review rather than the headlines.
-
 Its structural interest is not the scandal. The credential's entire value rests
 on the institution's claim to verify — to check work, to certify people, to be
 the thing a stranger can rely on. A verification failure at the top of the
@@ -50,29 +44,12 @@ positions fairly. And admissions came under sustained scrutiny, through the 2019
 admissions bribery scandal and the 2023 Supreme Court decision, raising the
 question of what the credential screens for and who still believes the answer.
 
-The chapter also gives the honest structural version, which is more damning than
-the personal story: the incentives operating in high-prestige laboratories
-reliably produce this class of problem, and the individuals are somewhat
-incidental to it. Junior researchers dependent on principal investigators bear
+Junior researchers dependent on principal investigators bear
 most of the risk.
 
 Then it reports what did not change. Applications, endowment, licensing revenue,
 and placement all held. The pipeline is the same; the trust in the pipeline is
 not. When trust erodes, the elite stops bothering to be subtle.
-
-   journalism about Stanford in a decade, written by undergraduates.
-   panel, its actual findings, and the resignation on 19 July 2023. Precision
-   here is the chapter's integrity.
-   credential's value rests on the institution's claim to verify. A failure of
-   verification at the top is a failure of the product.
-   committed research institute and a university claiming disinterest. Both
-   positions stated fairly.
-   scandal. What the credential is actually screening for, and who believes the
-   answer.
-   problems in high-prestige laboratories. This is the honest version and it is
-   more damning than the personal story.
-   placement. Sourced. The machine is intact.
-   Point at ch. 7: when trust erodes, the elite stops bothering to be subtle.
 
 What happens when the legitimacy engine loses credibility?
 
@@ -110,9 +87,7 @@ the right to complain about anyone else's precision.
 
 The scandal is not the point. Universities have scandals.
 
-The point is what the credential rests on. This book has argued since Act II
-chapter 6 that a credential is an instrument for lowering the cost of trusting a
-stranger, and that its value derives entirely from the issuer's capacity to
+The point is what the credential rests on. A credential is an instrument for lowering the cost of trusting a stranger, and its value derives entirely from the issuer's capacity to
 verify. Stanford's product is verification: this person has been assessed, this
 work has been checked, this finding can be relied upon.
 
@@ -121,7 +96,7 @@ product. It is not a moral embarrassment; it is a defect in the thing being
 sold.
 
 The Hoover Institution's position on campus became a sustained argument in the
-same period, and it is the tension Act II chapter 5 planted.
+same period, the tension Hoover planted when he founded it.
 
 A university claims institutional disinterest — it does not have positions, its
 scholars do. The Hoover Institution has a stated mission with substantive
@@ -142,8 +117,7 @@ were unlawful, ending an arrangement that had operated for decades.
 Between them these episodes put the same question in two forms: what is the
 credential actually screening for, and does anyone still believe the answer?
 
-One pressure on the institution is older than any of these and is the same
-pressure Act I described.
+One pressure on the institution is older than any of these and is the same pressure the founders faced.
 
 Stanford remains among the largest landowners on the San Francisco Peninsula, on
 the acreage the Founding Grant forbade it to sell. Its expansion is governed by
@@ -154,7 +128,7 @@ political fact.
 
 The university's own workforce cannot generally afford to live near it. Neither
 can the teachers, nurses, and municipal employees of the surrounding towns. East
-Palo Alto, the community across the freeway described in Act III chapter 1, has
+Palo Alto, the community across the freeway, has
 been substantially reshaped by displacement pressure from the same market.
 
 The endowment that made the institution permanent is a land portfolio whose
@@ -190,8 +164,7 @@ not control and who are the ones most likely to be blamed when something is
 found.
 
 Applications continued to rise. The endowment continued to grow. Licensing
-revenue continued. Graduates continued to be placed, and the corridor described
-in Act III continued to draw its founders from the same source.
+revenue continued. Graduates continued to be placed, and the corridor continued to draw its founders from the same source.
 
 One number makes the point. Applications to selective American universities rose
 through precisely the period in which public confidence in higher education, as
@@ -203,7 +176,7 @@ continuing to read it.
 
 The machine is intact. What has eroded is the belief that its outputs can be
 taken on faith, and this book has now shown that erosion three times: the
-Reformation in Act I chapter 7, the Depression in Act II chapter 8, and here.
+Reformation, the Depression, and here.
 
 In each case the mechanism survived and the story did not, and in each case the
 institution responded by restructuring rather than reforming.
@@ -217,7 +190,7 @@ it was being exercised openly.
 
 **Menlo Park, California.**
 
-The Rosewood Sand Hill bills itself as "the modern clubhouse for Silicon Valley… directly on Sand Hill Road… on land owned by Stanford." (Baker 2026, ch. 6, p. 120) <!-- bib: TODO -->
+The Rosewood Sand Hill bills itself as "the modern clubhouse for Silicon Valley… directly on Sand Hill Road… on land owned by Stanford." <!-- bib: TODO -->
 
 Seventy years after Kleiner and Perkins signed the first lease, the university was still collecting rent on the view. Deal makers ate lunch where venture partners had learned to say no. The land bank outlasted every company on the cap table.
 

@@ -92,17 +92,9 @@ The press that had called Chinatown a plague before the Act called it a problem 
 
 ### Huntington's unmolested decade
 
-Collis Huntington did not face sandlot crowds in Washington. He faced committees, and sometimes he feared what they would ask to see in the ledgers (Rayner 2008, ch. 9). The anti-Chinese movement did not put him on trial. It did not seize his correspondence about congressional votes, though investigators would later wish they had the Contract and Finance Company books Huntington feared the Wilson Committee would demand (Rayner 2008, ch. 9).
+Collis Huntington did not face sandlot crowds in Washington. He faced committees, and sometimes he feared what they would ask to see in the ledgers. The anti-Chinese movement did not put him on trial. It did not seize his correspondence about congressional votes, though investigators would later wish they had the Contract and Finance Company books Huntington feared the Wilson Committee would demand.
 
 The Associates lost Hopkins in a rail car. They did not lose the Southern Pacific to the Workingmen. They lost nothing on the rate sheet. That is the ledger the episode keeps.
-
-### Edge
-
-In 1884 the Southern Pacific would reincorporate in Kentucky, moving the corporate person out of California's jurisdiction while the track stayed exactly where it was. <!-- kyle: ch/2-10 --> A state attempting to regulate a railroad within its own borders found itself litigating against an out-of-state corporation with a federal charter for part of its system. Every step was lawful. The cumulative effect was distance between the citizen and the asset.
-
-A court reporter in Washington would soon write a headnote that lawyers would cite for fifty years. A telegram would leave Florence with news that would convert a railroad fortune into something the Associates had not planned.
-
-The toll had become government, law, and race policy. The next turn was personal.
 
 ### Rock Springs and the West
 
@@ -111,14 +103,6 @@ California did not export exclusion alone.
 <!-- kyle: ch/2-11 --> At Rock Springs in Wyoming in 1885, at least twenty-eight Chinese miners were killed. Tacoma and Seattle and Eureka saw expulsions organized in advance. The federal Act of 1882 did not stop those events. It told a country which immigrants were legitimate targets when times turned hard.
 
 Miners and railroad laborers shared camps and danger. They did not share protection when the law named a nationality. The Sierra grade had been built by men now barred from entry. The Southern Pacific still moved ore and wheat on the same terms.
-
-### The moral centre in plain prose
-
-This is the plainest chapter in the act.
-
-Genuine grievance about monopoly was real in the 1870s. So was violence against Chinese neighbors. So was federal exclusion. The monopoly emerged untouched not because anyone secretly orchestrated the sandlots from a Nob Hill salon, but because attacking the Chinese was easier and more electorally visible than attacking the Southern Pacific's books.
-
-Stanford could campaign as labor's friend. Huntington could buy influence in Washington. Crocker could keep his fence. Hopkins was already dead in a siding. The organization held.
 
 ### Renewals
 
@@ -146,7 +130,7 @@ The next chapter of Episode 3 is not Washington. It is a fever room on the Arno,
 
 ### Sixty-one years
 
-<!-- kyle: ch/2-11 --> Exclusion: achieved, federally, for sixty-one years. Chinese population of California: sharply reduced, communities destroyed, an entire class of workers removed from the labor market.
+<!-- kyle: ch/2-11 --> Exclusion: achieved, federally, for sixty-one years.
 
 The number is worth holding beside the unchanged rate sheet. Congress could bar a nationality for generations. It could not, in the same decade, uncapture a railroad commission the company already owned. California's constitution had tried both at once in 1879. Federal law delivered one result and not the other.
 

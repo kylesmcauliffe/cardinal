@@ -8,8 +8,6 @@ The Senate chamber in midsummer heat held a different geography than it had held
 
 The Pacific Railway Act would be signed that day. Four Sacramento merchants who sold groceries and hardware would receive a federal charter, a checkerboard of public land along the right of way, and thirty-year government bonds paid per mile of track. The engineer who had surveyed the Sierra route would not be in the photograph when the line was finished. He was already dead of yellow fever in New York. The men who bought him out would be in every picture that mattered.
 
-This chapter is about how the route was chosen—not by excellence alone, but by subtraction.
-
 ## Davis speaks
 
 On 21 January 1861, days before leaving the Senate to help lead a rebellion, Jefferson Davis spoke in favour of a transcontinental railroad.
@@ -84,7 +82,7 @@ The first was land: alternate sections along the right of way, in a checkerboard
 
 The Union Pacific was chartered by the federal government directly — the first corporation so chartered since the Second Bank of the United States.
 
-One correction is worth making because a reader checking the most obvious source will hit it. The National Archives' summary page for the Act states that it designated the 32nd parallel as the initial transcontinental route. That is contradicted by the statute printed on the same page, which specifies Council Bluffs to Sacramento, and by the Senate's own historical account (repo ch. 2-08).
+One correction is worth making because a reader checking the most obvious source will hit it. The National Archives' summary page for the Act states that it designated the 32nd parallel as the initial transcontinental route. That is contradicted by the statute printed on the same page, which specifies Council Bluffs to Sacramento, and by the Senate's own historical account.
 
 ## What the vacancy purchased
 
@@ -102,7 +100,7 @@ Washington in the winter of 1861–62 was a city of mud streets and military tra
 
 He had incorporated the Central Pacific with four Sacramento businessmen in June 1861. He believed in the central route because he had walked it on paper and in the field. He was also, by the winter of his lobbying, already entangled with men who saw the railroad as a vehicle for personal fortune rather than a public work. That fight would kill his leverage before yellow fever killed him. For the moment, he needed statutes.
 
-Lincoln’s support mattered for reasons that had little to do with California commerce. A transcontinental line was a military asset: troops, materiel, and messages could cross the interior faster than a voyage around the Horn. Binding the Pacific coast to the Union mattered at a moment when the Union’s continued existence was not assured (repo ch. 2-08). California had entered the Union as a free state in 1850, part of a sectional bargain. Keeping it tied to Washington was not an abstraction in 1862. It was strategy.
+Lincoln’s support mattered for reasons that had little to do with California commerce. A transcontinental line was a military asset: troops, materiel, and messages could cross the interior faster than a voyage around the Horn. Binding the Pacific coast to the Union mattered at a moment when the Union’s continued existence was not assured. California had entered the Union as a free state in 1850, part of a sectional bargain. Keeping it tied to Washington was not an abstraction in 1862. It was strategy.
 
 Judah supplied the technical scaffolding—the grades, the passes, the practicable alignment. The empty southern desks supplied the votes.
 
@@ -110,25 +108,19 @@ Judah supplied the technical scaffolding—the grades, the passes, the practicab
 
 The Act’s two currencies sound abstract until they are measured against a body of work.
 
-Land grants in alternate sections created a checkerboard of public and railroad acreage along the right of way—later doubled to twenty sections per mile, which is to say twenty square miles of land for every mile of track laid (repo ch. 2-09). Government bonds at six per cent paid sixteen thousand dollars per mile on the flat, thirty-two thousand across the high plains, and forty-eight thousand in the mountains.
+Land grants in alternate sections created a checkerboard of public and railroad acreage along the right of way—later doubled to twenty sections per mile, which is to say twenty square miles of land for every mile of track laid. Government bonds at six per cent paid sixteen thousand dollars per mile on the flat, thirty-two thousand across the high plains, and forty-eight thousand in the mountains.
 
-Those mountain miles would become a battlefield of geology reports. The Central Pacific would obtain an opinion placing the base of the Sierra Nevada farther west than independent geologists would have drawn it, collecting the higher rate across valley floor that any traveller would call valley (repo ch. 2-09). Lincoln accepted the opinion. The men laying track in snow would not be consulted.
+Those mountain miles would become a battlefield of geology reports. The Central Pacific would obtain an opinion placing the base of the Sierra Nevada farther west than independent geologists would have drawn it, collecting the higher rate across valley floor that any traveller would call valley. Lincoln accepted the opinion. The men laying track in snow would not be consulted.
 
-The Union Pacific became the first corporation chartered directly by the federal government since the Second Bank of the United States (repo ch. 2-08). The Central Pacific was a California corporation that would behave, for the next decade, like a state within a state—setting rates, acquiring ferries, deciding which towns lived and which withered when the line passed them by.
+The Union Pacific became the first corporation chartered directly by the federal government since the Second Bank of the United States. The Central Pacific was a California corporation that would behave, for the next decade, like a state within a state—setting rates, acquiring ferries, deciding which towns lived and which withered when the line passed them by.
 
 ## The road not taken
 
 James Gadsden’s southern corridor did not disappear because it was absurd. It disappeared because the men who wanted it left the chamber.
 
-The Gadsden Purchase bought the strip that made the 32nd-parallel survey legible on paper. The proposal to split California into two states—opening the southern half to slavery—shows how closely railroad politics tracked the slavery politics that emptied the desks (repo ch. 2-08). A reader who treats the Pacific Railway Act as a triumph of engineering alone will miss that the engineering had been available for years. What changed in 1862 was the seating chart.
+The Gadsden Purchase bought the strip that made the 32nd-parallel survey legible on paper. The proposal to split California into two states—opening the southern half to slavery—shows how closely railroad politics tracked the slavery politics that emptied the desks. A reader who treats the Pacific Railway Act as a triumph of engineering alone will miss that the engineering had been available for years. What changed in 1862 was the seating chart.
 
 Indigenous nations across the surveyed corridors appear in the expedition reports as ethnography and climate tables, not as parties to the decision. Their land was mapped as terrain to be crossed. The Act would cross it with iron whether or not anyone in those nations had consented.
-
-## Hand-off
-
-Four merchants held the western charter. An engineer who had made the route credible was sidelined and dead within a year of the signing. Chinese workers who would dig the summit were not yet in the story the East told itself about binding the continent.
-
-The vacant chairs made the Act possible. The Act made the toll road possible. The next chapters would be written in granite, snow, and commissary rice—not in the Senate chamber, but in the mountains the surveys had photographed as if they were empty.
 
 ## Stevens, Whipple, Beckwith, Parke, Pope
 

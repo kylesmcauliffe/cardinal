@@ -6,7 +6,7 @@ March 13, 1884. Florence, Italy. The Hotel Bristol on the Arno held the kind of 
 
 Jane Lathrop Stanford had crossed oceans before. She had managed households in Sacramento and on Nob Hill while her husband moved from grocer to governor to railroad baron. She had entertained senators and directors. She had watched workers march toward their mansion in 1877 and had lived inside the fortune that made those workers angry. None of that prepared a mother for a single child dying two months before his sixteenth birthday.
 
-Leland Stanford Jr. died of typhoid fever that day (Harris 2023, ch. 1.3). He was the Stanfords' only child. He had been collecting antiquities in Europe with the seriousness of a boy who intended to have a museum. His father had built the Central Pacific and become one of the most powerful men in California. His mother had been the steady hand in every house they occupied.
+Leland Stanford Jr. died of typhoid fever that day. He was the Stanfords' only child. He had been collecting antiquities in Europe with the seriousness of a boy who intended to have a museum. His father had built the Central Pacific and become one of the most powerful men in California. His mother had been the steady hand in every house they occupied.
 
 The grief was not performed for the press. It was consistent with how the family had behaved before Stanford's rise and after it. They had funded schools and hospitals at smaller scale. They had served on boards. Jane's later involvement in the university she would help create would be sustained, detailed, and personally costly in ways that a public-relations motive alone cannot explain.
 
@@ -20,7 +20,7 @@ Florence in March was cold in memory and hot in fever. California in November wo
 
 When Leland Stanford recovered enough to speak after the collapse that followed his son's death, he is supposed to have turned to his wife with a sentence that would outlive both of them.
 
-"The children of California shall be our children," Leland Stanford told his wife, Jane, when they decided to build Palo Alto (Harris 2023, intro).
+"The children of California shall be our children," Leland Stanford told his wife, Jane, when they decided to build Palo Alto.
 
 <!-- kyle: Harris intro / repo ch 2-12 vow -->
 
@@ -38,7 +38,7 @@ The document is worth reading as law, not as elegy. Almost every feature that wo
 
 It created a private corporation governed by a board of trustees. After the founders' deaths, the trustees would fill their own vacancies. There was no electorate, no legislative oversight, and no external authority appointing members. The board was self-perpetuating by design, insulated from politics permanently.
 
-It endowed the university with land—the Palo Alto farm together with holdings elsewhere in California—and directed that the land not be sold. Income would come from use, not from disposal (repo ch 2-12). That prohibition would not show its full consequence for decades, when a dean of engineering would notice that leasing peninsula acres to technology companies paid better than selling them ever could. In 1885 the clause simply meant the gift could not be liquidated in a panic.
+It endowed the university with land—the Palo Alto farm together with holdings elsewhere in California—and directed that the land not be sold. Income would come from use, not from disposal. That prohibition would not show its full consequence for decades, when a dean of engineering would notice that leasing peninsula acres to technology companies paid better than selling them ever could. In 1885 the clause simply meant the gift could not be liquidated in a panic.
 
 The grant specified broad educational purposes, provided for coeducation, and directed that tuition be free for the first several decades. Those provisions were genuinely progressive by the standards of eastern elite institutions in the late nineteenth century. Women would study beside men from the first day. Engineering and science would sit at the center of the curriculum rather than at the margins of classical training. Students would not be required to profess a denomination.
 
@@ -64,11 +64,11 @@ The university was a railroad asset with a curriculum. The grief that named it w
 
 ### The president they chose
 
-The institution needed a head before it could open. In 1890 the Stanfords travelled to Bloomington, Indiana, to recruit David Starr Jordan, an ichthyologist already among the most prominent scientists in the country (Miller 2016, ch. 4). <!-- bib: TODO Miller Why Fish Don't Exist -->
+The institution needed a head before it could open. In 1890 the Stanfords travelled to Bloomington, Indiana, to recruit David Starr Jordan, an ichthyologist already among the most prominent scientists in the country. <!-- bib: TODO Miller Why Fish Don't Exist -->
 
 Jordan was thirty-nine years old. He would become Stanford's first president and remain for more than two decades. He was also, by the turn of the century, one of America's most prominent advocates of eugenics—chairman of committees, author of works arguing that human quality was hereditary and that policy should act on the fact. That story belongs to a later episode. What matters here is the sequence: the institution built to shape California's elite selected as its first leader a man whose scientific reputation included ranking which people should reproduce.
 
-Jane Stanford would soon become, in Miller's phrase, "the only mark on David's dream life" (Miller 2016, ch. 4). The widow and the president would disagree repeatedly about money, about faculty, and about who controlled the machine they were building.
+Jane Stanford would soon become, in Miller's phrase, "the only mark on David's dream life". The widow and the president would disagree repeatedly about money, about faculty, and about who controlled the machine they were building.
 
 ### Between grant and opening
 

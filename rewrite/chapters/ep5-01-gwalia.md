@@ -14,7 +14,7 @@ The work made him rich before it made him famous. It also made him useful in a p
 
 ---
 
-Hoover had arrived at Palo Alto in the summer of 1891 as a conditionally admitted pioneer student with no capital and a geology degree in prospect (repo ch 3-01; Harris 2023, ch. 2.3). Episode 4 told that opening story. Episode 5 follows what the credential did with him in the mines.
+Hoover had arrived at Palo Alto in the summer of 1891 as a conditionally admitted pioneer student with no capital and a geology degree in prospect. Episode 4 told that opening story. Episode 5 follows what the credential did with him in the mines.
 
 ## What the credential did
 
@@ -30,9 +30,9 @@ Each step in that sequence is a recommendation rather than an application. That 
 
 ## The institution adopts him
 
-The relationship was not abstract. When Hoover fell ill with typhoid as a junior, his professor John Casper Branner “even paid his favorite pupil’s medical bills” (Harris 2023, ch. 2.3). Branner was chairman of the geology department, later president of the university, and the man who would stand at Hoover's wedding. The orphan was being folded into a patronage line that ran through the campus and out into the professions.
+The relationship was not abstract. When Hoover fell ill with typhoid as a junior, his professor John Casper Branner “even paid his favorite pupil’s medical bills”. Branner was chairman of the geology department, later president of the university, and the man who would stand at Hoover's wedding. The orphan was being folded into a patronage line that ran through the campus and out into the professions.
 
-In Branner's presence, in a geology lab, Lou Henry first laid eyes on Herbert Hoover (Whyte 2021, 43). She entered Stanford in 1894 and took a degree in geology in 1898 — the only woman in the programme at a time when the field was closed to women almost everywhere. They married in Monterey in February 1899 and sailed for China the next day.
+In Branner's presence, in a geology lab, Lou Henry first laid eyes on Herbert Hoover. She entered Stanford in 1894 and took a degree in geology in 1898 — the only woman in the programme at a time when the field was closed to women almost everywhere. They married in Monterey in February 1899 and sailed for China the next day.
 
 They were both Stanford geologists. The partnership is the network operating at its smallest possible scale, and it was formed in a laboratory.
 
@@ -48,7 +48,7 @@ That is a general management education conducted under difficult conditions, and
 
 The humanitarian Hoover would feed Belgium through a blockade and run American relief after the Mississippi flood. The engineer Hoover left a record in Western Australia that does not fit the later legend as neatly.
 
-A 1905 Royal Commission found the air at Hoover's Sons of Gwalia mine “notably bad” (Whyte 2021, 100). The finding sits in the public record beside the balance sheets he kept so carefully. Men worked in heat and dust while London read his valuations. The commission did not stop the mine. It named a cost the market had not priced.
+A 1905 Royal Commission found the air at Hoover's Sons of Gwalia mine “notably bad”. The finding sits in the public record beside the balance sheets he kept so carefully. Men worked in heat and dust while London read his valuations. The commission did not stop the mine. It named a cost the market had not priced.
 
 Hoover would spend decades defending his professional reputation. The honest summary, at this distance, is that he was a young man doing what his industry did, in a legal environment created by imperial power, and that the industry's normal practice was extractive in ways courts and commissions would later document.
 
@@ -61,8 +61,6 @@ In the summer of 1900 the Boxer Uprising reached Tianjin, and the foreign settle
 The episode is generally told as adventure. It belongs in this chapter for a duller reason: it is the first occasion on which Hoover organised the survival of a civilian population under siege conditions. He would do it again fourteen years later for seven million people, and the method was recognisably the same — inventory, allocation, accounting, negotiation with armed men who did not want starvation on their ledger.
 
 ## Kaiping
-
-The chapter does not skip what followed, because the strongest case against Hoover's early career is here.
 
 In the aftermath of the uprising, the Chinese Engineering and Mining Company's assets at Kaiping were transferred to a British corporation. Hoover was closely involved in the transaction and became a director of the resulting company. The Chinese director who had signed the transfer, Chang Yen-mao, subsequently sued in the English courts, arguing that the transfer had been procured on misrepresentations and that the terms actually agreed had not been honoured.
 
@@ -79,13 +77,13 @@ Technical training, plus capital access, plus institutional network, equals glob
 
 That is the formula, and it is the thing Stanford turned out to manufacture. Not scholars, not gentlemen, and not — at this stage — capitalists. Managers of complex systems, credentialled by an institution whose certification a distant market would accept, who could be dropped into any extraction economy on earth and produce a return.
 
-In 1912 he would join the Stanford board of trustees, “in circumstances as cloudy as the awarding of his geology degree” (Whyte 2021, 124). The pioneer student was becoming the owner's representative. The mine at Gwalia was only the first place the pipeline sent him.
+In 1912 he would join the Stanford board of trustees, “in circumstances as cloudy as the awarding of his geology degree”. The pioneer student was becoming the owner's representative. The mine at Gwalia was only the first place the pipeline sent him.
 
 ## The cable
 
 A cable arrives at a London office from a minehead in Western Australia. It contains an assessment and a signature, and on the strength of it a share price moves and capital is committed.
 
-That transaction — not the digging, not the ore, not even the money — is how the late-nineteenth-century elite was actually constituted. Hoover's professional value was not geological but informational. London capital wanted to know whether a deposit on the far side of the world was worth what its promoters claimed, and it had no way to find out except to send someone it could trust and believe what he reported. He was, functionally, a ratings agency with a hammer. Trust was the scarce input, and the credential was its proxy — which is why a Stanford degree could substitute for a family name (`books/cardinal/ch/3-02-mining-empire-frontier.qmd`).
+That transaction — not the digging, not the ore, not even the money — is how the late-nineteenth-century elite was actually constituted. Hoover's professional value was not geological but informational. London capital wanted to know whether a deposit on the far side of the world was worth what its promoters claimed, and it had no way to find out except to send someone it could trust and believe what he reported. He was, functionally, a ratings agency with a hammer. Trust was the scarce input, and the credential was its proxy — which is why a Stanford degree could substitute for a family name.
 
 ## California as training ground
 

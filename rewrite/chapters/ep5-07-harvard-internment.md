@@ -10,7 +10,7 @@ Three thousand miles west, on the same spring day, families in Santa Clara Count
 
 ## The laboratory
 
-The Radio Research Laboratory, established at Harvard in 1942, worked on radar countermeasures. It was a serious operation with a serious product; Allied bombing operations depended on its output (Harris 2023, ch. 2.4).
+The Radio Research Laboratory, established at Harvard in 1942, worked on radar countermeasures. It was a serious operation with a serious product; Allied bombing operations depended on its output.
 
 Terman learned how federal research money actually moved: who decided, on what timetable, against what criteria, and what a proposal had to look like. He learned procurement and classification, and how to run an organisation in which most of the staff could not discuss most of the work. He learned how to recruit and manage several hundred technical people at speed, which almost nobody in American academic life had ever done.
 
@@ -48,7 +48,7 @@ An asset that cannot be sold can be leased. And a university that leases land to
 
 ## Internment
 
-Executive Order 9066, signed in February 1942, led to the forced removal and incarceration of some hundred and twenty thousand people of Japanese ancestry from the west coast, roughly two-thirds of them United States citizens. They were given days or weeks to dispose of homes, farms, and businesses (Harris 2023, ch. 2.4).
+Executive Order 9066, signed in February 1942, led to the forced removal and incarceration of some hundred and twenty thousand people of Japanese ancestry from the west coast, roughly two-thirds of them United States citizens. They were given days or weeks to dispose of homes, farms, and businesses.
 
 The economic consequence was a transfer. Property was sold at distress prices, abandoned, or lost for non-payment during the years of absence, and it was acquired by people who remained. Japanese-American farmers had, despite the Alien Land Law of 1913, built substantial holdings in California agriculture, and much of it did not come back.
 
@@ -86,12 +86,6 @@ That sequence is the whole model in one company: university research, a licensin
 
 Terman also encouraged faculty to consult for industry and to found companies, at a time when most universities regarded both as distractions or conflicts. He regarded them as the point. A professor with a company brings in contracts, places graduates, and generates the reputation that attracts the next recruit.
 
-## Two Termans, one county
-
-Lewis Terman's tests had sorted soldiers in the Great War. Frederick Terman's laboratory sorted radar returns in the Second. The father measured recruits; the son jammed enemy sets. Both believed in expertise as governance.
-
-Below the campus, families who had built farms and shops under the Alien Land Law lost them in 1942. The land they left would be bought by people who could stay. The industrial park would rise on acreage whose ownership had been simplified by removal.
-
 ## The problem waiting in 1969
 
 Terman regarded classified research as unproblematic and most of his contemporaries agreed. It became a problem when students walked into the Applied Electronics Laboratory and published what they found. The laboratory Terman built was the target they chose.
@@ -102,17 +96,13 @@ The episode's end turn is 1945: Terman comes home with a plan, and the land cann
 
 Allied bombing depended on aluminium chaff dropped to blind German radar — output of the Radio Research Laboratory Terman ran. The laboratory was a serious operation with a serious product. Running it taught him budgets, secrecy, procurement, and staffing at speed.
 
-## Bush's report
-
-Vannevar Bush delivered *Science, the Endless Frontier* to the president in July 1945. Basic research was the source of practical advance; private industry would underfund it; the federal government should fund it permanently through universities, with scientists controlling allocation. Terman read it as a business plan.
-
 ## Where Stanford stood
 
 MIT and Harvard captured wartime contracts. Caltech and Bell Laboratories did the same. Berkeley staffed the Manhattan Project. Stanford contributed individuals to other people's laboratories. Terman's diagnosis: wrong shape — adequate everywhere, pre-eminent nowhere — meant exclusion from Washington lists.
 
 ## Incarceration, spelled out
 
-Executive Order 9066 led to forced removal and incarceration of roughly one hundred and twenty thousand people of Japanese ancestry from the west coast, about two-thirds of them United States citizens. They had days or weeks to dispose of homes, farms, and businesses. Property sold at distress prices or was lost for non-payment during absence (Harris 2023, ch. 2.4).
+Executive Order 9066 led to forced removal and incarceration of roughly one hundred and twenty thousand people of Japanese ancestry from the west coast, about two-thirds of them United States citizens. They had days or weeks to dispose of homes, farms, and businesses. Property sold at distress prices or was lost for non-payment during absence.
 
 Japanese-American farmers had built substantial holdings despite the Alien Land Law of 1913. Much did not come back. Santa Clara County was part of that transfer. Terman jammed radar in Cambridge the same year the trains left.
 

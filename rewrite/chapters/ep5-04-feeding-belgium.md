@@ -20,7 +20,7 @@ Hoover's leverage was precisely that neither side wanted responsibility for the 
 
 ## The Commission
 
-Between 1914 and 1919 a private committee fed occupied Belgium. It negotiated with the British blockade and the German occupation simultaneously, operated shipping under its own flag, issued what amounted to its own currency, and held recognised standing with two empires at war. It had no territory, no army, and no sovereign authority. Its chairman was a mining engineer from California (Harris 2023, ch. 2.3).
+Between 1914 and 1919 a private committee fed occupied Belgium. It negotiated with the British blockade and the German occupation simultaneously, operated shipping under its own flag, issued what amounted to its own currency, and held recognised standing with two empires at war. It had no territory, no army, and no sovereign authority. Its chairman was a mining engineer from California.
 
 What made it work was accounting. The Commission's credibility rested on records that either side could examine. Auditable books are what buy trust from enemies. This is the same insight as the mission register in the Spanish period and the archive Hoover would build on the Stanford campus: the record is not a description of the operation, it is the instrument that makes the operation possible.
 
@@ -28,9 +28,9 @@ Hoover approached the work as an engineering problem before a moral one. Food ex
 
 ## Scale
 
-Between 1914 and 1919 the Commission moved several million tons of food. At its peak it was the principal source of subsistence for something in the region of nine million people in Belgium and northern France. It chartered and operated its own fleet, flying its own flag, which both belligerents agreed to respect. It issued instruments that functioned as currency (`books/cardinal/ch/3-04-logistics-state.qmd`).
+Between 1914 and 1919 the Commission moved several million tons of food. At its peak it was the principal source of subsistence for something in the region of nine million people in Belgium and northern France. It chartered and operated its own fleet, flying its own flag, which both belligerents agreed to respect. It issued instruments that functioned as currency.
 
-Belgian civilians are the achievement and had no say in the arrangements that produced it. Local committees did the distribution while the credit accrued to the man in London. The chapter names who is absent from the arrangement because the absence is structural.
+Belgian civilians are the achievement and had no say in the arrangements that produced it. Local committees did the distribution while the credit accrued to the man in London.
 
 ## The Food Administration
 
@@ -51,16 +51,6 @@ The collectors had two advantages. They had dollars, in economies where the curr
 A man with American money walked through a European city buying revolutionary leaflets off a table. Nobody wanted them. They had been printed weeks earlier by organisations that in several cases no longer existed. Some of those sheets are now the only surviving copies, and they sit in a tower on a former horse farm in California.
 
 The Hoover War Collection became the Hoover War Library and then the Hoover Institution on War, Revolution, and Peace. Its holdings on the Russian Revolution and the European left in this period are among the most important anywhere, and scholars have worked from them for a century.
-
-## Why an archive matters
-
-Nothing in the Hoover collection is forged. The materials are real, the cataloguing is professional, and access has been broadly available to researchers. The claim is not falsification.
-
-The claim is about gravity. Research follows sources. What can be written about a period depends on what survives, what has been gathered, what has been catalogued, and what a scholar can reach. A collection that is unusually strong on one subject and thin on another shapes the literature for generations, not by suppressing anything but by making some questions answerable and others expensive.
-
-The Hoover collection is unusually strong on the anti-communist and counter-revolutionary side of the European upheavals, on the relief operations Hoover ran, and on the personal papers of figures whose politics its founder shared. That is what happens when a private fortune with a point of view sends agents into the field: they buy what they recognise as significant, and significance is a judgment.
-
-Whoever gathers the documents determines what a later generation can prove, cite, or deny. Not by lying. By being the only place the material is.
 
 ## Palo Alto
 
@@ -116,7 +106,7 @@ Belgian civilians had no say in the arrangements. Local committees worked in the
 
 ## Palo Alto's strangeness
 
-There is something genuinely strange about the location of the Hoover collection. The documentary record of the European twentieth century was assembled on a campus founded by a railroad fortune, in a valley that had been a horse farm, by a man whose public career began moving ore in Western Australia.
+There is something genuinely strange about the location of the Hoover collection.
 
 Research follows sources. A collection unusually strong on anti-communist and counter-revolutionary materials, on Hoover's relief operations, and on papers of figures whose politics Hoover shared shapes the literature for generations — not by suppressing anything but by making some questions answerable and others expensive.
 

@@ -34,8 +34,6 @@ Stanford's mansion was less theatrical than Crocker's grudge, but it sat in the 
 
 Ownership, in California after 1869, was not only track.
 
-<!-- kyle: ch/2-10 --> By the 1880s the Central Pacific and its affiliate the Southern Pacific controlled substantially all the rail traffic in California, along with much of the coastal shipping and the ferry connections that might have offered an alternative.
-
 What this meant in practice was that a private company decided which towns existed. A community that met the railroad's terms received a station and became a market centre. A community that resisted found the line surveyed a few miles away, and within a decade its buildings were being moved to the new town or abandoned. This happened repeatedly across the Central Valley, and that geometry is still legible in the distribution of settlements.
 
 Rates were not calculated from the cost of moving freight. <!-- kyle: ch/2-10 --> They were set on the principle of charging what the traffic will bear, which the company defended in public without embarrassment. A grower's shipping cost was calculated not from the cost of carriage but from an estimate of what he could pay and remain in business. The effect is a tax on agricultural production, collected by a private party, with the rate set individually.
@@ -48,7 +46,7 @@ The political operation matched the economic one. <!-- kyle: ch/2-10 --> The Sou
 
 <!-- kyle: ch/2-10 --> The political operation was continuous and reasonably open.
 
-Collis Huntington ran the eastern office from a permanent address, and his correspondence with the company's western agents survived because litigation forced it into the record. In those letters Huntington discussed the purchase of congressional influence with a flatness that shocked readers then and still does (repo ch 2-10; Rayner 2008, ch. 9).
+Collis Huntington ran the eastern office from a permanent address, and his correspondence with the company's western agents survived because litigation forced it into the record. In those letters Huntington discussed the purchase of congressional influence with a flatness that shocked readers then and still does.
 
 ### Ferries and wharves
 
@@ -64,7 +62,7 @@ California called a constitutional convention in 1879 aimed substantially at the
 
 The Associates had also taken payment in land.
 
-The Pacific Railway Acts granted them alternating sections along the route. Mile after mile of California passed from federal hands to corporate files. For years the railroad had sold some parcels and held others, advertising homestead opportunities to draw population that would generate freight. When the government finally issued patents on large tracts in the San Joaquin, the company posted prices ranging from seventeen to forty dollars an acre (Rayner 2008, ch. 13).
+The Pacific Railway Acts granted them alternating sections along the route. Mile after mile of California passed from federal hands to corporate files. For years the railroad had sold some parcels and held others, advertising homestead opportunities to draw population that would generate freight. When the government finally issued patents on large tracts in the San Joaquin, the company posted prices ranging from seventeen to forty dollars an acre.
 
 The settlers at Mussel Slough had heard a different number in the selling. They had occupied railroad land under an understanding — promoted in the company's own advertising — that they would be able to buy it at a modest price reflecting its unimproved value. <!-- kyle: ch/2-10 --> When the railroad set prices reflecting the improvements the settlers had made, they refused to pay or leave.
 
@@ -84,9 +82,9 @@ Settlers who could not afford counsel learned the sequence as spectators learn a
 
 The settlers had no single lawyer equal to the company's roster. They had neighbors, rifles, and a belief that improvement ought to count for something in a republic that talked about homesteads. The company had judgments.
 
-On the morning of May 11, he came with men assigned to that task and with purchasers backed by the railroad ready to take what the settlers had built. The wheat stood between the parties. The heat had already begun. Someone fired. Others fired back. When the shooting stopped, seven men were dead.
+On the morning of May 11, he came with men assigned to that task and with purchasers backed by the railroad ready to take what the settlers had built. The wheat stood between the parties. The heat had already begun. Someone fired. Others fired back.
 
-Contemporary accounts disagreed on who fired first; the legal record did not. The settlers who survived were prosecuted. The railroad kept the land (repo ch 2-10; Rayner 2008, ch. 13).
+Contemporary accounts disagreed on who fired first; the legal record did not. The settlers who survived were prosecuted. The railroad kept the land.
 
 The armor did not require soldiers every day. Most days it required only a clerk, a notice, and a judge who agreed that title was title.
 
@@ -118,7 +116,7 @@ In the valley, the wheat continued to grow. The railroad continued to post price
 
 When the last rail was spiked in Utah, the Associates did not disband. They reorganized.
 
-The track was only the visible part. Behind it stood the Contract and Finance Company and other entities that had billed the government for construction while the men who swung hammers and blasted granite negotiated wages in the snow. The books that might have answered questions about those bills were not available to the public. Collis Huntington, writing in the era of congressional investigation, feared a committee would demand to see the Contract and Finance Company ledgers (Rayner 2008, ch. 9). What investigators got, when they got anything, was argument and absence.
+The track was only the visible part. Behind it stood the Contract and Finance Company and other entities that had billed the government for construction while the men who swung hammers and blasted granite negotiated wages in the snow. The books that might have answered questions about those bills were not available to the public. Collis Huntington, writing in the era of congressional investigation, feared a committee would demand to see the Contract and Finance Company ledgers. What investigators got, when they got anything, was argument and absence.
 
 <!-- kyle: ch/2-10 --> The Contract and Finance Company from the previous chapter is the model. A corporation with public obligations transacts with a corporation without them, both controlled by the same men, and the profit is realised in the entity that faces no scrutiny. When Congress began investigating, the company's books had been destroyed, and the destruction of records held by a dissolved private entity is not the same offence as the destruction of records held by a chartered railroad.
 
@@ -140,7 +138,7 @@ The shooting made good copy for eastern newspapers that had never seen Tulare Co
 
 <!-- kyle: ch/2-10 --> Legal architecture is not bloodless when it meets people who cannot afford lawyers. Access to law is itself a cost no farmer could match against a company with a permanent legal department.
 
-What it demonstrated, in a form even a distant reader could understand, was that monopoly had an edge when paper met people who could not afford counsel. The Southern Pacific did not need to win every fight in a wheat field. It needed to win in court, again and again, until the only rational choice was to pay or leave.
+What it demonstrated, in a form even a distant reader could understand, was that monopoly had an edge when paper met people who could not afford counsel.
 
 ### The other legal instrument
 
@@ -156,18 +154,10 @@ Frank Norris published *The Octopus* in 1901, long after the wheat field had gon
 
 The settlers who survived Mussel Slough did not live to see the novel. They lived to see prison sentences and eviction notices. The company kept the land.
 
-### Edge of the next scene
-
-By 1877, unemployment in San Francisco was severe. The national depression that began in 1873 had not spared the coast. Men who had built the line or fed its workers stood in vacant lots near the half-built city hall and listened to a drayman with a gift for speech tell them whom to hate.
-
-Nob Hill was still visible from those lots.
-
-The cable car would climb past the Spite Fence toward Stanford's door before the year was out.
-
 ### What the settlers believed
 
 The circulars had promised homestead opportunity along the line. Men who had never seen Nob Hill had seen paper that said they could build a life within sight of the tracks that carried their wheat to market. They dug ditches in summers that blistered the San Joaquin. They framed houses. They planted grain high enough to hide a man's boots.
 
-When patents arrived and prices posted from seventeen to forty dollars an acre, the arithmetic changed (Rayner 2008, ch. 13). The company's title was federal. The settlers' sweat was local. Courts would weigh title first.
+When patents arrived and prices posted from seventeen to forty dollars an acre, the arithmetic changed. The company's title was federal. The settlers' sweat was local. Courts would weigh title first.
 
 That is not a defense of shooting. It is a description of why men who thought they were building a republic in a field met a marshal with a lawful order. The fortress was built before May 11. The guns only made it visible.
