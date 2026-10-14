@@ -6,7 +6,7 @@
 
 Eight men resigned on the same day: Julius Blank, Victor Grinich, Jean Hoerni, Eugene Kleiner, Jay Last, Gordon Moore, Robert Noyce, and Sheldon Roberts. Shockley called them traitors, and the name stuck as the Traitorous Eight, which is the sort of label a group only accepts if it rather likes it.
 
-They were a team Shockley later tarred as “the traitorous eight” (Harris 2023, ch. 3.2).
+They were a team Shockley later tarred as “the traitorous eight”.
 
 ## The mechanics
 
@@ -36,11 +36,9 @@ None of that was visible in September 1957. What was visible was eight men walki
 
 ## The military customer waiting
 
-The chapter keeps the substrate visible, because the early market was not consumer electronics and was not close to it.
-
 Integrated circuits were expensive and their first large customers were programmes for which cost mattered less than weight and reliability: the Minuteman missile guidance system and the Apollo Guidance Computer. Federal purchasing in the early 1960s absorbed the great majority of American integrated circuit production and, by guaranteeing volume, drove the price down the learning curve to the point where commercial applications became viable.
 
-The consumer semiconductor industry exists because the Defense Department and NASA bought the first several years of output at whatever it cost — including the Minuteman missile guidance system and the Apollo Guidance Computer as early bulk customers (`books/cardinal/ch/4-03-fairchild-platform-company.qmd`). That is a public subsidy of the most direct kind, and it does not appear in any account of the industry that begins with a garage.
+The consumer semiconductor industry exists because the Defense Department and NASA bought the first several years of output at whatever it cost — including the Minuteman missile guidance system and the Apollo Guidance Computer as early bulk customers. That is a public subsidy of the most direct kind, and it does not appear in any account of the industry that begins with a garage.
 
 ## Fairchild as platform
 
@@ -78,17 +76,11 @@ Semiconductors went the other way for twenty years because the crucial asset kep
 
 Route 128 around Boston had comparable talent, comparable universities, and comparable federal money in 1957, and it did not produce the same fan-out. California's refusal to enforce non-competes is among the more persuasive explanations for the difference. The eight who left Shockley tested that legal fact with their feet.
 
-## The military customer, again
-
-Integrated circuits were expensive and their first large customers were programmes for which cost mattered less than weight and reliability: the Minuteman missile guidance system and the Apollo Guidance Computer. Federal purchasing in the early 1960s absorbed the great majority of American integrated circuit production and, by guaranteeing volume, drove the price down the learning curve to the point where commercial applications became viable.
-
-The consumer semiconductor industry exists because the Defense Department and NASA bought the first several years of output at whatever it cost. That does not appear in any account of the industry that begins with a garage.
-
 ## The letter to Hayden, Stone
 
 Eight men resigned in September 1957. They did not intend to found a company. Eugene Kleiner's father's contact at Hayden, Stone received a letter asking help finding an employer who would take them as a group. Arthur Rock came out, met them, and concluded they should start a company rather than join one.
 
-Rock approached around thirty established firms. Almost all declined. Fairchild Camera and Instrument agreed, with an option to buy the whole company for a fixed sum if it succeeded. Fairchild Semiconductor was incorporated in October 1957 in Mountain View.
+Rock approached around thirty established firms. Almost all declined. Fairchild Camera and Instrument agreed, with an option to buy the whole company for a fixed sum if it succeeded.
 
 ## Legal geography
 
@@ -102,7 +94,7 @@ Each new firm carried techniques and assumptions about how a semiconductor compa
 
 ## Shockley's label
 
-Shockley called them traitors. Harris records the phrase “the traitorous eight” (Harris 2023, ch. 3.2). The label was meant as punishment. It became an origin myth with a villain's own nickname attached.
+Shockley called them traitors. Harris records the phrase “the traitorous eight”. The label was meant as punishment. It became an origin myth with a villain's own nickname attached.
 
 ## Military first
 
@@ -134,16 +126,14 @@ September 1957 is a date like April 1969: a coalition forms and a name attaches.
 
 ## Rock and Fairchild
 
-Arthur Rock traveled to California after the Hayden, Stone letter, met the eight engineers, and concluded they should start a company rather than join an existing employer (`books/cardinal/ch/4-02-shockley-and-the-eight.qmd`). He approached roughly thirty established firms; almost all declined. Fairchild Camera and Instrument agreed, with an option to buy the venture if it succeeded. Fairchild Semiconductor incorporated in Mountain View in October 1957 — same town, same talent pool, different cap table, different building.
-
-Shockley called them traitors. Harris records the phrase “the traitorous eight” (Harris 2023, ch. 3.2). The label was meant as punishment. It became an origin myth with a villain's own nickname attached.
+Arthur Rock traveled to California after the Hayden, Stone letter, met the eight engineers, and concluded they should start a company rather than join an existing employer. He approached roughly thirty established firms; almost all declined. Fairchild Camera and Instrument agreed, with an option to buy the venture if it succeeded. Fairchild Semiconductor incorporated in Mountain View in October 1957 — same town, same talent pool, different cap table, different building.
 
 The eight won by leaving. California law made leaving legal. Rock made leaving fundable. Stanford had trained them and was already leasing land to the suppliers and tenants who would buy their chips. Shockley kept the Nobel and lost the staff. The county's story would prefer garages. The payroll would prefer missiles. Both were true on the same map.
 
 ## Fairchild's military shelf
 
-Fairchild Semiconductor incorporated in October 1957 in Mountain View — same town, same talent pool, different cap table (`books/cardinal/ch/4-02-shockley-and-the-eight.qmd`). Its early customers were not hobbyists. They were programmes where weight and reliability mattered more than unit cost: Minuteman guidance, Apollo avionics, and the broader defence-and-space shelf that absorbed most American integrated-circuit output in the early 1960s (`books/cardinal/ch/4-03-fairchild-platform-company.qmd`).
+Fairchild Semiconductor incorporated in October 1957 in Mountain View — same town, same talent pool, different cap table. Its early customers were not hobbyists. They were programmes where weight and reliability mattered more than unit cost: Minuteman guidance, Apollo avionics, and the broader defence-and-space shelf that absorbed most American integrated-circuit output in the early 1960s.
 
 Jean Hoerni's planar process and Robert Noyce's integrated circuit made the parts small enough and reliable enough for those buyers. Gordon Moore's 1965 article plotted density against time and gave investors a public promise to coordinate private spending. The Traitorous Eight left Shockley's ego and walked into a customer that already lived on the same map as Lockheed's shifts and SRI's contracts.
 
-The betrayal Shockley named became the region's reproductive method. The Pentagon's purchase orders became the industry's learning curve. The university's ground leases became the rent line on the same balance sheet as the chip sales. Eight signatures in September 1957 connected all three threads before any trade journalist had coined a valley's name.
+ The Pentagon's purchase orders became the industry's learning curve. The university's ground leases became the rent line on the same balance sheet as the chip sales. Eight signatures in September 1957 connected all three threads before any trade journalist had coined a valley's name.

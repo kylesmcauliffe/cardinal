@@ -8,11 +8,9 @@ The episode opens here and will return here before it ends. The reader is allowe
 
 Bertha Berner would later testify to what she heard. Physicians would write reports. Newspapers on two coasts would publish conflicting headlines. For the length of a convulsion, there is only a body on a hotel bed and a voice asking God for forgiveness.
 
-Jane Lathrop Stanford had left San Francisco six weeks earlier on the steamship *Korea*, accompanied by her secretary Bertha Berner and a maid, May Hunt. She had been shaken by an incident in January, when a bottle of Poland Spring water on Nob Hill tasted bitter and laboratory analysis found strychnine. She had vomited in time. She had told those close to her that someone meant to kill her. She had not stayed to find out who. She had gone to the islands to rest, to walk in the sun, and to put an ocean between herself and the household where poison had once been poured into her drinking water (White 2022, ch. 28, 167).
+Jane Lathrop Stanford had left San Francisco six weeks earlier on the steamship *Korea*, accompanied by her secretary Bertha Berner and a maid, May Hunt. She had been shaken by an incident in January, when a bottle of Poland Spring water on Nob Hill tasted bitter and laboratory analysis found strychnine. She had vomited in time. She had told those close to her that someone meant to kill her. She had not stayed to find out who. She had gone to the islands to rest, to walk in the sun, and to put an ocean between herself and the household where poison had once been poured into her drinking water.
 
 On the night of February 28 she took bicarbonate of soda before bed, as she often did for indigestion. Within minutes she was seized with cramps. She cried out that she had been poisoned again. Physicians were sent for. They watched her body arch and stiffen in the way strychnine produces. She spoke to God and to the dead.
-
-"Oh God, forgive me my sins… Is my soul prepared to meet my dear ones?… This a horrible death to die" (White 2022, 173).
 
 She was seventy-six. She had seen the Exclusion Act pass. She had watched workers march on Nob Hill. She had signed checks when probate forbade endowment spending. She was the co-founder of a university that had opened fourteen years earlier on eight thousand acres of a Palo Alto stock farm. She had kept that university alive through a national depression, through six years when her husband's estate was frozen in probate, through a federal lawsuit for fifteen million dollars, and through the firing of a professor whose speeches had embarrassed the memory of the railroad. She had sold jewels to pay for a library. She had paid faculty salaries out of allowances the court permitted her as a widow. She had travelled to Washington to argue that the government's claim belonged to the corporation, not to the man. She had won.
 
@@ -26,7 +24,7 @@ Twenty-one years earlier, the grief had not yet been named in a charter.
 
 ### Twenty-one years back
 
-Episode 3 ended on a telegram from Florence announcing that Leland Stanford Jr. had died of typhoid on March 13, 1884, two months before his sixteenth birthday (Harris 2023, ch. 1.3). The next chapters take up that fever room, the vow that followed, the farm where cameras froze a horse mid-stride, and the opening day that brought orphans and engineers to a campus the railroad fortune built.
+Episode 3 ended on a telegram from Florence announcing that Leland Stanford Jr. had died of typhoid on March 13, 1884, two months before his sixteenth birthday. The next chapters take up that fever room, the vow that followed, the farm where cameras froze a horse mid-stride, and the opening day that brought orphans and engineers to a campus the railroad fortune built.
 
 ### The hotel on the beach
 

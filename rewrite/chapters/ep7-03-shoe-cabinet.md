@@ -34,8 +34,7 @@ displacing their German ones, and recognising a pattern rather than a grievance.
 made Nike also made the contract-factory labour system, first in Japan, then South
 Korea and Taiwan, then Indonesia, China and Vietnam. The workers in those
 factories are the people the fabless model depends on and the balance sheet does
-not name. Handle with the same rigour as the Central Pacific's Chinese crews in
-Act I, and draw the parallel explicitly: the structure is the same.
+not name. Handle with the same rigour as the Central Pacific's Chinese crews, and draw the parallel explicitly: the structure is the same.
 
 computers by showing it operating, on the same campus in the same decade as the
 semiconductor firms, in footwear.
@@ -79,23 +78,7 @@ Closes on the return leg. In 2011 Knight dedicates the Knight Management Center
 at the Stanford Graduate School of Business — the school where the paper was
 written. Later, the Knight-Hennessy Scholars programme. Money that began as a
 class assignment returns to endow the classroom. Rail did this with a university
-in 1885. Shoes did it with a business school in 2011. Act IV will show software
-doing it with an institute.
-
-   about shoes because he does not understand electronics.
-   what Japanese cameras did to German cameras? Note that the paper is a question,
-   and the company is the answer.
-   Complaint into mechanism.
-   Blue Ribbon Sports invented in the pause. Western US distribution rights.
-   intramural track. Name the network doing its work.
-   manufacture. Explicitly compare to fabless semiconductors — same logic,
-   earlier, in canvas and rubber.
-   Indonesia, China, Vietnam. The chapter's hinge: the model requires the
-   migration. Cost control is not incidental to it.
-   directly — legally at arm's length, structurally essential.
-    Scholars. The endowment loop closed.
-    bottlenecks. Set up Act IV's supply-chain chapter: Nike built the road that
-    Apple later drove down.
+in 1885. Shoes did it with a business school in 2011.
 
 **Note.** Do not put a page count on the Shallenberger paper. Sources conflict;
 see the research log.
@@ -117,9 +100,6 @@ Shallenberger gave it an A. Sixty years later the company it became was among
 the most valuable consumer brands on earth, and its founder's name is on a
 building at the school where he wrote it.
 
-This chapter exists because the mechanism this book describes is not a story
-about computers, and shoes prove it.
-
 Knight has told the origin repeatedly and consistently, and the detail that
 matters is that he overheard it.
 
@@ -132,8 +112,7 @@ there is a window, and whoever holds distribution rights during the window
 collects.
 
 That is not an insight about shoes or cameras. It is an insight about the timing
-of a chokepoint, and it is the same insight Sam Brannan had about shovels in Act
-II chapter 6.
+of a chokepoint, and it is the same insight Sam Brannan had about shovels.
 
 He chose athletic shoes because he knew the sport, because German firms —
 principally Adidas — dominated it, and because he knew nothing about
@@ -158,7 +137,7 @@ track meets, and kept his accounting job for years while doing it.
 
 Nike's first full-time employee, hired in 1965, was Jeff Johnson, a runner
 Knight had met through Stanford intramural track. The network again, doing
-exactly what Act II said networks do: lowering the cost of finding someone you
+what networks had always done on the Peninsula: lowering the cost of finding someone you
 can trust.
 
 Here is why this chapter is in this book rather than in a business history.
@@ -203,14 +182,13 @@ and the company subsequently built a monitoring and disclosure apparatus,
 published its supplier list, and became by some measures a leader in supply
 chain transparency.
 
-The chapter records both the criticism and the response, and then makes the
-structural point that neither addresses. The arm's-length arrangement is not a
+The arm's-length arrangement is not a
 lapse in the model. It is the model. A company that owns no factories has no
 employees in them, and every improvement in conditions is therefore a voluntary
 undertaking rather than an obligation, revocable and dependent on continued
 attention.
 
-This is precisely the Contract and Finance Company from Act I chapter 9. Put a
+This is precisely the Contract and Finance Company. Put a
 legal boundary between the activity and the party benefiting from it, and the
 benefit flows across the boundary while the liability does not.
 
@@ -233,8 +211,7 @@ on a person.
 The mark itself was designed in 1971 by a graphic design student at Portland
 State for a reported thirty-five dollars.
 
-That is a chokepoint on attention, and it is the same asset that Act IV's
-platforms will monetise directly. Nike got there first by paying for it rather
+That is a chokepoint on attention, and it is the same asset that the earlier platforms will monetise directly. Nike got there first by paying for it rather
 than by owning the channel, and the arrangement has held for forty years because
 attention, unlike manufacturing capacity, cannot be relocated to a cheaper
 jurisdiction.
@@ -253,7 +230,7 @@ proceeds return to endow the institution that issued the credential, which then
 produces the next cohort, in buildings carrying the donor's name.
 
 Leland Stanford did this with a railroad in 1885. Phil Knight did it with shoes
-in 2011. Act IV will show it done with software.
+in 2011.
 
 The mechanism is not about technology. It never was. It is about who holds the
 part that cannot be copied, and where the proceeds go afterwards.
@@ -264,7 +241,7 @@ Ronald Reagan was elected in November 1980, and a substantial part of the
 intellectual apparatus of his administration came from a building on the
 Stanford campus.
 
-The Hoover Institution had spent the decades since Act II chapter 8 assembling
+The Hoover Institution had spent the decades since Hoover's defeat in 1932 assembling
 what a defeated president had begun: a permanent body of scholars developing a
 particular set of economic and foreign policy arguments, sustained through a
 period when those arguments were entirely out of fashion.
@@ -276,34 +253,30 @@ committed to deregulation, tax reduction, and a harder line in the Cold War.
 
 That is what Herbert Hoover built the archive for. He founded it in 1919 to
 collect the documentary record of how power moves; it became, over sixty years,
-an instrument for moving it. Act II chapter 5 argued that whoever gathers the
-documents acquires interpretive power. This is the interest payment.
+an instrument for moving it. Hoover had understood in 1919 that whoever gathers the documents acquires interpretive power. This is the interest payment.
 
 The policy changes of the early 1980s reached the Valley directly.
 
 Capital gains tax rates had been cut in 1978 and were cut again in 1981, which
 raised the after-tax return on exactly the kind of long-horizon equity
-investment that venture capital makes. Combined with the 1979 ERISA
-clarification from chapter 5, the effect on the amount of capital available to
+investment that venture capital makes. Combined with the 1979 ERISA clarification, the effect on the amount of capital available to
 venture funds was transformative, and the industry grew by an order of magnitude
 across a few years.
 
 Deregulation in telecommunications, finance, and transportation opened markets
 that technology firms would later occupy. Defence spending rose sharply, which
-flowed to the corridor described in chapter 4.
+flowed to the defence corridor of Sunnyvale and Mountain View.
 
 The administration brought a second Californian export to Washington, and it had
 been tested in the state a decade earlier.
 
 Reagan had been governor of California from 1967 to 1975, and the politics that
 carried him to Sacramento were substantially about the universities: the
-Berkeley Free Speech Movement, the campus unrest described in chapter 7 of this
-act, and a promise to restore order. In office he presided over the beginning of
+Berkeley Free Speech Movement, the campus unrest of the late 1960s, and a promise to restore order. In office he presided over the beginning of
 the end of free tuition in the California public system, which had been a
 founding principle of the 1960 Master Plan.
 
-That is a durable shift and it belongs in this chapter because it inverts the
-arrangement Act II described. The G.I. Bill and the Master Plan had made higher
+That is a durable shift and it inverted the arrangement Terman had built. The G.I. Bill and the Master Plan had made higher
 education a public good financed collectively. From the 1970s the cost migrated
 to the student, through fees and then through debt, on the argument that the
 private returns to a degree were substantial and the beneficiary should pay.
@@ -348,18 +321,17 @@ investment as such because it arrived through institutions — a university, a
 research contract, a pension allocation — rather than as a cheque.
 
 Public subsidy that arrives through an institution is invisible to the person it
-benefits. That is the most durable finding in this book, and Act IV is what
-happens when the people it benefits acquire the government.
+benefits. That is the most durable finding in this book.
 
 ## Bechtel
 
-Caspar Weinberger became Secretary of Defense in 1981. George Shultz became Secretary of State in 1982. Both men had been executives at Bechtel, the San Francisco engineering firm that had grown on public-works contracts the way the railroad had grown on land grants. Shultz — "the outsider and former academic" — had become president of Bechtel a year after joining the company. (McCartney 1988, ch. 14) <!-- bib: TODO -->
+Caspar Weinberger became Secretary of Defense in 1981. George Shultz became Secretary of State in 1982. Both men had been executives at Bechtel, the San Francisco engineering firm that had grown on public-works contracts the way the railroad had grown on land grants. Shultz — "the outsider and former academic" — had become president of Bechtel a year after joining the company. <!-- bib: TODO -->
 
-Shultz told his 1982 nomination hearing that "Private interests have no business with nuclear weapons." (Denton 2016, ch. 35) <!-- bib: TODO -->
+Shultz told his 1982 nomination hearing that "Private interests have no business with nuclear weapons." <!-- bib: TODO -->
 
 Bechtel had business with nuclear weapons. The line is worth holding in mind.
 
-The firm's social world included the Bohemian Grove, the private campground in Monte Rio where California's corporate and political leadership met each summer. Nixon's Watergate tapes record him calling the Grove "the most faggy goddamned thing you could ever imagine," in a passage that also describes Bechtel courting Shultz there (Denton 2016, ch. 12). <!-- bib: TODO -->
+The firm's social world included the Bohemian Grove, the private campground in Monte Rio where California's corporate and political leadership met each summer. Nixon's Watergate tapes record him calling the Grove "the most faggy goddamned thing you could ever imagine," in a passage that also describes Bechtel courting Shultz there. <!-- bib: TODO -->
 
 One detail, sourced once, is enough. The point is not the campground. The point is that the cabinet and the contractor drank from the same cup.
 

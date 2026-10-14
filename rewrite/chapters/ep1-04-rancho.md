@@ -98,30 +98,6 @@ California will adopt and extend after 1850.
 
 The legal fiction had changed. The arrangement had not.
 
-## Assets before markets
-
-Here is the structural claim the chapter exists to make, and it inverts the
-sequence most people assume.
-
-The standard story of concentration runs: a market develops, participants
-compete, some win, and wealth concentrates as a result. Concentration is the
-outcome of market activity.
-
-California ran it backwards. Its land was concentrated into a few hundred
-holdings before it had a commercial economy at all — before the Gold Rush,
-before statehood, before there was a currency, a bank, a court that could
-enforce a contract, or a market in anything but hides. Monopoly was not produced
-by California's capitalism. It preceded it, and California's capitalism was
-built on top of it.
-
-This matters for everything that follows. When the Americans arrive in 1846 and
-the gold is found in 1848 and half the world turns up looking for it, they are
-arriving in a place where the land is already spoken for. The conflicts of the
-1850s — squatters against grant-holders, the land commission, the litigation
-that consumed the Californio fortunes — are conflicts over a distribution that
-was settled in the 1830s by a small number of men, several of whom were
-administering the process and receiving its proceeds.
-
 ## What the ranchos became
 
 It is worth following the properties forward, because the boundaries drawn in

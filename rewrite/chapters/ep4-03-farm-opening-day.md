@@ -8,9 +8,9 @@ The number 555 appears in institutional histories as a round symbol of pioneer s
 
 The Southern Pacific still ran trains past fields that had once been only Stanford's. Commuters and freight moved on schedules the founder had helped set. Opening day did not retire the railroad. It layered a school atop it.
 
-Among them was Herbert Hoover, seventeen years old, born in Iowa in 1874, raised in Oregon after his parents died, admitted to the pioneer class without a high school diploma (Harris 2023, ch. 2.3). He had come to study geology under John Casper Branner. He would later remember the day as the beginning of a life the university would adopt in ways he could not yet imagine—professors paying medical bills when typhoid struck, a geology lab where he would meet Lou Henry, a board seat in circumstances cloudy enough to raise questions decades later (Harris 2023, ch. 2.3; Whyte 2017, ch. 6). <!-- bib: TODO Whyte Hoover -->
+Among them was Herbert Hoover, seventeen years old, born in Iowa in 1874, raised in Oregon after his parents died, admitted to the pioneer class without a high school diploma. He had come to study geology under John Casper Branner. He would later remember the day as the beginning of a life the university would adopt in ways he could not yet imagine—professors paying medical bills when typhoid struck, a geology lab where he would meet Lou Henry, a board seat in circumstances cloudy enough to raise questions decades later. <!-- bib: TODO Whyte Hoover -->
 
-Hoover had arrived in the summer of 1891, before the university opened, among the first students resident on the campus—admitted conditionally after failing every entrance subject except mathematics, working his way through with a laundry agency and a lecture bureau (repo ch 3-01; Harris 2023, ch. 2.3).
+Hoover had arrived in the summer of 1891, before the university opened, among the first students resident on the campus—admitted conditionally after failing every entrance subject except mathematics, working his way through with a laundry agency and a lecture bureau.
 
 Hoover stood on ground Leland Stanford had bought with railroad money. The founder himself was present for the opening. Jane Stanford was present. David Starr Jordan was inaugurated as president. Tuition was free. Women studied beside men. The curriculum promised usefulness rather than polish alone.
 
@@ -24,9 +24,9 @@ Stanford's obsession with trotters was not a hobby divorced from power. Fast hor
 
 In the 1870s Leland Stanford had bred horses on this farm with the seriousness of a man who settled arguments with capital. He wanted to know whether a trotting horse ever had all four feet off the ground at once. The eye could not settle the bet. Science could, if someone would pay for the apparatus.
 
-Stanford engaged Eadweard Muybridge. The photographer had killed his wife's lover in 1874 and stood trial in a city that acquitted him. Stanford rehired him in 1876 anyway (Harris 2023, ch. 1.3). Muybridge strung cameras along the track, each shutter tripped in sequence as the horse passed. In 1878 the plates showed the animal suspended—hooves clear of earth for an instant the human eye could never isolate.
+Stanford engaged Eadweard Muybridge. The photographer had killed his wife's lover in 1874 and stood trial in a city that acquitted him. Stanford rehired him in 1876 anyway. Muybridge strung cameras along the track, each shutter tripped in sequence as the horse passed. In 1878 the plates showed the animal suspended—hooves clear of earth for an instant the human eye could never isolate.
 
-Harris's account treats the episode as the farm inventing cinema in spirit if not in single-parent patent (Harris 2023, ch. 1.3). The book's draft chapter is more cautious: motion photography developed along many lines; Muybridge's sequences were one contribution among several. What no one disputes is the patron. Stanford paid. The images bore his interest—stock breeding, reputation, the pleasure of owning the answer.
+Harris's account treats the episode as the farm inventing cinema in spirit if not in single-parent patent. The book's draft chapter is more cautious: motion photography developed along many lines; Muybridge's sequences were one contribution among several. What no one disputes is the patron. Stanford paid. The images bore his interest—stock breeding, reputation, the pleasure of owning the answer.
 
 Muybridge and Stanford fell out over credit and publication. The horses kept running. The knowledge stayed tied to the farm.
 
@@ -36,7 +36,7 @@ Hoover had not seen the 1878 sequence on opening day. He would feel the same pri
 
 ### Opening exercises
 
-Stanford University opened on eight thousand acres of the family's Palo Alto farm (Harris 2023, ch. 1.3; repo ch 2-12). The Founding Grant of November 11, 1885, had created the legal body that owned the land. The grant forbade sale; income would flow from use. Trustees would replace themselves. The institution was private, permanent, and deliberately outside electoral politics.
+Stanford University opened on eight thousand acres of the family's Palo Alto farm. The Founding Grant of November 11, 1885, had created the legal body that owned the land. The grant forbade sale; income would flow from use. Trustees would replace themselves. The institution was private, permanent, and deliberately outside electoral politics.
 
 The progressive features were not decoration. Coeducation from the first day put Stanford ahead of most eastern peers. Free tuition opened doors to students who could not have afforded Harvard or Yale. Nonsectarian admission welcomed Protestants, Catholics, Jews, and doubters without a doctrinal gate.
 
@@ -76,7 +76,7 @@ Hoover had lost his father at six and his mother at nine. Guardianship and hard 
 
 On opening day he was not yet the engineer who would run mines in Western Australia and China, not yet the relief administrator who would feed Belgium, not yet the president who would preside over depression shantytowns bearing his name. He was a teenager with a carpetbag and a geology book, standing on land that could not be sold because a grant said so.
 
-The university would pay his typhoid bills when illness struck his junior year. Branner "even paid his favorite pupil's medical bills" (Harris 2023, ch. 2.3). Adoption by institution is a phrase historians use later. Hoover felt it as a professor's checkbook and a dean's attention.
+The university would pay his typhoid bills when illness struck his junior year. Branner "even paid his favorite pupil's medical bills". Adoption by institution is a phrase historians use later. Hoover felt it as a professor's checkbook and a dean's attention.
 
 Jordan's inaugural rhetoric promised a new kind of American university—practical, scientific, open. The Southern Pacific still owned the political weather off campus. Kearney's sandlot had cooled but exclusion had not. Chinese workers who had built the line were barred from citizenship by law Stanford had supported.
 
@@ -122,11 +122,9 @@ Torches or lamps lit paths between unfinished dorms. Students met roommates. Fac
 
 Muybridge's horse still hung in the air in photographs displayed for visitors who cared about science or sport. The image said this place belonged to men who could buy answers. Hoover would learn to extract answers from rock instead of horses.
 
-Two years and eight months later the founder would not wake up. The orphan on the quad would still be there when the estate froze and the United States came collecting for railroad bonds.
-
 Branner's geology program was why Hoover came. Field trips to foothills taught ore and fault lines. Laboratories taught measurement. The orphan who managed baseball schedules also managed hunger—working jobs between classes because free tuition was not free living.
 
-Lou Henry would meet him in Branner's orbit, though their romance belongs to years after opening day (Whyte 2017, ch. 2). <!-- bib: TODO Whyte --> On October 1, 1891, he was one face in 555, unknown to history except as pioneer.
+Lou Henry would meet him in Branner's orbit, though their romance belongs to years after opening day. <!-- bib: TODO Whyte --> On October 1, 1891, he was one face in 555, unknown to history except as pioneer.
 
 The campus he entered would outlast every founder. He would outlast many classmates. The farm's red tile would still be there when he returned with mining millions and political ambition.
 

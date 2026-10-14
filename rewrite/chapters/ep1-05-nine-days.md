@@ -4,76 +4,13 @@
 
 January–February 1848. Coloma and Guadalupe Hidalgo.
 
-The Treaty of Guadalupe
-Hidalgo was signed on 2 February. For nine days the United States negotiated for
-California without knowing it had become the most valuable territory on the
-continent, and Mexico ceded it on the same terms.
-
-The chapter's argument is that the treaty mattered and the fighting did not. The
-Bear Flag Revolt and the California campaign were small, confused, and largely
-decided elsewhere. What converted military occupation into something investable
-was a legal instrument: a document establishing that title could be held,
-transferred, and enforced under American law. California became capital not
-because it was conquered but because it was documented, and the fifteen million
-dollars paid to Mexico purchased a framework rather than a landscape.
-
-The hinge is Article X. The treaty as negotiated contained a provision
-protecting existing Mexican land grants, and it was struck before ratification.
-What replaced it was a promise of protection without a method, and the
-method turned out to be the Land Act of 1851 and a commission before which
-grant-holders had to prove their title — in English, in an American court,
-against a boundary drawn as a creek and an oak tree.
-
-The result was a transfer of land accomplished procedurally rather than by
-seizure. Californio families spent years and, frequently, the land itself paying
-lawyers to establish ownership of property they already occupied. Some won and
-were ruined by the cost of winning. That is a more durable method than
-confiscation, and a much harder one to protest.
-
-Indigenous title was recognised by neither sovereign, before or after.
-
-The chapter's structural point closes the opening episodes's first movement: capital requires
-enforceable title, the United States supplied it, and that was the actual
-acquisition. The legal framework is now in place, and the gold is already in the
-river.
-{.callout-caution collapse="true"}
-## Beats
-
-1. **Hook.** Nine days. The gold is found on 24 January; the treaty is signed on
-   2 February. Nobody in Mexico City or Washington knows.
-2. **The war, briefly.** The Bear Flag Revolt and the California campaign, kept
-   short and unromantic. It is not the method.
-3. **Guadalupe Hidalgo.** What the treaty said, what it paid, and what it
-   promised about existing property.
-4. **The alteration.** Article X, struck before ratification, and what its
-   removal did to Mexican land titles. This is the chapter's hinge.
-5. **The Land Act of 1851 and the commission.** The burden of proof placed on
-   grant-holders. Years, lawyers, and fees.
-6. **How title moved.** Californio families losing land to legal costs rather
-   than to seizure. The method is procedural, which is why it is durable.
-7. **Indigenous title.** Recognised by neither sovereign. Say so directly.
-8. **Why documentation is the asset.** The chapter's argument: capital requires
-   enforceable title, and the United States supplied it. That is the real
-   acquisition.
-9. **Landing.** The legal framework is in place. The gold is already in the
-   river. Hand off.
-The Treaty of Guadalupe Hidalgo was signed on 2 February 1848, transferring
-California to the United States for fifteen million dollars.
+The Treaty of Guadalupe Hidalgo was signed on 2 February 1848, transferring California to the United States for fifteen million dollars.
 
 Gold had been found at Sutter's Mill nine days earlier.
 
-Nobody in Mexico City knew. Nobody in Washington knew. Word reached the eastern
-United States months later and was not widely believed until December, when the
-president confirmed it in a message to Congress and the rush began in earnest.
-For those nine days, and for a good while afterwards, the most valuable
-territory on the continent changed hands at a price set in complete ignorance of
-what it contained.
+Nobody in Mexico City knew. Nobody in Washington knew. Word reached the eastern United States months later and was not widely believed until December, when the president confirmed it in a message to Congress and the rush began in earnest. For those nine days, and for a good while afterwards, the most valuable territory on the continent changed hands at a price set in complete ignorance of what it contained.
 
-The coincidence is the best-known fact in California history and it is usually
-told as irony. It is more useful as an argument about what the treaty actually
-accomplished, because the gold was in the ground either way. What changed on 2
-February was not the value of California. It was the legal system that would
-determine who owned it.
+The coincidence is the best-known fact in California history and it is usually told as irony. It is more useful as an argument about what the treaty actually accomplished, because the gold was in the ground either way. What changed on 2 February was not the value of California. It was the legal system that would determine who owned it.
 
 ## The war, briefly
 
@@ -171,8 +108,7 @@ the federal government's ordinary annual revenue at the time.
 It was also, within eighteen months, less than the value of the gold coming out
 of a single year's production in the territory it had purchased.
 
-The chapter's argument is that this arithmetic is not the point, and that
-treating it as an extraordinary bargain misunderstands the transaction. What the
+What the
 United States bought was not a quantity of gold it did not know about. It was
 jurisdiction: the authority to determine, through its own courts and its own
 statutes, who owned what. Everything extracted from California over the
@@ -214,20 +150,9 @@ their claims in the belief that reservations would follow. They did not.
 There is no procedural complexity to describe here and no litigation to trace.
 The claims were simply not recognised.
 
-## What the chapter proves
+The fighting in California lasted seven months and changed very little. The paperwork lasted forty years and changed everything: who owned the coast, who owned the interior, who could borrow against it, and who was left holding a sketch map and a lawyer's bill.
 
-Conquest becomes capital through documentation, and the documentation is where
-the outcome is decided.
-
-The fighting in California lasted seven months and changed very little. The
-paperwork lasted forty years and changed everything: who owned the coast, who
-owned the interior, who could borrow against it, and who was left holding a
-sketch map and a lawyer's bill.
-
-The legal framework is now in place. The gold has been in the river for two
-weeks. And the largest voluntary migration in the history of the hemisphere is
-about to arrive in a territory where the land is already owned, the title is
-already contested, and the courts are three thousand miles away.
+The legal framework is now in place. The gold has been in the river for two weeks. And the largest voluntary migration in the history of the hemisphere is about to arrive in a territory where the land is already owned, the title is already contested, and the courts are three thousand miles away.
 
 ## After the treaty
 
@@ -256,8 +181,7 @@ James Marshall found the gold and got nothing. He tried mining, tried lecturing,
 tried a vineyard, and died poor in 1885 in a cabin in Kelsey. The State of
 California voted him a small pension for a few years and then discontinued it.
 
-John Sutter, on whose land the discovery was made and whose private
-establishment was described in chapter 3, was destroyed by it within three
+John Sutter, on whose land the discovery was made and whose private establishment at New Helvetia had been the valley's only real enterprise, was destroyed by it within three
 years. His workforce left for the diggings. Squatters occupied his land, killed
 his cattle, and could not be removed, because the courts were overwhelmed, the
 title was Mexican-era and contested, and the squatters had votes. His claim was
@@ -268,106 +192,3 @@ petitioning.
 The discoverer and the landowner both ended as claimants. The man who bought the
 shovels ended as a millionaire. That is not a moral about luck. It is a
 statement about position.
-
-## The scale of the shock
-
-San Francisco had somewhere under a thousand residents at the beginning of 1848.
-Within two years it had more than twenty-five thousand, and California's non-
-Indigenous population went from a few thousand to well over two hundred thousand
-within four years. Ships arriving in the bay were abandoned by their crews, who
-left for the diggings; at one point several hundred vessels sat derelict in the
-harbour. Some were broken up for timber. Some were run aground deliberately,
-filled in around, and built on — there are ships under the financial district,
-found periodically during excavation.
-
-Prices behaved accordingly. Eggs, flour, lumber, and labour reached levels that
-correspondents wrote home about in disbelief. A city was being built by people
-who had no intention of staying, using materials that had to come around Cape
-Horn.
-
-## Who captured the surplus
-
-The arithmetic of mining is the part the mythology omits.
-
-Placer gold — the loose material in streambeds that a man with a pan could
-recover — was accessible for a few years and then substantially exhausted.
-During that window the average return was, by most reconstructions, roughly
-comparable to wages available elsewhere, with enormous variance: a small number
-of men did extremely well, most made an ordinary living for hard work in bad
-conditions, and many lost money on the cost of getting there. After the placers
-played out, mining required capital — hydraulic operations, stamp mills, and
-eventually deep shafts — and became an industry employing wage labour rather
-than an opportunity for individuals.
-
-The reliable money was in supply. Merchants selling equipment and provisions.
-Shippers controlling the passage from the eastern United States. Landlords in
-San Francisco, where a lot on the waterfront appreciated faster than any claim
-in the Sierra. Bankers, who held gold dust, issued notes against it, and
-financed the merchants. Levi Strauss arrived in 1853 and sold dry goods; the
-trousers came later and the business was a wholesale supply house long before it
-was a brand.
-
-Every one of these positions is a passage. The harbour was the only realistic
-way into northern California, so everything and everybody passed through San
-Francisco, and whoever owned the ground they passed over collected.
-
-The extractive story — the miner, the pan, the strike — obscures the
-infrastructural reality, and the obscuring is part of the method. A myth of
-luck explains the winners as fortunate rather than as positioned, which is a
-considerably more comfortable account for the winners.
-
-## The state joins in
-
-The Foreign Miners' Tax of 1850 imposed a monthly licence fee on miners who were
-not United States citizens. It was aimed principally at Mexican, Chilean, and
-Peruvian miners, many of whom had arrived early and knew more about placer
-mining than the Americans did. It was widely enforced by threat, produced
-substantial revenue for the state, and was repealed after the foreign miners
-largely left, which had been the object.
-
-A second version in 1852 was aimed at the Chinese and was more durable,
-eventually supplying a significant share of state revenue. It is the first
-appearance in California of a manoeuvre that this act will describe again in
-chapter 11 and the story will describe again in the opening episodesV: extract from a group
-defined as outsiders, in a way that a majority of voters will support, while the
-actual concentration of wealth continues undisturbed.
-
-## The catastrophe
-
-The Gold Rush was, for the Indigenous population of California, the most
-destructive event in its history, and this is not a matter of interpretation.
-
-Miners moved into the foothills and the interior valleys in enormous numbers,
-displacing communities, destroying fisheries with hydraulic sediment, and taking
-land. The violence was organised. State and local authorities paid bounties and
-funded militia expeditions against Indigenous communities, and the California
-legislature appropriated money for the purpose; the federal government later
-reimbursed a substantial portion of it. An 1850 state statute, titled an act for
-the government and protection of Indians, permitted the arrest of Indians deemed
-to be loitering and their assignment to labour, and permitted the indenture of
-Indigenous children — a system of forced labour operating in a free state.
-
-The Indigenous population of California declined by a very large proportion
-during the 1850s and 1860s. Scholarly estimates of the pre-contact population
-and of the decline vary considerably, and the range should be stated rather than
-collapsed, but no serious account puts the collapse at less than catastrophic,
-and California's first governor said publicly in 1851 that a war of
-extermination would continue until the Indian race became extinct.
-
-The eighteen treaties negotiated with California tribes in 1851 and 1852, which
-would have reserved substantial land, were never ratified by the Senate. The
-tribes had already ceded their claims.
-
-## What California took away
-
-California took away something in these years that it has never unlearned, and
-Brannan is its clearest exponent.
-
-The money is not in the commodity. The money is in the position between the
-commodity and the person who wants it — the harbour, the store, the bank, the
-only road in. Positions of that kind do not require luck, do not require skill
-at the underlying activity, and do not exhaust when the placers do.
-
-Twelve years later, four Sacramento merchants who had made ordinary money
-selling supplies to miners applied the same insight to a railroad, and the
-federal government paid for it.

@@ -84,30 +84,6 @@ that held it would control access to everything behind it. The mission and the
 presidio are instrumentation around a passage, and the passage is the
 reason either of them exists.
 
-## Legibility as power
-
-Consider what the register does that no other instrument in eighteenth-century
-California could do.
-
-It creates a population. Before the register there are people living in a
-territory in kinship groups the Spanish did not understand and did not try to;
-after it, there is a numbered, named, located, and countable body of persons
-with recorded obligations. The register makes the population an object that can
-be administered by someone who has never met any of them.
-
-This is the same operation the Roman census performed and the same operation the
-Linear B tablets performed at Pylos, and it will be the same operation performed
-by a railroad's freight schedules, a university's admissions files, and a
-platform's user database. Whoever holds the register decides who exists in the
-official sense, and the official sense is the only one that generates
-consequences.
-
-The Franciscans were not doing this cynically. They believed the enterprise was
-salvific and many of them worked themselves into the ground on it. That is
-precisely why the chapter belongs where it does: the method does not require
-bad faith, and it operates identically whether the people running it are venal
-or sincere.
-
 ## What the labour actually was
 
 The mission economy ran on Indigenous labour that was not free to leave.
@@ -173,7 +149,6 @@ by any European power.
 It also had a complete land system, a controlled labour force, and fifty years
 of records.
 
-Power began here before markets did, and it began as paperwork. Everything Act
-II describes — the ranchos, the American land commission, the railroad's grants,
+Power began here before markets did, and it began as paperwork. Everything that follows — the ranchos, the American land commission, the railroad's grants,
 the university's endowment — is a transfer of assets that the mission system had
 already identified, mapped, and staffed.

@@ -4,9 +4,9 @@
 
 **Palo Alto, California. 2003.**
 
-Peter Thiel poured his grievances into the *Stanford Review*, the conservative paper he founded that spring at Stanford (Chafkin 2021, ch. 2, p. 24). <!-- bib: TODO -->
+Peter Thiel poured his grievances into the *Stanford Review*, the conservative paper he founded that spring at Stanford. <!-- bib: TODO -->
 
-By 2003 those grievances had a company attached. Thiel named it Palantir after the mythical Elvish "seeing stone." (Chafkin 2021, ch. 8, p. 113) <!-- bib: TODO -->
+By 2003 those grievances had a company attached. Thiel named it Palantir after the mythical Elvish "seeing stone." <!-- bib: TODO -->
 
 ---
 
@@ -18,8 +18,8 @@ otherwise. When a private firm supplies the system through which an agency
 perceives its own problem, the firm is not selling a tool. It is supplying a
 faculty.
 
-return of Act II's university-contractor-state triangle in software. Also elite
-network reproduction: the founder is from Act III ch. 13's staff photograph, and
+return of the earlier university-contractor-state triangle in software. Also elite
+network reproduction: the founder is from the earlier staff photograph, and
 the early funding included the CIA's venture arm.
 
 venture capital arm. The intelligence community helped capitalise the company
@@ -38,8 +38,7 @@ intelligence agency and selling analytical capacity back to the government.
 
 In its early years Palantir received investment from In-Q-Tel, the Central
 Intelligence Agency's venture capital arm. An intelligence service helped
-capitalise a company that would go on to sell it software. The chapter states
-the loop before commenting on it.
+capitalise a company that would go on to sell it software.
 
 Palantir was founded in Palo Alto in 2003 by Peter Thiel and Alex Karp, and
 unlike the platforms in the surrounding chapters it never claimed to be neutral
@@ -51,18 +50,15 @@ the chapter is weaker against a straw man.
 What the product does is integrate and analyse data across systems that were
 never designed to talk to one another. Described plainly and without the
 marketing vocabulary, it is a way of making an institution's own information
-legible to itself — which places it in a line running back to the mission
-register in Act I and the Hoover archive in Act I.
+legible to itself — which places it in a line running back to the mission register and the Hoover archive.
 
 Its customers are intelligence agencies, defence departments, and immigration
 enforcement, and the chapter works from contract records with values and dates.
 The immigration deployments get the documents first and the company's response
-second, in that order. Revenue figures come from filings rather than from the
-unsourced number the drafts carried.
-
+second, in that order.
 The structural claim is that when the state's perception of a problem is
 mediated by a vendor's model, the vendor is not selling a tool but supplying a
-faculty. Act II's university-contractor-state triangle has reassembled in
+faculty. the earlier university-contractor-state triangle has reassembled in
 software, with the same three parties and the same flow of public money.
 
 Peter Thiel appears in this book as a PayPal founder, the principal funder of a
@@ -72,29 +68,14 @@ once.
 
 The excluded are the people the software is used to find.
 
-   sell it software. State the loop before commenting on it.
-   analysis without wholesale surveillance. Give the founding argument in its
-   strongest form — the chapter is weaker if it is a straw man.
-   boundary between customer and investor.
-   sources. Precise, unmystified, and without the marketing vocabulary.
-   Contracts, sourced, with values and dates.
-   response. Both, in that order.
-   filings. The drafts carried an unsourced number; replace it.
-   perception of a problem is mediated by a vendor's model, the vendor holds a
-   governmental function. Point back to Act II ch. 11.
-   nobody pretends the university is disinterested.
-
 What happens when surveillance software sits inside government capacity?
 
 In its early years Palantir took investment from In-Q-Tel, the venture capital
 arm of the Central Intelligence Agency.
 
 An intelligence service helped capitalise a company that would sell it software.
-The chapter states the loop before commenting on it, because the loop is the
-point and the arrangement was never secret.
 
-Palantir was founded in Palo Alto in 2003 by Peter Thiel, from the group in Act
-IV chapter 13, with Alex Karp, Joe Lonsdale, Stephen Cohen, and Nathan Gettings.
+Palantir was founded in Palo Alto in 2003 by Peter Thiel, from the group, with Alex Karp, Joe Lonsdale, Stephen Cohen, and Nathan Gettings.
 
 Its founding argument deserves to be stated at full strength, because a chapter
 that assumes bad faith would be both unfair and analytically weaker.
@@ -144,11 +125,6 @@ policy belong to elected governments rather than to vendors. Employees inside
 the company have objected internally and some have resigned, and the company has
 declined to withdraw.
 
-The chapter gives the documents first and the response second, and notes that
-the policy question — what a government should do — is genuinely separable from
-the question this book is asking, which is what happens to accountability when
-the capability is supplied by a private firm.
-
 Here is the structural claim, and it is why this chapter is in this book rather
 than in a survey of defence contractors.
 
@@ -161,8 +137,7 @@ That is a governmental function, and it is being performed under a commercial
 contract by an entity that is not subject to freedom of information law, not
 directly accountable to any legislature, and answerable to shareholders.
 
-Act II chapter 11 set out the university-contractor-state triangle and argued
-that federal money routed through universities because universities supplied
+Terman's university-contractor-state triangle had rested on the idea that federal money routed through universities because universities supplied
 legitimacy along with talent. This is the same triangle with the legitimacy leg
 removed and nothing pretending otherwise. Palantir never claimed to be a neutral
 platform. It said from the beginning what it was for.
@@ -174,20 +149,15 @@ The company remained private for seventeen years, which is unusual, and listed
 directly in September 2020 rather than through a conventional offering.
 
 Its revenue figures are in its filings and should be cited from them, by fiscal
-year, with the government and commercial segments separated. The drafts of this
-project carried a single unsourced revenue number that did not correspond to any
-reported figure, and it has been removed.
-
+year, with the government and commercial segments separated.
 What is durable and worth stating is the shape of the business: a long period of
 losses funded by private capital while building relationships with agencies
 whose procurement cycles are measured in years, followed by profitability at
 scale once those relationships matured. That is a model only available to a
-company with patient capital and a network that supplies it, which returns to
-Act III chapter 13.
+company with patient capital and a network that supplies it, which is what the PayPal network supplied.
 
 The obvious question is why a government with the resources of the United States
-buys this capability rather than building it, and the answer is the same one Act
-III chapter 11 gave about universities.
+buys this capability rather than building it, and the answer is the same one Terman's generation gave about universities.
 
 Federal agencies procure software through processes designed to prevent
 corruption, which means they are slow, specification-driven, and biased toward
@@ -219,7 +189,7 @@ chapter. He founded a company embedded in the security state. He funded a Senate
 campaign in 2022 that reached the vice presidency, which is the next chapter but
 three.
 
-The chapter records this without alarm. It is a description of what a network
+It is a description of what a network
 looks like when its members are individually very capable and collectively
 positioned, and it is the most concentrated single illustration of this book's
 argument about elite reproduction.

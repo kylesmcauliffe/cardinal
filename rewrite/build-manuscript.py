@@ -5,7 +5,7 @@ import re
 
 ROOT = Path(__file__).resolve().parent
 CH = ROOT / "chapters"
-OUT = ROOT / "Cardinal-documentary-draft-v1.md"
+OUT = ROOT / "Cardinal-documentary-draft-v1.1.md"
 BIB = ROOT.parent / "books" / "cardinal" / "references.bib"
 
 ORDER = [
@@ -38,57 +38,57 @@ def heading_title(line: str) -> str:
 
 parts = []
 parts.append("---\n")
-parts.append("title: \"Cardinal: Documentary Rewrite\"\n")
-parts.append("author: \"Kyle McAuliffe et al.\"\n")
-parts.append("date: \"October 2026\"\n")
+parts.append("title: \"Cardinal\"\n")
+parts.append("author: \"Kyle McAuliffe\"\n")
+parts.append("date: \"Draft 1.1 · October 2026\"\n")
 parts.append("documentclass: book\n")
 parts.append("fontsize: 11pt\n")
 parts.append("geometry: margin=1in\n")
 parts.append("linestretch: 1.15\n")
 parts.append("---\n\n")
-parts.append("# Cardinal\n\n")
-parts.append("*Documentary rewrite — draft v1*\n\n")
-parts.append("**October 2026**\n\n")
-parts.append("\\newpage\n\n")
 parts.append("## Contents\n\n")
 
+NOTES = ROOT / "endnotes"
 toc_entries = []
 body = []
+prev_ep = None
 
-for fname in ORDER:
+def episode_key(fname):
+    return fname.split("-")[0]
+
+for idx, fname in enumerate(ORDER):
     path = CH / fname
     if not path.exists():
         raise SystemExit(f"Missing chapter: {fname}")
-    text = strip_html_comments(path.read_text(encoding="utf-8"))
+    text = strip_html_comments(path.read_text(encoding="utf-8")).strip("\n")
     lines = text.splitlines()
-    h1 = h2 = None
-    for line in lines:
-        if line.startswith("# ") and h1 is None:
-            h1 = heading_title(line)
-        elif line.startswith("## ") and h2 is None:
-            h2 = heading_title(line)
-            break
-    label = f"{h2 or h1 or fname}"
-    toc_entries.append(f"- {label} (`{fname}`)\n")
-    body.append(f"\n\n<!-- source: {fname} -->\n\n")
+    h1 = next((heading_title(l) for l in lines if l.startswith("# ")), None)
+    h2 = next((heading_title(l) for l in lines if l.startswith("## ")), None)
+    ep = episode_key(fname)
+    if fname.startswith("coda"):
+        toc_entries.append(f"\n**{h1}**\n")
+    else:
+        if ep != prev_ep and h1:
+            toc_entries.append(f"\n**{h1}**\n\n")
+        toc_entries.append(f"- {h2 or h1}\n")
+    if ep == prev_ep:
+        # drop the repeated episode heading on every chapter after the first
+        text = re.sub(r"\A# [^\n]*\n+", "", text)
+    body.append("\n\n")
     body.append(text)
     body.append("\n\n\\newpage\n\n")
+    nxt = ORDER[idx + 1] if idx + 1 < len(ORDER) else None
+    if nxt is None or episode_key(nxt) != ep:
+        note = NOTES / f"{ep}.md"
+        if note.exists():
+            body.append(note.read_text(encoding="utf-8"))
+            body.append("\n\n\\newpage\n\n")
+    prev_ep = ep
 
 parts.extend(toc_entries)
 parts.append("\n\\newpage\n\n")
 parts.extend(body)
 
-parts.append("\n\n# Notes and Bibliography\n\n")
-parts.append("Primary and secondary sources are cited in Chicago author-date form in the chapter text. ")
-parts.append("Full bibliographic entries are maintained in `books/cardinal/references.bib` in the repository. ")
-parts.append("Episode research logs: `rewrite/QUESTIONS-ep*.md`, `rewrite/moments.md`, `rewrite/timeline.md`.\n\n")
-if BIB.exists():
-    parts.append("```bibtex\n")
-    parts.append(BIB.read_text(encoding="utf-8")[:50000])
-    if len(BIB.read_text(encoding="utf-8")) > 50000:
-        parts.append("\n... [truncated for manuscript; see references.bib in repo]\n")
-    parts.append("```\n")
-
 OUT.write_text("".join(parts), encoding="utf-8")
 word_count = len(re.findall(r"\w+", "".join(body)))
-print(f"Wrote {OUT} (~{word_count} words in chapters)")
+print(f"Wrote {OUT} (~{word_count} words incl. notes)")

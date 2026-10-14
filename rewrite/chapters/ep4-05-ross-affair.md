@@ -4,7 +4,7 @@
 
 May 1900 came first. November 1900 came after. Between them Edward Alsworth Ross gave speeches, Jane Stanford wrote letters, and David Starr Jordan learned that a university built by railroad money could not tolerate railroad criticism spoken aloud where donors listened.
 
-This chapter ends on a night visit. It begins in daylight, with a newspaper headline.
+It begins in daylight, with a newspaper headline.
 
 ### Spring on the lectern
 
@@ -22,7 +22,7 @@ Historians on campus understood archives. They understood how railroad subsidies
 
 The night of November 14 was late in the Ross crisis. Resignation papers were already circulating. Protest resignations would follow. Jordan's visit was cleanup—ensuring the historians who remained would not give reporters a quote that reopened the wound.
 
-Jordan told him the faculty should "keep still" (White 2022, 101).
+Jordan told him the faculty should "keep still".
 
 The words were short. The context was not. For months the university had been convulsed by the case of Edward Alsworth Ross, a young economist and sociologist popular with students and dangerous to the memory of the man whose fortune had built the lecterns.
 
@@ -32,25 +32,25 @@ And he criticized railroad monopoly and the use of coolie labor to build it—fr
 
 ### Years of letters
 
-Jane Stanford's correspondence with Jordan about Ross spanned years, not days (repo ch 2-13). She did not spring on the president a single headline. She accumulated grievances: silver speeches, utility ownership, immigration rhetoric, and railroad criticism from a lectern her money built.
+Jane Stanford's correspondence with Jordan about Ross spanned years, not days. She did not spring on the president a single headline. She accumulated grievances: silver speeches, utility ownership, immigration rhetoric, and railroad criticism from a lectern her money built.
 
 Jordan's resistance weakened as the board sided with the woman who had kept the university alive through probate. Academic freedom had no union yet. Ross had popularity, not tenure.
 
 ### What Ross said
 
-On May 8, 1900, the San Francisco *Call* reported a Ross speech under the headline "Warning Against Coolie 'Natives' and Japanese" (White 2022, notes ch. 16). The newspaper's framing was the city's framing: labor fear dressed as civic warning, Asian workers cast as threat.
+On May 8, 1900, the San Francisco *Call* reported a Ross speech under the headline "Warning Against Coolie 'Natives' and Japanese". The newspaper's framing was the city's framing: labor fear dressed as civic warning, Asian workers cast as threat.
 
 The deeper cut for this story is the coolie reference. Jane Stanford's husband had built the Central Pacific with Chinese crews paid a wage differential the government and the courts would later argue about but never fully repay. Ross attacked the system that had financed the campus beneath his feet. He did it where donors could hear.
 
-Jane Stanford wrote to President Jordan demanding Ross's removal, repeatedly and over years (repo ch 2-13). Jordan resisted for a while. Faculty admired Ross. Students packed his lectures. The American Association of University Professors did not yet exist to shield him.
+Jane Stanford wrote to President Jordan demanding Ross's removal, repeatedly and over years. Jordan resisted for a while. Faculty admired Ross. Students packed his lectures. The American Association of University Professors did not yet exist to shield him.
 
 The president wrote memos. The benefactress wrote ultimatums. Ross continued to speak off campus if not on. Each speech in a labor hall became another clipping in Jane's file.
 
-Then Jordan complied. Ross resigned in November 1900. Seven members of the faculty resigned in protest over the following months, including the head of the history department (repo ch 2-13).
+Then Jordan complied. Ross resigned in November 1900. Seven members of the faculty resigned in protest over the following months, including the head of the history department.
 
-The case was reported nationally. It became the standard example in the long argument that produced the AAUP in 1915 and, eventually, tenure and the modern vocabulary of academic freedom. Ross went to Nebraska and then to Wisconsin, where he had a long career and published *Social Control* in 1901 (repo ch 2-13).
+The case was reported nationally. It became the standard example in the long argument that produced the AAUP in 1915 and, eventually, tenure and the modern vocabulary of academic freedom. Ross went to Nebraska and then to Wisconsin, where he had a long career and published *Social Control* in 1901.
 
-The first great academic freedom controversy in the United States arose at a university built by a railroad, over criticism of railroads, and was resolved by removing the critic. The chapter states it and moves on.
+The first great academic freedom controversy in the United States arose at a university built by a railroad, over criticism of railroads, and was resolved by removing the critic.
 
 ### Jordan's night visit
 
@@ -72,21 +72,11 @@ Firing Ross was consistent with firing a threat. It was inconsistent with the rh
 
 She would live four more years. She would taste strychnine in Poland Spring water in January 1905. She would die in Honolulu in February. Ross would be in Wisconsin, thriving, proof that removal did not end speech—only speech on this farm.
 
-### The ironies without a sermon
-
-Ross's racism toward Japanese immigrants complicates the martyrdom narrative later allies wanted. Jane's defense of Chinese labor as an institution's heritage complicates the humanitarian narrative later allies wanted for her. The railroad built with excluded workers funded a university that excluded criticism of exclusion from its podium.
-
-None of that required Jordan to visit Howard at night. The visit did require a president who understood that the institution's reputation was a balance sheet item as real as probate.
-
-Faculty who resigned took their reputations east and midwest. Students who loved Ross took his ideas off campus. The self-perpetuating board did not change structure. Trustees still appointed successors. The Founding Grant still forbade land sales.
-
-The university survived the controversy as it had survived probate: quieter, and more certain of who held the leash.
-
 ### Academic freedom born in the wrong nursery
 
 Historians would later call the Ross case a birthplace of academic freedom because loss taught professors they needed national organization. Stanford's name would appear in footnotes as caution, not model.
 
-Jordan remained president until 1913. Jane continued to fund and fight until 1905. Hoover, by then graduated, was mining ore in Australia and China, turning geology into fortune far from the quad where Ross once lectured (Harris 2023, ch. 2.3).
+Jordan remained president until 1913. Jane continued to fund and fight until 1905. Hoover, by then graduated, was mining ore in Australia and China, turning geology into fortune far from the quad where Ross once lectured.
 
 ### The board's silence
 
@@ -98,7 +88,7 @@ Academic freedom as ideology would grow nationally because cases like Ross's pro
 
 Later generations would quote Ross as martyr for speech. They would downplay his anti-Japanese rhetoric because the monopoly angle fit cleaner narratives. Jane's firing of him united two sins in one dismissal: attacking Asian immigrants in language labor wanted, and attacking Chinese labor her husband's railroad had imported and underpaid.
 
-The DEEP CUT for the series is that headline: coolie natives and Japanese in one warning (White 2022, notes ch. 16). The institution fired a man for saying aloud what its endowment embodied in silence.
+The DEEP CUT for the series is that headline: coolie natives and Japanese in one warning. The institution fired a man for saying aloud what its endowment embodied in silence.
 
 ### Toward January 1905
 
@@ -118,7 +108,7 @@ November 14, 1900, ended with historians instructed to silence and economists pa
 
 ### The seven resignations
 
-When Ross left, he did not leave alone in spirit. Seven faculty resigned in protest over the following months (repo ch 2-13). The head of the history department was among them. Departments that had recruited colleagues on promises of freedom read Jordan's compliance as betrayal.
+When Ross left, he did not leave alone in spirit. Seven faculty resigned in protest over the following months. The head of the history department was among them. Departments that had recruited colleagues on promises of freedom read Jordan's compliance as betrayal.
 
 Students demonstrated. Newspapers far from Palo Alto reprinted excerpts of Ross's speeches and Jane's demands. The university's board did not overturn the president. The benefactress had won.
 
@@ -132,7 +122,7 @@ Stanford's loss was Wisconsin's gain. The AAUP's later founding used Stanford as
 
 ### Howard's silence
 
-We do not have Howard's diary entry for November 14, 1900. We have Jordan's instruction reported in White's account: keep still (White 2022, 101). Historians infer faculty fear: speak and lose position; stay and keep salary.
+We do not have Howard's diary entry for November 14, 1900. We have Jordan's instruction reported in White's account: keep still. Historians infer faculty fear: speak and lose position; stay and keep salary.
 
 The night visit was intimate enforcement. No telegram required. No board resolution. A president at a historian's door.
 
@@ -146,7 +136,7 @@ Hoover, gone by then, was underground in Australia. He would read accounts if th
 
 Labor halls that had cheered Ross still existed. Coolie labor's legacy still sat in endowment ledgers Jane defended. The firing did not erase the speech. It erased the speaker from Palo Alto.
 
-May 8, 1900, was the headline the benefactress could paste into a file. November 1900 was the resignation she wanted. November 14 was the silence Jordan demanded from historians who might comment. Three dates, one outcome: monopoly's university would not host monopoly's critic. He would join the board years later in circumstances cloudy enough to suggest the institution never stopped claiming its pioneers (Whyte 2017, ch. 6). <!-- bib: TODO Whyte -->
+May 8, 1900, was the headline the benefactress could paste into a file. November 1900 was the resignation she wanted. November 14 was the silence Jordan demanded from historians who might comment. Three dates, one outcome: monopoly's university would not host monopoly's critic. He would join the board years later in circumstances cloudy enough to suggest the institution never stopped claiming its pioneers. <!-- bib: TODO Whyte -->
 
 Academic freedom before 1915 was a phrase without an army. Ross had students and colleagues but not tenure. Jane had endowment and trustees. Jordan chose the side that paid his salary.
 
@@ -154,12 +144,12 @@ Historians would later call the affair foundational because loss taught professo
 
 George Howard kept still. Ross left. Jane won. The railroad's university returned to quiet. Free speech on campus would wait for organizations not yet invented. The widow did not wait.
 
-Ross would publish *Social Control* in 1901 at Wisconsin, turning his exile into theory (repo ch 2-13). Jane would read no copy. Jordan would face no recall. The board would meet and move on.
+Ross would publish *Social Control* in 1901 at Wisconsin, turning his exile into theory. Jane would read no copy. Jordan would face no recall. The board would meet and move on.
 
 Newspapers that had printed Ross's warnings about coolie labor would print his departure instead. Labor halls that had cheered him would cheer him elsewhere. Only Palo Alto was closed to his voice.
 
 Jordan's compliance ended one controversy and stored resentment in departments that would remember. Howard's silence was one kind of memory. Ross's Wisconsin career was another.
 
-When Jordan told Howard to "keep still" (White 2022, 101), he was protecting more than reputation. He was protecting a benefactress who had already fired one critic and who would soon flee poison on Nob Hill. November 1900 taught Jordan how to manage inconvenient truth before January 1905 tested him again on a Nob Hill water bottle.
+When Jordan told Howard to "keep still", he was protecting more than reputation. He was protecting a benefactress who had already fired one critic and who would soon flee poison on Nob Hill. November 1900 taught Jordan how to manage inconvenient truth before January 1905 tested him again on a Nob Hill water bottle.
 
 The night visit to Howard was prologue to a death the university would also try to narrate in Honolulu. Jordan had learned how to keep still. He would soon ask an ocean to keep quiet too. Jane Stanford would be dead before spring ended in Honolulu.

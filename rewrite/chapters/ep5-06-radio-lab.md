@@ -62,8 +62,6 @@ Terman's advice in 1939 was the seed. The industrial park lease in 1951 would be
 
 Two men in a garage. A professor who refused to let them leave. A federal selection process that had not yet chosen Palo Alto. The oscillator on the bench was already humming toward a military specification.
 
-The chapter ends where the next one begins: not in Palo Alto, but on the East Coast, with Terman managing radar countermeasures and with families on the Peninsula being loaded onto trains.
-
 ## Richmond and the second migration
 
 The Second World War produced the largest internal migration in American history. Something in the region of a million and a half people moved to California during the war years to work in shipyards, aircraft plants, and the supporting economy, and among them were several hundred thousand Black Americans leaving the South in the second Great Migration. Richmond's population multiplied several times over in four years around the Kaiser shipyards.
@@ -90,34 +88,14 @@ Hewlett-Packard's first product was a resistance-capacitance audio oscillator, b
 
 ## Stanford's honest position in 1940
 
-In 1940 Stanford was a good regional university with a strong engineering department and no particular claim on the national scientific establishment. The proposition that the San Francisco Peninsula would become the centre of the world's technology industry would have struck an informed observer as eccentric. Boston very nearly kept it, and for a period after the war Route 128 was ahead.
+In 1940 Stanford was a good regional university with a strong engineering department and no particular claim on the national scientific establishment. The proposition that the San Francisco Peninsula would become the centre of the world's technology industry would have struck an informed observer as eccentric.
 
-The outcome was selected later, by people applying criteria about laboratories, staff, and manufacturing capacity. Terman watched Berkeley win the Manhattan Project work while he taught on campus. Ernest Lawrence's Radiation Laboratory expanded enormously. Los Alamos was directed by Berkeley's J. Robert Oppenheimer. Stanford watched this happen to its neighbour, and its dean of engineering would spend the war somewhere else thinking about it.
-
-## Readiness, not destiny
-
-Geography mattered once the Pacific war made the west coast the theatre's logistical base. Shipyards, aircraft plants, naval installations, Moffett Field — readiness, not destiny. Terman's advice to Hewlett and Packard in 1939 was a bet on that readiness before the bet paid off.
+The outcome was selected later, by people applying criteria about laboratories, staff, and manufacturing capacity. Terman watched Berkeley win the Manhattan Project work while he taught on campus. Ernest Lawrence's Radiation Laboratory expanded enormously. Robert Oppenheimer. Stanford watched this happen to its neighbour, and its dean of engineering would spend the war somewhere else thinking about it.
 
 ## The other filter
 
 Federal money was not the only thing selecting for California. People were arriving, and the arrival was itself a selection. Among the migrants were Black workers leaving the South for Kaiser yards in Richmond. Executive Order 8802 prohibited discrimination in defence industries after Randolph threatened a march on Washington. Housing on the Peninsula remained segregated. The jobs were new. The map was old.
 
-## Handoff
-
-Two men in a garage. A professor who told them to stay. A war that would send him east. Families on the same calendar losing farms under Executive Order 9066. The chapter ends where the next begins: Cambridge, eight hundred staff, radar countermeasures, and a grievance that would become an industrial park.
-
-## Crisis selects ecosystems
-
-Rearmament from 1938 did not spread evenly. It went where engineering schools, laboratories, and manufacturing capacity sat close together — criteria applied by Vannevar Bush's National Defense Research Committee and the Office of Scientific Research and Development. Bush was an MIT man. Stanford watched contracts go east while shipyards boomed on the Bay without the university capturing the research share.
-
-## The plaque's deflation
-
-The garage is a California state landmark calling itself the birthplace of Silicon Valley. Visit for deflation: two engineers in a shed are common; what made this one consequential was everything around it, starting with a professor functioning as allocator of talent against the prevailing gradient.
-
 ## Property and 1942
 
 Japanese American incarceration belongs in this act because it happened here and was an asset transfer. Property sold at distress prices or lost during absence. Beneficiaries not required to account. The same story as mission registers and relief ledgers, running at speed under Executive Order 9066 while Terman prepared to run eight hundred staff in Cambridge.
-
-## Handoff to Harvard
-
-The Second World War selected California's logistics base and missed Stanford's research contracts until Terman learned in Massachusetts how to become indispensable. Hewlett and Packard stayed in Palo Alto with an oscillator. Disney bought eight. The Pentagon bought the rest. The next chapter is jamming German radar and trains leaving the county without farms.

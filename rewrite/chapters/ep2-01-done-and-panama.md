@@ -6,9 +6,9 @@
 
 The air was thin and dry. Two locomotives sat on one track, pilots almost touching, boilers cooling, men climbing over wheels and couplings with the restless energy of a job that had been years in the doing. Someone had brought champagne. Someone had brought a silver mallet and a spike plated for the cameras.
 
-The golden spike was not the completion of a public work in the sense the speeches would claim. It was the ceremony at which a public work became a private monopoly on the only rail connection between California and the rest of the country (repo ch. 2-09).
+The golden spike was not the completion of a public work in the sense the speeches would claim. It was the ceremony at which a public work became a private monopoly on the only rail connection between California and the rest of the country.
 
-Leland Stanford, president of the Central Pacific, stepped up to drive the last spike. He swung and missed, striking only the rail. It made no difference. The telegraph operator closed the circuit and the wire went out, “done!” (Ambrose 2000, ch. 17).
+Leland Stanford, president of the Central Pacific, stepped up to drive the last spike. He swung and missed, striking only the rail. It made no difference. The telegraph operator closed the circuit and the wire went out, “done!”.
 
 <!-- kyle: moments/Ambrose ch 17 -->
 
@@ -22,7 +22,7 @@ The men who built the western half of the line are almost entirely absent from i
 
 Somewhere between ten and twelve thousand Chinese workers had been employed by the Central Pacific at the peak of construction, constituting the large majority of its workforce. They laid the track over the Sierra Nevada, drove the tunnels through the summit granite, and worked through winters in which snow buried the grade and men lived and worked in tunnels dug through the drifts. At Promontory they are essentially not in the picture.
 
-That absence is not a photographic accident. It is a statement about who the ceremony was for. The golden spike was not the completion of a public work in the sense the speeches implied. It was the moment a line financed with federal land and federal bonds became a private toll road on the only rail connection between California and the rest of the United States (repo ch. 2-09).
+That absence is not a photographic accident. It is a statement about who the ceremony was for. The golden spike was not the completion of a public work in the sense the speeches implied. It was the moment a line financed with federal land and federal bonds became a private toll road on the only rail connection between California and the rest of the United States.
 
 Collis P. Huntington was not in the crowd. He was on the Atlantic side of the country, where he had spent the war years doing what he did best: purchasing, lobbying, and keeping the books of the enterprise at a distance from the men who swung hammers in the snow. Mark Hopkins stayed with the figures. Charles Crocker had run the construction. Stanford provided the face.
 
@@ -46,11 +46,11 @@ Collis P. Huntington was not yet a railroad man. He was a merchant trying to mov
 
 The isthmus was a toll booth nature had built in the wrong place, and men were already charging to pass through it.
 
-“Death is carrying off the Americans most fearfully,” Huntington wrote to his brother. “There are eight to ten deaths a day.” (Rayner 2008, ch. 2).
+“Death is carrying off the Americans most fearfully,” Huntington wrote to his brother. “There are eight to ten deaths a day.”.
 
 <!-- kyle: moments/Rayner ch 2 -->
 
-The letter is dated to the year the gold rush turned California from a distant province into a destination. San Francisco had numbered its residents in hundreds at the start of 1848. Within two years it held tens of thousands, and the territory’s non-Indigenous population would climb toward two hundred thousand within four (repo ch. 2-06). Every one of those arrivals had to eat, sleep, and pay someone for the privilege of continuing the journey.
+The letter is dated to the year the gold rush turned California from a distant province into a destination. San Francisco had numbered its residents in hundreds at the start of 1848. Within two years it held tens of thousands, and the territory’s non-Indigenous population would climb toward two hundred thousand within four. Every one of those arrivals had to eat, sleep, and pay someone for the privilege of continuing the journey.
 
 Huntington was stuck in that arithmetic.
 
@@ -60,13 +60,13 @@ Huntington’s letters home from this period are the earliest portrait in the re
 
 That distinction would outlive the isthmus.
 
-On the Pacific side, ships piled up in the bay. Crews abandoned vessels to join the rush. The harbour became a throat: everything and everyone passed through it, and whoever owned the ground at the water’s edge collected (repo ch. 2-06). Huntington was learning the same arithmetic in Panama that Sam Brannan would act out in San Francisco the following season—buy the passage, not the metal.
+On the Pacific side, ships piled up in the bay. Crews abandoned vessels to join the rush. The harbour became a throat: everything and everyone passed through it, and whoever owned the ground at the water’s edge collected. Huntington was learning the same arithmetic in Panama that Sam Brannan would act out in San Francisco the following season—buy the passage, not the metal.
 
 <!-- kyle: ch/2-06-gold-incentive-shock (Brannan pattern, paraphrased) -->
 
 Brannan would walk the streets holding a bottle of gold dust and shouting after he had bought the picks and pans first. Huntington, writing to his brother about eight to ten deaths a day, was measuring a different inventory: the cost of being in the right corridor when demand became a flood.
 
-The arithmetic of mining, once the placers were crowded, was wage-like for most men and ruinous for many. The arithmetic of supply was not. Merchants, shippers, landlords, and bankers captured the surplus while correspondents wrote home about nuggets (repo ch. 2-06). The reliable money was not in the American River. It was in the harbor, the store, and the route between them.
+The arithmetic of mining, once the placers were crowded, was wage-like for most men and ruinous for many. The arithmetic of supply was not. Merchants, shippers, landlords, and bankers captured the surplus while correspondents wrote home about nuggets. The reliable money was not in the American River. It was in the harbor, the store, and the route between them.
 
 Huntington survived the isthmus and went on to Sacramento, where he and his partners sold hardware and dry goods to miners who still believed they were the protagonists of the story. Twelve years later those same merchants would apply the corridor logic to rails, and the federal government would pay them in land and bonds to do it.
 
@@ -80,13 +80,13 @@ The bells at Promontory had not rung yet. The deaths in Panama were already coun
 
 While Huntington waited on the isthmus, San Francisco was turning the bay into a ledger.
 
-Ships arriving from the Pacific side found a waterfront that could not keep pace with the people walking off the gangplanks. Crews deserted to the diggings. Vessels sat abandoned until their hulls became lumber, fill, and eventually lots sold to men who had never sailed them (repo ch. 2-06). Eggs, flour, and lumber reached prices correspondents described with exclamation marks. A city was being built by people who did not plan to stay, using materials that had to come around Cape Horn or across Panama.
+Ships arriving from the Pacific side found a waterfront that could not keep pace with the people walking off the gangplanks. Crews deserted to the diggings. Vessels sat abandoned until their hulls became lumber, fill, and eventually lots sold to men who had never sailed them. Eggs, flour, and lumber reached prices correspondents described with exclamation marks. A city was being built by people who did not plan to stay, using materials that had to come around Cape Horn or across Panama.
 
-The arithmetic of mining, once placers crowded, looked like wages for most men and ruin for many. The arithmetic of supply did not. Merchants, shippers, landlords, and bankers held the positions between the miner and the metal (repo ch. 2-06). Levi Strauss arrived in 1853 as a dry-goods wholesaler; the trousers came later. The brand was built on the throat of the trade, not the pan in the creek.
+The arithmetic of mining, once placers crowded, looked like wages for most men and ruin for many. The arithmetic of supply did not. Merchants, shippers, landlords, and bankers held the positions between the miner and the metal. Levi Strauss arrived in 1853 as a dry-goods wholesaler; the trousers came later. The brand was built on the throat of the trade, not the pan in the creek.
 
 Huntington was not yet part of that Sacramento quartet. He was still a body in a line on the isthmus, watching Americans die at a rate he could put in a letter. But the letter itself was evidence of a habit that would define the Associates: keep the account, send it to someone who can act on it, and treat the corridor as the asset.
 
-When he reached California he sold hardware with Mark Hopkins. Charles Crocker sold dry goods. Leland Stanford sold groceries. They were not engineers. They were men who understood that California’s second fortune—after the initial shock of gold—would belong to whoever owned the passage between the East and the diggings, and then whoever owned the passage east of Sacramento altogether (repo ch. 2-09).
+When he reached California he sold hardware with Mark Hopkins. Charles Crocker sold dry goods. Leland Stanford sold groceries. They were not engineers. They were men who understood that California’s second fortune—after the initial shock of gold—would belong to whoever owned the passage between the East and the diggings, and then whoever owned the passage east of Sacramento altogether.
 
 The isthmus and the summit were the same problem at different scales. Mud and fever in 1849. Granite and snow in 1867. In both places the men who owned the corridor wrote the letters that survived.
 
@@ -94,7 +94,7 @@ The isthmus and the summit were the same problem at different scales. Mud and fe
 
 Promontory would fix an image of completion: faces on locomotives, hands clasped, a spike driven for the wire. The photograph would not show Panama in 1849 or the Summit Tunnel in the winter of 1866. It would not show Chinese workers walking out of tunnel mouths in 1867 or Crocker’s commissary closing behind them.
 
-It would not show Collis Huntington in Washington, years later, worrying that investigators would ask to see the Contract and Finance Company books (Rayner 2008, ch. 9).
+It would not show Collis Huntington in Washington, years later, worrying that investigators would ask to see the Contract and Finance Company books.
 
 The ceremony was the visible end. The toll began long before, in a corridor where eight to ten Americans died each day while a merchant wrote home to his brother.
 
@@ -104,7 +104,7 @@ The pattern was already visible in mud before it was laid in rail: the money is 
 
 Years after Panama, when the line was financed and the fights moved to Washington, Huntington would run the eastern end of the Associates’ enterprise the way he had survived the isthmus: by controlling the corridor between need and supply. He purchased. He lobbied. He wrote letters that kept the account straight while other men kept the grade straight through snow.
 
-He was not at Promontory. He did not need to be. The photograph was for the public story. Huntington’s story was in invoices, bond issues, and the fear—recorded later—that a committee might ask to see the Contract and Finance Company books (Rayner 2008, ch. 9).
+He was not at Promontory. He did not need to be. The photograph was for the public story. Huntington’s story was in invoices, bond issues, and the fear—recorded later—that a committee might ask to see the Contract and Finance Company books.
 
 Between the 1849 letter about eight to ten deaths a day and the 1869 wire reporting “done!” lies a single continuity. California was reached by men who thought they were chasing gold. It was owned by men who owned the way in.
 
@@ -118,7 +118,7 @@ Men waited for mules that were already overloaded. They waited for canoes when t
 
 Huntington’s letter about eight to ten deaths a day is a snapshot of that queue. It does not describe every hour, but it describes the rate at which hope converted into corpses among men who believed California was waiting with gold in easy reach.
 
-The Pacific side was not mercy. San Francisco’s prices punished newcomers as thoroughly as the isthmus punished travellers. The Foreign Miners’ Tax and its successors would later target men who had survived both crossings only to be defined as outsiders at the diggings (repo ch. 2-06). The passage extracted from the body at the isthmus; the state would learn to extract from the wallet at the mines.
+The Pacific side was not mercy. San Francisco’s prices punished newcomers as thoroughly as the isthmus punished travellers. The Foreign Miners’ Tax and its successors would later target men who had survived both crossings only to be defined as outsiders at the diggings. The passage extracted from the body at the isthmus; the state would learn to extract from the wallet at the mines.
 
 Huntington survived both gates. He would help build a third—the railroad gate—where the federal government paid per mile and the Associates decided who could afford to move grain, lumber, and people east.
 
@@ -126,7 +126,7 @@ When Stanford missed the spike in 1869, Huntington was already thinking like a m
 
 ## Brannan’s order of operations
 
-Sam Brannan would confirm the corridor arithmetic in San Francisco the season after Huntington’s isthmus letters. Brannan bought picks, pans, shovels, and canvas, then walked the streets holding gold dust and shouting (repo ch. 2-06). He did not need to mine. He needed the crowd to arrive after he owned the implements.
+Sam Brannan would confirm the corridor arithmetic in San Francisco the season after Huntington’s isthmus letters. Brannan bought picks, pans, shovels, and canvas, then walked the streets holding gold dust and shouting. He did not need to mine. He needed the crowd to arrive after he owned the implements.
 
 <!-- kyle: ch/2-06-gold-incentive-shock -->
 
