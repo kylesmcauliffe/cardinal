@@ -1,5 +1,9 @@
 # Episode 6 review — The Park (1945–1969)
 
+Final pass, after the series critique. Section 08 is no longer a 600-word sprint. It is three scenes: MacArthur at the San Francisco airport on April 17, 1951, and the City Hall steps the next morning; Hoover's March 17, 1946 famine flight, with the Goebbels diaries offered that year and the microfilm caveat kept separate from the bunker; and Friedman's 1973 day in a private plane with Reagan for Proposition 1, in Friedman's own sentence. Page Mill and Zoetrope are two sentences, not a list. The lease tagline from Episode 5 is not repeated. Okubo's horse-stall line is voiced once. Narrated research notes are out. Each dollar figure keeps one comparison. "The concept is" is gone.
+
+
+
 Narrated words: 8,846 (whitespace on speaker lines after stripping bracket cues). About 59.0 minutes at 150 wpm. Band is 8,500–9,000.
 
 Streets sidebar (08) is 591 words, about 3.9 minutes, inside the 2–4 minute box. The last quarter is scenes: the demo (09), the occupation and the May 16 blockade (10), and the divestiture (11), about 16.8 minutes. Episode 5 was not edited. It is already in audio.

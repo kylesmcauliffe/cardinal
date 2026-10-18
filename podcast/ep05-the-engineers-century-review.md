@@ -1,5 +1,9 @@
 # Episode 5 review — The Engineer's Century (1905–1945)
 
+Final pass, after the series critique. Dewey Monument dedication is May 13, 1903, matching Episode 4. The Union League banquet is no longer locked to that same night. Bank of America, Giannini's bank, lent Disney the money to finish *Snow White* and stayed through *Fantasia* (American Banker; Hilbert Museum). No dollar is spoken, because the published figures disagree. HP's own history: eight Model 200B oscillators, modified from the 200A, at $71.50 each, for *Fantasia*. Narrated research notes are out, including the unpinned sunny-day count, the Forbes diary, and the 1914 fortune. Hoover's entrance exam is one callback. "Notably bad," "slightly subgenius," and Shaw's lapdogs are each heard once. Second yardsticks (minimum-wage years, share of the economy) are off the air. The Anacostia is named. "Do not sell the farm" remains this episode's button only.
+
+
+
 Narrated words: 8,980 (whitespace on speaker lines after stripping bracket cues). About 59.9 minutes at 150 wpm. Band is 8,500–9,000.
 
 Streets sidebar (07) is 551 words, about 3.7 minutes, inside the 2–4 minute box. The last quarter is scenes: the garage (09), the war (10), and the lease hook (11), about 15.5 minutes. Anchor years are spoken in the cold open: 1906, 1916, 1919, 1932, 1939, 1942.
