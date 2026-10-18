@@ -1,8 +1,8 @@
 # Episode 4 review: The Boy and the Farm (1884–1905)
 
-Review pass, Oct 18, 2026, revised the same day against `research-cixi-ellison`. Script: `podcast/ep04-the-boy-and-the-farm.md`. Narrated words after this pass: **8,986** (whitespace count of spoken lines only; speaker labels, cue tags, and headings excluded). At 150 words a minute, about **59.9 minutes**.
+Review pass, Oct 18, 2026, revised the same day against `research-cixi-ellison`. Script: `podcast/ep04-the-boy-and-the-farm.md`. Narrated words after this pass: **8,987** (whitespace count of spoken lines only; speaker labels, cue tags, and headings excluded). At 150 words a minute, about **59.9 minutes**.
 
-The Cixi thread (section 11, plus the February 18 portrait inside Natural Causes, plus the April 1906 taels in the hook) is **756 spoken words**, about **5.0 minutes**. Claims marked TO VERIFY in that note stay out of the narration.
+The Cixi thread (section 11, plus the February 18 portrait inside Natural Causes, plus the April 1906 taels in the hook) is **757 spoken words**, about **5.0 minutes**. Claims marked TO VERIFY in that note stay out of the narration.
 
 Episode 3 is already in audio. It was not edited in this pass.
 
