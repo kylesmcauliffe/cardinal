@@ -1,6 +1,8 @@
 # Episode 4 review: The Boy and the Farm (1884–1905)
 
-Review pass, Oct 18, 2026. Script: `podcast/ep04-the-boy-and-the-farm.md`. Narrated words after this pass: **8,917** (whitespace count of spoken lines only; speaker labels, cue tags, and headings excluded). At 150 words a minute, about **59.4 minutes**.
+Review pass, Oct 18, 2026, revised the same day for the Cixi thread. Script: `podcast/ep04-the-boy-and-the-farm.md`. Narrated words after this pass: **8,990** (whitespace count of spoken lines only; speaker labels, cue tags, and headings excluded). At 150 words a minute, about **59.9 minutes**.
+
+The Cixi thread (section 11, plus the February 18 portrait inside Natural Causes, plus the April 1906 taels in the hook) is **741 spoken words**, just under **5 minutes**. The research note named in the assignment was not in the uploads folder. The claims below were checked against Whyte, White page 95, the Freer provenance, the Theodore Roosevelt Center, and William Rockhill's April 1906 dispatch. Anything those pages do not settle stays out of the narration.
 
 Episode 3 is already in audio. It was not edited in this pass.
 
@@ -66,8 +68,14 @@ Money method throughout: Minneapolis Fed CPI, 1967 = 100, 2026 index **1004.8**.
 | Both sides' atrocities, in the Office of the Historian's language. Water cure: Maj. Edwin F. Glenn, Tobeniano Ealdama, *presidente* of Igbaras, Nov 27, 1900; one-month suspension and a $50 fine. Shafter to the *Chicago News*, via Brechin. Balangiga, Samar, Sept 28, 1901: dozens of U.S. soldiers; published counts disagree, so none is crowned; about 28 villagers killed in the attack. Smith: "kill and burn," "Everything over ten," a "howling wilderness" where "even the birds could not live." Waller: "we are not making war on women and children." Smith admonished; Roosevelt retired him | Office of the Historian; Brechin; court-martial reports | DOC + WEB. **Not used:** "worst defeat since Little Bighorn"; a Samar civilian total of 2,000–2,500; a named Filipino reprisal; the 1906 California Volunteers' Monument reunion (that is Episode 5). The monument's present location is TO VERIFY and is not asserted |
 | Jordan's public campaign against annexation. Harris: "incapable of civilized self-government," "not habitable by Anglo-Saxon people," "The home cannot endure in the climate of the tropics." Twain, Anti-Imperialist League vice president from 1901: "peoples that sit in darkness" | White, p. 104; Harris; Brechin | DOC. The *North American Review*, February 1901, is **not** specified (issue TO VERIFY) |
 | Dewey Monument, Union Square. Roosevelt dedicated it **May 13, 1903.** *Olympia* first. "with the great expanding peoples, with the people that dare to be great." Arthur MacArthur governed the islands May 1900–July 1901, clashed with Taft, and was eased out | Brechin | DOC. Outline's **May 14 is wrong.** McKinley's 1901 groundbreaking and Irving Scott's *Oregon* contract are not used (contract year TO VERIFY). Rough Riders / Kettle Hill are not narrated |
-| Hook: Hoover's China mining deal, still in his twenties, "the biggest of its kind," after the Boxer Rebellion. No dollar figure. April 18, 1906, fourteen months after the chiseled date | Whyte | DOC. Does **not** say he was already rich |
-| Oct 11, 1906 school order, as a forward glance only. It sent the city's **Japanese** schoolchildren to the Oriental School. Chinese children had been sent to separate schools since 1885, after *Tape v. Hurley*, under a statute for children of "Mongolian or Chinese descent." Roosevelt's December 1906 message: "wicked absurdity," because Japan had a navy and a treaty. Chinese children stayed segregated | Brechin; NPS; SFUSD | WEB. The script does **not** pick 92 versus 93. The White House meeting, the Gentlemen's Agreement, Japan's $250,000 in quake aid, and whether Mayor Schmitz went are **left for Episode 5.** The research file's own scene list puts that full scene in the next hour, and this episode's boundary is 1905, with a hook to the earthquake |
+| Hook: April 18, 1906, fourteen months after the chiseled date. The Kaiping takeover is told earlier, in The Dowager, and is not repeated here | Whyte | DOC. Does **not** say Hoover was already rich |
+| Oct 11, 1906 school order, as a forward glance only. It sent the city's **Japanese** schoolchildren to the Oriental School. Chinese children had been sent to separate schools since 1885, after *Tape v. Hurley*, under a statute for children of "Mongolian or Chinese descent." Roosevelt's December 1906 message: "wicked absurdity," because Japan had a navy and a treaty. Chinese children stayed segregated | Brechin; NPS; SFUSD | WEB. The script does **not** pick 92 versus 93. The White House meeting, the Gentlemen's Agreement, Japan's $250,000 in quake aid, and whether Mayor Schmitz went are **left for Episode 5.** |
+| White, on the Ross firing: "Jane Stanford played the dowager queen." Page 95, not the death chapter | White, p. 95 | DOC. Spoken in its real place, the Ross fight, and echoed when the portrait arrives. Not treated as a deathbed name |
+| Cixi held power from 1861. In 1898 she confined the reforming emperor and shut out foreign capital. In the summer of 1900 she backed the Boxers. Western reports: "the soul of a tiger in the body of a woman." Spoken pronunciation follows the museum's "tsz-shee" | Freer and Sackler label for the Carl portrait; Whyte, pp. 76–77, for the 1898 coup and for the siege suggesting she was encouraging the rebellion | DOC. No specific edict date is spoken. The newspaper that printed the tiger line is not named |
+| June 1900, Tianjin. Hoover, then twenty-five, builds barricades from sacks of sugar and grain. Lou carries a .38 Mauser, stands watch, works in a hospital. The campus reads that alumni are probably dead, in the words Whyte quotes | Whyte, pp. 77–78 | DOC. Hoover was born August 10, 1874, so he is twenty-five in June 1900, not twenty-six. The publication that carried the "Mongolian hosts" sentence is not named, because Whyte does not name it in that passage |
+| Kaiping: nine thousand men, three collieries. Chang Yen-mao cannot sell the emperor's mines. Arrested with no firm evidence. Power of attorney to Detring. Hoover and Detring backdate the papers. One million shares at one pound. Chinese shareholders to receive 375,000. The promoters' take is not written down. The deed is made out to Hoover as trustee. "Without absolute control… the game is not worth the candle" | Whyte, pp. 75–80 | DOC. The candle line is the letter to Moreing just before these pages. The revolver story and the phrase "largest transfer" sit later in Whyte and are **not spoken** |
+| February 18, 1905, Blue Room. Liang Cheng presents Katharine Carl's portrait of Cixi, painted for the 1904 St. Louis fair. Roosevelt accepts it for the United States. Ten days later Jane dies | Theodore Roosevelt Center, creation date February 18, 1905; Freer provenance (Blue Room, Liang Cheng, Carl, St. Louis) | WEB. Roosevelt's speech is not quoted. The Smithsonian transfer on February 25 is not spoken |
+| April 23–25, 1906. Cixi orders 100,000 Kuping taels for the San Francisco sufferers and a separate 40,000 for the Chinese residents. Rockhill is handed the 100,000-tael note and returns it. Roosevelt is refusing foreign governments' gifts. Rockhill is told to make plain it is not a slight | Rockhill to Root, April 26, 1906, printed by the Virtual Museum of the City of San Francisco; Root's cables; Roosevelt's May 3, 1906 message to Congress | WEB. **No dollar conversion of a tael is spoken.** Whether the separate 40,000 taels were delivered is not asserted, only that they were ordered |
 
 ## Changes from the outline
 
@@ -83,6 +91,7 @@ Money method throughout: Minneapolis Fed CPI, 1967 = 100, 2026 index **1004.8**.
 - Sarah Winchester's medium is labeled a **legend** (first printed in 1967). The documented séances are Jane's. The link between the two widows is Samuel Leib, not a meeting and not a secret society.
 - The $300,000 hospital gift is compared to **thirty years of a president's salary.** There is no 1909 index in the series table.
 - White's jewel figure (about $2 million) and this series' figure (about $2.8 million) are both spoken, with the reason for the gap.
+- Cixi is a five-minute thread. Tianjin in June 1900, the Kaiping share split, Liang Cheng's portrait on February 18, 1905, and the hundred thousand taels handed back in April 1906. White's "dowager queen" stays on page 95, the Ross firing.
 
 ## Cut on purpose
 
@@ -102,7 +111,9 @@ Money method throughout: Minneapolis Fed CPI, 1967 = 100, 2026 index **1004.8**.
 - Rough Riders and Kettle Hill.
 - The issue and month of Twain's "peoples that sit in darkness."
 - Share-of-economy conversions.
-- A closing catalogue. The last minutes are the marble date, Hoover's unnamed China deal, the earthquake, and the school-order glance.
+- A closing catalogue. The last minutes are the marble date, the earthquake, Cixi's returned taels, and the school-order glance.
+- A dollar figure for the Kuping tael, and Whyte's later revolver story. The share split carries the mine. The taels stay in taels.
+- The nickname "tiger empress" as a quotation. The line spoken is the report the Freer label records: the soul of a tiger in the body of a woman.
 
 ## Still open before a broadcast
 
@@ -116,3 +127,6 @@ Money method throughout: Minneapolis Fed CPI, 1967 = 100, 2026 index **1004.8**.
 - The year of Irving Scott's $3 million *Oregon* contract.
 - MeasuringWorth relative-income figures for the $15 million suit, the $25 million Leib deed, and the $20 million treaty payment.
 - A 1909 CPI index, if a later episode wants grocery dollars for the Winchester hospital. This hour uses the salary comparison only.
+- The named newspaper behind "the soul of a tiger," and the named paper behind the Stanford "Mongolian hosts" death notice. Both sentences are spoken as reports Whyte and the Freer label record, not as a masthead.
+- Whether the separate 40,000 taels for Chinese residents of San Francisco were actually delivered. The script says only that Cixi ordered them.
+- The Cixi research note itself, if a later pass wants its own TO VERIFY list. It was not in the uploads folder when this revision was written.
