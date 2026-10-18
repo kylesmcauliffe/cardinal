@@ -1,5 +1,16 @@
 # Episode 2 review — The Toll (1848–1869)
 
+Final edit, Oct 18, 2026, after the series critique. Narrated words now **8,687** (~57.9 min).
+
+- Hopkins and the furnace: Rayner places it in February 1873, before the Wilson Committee, five years before Hopkins's death in March 1878. The 1887 Pacific Railway Commission is a later hearing about books already gone. The script dates the fire to 1873 and performs Huntington's "peculiar man" line once.
+- Cut process notes: the masthead aside, the gauge ("leave the inches out"), "we will not invent" the greenback premium, the blank share-of-GDP number, "Let's go meet" in Lincoln's voice, and "do not mash the two speeches."
+- One comparison per figure. Dropped wage-years on the $240,000, the $10,000 bet, and the $35 strike wage. Mountain bonds get one modern price, the triple rate.
+- Statehood dates shrink to a callback. Episode 1 keeps the clock.
+- Sánchez: Episode 1 never named him. The street and Buri Buri share the name; the script no longer pretends the last episode settled which man.
+- "Here is the concept" varied. Laurel tie and the spike in the museum stay, as this hour's telling.
+
+# Episode 2 review — The Toll (1848–1869)
+
 Audio file: `podcast/ep02-the-toll.md` on branch `podcast/ep01-02`.
 Narrated words: **8,895**. At 150 words a minute, about **59.3 minutes**.
 Count is spoken lines only (Narrator, Quote, Letter, Speech). Cue tags and this file are not counted.

@@ -1,5 +1,9 @@
 # Episode 1 review — The Ledger (1769–1848)
 
+Final edit, Oct 18, 2026, after the series critique. Narrated words now **8,798** (~58.7 min). Cut the Senate-tally aside ("stays off the air"), the "correction for our own notes" frame, the promise of a share-of-economy number, and the extra yardsticks on Pico's $710, Buelna's acres, the treaty price, and the hide cargo. One comparison each: Monaco, the Louisiana Purchase, the grocery index where it is the only one. "Here is a concept" varied. The statehood clock stays here; Episode 2 no longer repeats the list.
+
+# Episode 1 review — The Ledger (1769–1848)
+
 Audio file: `podcast/ep01-the-ledger.md` on branch `podcast/ep01-02`.
 Narrated words: **8,985**. At 150 words a minute, about **59.9 minutes**.
 Count is spoken lines only (Narrator, Quote, Letter). Cue tags and this file are not counted.
