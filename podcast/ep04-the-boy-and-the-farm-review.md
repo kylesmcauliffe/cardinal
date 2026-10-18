@@ -1,10 +1,10 @@
 # Episode 4 review: The Boy and the Farm (1884–1905)
 
-Review pass, Oct 18, 2026, revised the same day against `research-cixi-ellison`. Script: `podcast/ep04-the-boy-and-the-farm.md`. Narrated words after this pass: **8,987** (whitespace count of spoken lines only; speaker labels, cue tags, and headings excluded). At 150 words a minute, about **59.9 minutes**.
+Review pass, Oct 18, 2026, revised the same day for the series critique, after the Cixi thread. Script: `podcast/ep04-the-boy-and-the-farm.md`. Narrated words after this pass: **8,663** (whitespace count of spoken lines only; speaker labels, cue tags, and headings excluded). At 150 words a minute, about **57.8 minutes**.
 
-The Cixi thread (section 11, plus the February 18 portrait inside Natural Causes, plus the April 1906 taels in the hook) is **757 spoken words**, about **5.0 minutes**. Claims marked TO VERIFY in that note stay out of the narration.
+The Cixi thread (section 11, plus the February 18 portrait inside Natural Causes, plus the April 1906 taels in the hook) stays. Claims marked TO VERIFY in that note stay out of the narration.
 
-Episode 3 is already in audio. It was not edited in this pass.
+Episode 3 was edited in the same pass. It owns Florence. This episode keeps the bedroom, the kneeling line, and the two wordings of the children sentence.
 
 Money method throughout: Minneapolis Fed CPI, 1967 = 100, 2026 index **1004.8**. Pre-1913 figures are estimates and the script says "roughly." Index years used: 1884–93 = 27 (×37.2), 1894 = 26 (×38.6), 1898 = 25 (×40.2), 1899 = 25 (×40.2), 1905 = 27 (×37.2). The series table has no 1909 index, so Sarah Winchester's hospital gift is compared to Jordan's salary and is not given a grocery-dollar figure. Share-of-GDP conversions were left out.
 
@@ -17,7 +17,7 @@ Money method throughout: Minneapolis Fed CPI, 1967 = 100, 2026 index **1004.8**.
 | Coroner's verdict, evening of March 9; papers March 10; felonious-intent wording | White | DOC, read flat |
 | Berner inherited $15,000 → roughly $560,000 (1905 ×37.2). Ariel Lathrop called her a medium. No transcript. Ah Wing was a press suspect | White | DOC. No killer is named. Harris: suggest, not prove, a conspiracy with Berner |
 | Dr. Wood called the heart theory "simply rot." San Francisco doctors said angina pectoris | White | DOC |
-| Jewels $75,000. White later calls that about $2 million. Series CPI ×37.2 is roughly $2.8 million | White; computed | DOC. The gap is spoken as a difference of method, not a missing zero |
+| Jewels $75,000 → roughly $2.8 million (1905 ×37.2) | Computed from the series index | DOC. White's later "about $2 million" is **not spoken**. One comparison. |
 | Feb 15, 1905, SS *Korea*, thirteen days before the death. Bands for Gen. Arthur MacArthur, commander of the Department of the Pacific. She tells him, his wife, and Charles Sidney Dole about the Poland Spring poisoning. Passenger list spells Berner as Benner, destination Yokohama | White, pp. 167–168 | DOC. Nothing in the record shows anyone later asked him what she said. **Douglas MacArthur is not put on the ship.** Arthur is **not** narrated as sailing on to observe the Russo-Japanese War (that posting is TO VERIFY) |
 | Hawaii governor George W. Carter, appointed by Theodore Roosevelt in 1903 after consulting Jordan | White, p. 168 | DOC |
 | Jan 14, 1905, massive dose in the Poland Spring bottle; Honolulu six weeks later a small precise amount. Jan 23, Hotel Vendome, San Jose: rest and trustees, not a meeting with Sarah Winchester | White | DOC |
@@ -79,18 +79,17 @@ Money method throughout: Minneapolis Fed CPI, 1967 = 100, 2026 index **1004.8**.
 
 ## Changes from the outline
 
-- The boy's illness is **two names**, Roman fever and typhoid, not one diagnosis. No telegram and no last words are written for him.
-- Jordan's "my children" and Harris's "our children" are both spoken and marked as memory.
-- The October 1884 séance is with the Grants. It is **not placed on a New York street.**
-- The Founding Grant's lock is **"sell or encumber,"** read from the instrument, not the outline's "sell or convey."
+- Florence's death is a callback. Episode 3 owns the date, the city, and Roman fever versus typhoid. This hour keeps the bedroom, the kneeling line, and Jordan's "my children" against Harris's "our children."
+- The October 1884 séance is with the Grants. It is not placed on a New York street.
+- The Founding Grant's lock is **"sell or encumber,"** read from the instrument. Episode 3 no longer speaks the outline's "sell or convey."
 - Tuition is **not** forbidden in 1885. The 1900 amendment makes the promise, and a later education code is the escape.
 - The tax-exemption vote is the exact **137,667 to 67,737**, not the rounded pair.
-- The Dewey Monument dedication is **May 13, 1903**, not May 14.
+- The Dewey Monument dedication is **May 13, 1903**. Left as researched. Not changed to May 14.
 - Roosevelt **positioned the fleet.** McKinley asked for the war and Congress declared it. The *Maine* is left debated.
 - The 1906 school order, in one hook paragraph, targeted **Japanese** children. Chinese children had been segregated since 1885. The rest of that fight is the next hour.
 - Sarah Winchester's medium is labeled a **legend** (first printed in 1967). The documented séances are Jane's. The link between the two widows is Samuel Leib, not a meeting and not a secret society.
 - The $300,000 hospital gift is compared to **thirty years of a president's salary.** There is no 1909 index in the series table.
-- White's jewel figure (about $2 million) and this series' figure (about $2.8 million) are both spoken, with the reason for the gap.
+- White's later jewel figure, about $2 million, is not spoken. The hour uses one grocery-dollar figure, about $2.8 million.
 - Cixi is a five-minute thread, checked against the research note. Tianjin in June 1900, with the siege's own numbers. The Kaiping deal, including Whyte's "biggest mining transaction" and Phimister's "defrauded." Liang Cheng's portrait on February 18, 1905. The hundred thousand taels handed back in April 1906, and the forty thousand sent to the Chinese minister. White's "dowager queen" stays on page 95. No letter is invented between the two dowagers.
 
 ## Cut on purpose
@@ -131,3 +130,12 @@ Money method throughout: Minneapolis Fed CPI, 1967 = 100, 2026 index **1004.8**.
 - A 1909 CPI index, if a later episode wants grocery dollars for the Winchester hospital. This hour uses the salary comparison only.
 - The named newspaper behind "the soul of a tiger," and the named paper behind the Stanford "Mongolian hosts" death notice. Both sentences are spoken as the reports the Smithsonian page and Whyte record, not as a masthead.
 - A proper CPI for 100,000 taels, if a later hour wants grocery dollars. This hour does not convert them.
+
+## Critique pass
+
+- Florence is a callback. The death, the two names for the illness, and the absent telegram stay in Episode 3.
+- Cut the Grant-letter process note ("paraphrase of a real letter"). The deposit sentence is still read.
+- The $15 million suit is one grocery figure, roughly $580 million. The congressional-years and minimum-wage-years stacks are gone. The same one-comparison rule is applied to the $86,000 deposit, Newman's $10,000 (his own year's salary), the floral $20,000, the jewels, and Berner's $15,000.
+- "Here is the concept" is gone. The trust and the conflict of interest are still explained.
+- Dewey Monument dedication remains **May 13, 1903**.
+- Cixi, Winchester, the Philippines, and the performed grant clause stay.

@@ -1,6 +1,6 @@
 # Episode 3 review: The Octopus (1869–1884)
 
-Review pass, Oct 18, 2026. Script: `podcast/ep03-the-octopus.md`. Narrated words after this pass: **8,991** (whitespace count of spoken lines only; cue tags and headings excluded). At 150 words a minute, about **60.0 minutes**.
+Review pass, Oct 18, 2026, revised the same day for the series critique. Script: `podcast/ep03-the-octopus.md`. Narrated words after this pass: **8,694** (whitespace count of spoken lines only; speaker labels, cue tags, and headings excluded). At 150 words a minute, about **58.0 minutes**.
 
 Money method throughout: Minneapolis Fed CPI, 1967 = 100, 2026 index **1004.8** as specified in the series outline. Pre-1913 figures are estimates and the script says "roughly." Index years used: 1876 = 32 (×31.4), 1878 = 29 (×34.6), 1880 = 29 (×34.6), 1884 = 27 (×37.2), 1889 = 27 (×37.2). Share-of-GDP conversions were left out. The outline marks every MeasuringWorth figure TO VERIFY, and none was pulled.
 
@@ -16,7 +16,7 @@ Money method throughout: Minneapolis Fed CPI, 1967 = 100, 2026 index **1004.8** 
 | 1862 Act, Sec. 3: unsold grant land, after three years, at not over $1.25/acre, paid to the company | National Archives text of the Pacific Railway Act; *Curtner v. United States* | WEB ✓. Taught as the Act's ceiling, not as the circular the Mussel Slough settlers were handed. |
 | Henry George, *Progress and Poverty* (1879); highwayman passage | George text in the source set | DOC, verbatim |
 | Stanford mansion finished 1876; 50+ rooms; two acres; 30-foot wall; doors seven inches; dome seventy feet; conservatory frame $30,000; ladder $150; cost $2 million | Rayner | DOC, attributed to Rayner in the script |
-| $2 million → roughly $63 million (1876 ×31.4); 400 years of a $5,000 congressional salary | Computed. Salary: act of 1866 set $5,000; salary-grab act of March 3, 1873 raised it to $7,500; act of Jan 20, 1874 restored the prior rate | WEB ✓ on the salary statutes (Serial Set). Comparison kept. |
+| $2 million → roughly $63 million (1876 ×31.4) | Computed | Grocery dollars only. Congressional years and minimum-wage years were cut in the critique pass. |
 | California Street cable railroad opened April 10, 1878, because Clay Street (1873) stopped short of the house | Online Archive of California finding aid; OpenSFHistory, July 4, 2021 | WEB ✓ |
 | Veblen, *The Theory of the Leisure Class*, 1899, "conspicuous consumption" | Standard. Outline had marked the book TO VERIFY. | Kept, dated 1899 so it is not pretended to be an 1876 term. |
 | Nicholas Yung, undertaker; spite fence; press name by Aug 17, 1878 | Rayner (forty feet; Examiner, Aug 17, 1878); OpenSFHistory (forty feet, 1100 California); KQED and a 1902–04 retrospective (about $3,000, and a thirty-foot telling) | DOC + WEB. Script says forty, and that later tellings say thirty. |
@@ -28,7 +28,7 @@ Money method throughout: Minneapolis Fed CPI, 1967 = 100, 2026 index **1004.8** 
 | Phoebe Hearst, first woman UC regent, 1897–1919; Hearst Memorial Mining Building; George bought the San Simeon ranch in 1865; the castle is the son's | OAC, George and Phoebe Apperson Hearst papers | WEB ✓ |
 | Colton letters published via the widow's suit; pamphlet *How Members of Congress Are Bribed* | Moore pamphlet (Project Gutenberg); Rayner; White | DOC |
 | "hungriest set of men," Nov 30, 1874; "$200,000 I can pass our bill," Jan 17, 1876; "I keep on high ground," Jan 29 and March 23, 1876 | Moore, letter nos. 389, 107, 110, 138 | DOC, verbatim |
-| $200,000 → roughly $6.3 million (1876 ×31.4); forty congressional salaries | Computed | Kept |
+| $200,000 → roughly $6.3 million (1876 ×31.4) | Computed | Grocery dollars only, after the critique pass. |
 | Tom Scott and the Texas & Pacific; Perkins on Union Pacific rates; Forbes on Gould's aliases | White, *Railroaded* | DOC. One East Coast beat. No Yale crossing was verified in these years, so Yale is not named. |
 | AP reporter put on the CP payroll by Richard Franchot; Simonton caught the tone; 1875 attempt to buy exclusive AP membership for the *Chronicle* at double the rate; 1886 memo, the *Star* does "as Huntington directs"; "not shocked by the corruption of the press" | White, *Railroaded* | DOC, verbatim where quoted |
 | *Wasp*, Feb 19, 1881, "In the Hollow of His Hand" | White, caption to the Stanford Libraries copy | DOC |
@@ -64,9 +64,9 @@ Money method throughout: Minneapolis Fed CPI, 1967 = 100, 2026 index **1004.8** 
 | Davis had been president of the Newburgh and New York Railway | Winkler | DOC |
 | *Minneapolis & St. Louis Railway Co. v. Beckwith* (1889): three hogs, $24; "tens of thousands" to reach the Court; "It was so held in Santa Clara County v. Southern Pacific Railroad." | Winkler | DOC. $24 → roughly $900 at ×37.2. |
 | Collins (1912): 604 Fourteenth Amendment cases, 28 involving African Americans, 312 involving corporations; "Magna Charta of accumulated and organized capital" | Winkler, citing Collins, *The Fourteenth Amendment and the States* (1912) | DOC |
-| Leland Stanford Jr. born May 14, 1868; died of typhoid in Florence, March 13, 1884 | Harris (birth year, in the sandlot passage); outline and the series record for the death | DOC |
-| "The children of California shall be our children." | Harris, quoting Leland to Jane | DOC. The hook paraphrases it and does not put the sentence in quotation marks; Episode 4 should perform it. |
-| Founding Grant, November 1885; principal "forever remain intact"; no power to "sell or convey" | Series outline and the v1 script, marked DOC. Full grant text not re-opened in this pass. | Kept as a hook, to be performed from the grant in Episode 4. |
+| Leland Stanford Jr. born May 14, 1868; died March 13, 1884, in Florence. Jordan: Roman fever. University histories: typhoid | Harris (birth); Jordan; university histories | DOC. Episode 3 owns the death. No last words and no telegram are written. |
+| "The children of California shall be my children" / "our children" | Jordan; Harris | **Not spoken in this episode.** Episode 4 performs both wordings. |
+| Founding Grant, November 1885 | The instrument, read in Episode 4 | The hook no longer speaks "sell or convey" or "forever remain intact." Episode 4 owns the clause. |
 
 ## Changes from the outline
 
@@ -97,3 +97,13 @@ Money method throughout: Minneapolis Fed CPI, 1967 = 100, 2026 index **1004.8** 
 - The Founding Grant clauses, to be read from the instrument in Episode 4 rather than from the outline.
 - Whether the $3,000 fence cost is in the 1878 *Examiner* item or only in later retrospectives.
 - MeasuringWorth relative-income figures for $200,000 (1876), $700,000 (1884), and the $2 million house.
+
+## Critique pass
+
+- Cut the narrated refusal to invent Florence's last words or the telegram. The death stays: March 13, 1884, age fifteen, Roman fever in Jordan and typhoid in the university histories.
+- The hook no longer reads a grant clause. Episode 4 owns "sell or encumber."
+- Bierce's "hands out of his pockets" line is spoken once, in the Examiner section.
+- The 1862 line is split the way Episode 2 splits it. Inaugural: "the dregs of her population," "a degraded and distinct people." Campaign: "the dregs of Asia." Not one fused sentence.
+- Each dollar figure keeps one comparison. Grocery dollars for the house, the $200,000 letter, the fence, the $700,000, and the $24 hog case. The acre prices are compared to the company's own $2.50 advertisement, not to a second modern yardstick.
+- "Here is the concept" / "That is the concept" are gone. The explanations of the land rise, regulatory capture, and scapegoating stay.
+- Dewey Monument date is not in this episode.
