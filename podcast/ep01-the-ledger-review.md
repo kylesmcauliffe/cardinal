@@ -5,7 +5,7 @@ Final edit, Oct 18, 2026, after the series critique. Narrated words now **8,798*
 # Episode 1 review — The Ledger (1769–1848)
 
 Audio file: `podcast/ep01-the-ledger.md` on branch `podcast/ep01-02`.
-Narrated words: **8,985**. At 150 words a minute, about **59.9 minutes**.
+Narrated words: **8,798** after the final edit. At 150 words a minute, about **58.7 minutes**.
 Count is spoken lines only (Narrator, Quote, Letter). Cue tags and this file are not counted.
 Money method: Minneapolis Fed CPI, 1967 = 100, 2026 index 1004.8. Pre-1913 figures are said as "roughly."
 

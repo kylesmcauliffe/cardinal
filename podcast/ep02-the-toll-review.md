@@ -2,7 +2,7 @@
 
 Final edit, Oct 18, 2026, after the series critique. Narrated words now **8,687** (~57.9 min).
 
-- Hopkins and the furnace: Rayner places it in February 1873, before the Wilson Committee, five years before Hopkins's death in March 1878. The 1887 Pacific Railway Commission is a later hearing about books already gone. The script dates the fire to 1873 and performs Huntington's "peculiar man" line once.
+- Hopkins and the furnace: Rayner places the burning in February 1873, during the Wilson Committee hearings, five years before Hopkins's death in March 1878. The 1887 Pacific Railway Commission asked about books already gone. The script dates the fire to 1873 and performs Huntington's "peculiar man" line once.
 - Cut process notes: the masthead aside, the gauge ("leave the inches out"), "we will not invent" the greenback premium, the blank share-of-GDP number, "Let's go meet" in Lincoln's voice, and "do not mash the two speeches."
 - One comparison per figure. Dropped wage-years on the $240,000, the $10,000 bet, and the $35 strike wage. Mountain bonds get one modern price, the triple rate.
 - Statehood dates shrink to a callback. Episode 1 keeps the clock.
@@ -12,7 +12,7 @@ Final edit, Oct 18, 2026, after the series critique. Narrated words now **8,687*
 # Episode 2 review — The Toll (1848–1869)
 
 Audio file: `podcast/ep02-the-toll.md` on branch `podcast/ep01-02`.
-Narrated words: **8,895**. At 150 words a minute, about **59.3 minutes**.
+Narrated words: **8,687** after the final edit. At 150 words a minute, about **57.9 minutes**.
 Count is spoken lines only (Narrator, Quote, Letter, Speech). Cue tags and this file are not counted.
 Money method: Minneapolis Fed CPI, 1967 = 100, 2026 index 1004.8. Pre-1913 figures are said as "roughly."
 
