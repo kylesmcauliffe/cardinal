@@ -10,12 +10,13 @@ const items = [
   { href: '/people', label: 'People', icon: 'users', on: path.startsWith('/people') },
   { href: '/places', label: 'Places', icon: 'map', on: path.startsWith('/places') },
   { href: '/sources', label: 'Sources', icon: 'scroll-text', on: path.startsWith('/sources') },
+  { href: '/downloads', label: 'Downloads', icon: 'download', on: path.startsWith('/downloads') },
 ];
 ---
 
 <nav class="rail" aria-label="Sections">
   <a class="mark" href="/" aria-label="Cardinal home">
-    <Icon name="land-plot" size={26} />
+    <span class="mark-letter">C</span>
   </a>
   {
     items.map((item) => (

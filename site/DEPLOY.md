@@ -25,7 +25,9 @@ site/public/audio/ep01.mp3
 site/public/audio/ep08.mp3
 ```
 
-Those files are not in the repository. Until a file is present, the player shows “Audio coming soon.” Add the mp3, rebuild, and the same player uses it. `npm run build` copies `public/` into `dist/`.
+Those files are not in the repository. A search of every git object, Git LFS (not used), and this agent's store found no episode MP3. Until a file is present at that path, the player shows “Audio coming soon.” Put the rendered files there, rebuild, and the same player uses them. `npm run build` copies `public/` into `dist/`. The Downloads page links to the same paths.
+
+EPUB and PDF files in `site/public/downloads/` are built from the Quarto book and the episode scripts (`npm run downloads`).
 
 ## Firebase Hosting
 

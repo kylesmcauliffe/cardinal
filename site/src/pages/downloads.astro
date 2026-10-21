@@ -1,0 +1,53 @@
+---
+import Base from '../layouts/Base.astro';
+import Bill from '../components/Bill.astro';
+import { getEpisodes } from '../lib/load';
+
+const episodes = getEpisodes();
+---
+
+<Base title="Downloads" description="EPUB and PDF built from the Cardinal manuscript and the episode scripts.">
+  <article class="doc">
+    <h1 class="page-title">Downloads</h1>
+    <h2 class="group-label">Book</h2>
+    <ul class="file-list">
+      <li>
+        <a href="/downloads/cardinal-draft.epub">Cardinal draft, EPUB</a>
+        <div class="meta">Built from the Quarto chapter files in books/cardinal.</div>
+      </li>
+      <li>
+        <a href="/downloads/cardinal-draft.pdf">Cardinal draft, PDF</a>
+        <div class="meta">The same chapter files, printed to PDF.</div>
+      </li>
+    </ul>
+    <h2 class="group-label">Scripts</h2>
+    <ul class="file-list">
+      <li>
+        <a href="/downloads/cardinal-scripts.epub">Eight episode scripts, EPUB</a>
+        <div class="meta">The podcast scripts copied from pull requests #8, #11, #10, and #9.</div>
+      </li>
+      <li>
+        <a href="/downloads/cardinal-scripts.pdf">Eight episode scripts, PDF</a>
+        <div class="meta">The same scripts, printed to PDF.</div>
+      </li>
+      <li>
+        <a href="/Cardinal-documentary-draft-v1.pdf">Documentary draft, PDF</a>
+        <div class="meta">The rewrite PDF already in the documentary extract. Provenance is in site/corpus/PROVENANCE.md.</div>
+      </li>
+    </ul>
+    <h2 class="group-label">Audio</h2>
+    <ul class="file-list">
+      {
+        episodes.map((ep) => (
+          <li>
+            <a href={ep.audio}>
+              {String(ep.n).padStart(2, '0')} {ep.title}
+            </a>
+            <div class="meta">{ep.audio}. The rendered file is not in this repository. Until it is added, the player says audio coming soon.</div>
+          </li>
+        ))
+      }
+    </ul>
+    <Bill lines={['Files in this list are generated from the manuscript and the scripts, except the documentary PDF, which is the file already stored with the rewrite extract.']} />
+  </article>
+</Base>

@@ -1,9 +1,12 @@
 ---
 import Base from '../layouts/Base.astro';
 import { getPins, unpinnedLocations } from '../lib/load';
+import photos from '../data/places-photos.json';
 
 const pins = getPins();
 const loose = unpinnedLocations();
+const pictures = photos.filter((photo) => photo.file);
+const missing = photos.filter((photo) => !photo.file);
 ---
 
 <Base title="Places" description="Locations named in the Cardinal event ledger, plotted where the name is a single place.">
@@ -13,7 +16,12 @@ const loose = unpinnedLocations();
       Pins mark ledger locations that name one place. The position is a geographic lookup for that name, not a measurement from the manuscript. Compound and regional names stay in the list under the map.
     </p>
     <div class="plate">
-      <div id="map" data-pins={JSON.stringify(pins)}></div>
+      <div class="map-frame" id="map-frame">
+        <div class="map-bar">
+          <button class="map-toggle" type="button" id="map-toggle" aria-expanded="false" aria-controls="map">Open map</button>
+        </div>
+        <div id="map" data-pins={JSON.stringify(pins)}></div>
+      </div>
       <div class="legend">
         <h2 class="group-label">On the map</h2>
         <table class="sheet-table">
@@ -38,6 +46,39 @@ const loose = unpinnedLocations();
         </table>
       </div>
     </div>
+    <h2 class="group-label">Photographs</h2>
+    <p class="prose">
+      Each picture is a Wikimedia Commons file whose title names that place, under a free license. A place with no clear free match is left without a picture.
+    </p>
+    <div class="photos">
+      {
+        pictures.map((photo) => (
+          <figure>
+            <img src={photo.file} alt={photo.title} />
+            <figcaption>
+              {photo.name}. {photo.title}
+              {photo.author ? `. ${photo.author}` : ''}. {photo.license}.{' '}
+              <a href={photo.page}>Commons file</a>
+              {photo.sourceUrl && photo.sourceUrl !== photo.page ? (
+                <>
+                  {' '}
+                  · <a href={photo.sourceUrl}>Source</a>
+                </>
+              ) : null}
+            </figcaption>
+          </figure>
+        ))
+      }
+    </div>
+    {
+      missing.length > 0 && (
+        <ul>
+          {missing.map((photo) => (
+            <li>{photo.name}. No freely licensed Commons photograph matched this name.</li>
+          ))}
+        </ul>
+      )
+    }
     <h2 class="group-label">Named, not pinned</h2>
     <ul>
       {loose.map((item) => <li>{item.name} ({item.count})</li>)}
@@ -63,7 +104,10 @@ const loose = unpinnedLocations();
       precision: string;
       events: { date: string; event: string; status: string }[];
     }[];
-    const map = L.map(el, { scrollWheelZoom: false });
+    const frame = document.getElementById('map-frame');
+    const toggle = document.getElementById('map-toggle');
+    const narrow = window.matchMedia('(max-width: 800px)').matches;
+    const map = L.map(el, { scrollWheelZoom: false, dragging: !narrow, touchZoom: !narrow });
     const settle = () => {
       map.invalidateSize();
       if (window.matchMedia('(max-width: 800px)').matches) map.setMinZoom(1);
@@ -91,8 +135,22 @@ const loose = unpinnedLocations();
       marker.bindPopup(`<strong>${esc(pin.name)}</strong><br>${lines}`);
       bounds.push([pin.lat, pin.lon]);
     }
+    function paintToggle() {
+      const shown = frame?.classList.contains('is-open') ?? false;
+      toggle?.setAttribute('aria-expanded', shown ? 'true' : 'false');
+      if (toggle) toggle.textContent = shown ? 'Close map' : 'Open map';
+      if (shown) {
+        map.invalidateSize();
+        if (bounds.length) map.fitBounds(bounds, { padding: [28, 28] });
+      }
+    }
+    if (!narrow) frame?.classList.add('is-open');
+    paintToggle();
+    toggle?.addEventListener('click', () => {
+      frame?.classList.toggle('is-open');
+      paintToggle();
+    });
     settle();
     map.whenReady(settle);
-    window.addEventListener('load', settle);
   }
 </script>

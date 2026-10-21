@@ -1,17 +1,21 @@
 ---
 import Base from '../layouts/Base.astro';
 import Bill from '../components/Bill.astro';
-import { getBibliography } from '../lib/load';
+import citations from '../data/citations.json';
+import shots from '../data/source-shots.json';
 
-const bib = getBibliography();
+const shotMap = shots as Record<string, { file: string; captured: string }>;
 ---
 
-<Base title="Sources" description="The Cardinal bibliography and the research log.">
+<Base title="Sources" description="Claims logged in the Cardinal research, with the source each one names.">
   <article class="doc wide">
     <h1 class="page-title">Sources</h1>
     <div class="prose">
       <p>
-        {bib.length} entries from <code>books/cardinal/references.bib</code>. Citations do not appear in the chapter prose. The research log is the working check, and the event ledger carries a status on each dated row.
+        {citations.length} rows from the episode fact-check tables and from <code>books/cardinal/_project/research-log.md</code>. The status word is the judgment written in that log. The research log defines VERIFIED as a primary or strong secondary source in hand, NEEDS SOURCE as a drafted claim with the citation outstanding, CONTESTED as a genuine disagreement, and CUT as a claim that could not be substantiated. Episode reviews use KEEP, HEDGE, and CUT.
+      </p>
+      <p>
+        A passage image is a short extract from a public page, captured on the date shown, with the matched words marked. Where the page could not be fetched, or the claim's wording was not on it, the cell says screenshot pending. Nothing here is drawn in place of a page.
       </p>
       <p>
         <a href="/research/apparatus/research-log">Research log</a>
@@ -21,37 +25,85 @@ const bib = getBibliography();
         <a href="/timeline">Event ledger</a>
       </p>
       <p>
-        github.com/kylesmcauliffe/cardinal-sources was not readable from this build. The GitHub API returned 404 on 21 October 2026. No records from that repository are included. Pull requests #1–#3 there were not available to read.
+        github.com/kylesmcauliffe/cardinal-sources returned HTTP 404 on 21 October 2026. Pull requests #1–#3 there were not read.
       </p>
     </div>
-    <table class="sheet-table">
-      <thead>
-        <tr>
-          <th>Work</th>
-          <th>Author</th>
-          <th>Year</th>
-        </tr>
-      </thead>
-      <tbody>
-        {
-          bib.map((entry) => (
-            <tr>
-              <td>
-                {entry.url ? <a href={entry.url}>{entry.title}</a> : entry.title}
-                {entry.note && <div class="meta">{entry.note}</div>}
-              </td>
-              <td>{entry.author}</td>
-              <td>{entry.year}</td>
-            </tr>
-          ))
-        }
-      </tbody>
-    </table>
+    <input class="filter" id="q" type="search" placeholder="Filter claims, sources, status" aria-label="Filter sources" />
+    <p class="empty" id="none" hidden>No logged row matches.</p>
+    <div class="sources-scroll">
+      <table class="sheet-table sources-table" id="sources">
+        <thead>
+          <tr>
+            <th>Source</th>
+            <th>Where found</th>
+            <th>Link</th>
+            <th>Passage</th>
+            <th>Used in</th>
+            <th>Claim</th>
+            <th>Why we judge it</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            citations.map((row) => {
+              const shot = shotMap[row.id];
+              return (
+                <tr>
+                  <td>
+                    {row.source}
+                    <div class="meta">{row.log}</div>
+                  </td>
+                  <td>{row.found || 'Page or section not stated in the log.'}</td>
+                  <td>
+                    {row.link ? (
+                      <a href={row.link}>{row.linkLabel || row.link}</a>
+                    ) : (
+                      'No link in the log.'
+                    )}
+                  </td>
+                  <td class="passage">
+                    {shot ? (
+                      <>
+                        <img src={shot.file} alt={`Cited passage captured ${shot.captured}.`} />
+                        <div class="meta">Captured {shot.captured}</div>
+                      </>
+                    ) : (
+                      'Screenshot pending'
+                    )}
+                  </td>
+                  <td>
+                    <a href={row.usedHref}>{row.usedLabel}</a>
+                  </td>
+                  <td>{row.claim}</td>
+                  <td>{row.why}</td>
+                </tr>
+              );
+            })
+          }
+        </tbody>
+      </table>
+    </div>
     <Bill
       lines={[
-        'Bibliography parsed from books/cardinal/references.bib.',
-        'github.com/kylesmcauliffe/cardinal-sources returned HTTP 404 on 21 October 2026. Pull requests #1–#3 were not read. Nothing from that repository is on this site.',
+        'Rows are parsed from the episode reviews in site/corpus/podcast and from books/cardinal/_project/research-log.md.',
+        'A link is attached only when one bibliography entry’s title or author is contained in the logged source. github.com/kylesmcauliffe/cardinal-sources returned HTTP 404 on 21 October 2026.',
       ]}
     />
   </article>
 </Base>
+
+<script>
+  const input = document.querySelector('#q');
+  const rows = [...document.querySelectorAll('#sources tbody tr')];
+  const none = document.querySelector('#none');
+  input?.addEventListener('input', () => {
+    const q = input instanceof HTMLInputElement ? input.value.trim().toLowerCase() : '';
+    let shown = 0;
+    for (const row of rows) {
+      const hit = !q || (row.textContent?.toLowerCase().includes(q) ?? false);
+      if (row instanceof HTMLElement) row.hidden = !hit;
+      if (hit) shown += 1;
+    }
+    if (none instanceof HTMLElement) none.hidden = shown !== 0;
+  });
+</script>
