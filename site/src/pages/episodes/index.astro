@@ -1,0 +1,25 @@
+---
+import Base from '../../layouts/Base.astro';
+import Icon from '../../components/Icon.astro';
+import { getEpisodes } from '../../lib/load';
+
+const episodes = getEpisodes();
+---
+
+<Base title="Episodes" description="Eight Cardinal episodes: script, sources, and an audio player.">
+  <article class="doc">
+    <h1 class="page-title">Episodes</h1>
+    <nav class="bands" aria-label="Episodes" style="padding-left:0;padding-right:0">
+      {
+        episodes.map((ep) => (
+          <a class="band" href={`/episodes/${ep.n}`}>
+            <Icon name={ep.icon} />
+            <span class="num">{String(ep.n).padStart(2, '0')}</span>
+            <span class="name">{ep.title}</span>
+            <span class="years">{ep.years}</span>
+          </a>
+        ))
+      }
+    </nav>
+  </article>
+</Base>

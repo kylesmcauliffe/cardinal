@@ -1,0 +1,44 @@
+---
+import '@fontsource-variable/anybody/wdth.css';
+import '@fontsource/literata/400.css';
+import '@fontsource/literata/400-italic.css';
+import '@fontsource/literata/700.css';
+import '@fontsource/literata/700-italic.css';
+import '../styles/global.css';
+import Nav from '../components/Nav.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+const {
+  title,
+  description = 'Cardinal, book I of The McAuliffe Codex. The Stanford corridor.',
+} = Astro.props;
+const full = title === 'Cardinal' ? 'Cardinal' : `${title} · Cardinal`;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{full}</title>
+    <meta name="description" content={description} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <script is:inline>
+      try {
+        if (localStorage.getItem('cardinal-theme') === 'light') {
+          document.documentElement.dataset.theme = 'light';
+        }
+      } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <a class="skip" href="#content">Skip to content</a>
+    <Nav />
+    <div class="shell" id="content">
+      <slot />
+    </div>
+  </body>
+</html>

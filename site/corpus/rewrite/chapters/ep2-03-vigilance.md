@@ -1,0 +1,352 @@
+# Episode 2: The Toll
+
+## Vigilance
+
+1856. San Francisco.
+
+The artifact is a single paragraph of small type on the front page of the
+*Daily Evening Bulletin* for the fourteenth of May, 1856.
+
+The paper was seven months old and already the most-read sheet in the West. Its
+editor, James King of William — the suffix was his own, adopted to separate
+himself from the other James Kings of his generation — had built its circulation
+on one subject: the men who ran San Francisco, and how they had come to run it.
+That afternoon the *Bulletin* printed a few lines observing that James P. Casey,
+lately seated on the city's Board of Supervisors, had once been an inmate of
+Sing Sing.
+
+That is the whole artifact. A back-page fact about a New York prison, set in a
+California paper, in a column about municipal fraud. Everything in this chapter
+follows from those two sentences and from what the city decided to do with them.
+
+## What the paragraph said
+
+Stand where a reader stood and ask the question the reader asked: what was Casey
+actually accused of?
+
+Two things, and the *Bulletin* was careful to keep them apart. The first was the
+prison term — a matter of record in New York, no crime in California, and the
+paper said as much. A man who had served his sentence had served it. The second
+was the ballot box. Casey held a seat on the Board of Supervisors from a
+district in which, the paper charged, he had not even stood on the ticket; he
+had counted himself in. The prison term was not the accusation. It was the
+character reference attached to the accusation, which was that a convicted felon
+had let himself into the government of San Francisco through a false return and
+nobody had stopped him.
+
+Picture the record itself, the thing the sentence only gestured at: a New York
+commitment, a name entered in the register at Sing Sing, a term served and
+closed. It would have sat in an Ossining ledger two thousand miles away,
+unreachable and therefore unanswerable — which is exactly why printing that it
+existed was an act of such precision. King was not producing the document. He
+was announcing that he knew what it said.
+
+## Five o'clock
+
+Casey read the paper in the *Bulletin* office. He went to the Board of
+Supervisors, then to the offices of a rival paper, and then he waited on the
+street.
+
+At about five o'clock King left the *Bulletin* and walked up Montgomery Street
+toward Washington, wrapped against the evening in a short cloak. Casey stepped
+out near the Pacific Express building, called to him to draw and defend himself,
+and fired once with a Navy revolver. The ball went in above the collarbone. King
+turned, took a few steps, and was carried into the Express office, where they
+laid him on a counter and sent for surgeons.
+
+He did not die there. He lingered six days, in a room above Montgomery Street,
+while the city outside organised — and the lingering mattered, because it gave
+the reaction the time it needed to grow to the size of a funeral.
+
+## The street
+
+Reconstruct the next hour from what the crowd did, because here the crowd is a
+primary source as much as the paper is.
+
+Word moved the way word moved in a compact city of tens of thousands: by voice,
+outward from the Express office, along Montgomery, up to Portsmouth Square. Men
+left counting-houses and stood in the street. By the time Casey had been walked
+to the county jail there was a crowd around it calling for him, and the sheriff
+moved him to the stronger jail on Broadway ahead of it. The *Bulletin*'s own
+circulation — several thousand copies a day, read aloud in bar-rooms and passed
+hand to hand — meant the paragraph and the shooting reached the same reader
+within hours of each other, the accusation and its answer arriving as a single
+event.
+
+What the city did with it was not a riot. Within a day the men who had led the
+short-lived Committee of Vigilance of 1851 had reconstituted it, and this time
+they built something meant to last the summer.
+
+## Fort Gunnybags
+
+They took a commercial building on Sacramento Street, stacked gunny sacks filled
+with sand against its front until the wall stood two storeys of packed earth,
+mounted a cannon above the door, and enrolled members by the thousand — somewhere
+between six and eight thousand men, organised into companies and drilled like an
+army. The city called the building Fort Gunnybags. From it the Committee ran
+arrests, held trials, and kept a membership roll and an executive, in open
+defiance of a state government that declared the county in insurrection and could
+not raise a force against it. William Tecumseh Sherman, then a San Francisco
+banker, took a commission to muster the militia, could not obtain arms, and
+resigned.
+
+The Committee took Casey from the sheriff. It also took Charles Cora, a gambler
+whose trial for killing a United States marshal the previous winter had ended in
+a hung jury. It tried them both inside the fort.
+
+On the twenty-second of May — the day of James King of William's funeral — the
+two men were brought onto a platform built out over the Sacramento Street wall.
+The editor's cortège was moving through the city at the same hour, thousands in
+the procession, the largest San Francisco had assembled for anyone. As the
+funeral passed, the drops fell. Two bodies hung from beams projecting over the
+street, in daylight, before a crowd, hanged by a private association of
+merchants that had arrested, charged, tried, and executed them in the space of
+eight days.
+
+The Committee was not a mob, and that is the whole point of the chapter. It was
+the city's commercial elite, acting as a parallel state and keeping minutes. When
+it dissolved itself three months and two more hangings later, its members did not
+scatter. They went into ordinary politics as the party of order, and San
+Francisco remembered them for a century as the men who had saved it.
+
+## The formal apparatus
+
+The formal institutions had arrived first, and quickly.
+
+California's constitutional convention met at Colton Hall in Monterey in
+September and October of 1849 — forty-eight delegates, meeting on the upper
+floor of a two-storey stone building that is still standing at 570 Pacific
+Street. They had no authorisation from Congress. Military government had been in
+place since the occupation, the treaty had transferred sovereignty, and Congress
+had failed to organise a territorial government because it could not agree about
+slavery. So the delegates organised one themselves.
+
+They produced a constitution in six weeks. It prohibited slavery, which was the
+central decision and was reached with less argument than expected — partly on
+principle, partly because free miners did not want to compete against enslaved
+labour gangs. It established the eastern boundary. It recognised existing
+property rights, which mattered enormously to the Californio delegates present.
+
+Statehood followed on 9 September 1850, as part of the Compromise of 1850 —
+California admitted as a free state, in exchange for a stronger fugitive slave
+act and territorial organisation elsewhere on terms the South could accept. The
+territory had gone from foreign soil to statehood in under three years, without
+passing through the territorial stage that every other part of the Mexican
+Cession endured for decades.
+
+That speed is a fact about gold and about congressional arithmetic, and it puts
+California on the sectional chessboard from its first day in the Union. Two
+senators from a free state, in a chamber balanced on exactly that count. Hold
+it; chapter 8 depends on it.
+
+## Why the institutions did not work
+
+A state government existed on paper and had almost no capacity.
+
+San Francisco in the early 1850s was a city of tens of thousands, most of them
+transient, most of them men, most of them armed, in a place with no established
+policing, an overwhelmed and corruptible court system, and a municipal
+government that was both incompetent and demonstrably dishonest. The city burned
+down repeatedly. Municipal debt and land scandals were continuous. Elections
+were contested by organised groups who understood that whoever controlled the
+count controlled the contracts.
+
+Into that gap stepped whoever was organised enough to fill it, which is the
+finding of this chapter and the reason it sits where it does in the act.
+
+## The precedent, and the target
+
+This was the second time the city's merchants had done it. The first Committee of
+Vigilance had formed in June 1851, after a run of fires and robberies blamed on a
+group of Australian arrivals known as the Sydney Ducks; it hanged four men,
+deported others, and dissolved within months. So by 1856 the move was not an
+improvisation. It was a remembered instrument, taken down off the shelf when it
+was wanted.
+
+And what it was wanted for is the part the civic-virtue version leaves out. The
+1856 Committee's energy was aimed, with considerable precision, at the Irish and
+Catholic immigrants of the city and at the Democratic organisation that turned
+their votes into offices. Both men hanged during the King affair were Irish
+Catholics. The Committee's own membership was overwhelmingly Protestant and
+mercantile, much of it transplanted from New England, and the party that grew out
+of that summer — running under the banner of reform — took the city's government
+at the next election and held it. The ballot box that Casey was accused of
+stuffing did change hands. It changed hands to the men who had built the fort.
+
+It was, in other words, a factional instrument wearing the costume of civic
+order, and it worked.
+
+## The important detail
+
+The important thing is not the violence. It is the respectability.
+
+These men were not outlaws and were never treated as such. They were the city's
+leading businessmen, they operated openly with published membership, they kept
+records, and they emerged from the episode with enhanced standing rather than
+criminal liability. Nobody was prosecuted. The Committee's leaders went on to
+prominent careers, and the episode entered San Francisco's account of itself as
+a moment when decent men restored order.
+
+Private organisation substituted for public authority, and was honoured for it.
+
+That is the premise the story will need repeatedly. It is the premise underlying
+the Hoover Commission for Relief in Belgium in a later episode, which fed a country
+without being a state. It is the premise underlying the university-contractor
+arrangement, in which public functions are performed by private institutions
+because the private institutions are better at them. It is the premise
+underlying every platform that now performs a governmental function under terms
+of service, and it is the reason those arrangements attract so little objection:
+California decided in 1856 that competent private governance was preferable to
+incompetent public governance, and it has never seriously revisited the
+question.
+
+## The water and the land
+
+Two other decisions of these years determined more about California's future
+than the hangings did, and both followed the same logic.
+
+The first was water. California adopted, largely from mining practice, the
+doctrine of prior appropriation: the first party to divert water to a beneficial
+use acquires a right to continue doing so, superior to later claimants, whether
+or not they own land adjoining the stream. This is not how water law worked in
+the eastern states, where riparian rights attached to the land itself, and
+California ended up with an awkward hybrid of both.
+
+What prior appropriation does is convert a common resource into a form of
+property allocated by speed. It rewarded whoever arrived first with capital
+enough to build a diversion, which in practice meant hydraulic mining companies
+and, later, large agricultural operators. The rule that would determine who
+could farm the Central Valley was made by miners in the 1850s for reasons that
+had nothing to do with farming.
+
+The second was land, in the form of the state's disposal of the federal acreage
+it received on admission. Substantial holdings passed in large blocks to a small
+number of buyers through methods that were loosely administered and
+frequently abused, including the swampland grants, which allowed a purchaser to
+acquire land at a nominal price by declaring it wet. Vast tracts of the Central
+Valley were acquired this way.
+
+By the 1870s a handful of individuals and companies held agricultural properties
+of a scale unknown anywhere in the eastern United States. Henry George, writing
+in California in 1871, made the concentration of land the centre of his argument
+about poverty amid progress, and he was describing what he could see out of the
+window.
+
+Concentration preceded the market here as it had under the ranchos, and the
+instruments were public.
+
+## Who had no standing
+
+The men hanged had no appeal, and two of them had colourable defences that a
+court would have had to consider.
+
+Beyond that, entire populations stood outside both the formal order and the
+informal one. Chinese residents were subject to a statute, upheld by the state
+supreme court in 1854, holding that Chinese witnesses could not testify against
+a white defendant. Indigenous Californians were subject to the labour and
+vagrancy provisions described in the previous chapter. Californio landholders
+were in court defending titles the treaty had promised to protect.
+
+The Committee of Vigilance is remembered as a story about order. It was a story
+about who counted, and the answer was decided by the people who had the
+sandbags.
+
+
+
+
+## The precedent, and the target
+
+This was the second time the city's merchants had done it. The first Committee of
+Vigilance had formed in June 1851, after a run of fires and robberies blamed on a
+group of Australian arrivals known as the Sydney Ducks; it hanged four men,
+deported others, and dissolved within months. So by 1856 the move was not an
+improvisation. It was a remembered instrument, taken down off the shelf when it
+was wanted.
+
+And what it was wanted for is the part the civic-virtue version leaves out. The
+1856 Committee's energy was aimed, with considerable precision, at the Irish and
+Catholic immigrants of the city and at the Democratic organisation that turned
+their votes into offices. Both men hanged during the King affair were Irish
+Catholics. The Committee's own membership was overwhelmingly Protestant and
+mercantile, much of it transplanted from New England, and the party that grew out
+of that summer — running under the banner of reform — took the city's government
+at the next election and held it. The ballot box that Casey was accused of
+stuffing did change hands. It changed hands to the men who had built the fort.
+
+It was, in other words, a factional instrument wearing the costume of civic
+order, and it worked.
+
+## The important detail
+
+The important thing is not the violence. It is the respectability.
+
+These men were not outlaws and were never treated as such. They were the city's
+leading businessmen, they operated openly with published membership, they kept
+records, and they emerged from the episode with enhanced standing rather than
+criminal liability. Nobody was prosecuted. The Committee's leaders went on to
+prominent careers, and the episode entered San Francisco's account of itself as
+a moment when decent men restored order.
+
+Private organisation substituted for public authority, and was honoured for it.
+
+That is the premise this book will need repeatedly. It is the premise underlying
+the Hoover Commission for Relief in Belgium in a later episode, which fed a country
+without being a state. It is the premise underlying the university-contractor
+arrangement, in which public functions are performed by private institutions
+because the private institutions are better at them. It is the premise
+underlying every platform that now performs a governmental function under terms
+of service, and it is the reason those arrangements attract so little objection:
+California decided in 1856 that competent private governance was preferable to
+incompetent public governance, and it has never seriously revisited the
+question.
+
+## The water and the land
+
+Two other decisions of these years determined more about California's future
+than the hangings did, and both followed the same logic.
+
+The first was water. California adopted, largely from mining practice, the
+doctrine of prior appropriation: the first party to divert water to a beneficial
+use acquires a right to continue doing so, superior to later claimants, whether
+or not they own land adjoining the stream. This is not how water law worked in
+the eastern states, where riparian rights attached to the land itself, and
+California ended up with an awkward hybrid of both.
+
+What prior appropriation does is convert a common resource into a form of
+property allocated by speed. It rewarded whoever arrived first with capital
+enough to build a diversion, which in practice meant hydraulic mining companies
+and, later, large agricultural operators. The rule that would determine who
+could farm the Central Valley was made by miners in the 1850s for reasons that
+had nothing to do with farming.
+
+The second was land, in the form of the state's disposal of the federal acreage
+it received on admission. Substantial holdings passed in large blocks to a small
+number of buyers through methods that were loosely administered and
+frequently abused, including the swampland grants, which allowed a purchaser to
+acquire land at a nominal price by declaring it wet. Vast tracts of the Central
+Valley were acquired this way.
+
+By the 1870s a handful of individuals and companies held agricultural properties
+of a scale unknown anywhere in the eastern United States. Henry George, writing
+in California in 1871, made the concentration of land the centre of his argument
+about poverty amid progress, and he was describing what he could see out of the
+window.
+
+Concentration preceded the market here as it had under the ranchos, and the
+instruments were public.
+
+## Who had no standing
+
+The men hanged had no appeal, and two of them had colourable defences that a
+court would have had to consider.
+
+Beyond that, entire populations stood outside both the formal order and the
+informal one. Chinese residents were subject to a statute, upheld by the state
+supreme court in 1854, holding that Chinese witnesses could not testify against
+a white defendant. Indigenous Californians were subject to the labour and
+vagrancy provisions described in the previous chapter. Californio landholders
+were in court defending titles the treaty had promised to protect.
+
+The Committee of Vigilance is remembered as a story about order. It was a story
+about who counted, and the answer was decided by the people who had the
+sandbags.

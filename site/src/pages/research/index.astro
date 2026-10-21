@@ -1,0 +1,96 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getDocs } from '../../lib/load';
+
+const docs = getDocs();
+const groups = [...new Set(docs.map((d) => d.group))];
+---
+
+<Base title="Research" description="Search the Cardinal draft, the rewrite, and the project apparatus.">
+  <article class="doc wide">
+    <h1 class="page-title">Research</h1>
+    <form class="search" role="search" action="/research">
+      <label for="q">Search the archive</label>
+      <input id="q" name="q" type="search" placeholder="A name, a street, a claim" autocomplete="off" />
+    </form>
+    <p class="empty" id="empty" hidden>Nothing in the archive matches.</p>
+    <div id="hits" hidden></div>
+    <div id="index">
+      {
+        groups.map((group) => (
+          <section>
+            <h2 class="group-label">{group}</h2>
+            <div class="catalog">
+              {docs
+                .filter((d) => d.group === group)
+                .map((d) => (
+                  <a href={d.href}>
+                    <span class="ct">{d.title}</span>
+                    <span class="ck">{d.meta || d.kind}</span>
+                  </a>
+                ))}
+            </div>
+          </section>
+        ))
+      }
+    </div>
+  </article>
+</Base>
+
+<script>
+  const input = document.querySelector('#q');
+  const index = document.querySelector('#index');
+  const hits = document.querySelector('#hits');
+  const empty = document.querySelector('#empty');
+  if (!(input instanceof HTMLInputElement) || !index || !hits || !empty) throw new Error('search');
+
+  type Row = { href: string; title: string; kind: string; group: string; meta: string; text: string };
+  let rows: Row[] | null = null;
+  let ticket = 0;
+
+  function esc(s: string) {
+    return s.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c] ?? c);
+  }
+
+  function show(list: Row[], q: string) {
+    const needle = q.toLowerCase();
+    hits.innerHTML = list
+      .slice(0, 40)
+      .map((row) => {
+        const hay = `${row.title} ${row.text}`.toLowerCase();
+        const at = hay.indexOf(needle);
+        const start = Math.max(0, at - 80);
+        const excerpt = row.text.slice(start, start + 220);
+        return `<a href="${esc(row.href)}"><span class="ct">${esc(row.title)}</span><span class="ck">${esc(row.group)}</span><span class="ck">${esc(excerpt)}</span></a>`;
+      })
+      .join('');
+    hits.className = 'catalog';
+    hits.hidden = list.length === 0;
+    empty.hidden = list.length !== 0;
+    index.setAttribute('hidden', '');
+  }
+
+  async function run() {
+    const mine = ++ticket;
+    const q = input.value.trim();
+    if (q.length < 2) {
+      hits.hidden = true;
+      empty.hidden = true;
+      index.removeAttribute('hidden');
+      return;
+    }
+    if (!rows) {
+      const res = await fetch('/search.json');
+      rows = (await res.json()) as Row[];
+    }
+    if (mine !== ticket) return;
+    const needle = q.toLowerCase();
+    const list = rows.filter((row) => `${row.title} ${row.meta} ${row.text}`.toLowerCase().includes(needle));
+    if (mine !== ticket) return;
+    show(list, q);
+  }
+
+  input.addEventListener('input', () => {
+    void run();
+  });
+</script>

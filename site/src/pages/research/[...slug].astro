@@ -1,0 +1,33 @@
+---
+import Base from '../../layouts/Base.astro';
+import Bill from '../../components/Bill.astro';
+import { getDoc, getDocs, htmlFor, neighbor } from '../../lib/load';
+
+export function getStaticPaths() {
+  return getDocs().map((doc) => ({ params: { slug: doc.id } }));
+}
+
+const slug = Astro.params.slug;
+if (!slug) throw new Error('missing slug');
+const doc = getDoc(slug);
+const html = await htmlFor(doc);
+const { prev, next } = neighbor(doc);
+const download =
+  doc.id === 'rewrite/Cardinal-documentary-draft-v1'
+    ? '/Cardinal-documentary-draft-v1.pdf'
+    : '';
+---
+
+<Base title={doc.title} description={doc.meta || doc.title}>
+  <article class="doc">
+    <h1 class="page-title">{doc.title}</h1>
+    {doc.meta && <p class="meta">{doc.meta}</p>}
+    {download && <p><a href={download}>Download the PDF on this branch</a></p>}
+    <div class="prose" set:html={html} />
+    <nav class="pager" aria-label="Documents">
+      {prev ? <a href={prev.href}>← {prev.title}</a> : <span></span>}
+      {next ? <a href={next.href}>{next.title} →</a> : <span></span>}
+    </nav>
+    <Bill lines={[`${doc.group}. ${doc.kind}. ${doc.id}`]} />
+  </article>
+</Base>

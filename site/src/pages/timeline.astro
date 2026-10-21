@@ -1,0 +1,52 @@
+---
+import Base from '../layouts/Base.astro';
+import { getLedger } from '../lib/load';
+
+const rows = getLedger();
+const counts = rows.reduce<Record<string, number>>((acc, row) => {
+  const key = row.status || 'unmarked';
+  acc[key] = (acc[key] ?? 0) + 1;
+  return acc;
+}, {});
+const tally = Object.entries(counts)
+  .map(([status, n]) => `${n} ${status}`)
+  .join(', ');
+---
+
+<Base title="Timeline" description="The manuscript event ledger, with each row's verification status.">
+  <article class="doc wide">
+    <h1 class="page-title">Timeline</h1>
+    <p class="meta">{rows.length} dated events in the manuscript ledger: {tally}.</p>
+    <table class="sheet-table">
+      <caption class="where">Manuscript event ledger</caption>
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Event</th>
+          <th>Place</th>
+          <th>Status</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          rows.map((row) => (
+            <tr>
+              <td>{row.date}</td>
+              <td>
+                {row.event}
+                {row.why && <div class="meta">{row.why}</div>}
+                {row.note && <div class="meta">{row.note}</div>}
+              </td>
+              <td>{row.location}</td>
+              <td><span class="status">{row.status}</span></td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+    <p class="bill">
+      Rows are the file <code>books/cardinal/_project/event-ledger.csv</code>. The rewrite chronology is a separate document:
+      <a href="/research/rewrite/research/chronology">Cardinal — Master Chronological Event Ledger</a>.
+    </p>
+  </article>
+</Base>

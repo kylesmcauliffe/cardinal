@@ -1,0 +1,10 @@
+---
+interface Props {
+  lines: string[];
+}
+const { lines } = Astro.props;
+---
+
+<footer class="bill">
+  {lines.map((line) => <p>{line}</p>)}
+</footer>

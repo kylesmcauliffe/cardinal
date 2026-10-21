@@ -1,0 +1,32 @@
+---
+import Base from '../layouts/Base.astro';
+import Icon from '../components/Icon.astro';
+import { getAuthor, getEpisodes } from '../lib/load';
+
+const episodes = getEpisodes();
+const author = getAuthor();
+---
+
+<Base title="Cardinal">
+  <header class="mast">
+    <img src="/cover.png" alt="Cardinal cover." />
+    <div>
+      <h1 class="word">Cardinal</h1>
+      <p class="sentence">Rail controlled movement. Stanford controls succession.</p>
+      <p class="sheet">Book I of The McAuliffe Codex · The Stanford Corridor · {author}</p>
+      <div class="mast-rule"></div>
+    </div>
+  </header>
+  <nav class="bands" aria-label="Eight episodes">
+    {
+      episodes.map((ep) => (
+        <a class="band" href={`/episodes/${ep.n}`}>
+          <Icon name={ep.icon} />
+          <span class="num">{String(ep.n).padStart(2, '0')}</span>
+          <span class="name">{ep.title}</span>
+          <span class="years">{ep.years}</span>
+        </a>
+      ))
+    }
+  </nav>
+</Base>

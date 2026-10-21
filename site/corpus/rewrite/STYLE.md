@@ -1,0 +1,127 @@
+# Cardinal: Documentary Rewrite Style Guide
+
+## The feel
+- Write it like *O.J.: Made in America*: an eight-episode HBO or Netflix documentary on the page.
+- One complete story, told as established fact. The reader watches time pass, learns, and realizes things for themselves.
+
+## The bar
+- Aim for a nonfiction bestseller at the level of Erik Larson, Patrick Radden Keefe and Laura Hillenbrand.
+- **Openings:** strong. The first line of every chapter drops us into a person, place and moment.
+- **Momentum:** keep it.
+- **Characters:** vivid, drawn from sourced detail about appearance, habits and their own documented words.
+- **Chapters:** short and readable, about 2,000–3,500 words.
+- **Chapter endings:** page-turners, built on a revelation, a reversal or a door opening onto the next scene.
+- **Rigor:** all of this under strict nonfiction rules. Craft never licenses invention.
+
+## Voice: Ambrose (primary model)
+Model: Stephen E. Ambrose, *Nothing Like It in the World*. Larson and Keefe are secondary, for pacing and chapter endings.
+
+Measured on the extracted text: the average sentence is about 18 words, roughly a third of sentences are 8 words or fewer, and there are about 10 quotation marks per 1,000 words, almost all from letters, telegrams and reports of the time.
+
+**Techniques**
+1. **Open on a date, a place and the weather, flatly.** Ambrose's Chapter One starts with a hot August day in Council Bluffs, then names who came to town. Write: *Date. Place. One physical fact. One person arriving.*
+2. **Long sentence, then a short one that lands.** For example: "Stanford swung and missed, striking only the rail. It made no difference." Use a run of detail, then a 3–8-word verdict.
+3. **A plainspoken narrator: admiration mixed with judgment in the same paragraph.** Praise the engineering and name the graft. Neither cancels the other, and no adjectives are needed to editorialize.
+4. **Let the letters talk.** Quote short lines from the people's own correspondence, telegrams and diaries, e.g. E. B. Crocker's "This is the hardest blow we have had." Put them inside the action, attributed and dated. One or two per scene keeps the voice of the time.
+5. **Make numbers human.** Turn miles a day, wages, tons and dollars into what they meant for a body or a crew: ten miles of track in one day becomes the men, the rails, the hours. Give the number, then the cost.
+6. **Dialogue only when a source records it.** Crocker told Strobridge it "had to be done." Short reported exchanges from the record, never invented ones.
+7. **Chapter shape:** a chronological push through a defined span (Ambrose titles chapters by span, e.g. "1867"). Open with arrival or departure, build through obstacles, and end on an outcome that tees up the next obstacle.
+
+**Real time (Kyle's key point)**
+- Stay inside the moment as it unfolds: what people knew then and did not yet know; the weather, distances, waiting and costs, as they were felt.
+- Use contemporary letters, diaries, telegrams and newspapers to keep the clock running.
+- Keep the past tense close to the action.
+- **No hindsight inside scenes.** The all-knowing narrator steps in only at scene edges.
+  - Inside: "The telegraph operator closed the circuit."
+  - At the edge: "Nobody in the crowd knew where the money had gone."
+
+## Narrator
+- The narrator knows everything and already knows how it ends, like a detective or a time traveler: calm, certain, sometimes dry.
+- The narrator may foreshadow ("He would not live to see it finished") **only at scene edges**: the first or last lines of a scene or chapter. It never lectures.
+- Never stage a debate between historians. No "some scholars argue / others contend."
+- **Contested facts get one confident sentence, then move on.** For example: "The coroner's jury named strychnine; the university's president named her heart; the chemists had found the poison." Cite it.
+
+## Structure
+- **Strict chronology.** Time only moves forward within and across episodes.
+- The only exception is an episode cold open, which may jump ahead to a moment the episode then reaches.
+- Each episode has three parts:
+  - a **cold open**: a single vivid scene, about 300–800 words;
+  - a **through-line**;
+  - an **end turn or cliffhanger** that pulls into the next episode.
+- **Scenes follow people.** Every chapter has a POV person, a place and a date. Open on a concrete image from the outline.
+- Use the outline's chapter list for each episode: one chapter per scene, or merge two thin scenes.
+
+## Meaning
+- **Show it; don't state it.** Ban the words "mechanism," "chokepoint," "the lesson," "what this proves" and "the pattern" until the end of Ep 8.
+- The thesis ("Rail controlled movement. Stanford controls succession.") appears **once**, near the end of Ep 8.
+- Let recurring people, places and ironies carry the argument. The DEEP CUTs in timeline.md are planted payoffs: set them up early and pay them off later without pointing at them.
+
+## Kyle's lines
+- Reuse Kyle's best sentences from `books/cardinal/ch/*.qmd` and `introduction.qmd` where they fit, verbatim or lightly trimmed. Examples:
+  - "It was never a secret. It was only subliminal."
+  - "The street signs are twelve feet up and lit at night."
+  - The street-sign device.
+- Mark each reused line with an HTML comment like `<!-- kyle: ch/5-12 -->`.
+
+## Facts and quotes
+- **Invent nothing.** Every factual claim must trace to `rewrite/notes/*`, `rewrite/moments.md`, `rewrite/timeline.md`, or the existing chapters and `references.bib`.
+- Quotations must be exact and come only from those files. No invented dialogue or reconstructed thoughts. You may paraphrase what a source says someone said, attributed to the source.
+- If a scene needs a fact we don't have, write `[TK: what's needed]` and keep going.
+- Sensory detail must be sourced or generic-safe. "Snow" in the Sierra in winter is fine; a named weather report is not.
+
+## Citations
+- Use Chicago author-date in text, e.g. (White 2022, 173) or (Harris 2023, ch. 1.3).
+- Use the existing references.bib keys where possible, as `[@white-railroaded]`.
+- New books (Rayner, Ambrose, Baker, Whyte, Miller, Denton, Levy, Siddiqui, Chafkin, Mallaby, McCartney, Winkler, Soni, Vance, Levine, Fisher, Wu) are cited as (Author Year, ch./p.) plus a `<!-- bib: TODO -->` comment.
+
+## Defaults (assumptions until Kyle says otherwise)
+- The reader is a general nonfiction reader.
+- Jane Stanford's death is told as strychnine poisoning, with the murder question settled in one sentence.
+- Bohemian Grove appears only as a sourced detail. Remote viewing is cut.
+- Dawn is at most a one-page nod.
+- The story ends in 2025.
+
+## Mechanics
+- Length: about 15,000 words per episode, which is about 3,000 per chapter.
+- File names: `rewrite/chapters/ep{N}-{nn}-{slug}.md`, starting with `# Episode N: Title` / `## Chapter title`.
+- American spelling. DM-style plain markdown, with no HTML beyond comments.
+- Don't touch `books/` or `main`.
+
+## Workflow (every episode)
+1. **Start from what exists.** Pull the relevant `books/cardinal/ch/*.qmd` chapters (paths are in outline.md), the older draft branch, Dawn where relevant, `rewrite/research/`, and `rewrite/notes/`.
+2. **Fact-check it** against the notes, moments, timeline, references.bib and research-log. Drop or [TK] anything you can't trace.
+3. **Dig deeper. Ask questions:**
+   - Why did this happen?
+   - Who else was in the room?
+   - What did it cost, and who paid?
+   - What happened next to these people?
+
+   Answer them from the notes and existing chapters.
+4. **Keep `rewrite/QUESTIONS-epN.md`** for each episode, with three sections:
+   - the questions asked;
+   - the answers found, with sources;
+   - the questions still open, as [TK] candidates.
+5. **Write** the chapters into `rewrite/chapters/`.
+
+Ebook full text is NOT in the repo. Only short quotes are, in `rewrite/notes/`. If you need a quote that isn't there, mark `[TK: quote from <book>, <locator>]`.
+
+## Exclusions
+- Leave out all fiction and creative-exercise material. That includes anything involving "Trinity" as a character or voice, the epilogue's invented "traveller," and any invented scene, dialogue or composite.
+- See `rewrite/EXCLUDED.md`. Add anything new you find there; never delete it from the original files.
+
+## Characters: the legend vs. the person (north star)
+The model is Ambrose on Lincoln: you think you know the figure, and the story reveals the real person.
+- Reveal every major character through **specific, sourced moments, choices and private words**: letters, diaries, testimony. This covers Leland and Jane Stanford, Huntington, Crocker, Jordan, Hoover, Lewis and Fred Terman, Shockley, the founders, Thiel and Musk.
+- **Track what repeats**: habits, recurring behaviors, memories a person kept returning to, and stories others kept telling about them. Use these as **motifs** that recur across chapters and episodes. Leads from the notes:
+  - Jane's Florence grief and her spiritualism;
+  - Stanford's horses and photographs;
+  - Huntington's letters to his brother;
+  - Hoover the orphan adopted by Branner and the university;
+  - the Termans, father and son, ranking people;
+  - Shockley's "traitorous eight";
+  - Musk's "two days" at Stanford story.
+- **Each major character gets at least one scene that complicates the legend**, sourced. Examples:
+  - The humanitarian Hoover's "notably bad" mine air (Whyte).
+  - Jane, the grieving mother, as the executive who ran the university in probate and fired Ross (White-J).
+  - The heroic Promontory swing that missed (Ambrose).
+- Log each character's motifs and their complicating scene in `QUESTIONS-epN.md` under a "Characters" heading. Recurring characters must be consistent across episodes (see GLOSSARY.md).

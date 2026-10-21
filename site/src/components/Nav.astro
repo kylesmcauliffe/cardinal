@@ -1,0 +1,55 @@
+---
+import Icon from './Icon.astro';
+
+const path = Astro.url.pathname.replace(/\/$/, '') || '/';
+const items = [
+  { href: '/', label: 'Home', icon: 'house', on: path === '/' },
+  { href: '/episodes', label: 'Episodes', icon: 'headphones', on: path.startsWith('/episodes') },
+  { href: '/research', label: 'Research', icon: 'library', on: path.startsWith('/research') },
+  { href: '/timeline', label: 'Timeline', icon: 'clock', on: path.startsWith('/timeline') },
+  { href: '/people', label: 'People', icon: 'users', on: path.startsWith('/people') },
+  { href: '/places', label: 'Places', icon: 'map', on: path.startsWith('/places') },
+  { href: '/sources', label: 'Sources', icon: 'scroll-text', on: path.startsWith('/sources') },
+];
+---
+
+<nav class="rail" aria-label="Sections">
+  <a class="mark" href="/" aria-label="Cardinal home">
+    <Icon name="land-plot" size={26} />
+  </a>
+  {
+    items.map((item) => (
+      <a href={item.href} aria-current={item.on ? 'page' : undefined}>
+        <Icon name={item.icon} />
+        <span>{item.label}</span>
+      </a>
+    ))
+  }
+  <div class="spacer"></div>
+  <button type="button" id="theme" aria-pressed="false">
+    <Icon name="sun" />
+    <span>Light</span>
+  </button>
+</nav>
+
+<script>
+  const btn = document.getElementById('theme');
+  const label = btn?.querySelector('span');
+  function paint() {
+    const light = document.documentElement.dataset.theme === 'light';
+    btn?.setAttribute('aria-pressed', light ? 'true' : 'false');
+    if (label) label.textContent = light ? 'Dark' : 'Light';
+  }
+  paint();
+  btn?.addEventListener('click', () => {
+    const next = document.documentElement.dataset.theme === 'light' ? 'dark' : 'light';
+    if (next === 'light') document.documentElement.dataset.theme = 'light';
+    else delete document.documentElement.dataset.theme;
+    try {
+      localStorage.setItem('cardinal-theme', next);
+    } catch {
+      /* private mode */
+    }
+    paint();
+  });
+</script>

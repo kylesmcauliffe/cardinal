@@ -1,0 +1,98 @@
+---
+import Base from '../layouts/Base.astro';
+import { getPins, unpinnedLocations } from '../lib/load';
+
+const pins = getPins();
+const loose = unpinnedLocations();
+---
+
+<Base title="Places" description="Locations named in the Cardinal event ledger, plotted where the name is a single place.">
+  <article class="doc wide">
+    <h1 class="page-title">Places</h1>
+    <p class="prose">
+      Pins mark ledger locations that name one place. The position is a geographic lookup for that name, not a measurement from the manuscript. Compound and regional names stay in the list under the map.
+    </p>
+    <div class="plate">
+      <div id="map" data-pins={JSON.stringify(pins)}></div>
+      <div class="legend">
+        <h2 class="group-label">On the map</h2>
+        <table class="sheet-table">
+          <thead>
+            <tr>
+              <th>Place</th>
+              <th>Precision</th>
+              <th>Ledger</th>
+            </tr>
+          </thead>
+          <tbody>
+            {
+              pins.map((pin) => (
+                <tr>
+                  <td>{pin.name}</td>
+                  <td>{pin.precision}</td>
+                  <td>{pin.events.map((event) => `${event.date} ${event.event}`).join(' · ')}</td>
+                </tr>
+              ))
+            }
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <h2 class="group-label">Named, not pinned</h2>
+    <ul>
+      {loose.map((item) => <li>{item.name} ({item.count})</li>)}
+    </ul>
+    <p class="bill">
+      Street names are the gazetteer and the street skeleton:
+      <a href="/research/rewrite/research/gazetteer">Stanford street names</a>,
+      <a href="/research/apparatus/street-skeleton">street skeleton</a>.
+    </p>
+  </article>
+</Base>
+
+<script>
+  import L from 'leaflet';
+  import 'leaflet/dist/leaflet.css';
+
+  const el = document.getElementById('map');
+  if (el) {
+    const pins = JSON.parse(el.dataset.pins || '[]') as {
+      name: string;
+      lat: number;
+      lon: number;
+      precision: string;
+      events: { date: string; event: string; status: string }[];
+    }[];
+    const map = L.map(el, { scrollWheelZoom: false });
+    const settle = () => {
+      map.invalidateSize();
+      if (window.matchMedia('(max-width: 800px)').matches) map.setMinZoom(1);
+      if (bounds.length) map.fitBounds(bounds, { padding: [28, 28] });
+    };
+    const layer = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; OpenStreetMap contributors',
+      maxZoom: 19,
+    });
+    layer.addTo(map);
+    const bounds: [number, number][] = [];
+    for (const pin of pins) {
+      const marker = L.circleMarker([pin.lat, pin.lon], {
+        radius: 8,
+        color: '#1c0d10',
+        weight: 2,
+        fillColor: '#8c1515',
+        fillOpacity: 1,
+      }).addTo(map);
+      const esc = (value: string) =>
+        value.replace(/[&<>]/g, (c) => (c === '&' ? '&amp;' : c === '<' ? '&lt;' : '&gt;'));
+      const lines = pin.events
+        .map((event) => `${esc(event.date)} ${esc(event.event)} (${esc(event.status)})`)
+        .join('<br>');
+      marker.bindPopup(`<strong>${esc(pin.name)}</strong><br>${lines}`);
+      bounds.push([pin.lat, pin.lon]);
+    }
+    settle();
+    map.whenReady(settle);
+    window.addEventListener('load', settle);
+  }
+</script>

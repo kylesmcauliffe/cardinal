@@ -1,0 +1,94 @@
+---
+import Base from '../../layouts/Base.astro';
+import Player from '../../components/Player.astro';
+import Bill from '../../components/Bill.astro';
+import { draftLinksFor, getEpisode, getEpisodes, rewriteChaptersFor } from '../../lib/load';
+import { renderMarkdown } from '../../lib/render';
+
+export function getStaticPaths() {
+  return getEpisodes().map((ep) => ({ params: { n: String(ep.n) } }));
+}
+
+const n = Number(Astro.params.n);
+const ep = getEpisode(n);
+const scriptHtml = await renderMarkdown(ep.script);
+const reviewHtml = await renderMarkdown(ep.review);
+const codaHtml = ep.coda ? await renderMarkdown(ep.coda) : '';
+const drafts = draftLinksFor(ep.repo);
+const chapters = rewriteChaptersFor(ep.n);
+const prev = n > 1 ? getEpisode(n - 1) : undefined;
+const next = n < 8 ? getEpisode(n + 1) : undefined;
+---
+
+<Base title={`${ep.title}`} description={`${ep.title}, ${ep.years}. ${ep.through}`}>
+  <article class="doc">
+    <h1 class="page-title ep-title">
+      {String(ep.n).padStart(2, '0')} {ep.title} <span class="ep-years">{ep.years}</span>
+    </h1>
+    <p class="prose">{ep.through}</p>
+
+    <div id="player">
+      <Player src={ep.audio} label={`Play episode ${ep.n}`} />
+    </div>
+
+    <h2 class="group-label" id="script">Script</h2>
+    <div class="prose" set:html={scriptHtml} />
+
+    <h2 class="group-label" id="sources">Sources</h2>
+    <div class="prose">
+      <p>{ep.sources}</p>
+      {ep.end && <p>End turn, from the rewrite outline: {ep.end}</p>}
+      {ep.realizes && <p>Reader realizes, from the rewrite outline: {ep.realizes}</p>}
+    </div>
+
+    {
+      drafts.length > 0 && (
+        <div class="catalog">
+          {drafts.map((d) => (
+            <a href={d.href}>
+              <span class="ct">{d.title}</span>
+              <span class="ck">Draft</span>
+            </a>
+          ))}
+        </div>
+      )
+    }
+    {
+      chapters.length > 0 && (
+        <div class="catalog">
+          {chapters.map((d) => (
+            <a href={d.href}>
+              <span class="ct">{d.title}</span>
+              <span class="ck">Rewrite</span>
+            </a>
+          ))}
+        </div>
+      )
+    }
+
+    <h2 class="group-label">Review</h2>
+    <div class="prose" set:html={reviewHtml} />
+
+    {
+      codaHtml && (
+        <>
+          <h2 class="group-label">Coda in the outline</h2>
+          <div class="prose" set:html={codaHtml} />
+        </>
+      )
+    }
+
+    <nav class="pager" aria-label="Episodes">
+      {prev ? <a href={`/episodes/${prev.n}`}>← {prev.title}</a> : <span></span>}
+      {next ? <a href={`/episodes/${next.n}`}>{next.title} →</a> : <span></span>}
+    </nav>
+
+    <Bill
+      lines={[
+        `Script and review copied read-only from ${ep.branch} at ${ep.sha.slice(0, 12)}, pull request #${ep.pr}.`,
+        ep.also ?? '',
+        `Audio file: ${ep.audio}`,
+      ].filter(Boolean)}
+    />
+  </article>
+</Base>

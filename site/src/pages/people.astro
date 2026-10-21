@@ -1,0 +1,59 @@
+---
+import Base from '../layouts/Base.astro';
+import { getPeople } from '../lib/load';
+
+const people = getPeople();
+---
+
+<Base title="People" description="People named in the manuscript event ledger.">
+  <article class="doc wide">
+    <h1 class="page-title">People</h1>
+    <p class="meta">{people.length} names in the event ledger. The rewrite power matrix is a separate document.</p>
+    <input class="filter" id="who" type="search" placeholder="Filter names" aria-label="Filter names" />
+    <table class="sheet-table" id="people">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Ledger events</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          people.map((person) => (
+            <tr>
+              <td>{person.name}</td>
+              <td>
+                {person.events.map((event) => (
+                  <div>
+                    <span class="status">{event.date}</span> {event.event}
+                  </div>
+                ))}
+              </td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+    <p class="empty" id="none" hidden>No ledger name matches.</p>
+    <p class="bill">
+      Names are the actors column of the manuscript ledger, split on semicolons. See also
+      <a href="/research/rewrite/research/power-matrix">the institutional power matrix</a>.
+    </p>
+  </article>
+</Base>
+
+<script>
+  const input = document.querySelector('#who');
+  const rows = [...document.querySelectorAll('#people tbody tr')];
+  const none = document.querySelector('#none');
+  input?.addEventListener('input', () => {
+    const q = input instanceof HTMLInputElement ? input.value.trim().toLowerCase() : '';
+    let shown = 0;
+    for (const row of rows) {
+      const hit = row.textContent?.toLowerCase().includes(q) ?? false;
+      if (row instanceof HTMLElement) row.hidden = !hit;
+      if (hit) shown += 1;
+    }
+    if (none instanceof HTMLElement) none.hidden = shown !== 0;
+  });
+</script>

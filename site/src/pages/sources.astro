@@ -1,0 +1,57 @@
+---
+import Base from '../layouts/Base.astro';
+import Bill from '../components/Bill.astro';
+import { getBibliography } from '../lib/load';
+
+const bib = getBibliography();
+---
+
+<Base title="Sources" description="The Cardinal bibliography and the research log.">
+  <article class="doc wide">
+    <h1 class="page-title">Sources</h1>
+    <div class="prose">
+      <p>
+        {bib.length} entries from <code>books/cardinal/references.bib</code>. Citations do not appear in the chapter prose. The research log is the working check, and the event ledger carries a status on each dated row.
+      </p>
+      <p>
+        <a href="/research/apparatus/research-log">Research log</a>
+        ·
+        <a href="/research/draft/references">How sourcing works</a>
+        ·
+        <a href="/timeline">Event ledger</a>
+      </p>
+      <p>
+        github.com/kylesmcauliffe/cardinal-sources was not readable from this build. The GitHub API returned 404 on 21 October 2026. No records from that repository are included. Pull requests #1–#3 there were not available to read.
+      </p>
+    </div>
+    <table class="sheet-table">
+      <thead>
+        <tr>
+          <th>Work</th>
+          <th>Author</th>
+          <th>Year</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          bib.map((entry) => (
+            <tr>
+              <td>
+                {entry.url ? <a href={entry.url}>{entry.title}</a> : entry.title}
+                {entry.note && <div class="meta">{entry.note}</div>}
+              </td>
+              <td>{entry.author}</td>
+              <td>{entry.year}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+    <Bill
+      lines={[
+        'Bibliography parsed from books/cardinal/references.bib.',
+        'github.com/kylesmcauliffe/cardinal-sources returned HTTP 404 on 21 October 2026. Pull requests #1–#3 were not read. Nothing from that repository is on this site.',
+      ]}
+    />
+  </article>
+</Base>
