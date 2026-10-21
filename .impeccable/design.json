@@ -1,0 +1,374 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-21T09:10:13.602Z",
+  "title": "Design System: Cardinal",
+  "extensions": {
+    "colorMeta": {
+      "cardinal": {
+        "role": "primary",
+        "displayName": "Cardinal",
+        "canonical": "oklch(41.4% 0.153 27.2)",
+        "tonalRamp": [
+          "oklch(15% 0.063 27.2)",
+          "oklch(26% 0.107 27.2)",
+          "oklch(38% 0.153 27.2)",
+          "oklch(49% 0.153 27.2)",
+          "oklch(61% 0.153 27.2)",
+          "oklch(72% 0.153 27.2)",
+          "oklch(84% 0.088 27.2)",
+          "oklch(95% 0.025 27.2)"
+        ]
+      },
+      "cardinal-deep": {
+        "role": "primary",
+        "displayName": "Deep Cardinal",
+        "canonical": "oklch(31.1% 0.110 22.9)",
+        "tonalRamp": [
+          "oklch(15% 0.062 22.9)",
+          "oklch(26% 0.105 22.9)",
+          "oklch(38% 0.110 22.9)",
+          "oklch(49% 0.110 22.9)",
+          "oklch(61% 0.110 22.9)",
+          "oklch(72% 0.110 22.9)",
+          "oklch(84% 0.088 22.9)",
+          "oklch(95% 0.025 22.9)"
+        ]
+      },
+      "ground": {
+        "role": "neutral",
+        "displayName": "Warm Black",
+        "canonical": "oklch(15.7% 0.020 7.6)",
+        "tonalRamp": [
+          "oklch(15% 0.020 7.6)",
+          "oklch(26% 0.020 7.6)",
+          "oklch(38% 0.020 7.6)",
+          "oklch(49% 0.020 7.6)",
+          "oklch(61% 0.020 7.6)",
+          "oklch(72% 0.020 7.6)",
+          "oklch(84% 0.020 7.6)",
+          "oklch(95% 0.020 7.6)"
+        ]
+      },
+      "ground-2": {
+        "role": "neutral",
+        "displayName": "Raised Ground",
+        "canonical": "oklch(20.8% 0.030 12.8)",
+        "tonalRamp": [
+          "oklch(15% 0.030 12.8)",
+          "oklch(26% 0.030 12.8)",
+          "oklch(38% 0.030 12.8)",
+          "oklch(49% 0.030 12.8)",
+          "oklch(61% 0.030 12.8)",
+          "oklch(72% 0.030 12.8)",
+          "oklch(84% 0.030 12.8)",
+          "oklch(95% 0.025 12.8)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Cream",
+        "canonical": "oklch(95.6% 0.011 63.4)",
+        "tonalRamp": [
+          "oklch(15% 0.011 63.4)",
+          "oklch(26% 0.011 63.4)",
+          "oklch(38% 0.011 63.4)",
+          "oklch(49% 0.011 63.4)",
+          "oklch(61% 0.011 63.4)",
+          "oklch(72% 0.011 63.4)",
+          "oklch(84% 0.011 63.4)",
+          "oklch(95% 0.011 63.4)"
+        ]
+      },
+      "ink-dim": {
+        "role": "neutral",
+        "displayName": "Dim Cream",
+        "canonical": "oklch(86.8% 0.032 40.1)",
+        "tonalRamp": [
+          "oklch(15% 0.032 40.1)",
+          "oklch(26% 0.032 40.1)",
+          "oklch(38% 0.032 40.1)",
+          "oklch(49% 0.032 40.1)",
+          "oklch(61% 0.032 40.1)",
+          "oklch(72% 0.032 40.1)",
+          "oklch(84% 0.032 40.1)",
+          "oklch(95% 0.026 40.1)"
+        ]
+      },
+      "rule": {
+        "role": "neutral",
+        "displayName": "Oxblood Rule",
+        "canonical": "oklch(36.7% 0.064 14.9)",
+        "tonalRamp": [
+          "oklch(15% 0.062 14.9)",
+          "oklch(26% 0.064 14.9)",
+          "oklch(38% 0.064 14.9)",
+          "oklch(49% 0.064 14.9)",
+          "oklch(61% 0.064 14.9)",
+          "oklch(72% 0.064 14.9)",
+          "oklch(84% 0.064 14.9)",
+          "oklch(95% 0.025 14.9)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Paper",
+        "canonical": "oklch(94.7% 0.014 67.7)",
+        "tonalRamp": [
+          "oklch(15% 0.014 67.7)",
+          "oklch(26% 0.014 67.7)",
+          "oklch(38% 0.014 67.7)",
+          "oklch(49% 0.014 67.7)",
+          "oklch(61% 0.014 67.7)",
+          "oklch(72% 0.014 67.7)",
+          "oklch(84% 0.014 67.7)",
+          "oklch(95% 0.014 67.7)"
+        ]
+      },
+      "light-ground-2": {
+        "role": "neutral",
+        "displayName": "Sand",
+        "canonical": "oklch(89.3% 0.023 65.4)",
+        "tonalRamp": [
+          "oklch(15% 0.023 65.4)",
+          "oklch(26% 0.023 65.4)",
+          "oklch(38% 0.023 65.4)",
+          "oklch(49% 0.023 65.4)",
+          "oklch(61% 0.023 65.4)",
+          "oklch(72% 0.023 65.4)",
+          "oklch(84% 0.023 65.4)",
+          "oklch(95% 0.023 65.4)"
+        ]
+      },
+      "light-ink": {
+        "role": "neutral",
+        "displayName": "Near-Black Ink",
+        "canonical": "oklch(18.2% 0.026 7.0)",
+        "tonalRamp": [
+          "oklch(15% 0.026 7.0)",
+          "oklch(26% 0.026 7.0)",
+          "oklch(38% 0.026 7.0)",
+          "oklch(49% 0.026 7.0)",
+          "oklch(61% 0.026 7.0)",
+          "oklch(72% 0.026 7.0)",
+          "oklch(84% 0.026 7.0)",
+          "oklch(95% 0.026 7.0)"
+        ]
+      },
+      "light-ink-dim": {
+        "role": "neutral",
+        "displayName": "Muted Cardinal",
+        "canonical": "oklch(38.9% 0.083 17.5)",
+        "tonalRamp": [
+          "oklch(15% 0.062 17.5)",
+          "oklch(26% 0.083 17.5)",
+          "oklch(38% 0.083 17.5)",
+          "oklch(49% 0.083 17.5)",
+          "oklch(61% 0.083 17.5)",
+          "oklch(72% 0.083 17.5)",
+          "oklch(84% 0.083 17.5)",
+          "oklch(95% 0.025 17.5)"
+        ]
+      },
+      "light-rule": {
+        "role": "neutral",
+        "displayName": "Pale Rule",
+        "canonical": "oklch(84.1% 0.035 40.7)",
+        "tonalRamp": [
+          "oklch(15% 0.035 40.7)",
+          "oklch(26% 0.035 40.7)",
+          "oklch(38% 0.035 40.7)",
+          "oklch(49% 0.035 40.7)",
+          "oklch(61% 0.035 40.7)",
+          "oklch(72% 0.035 40.7)",
+          "oklch(84% 0.035 40.7)",
+          "oklch(95% 0.026 40.7)"
+        ]
+      },
+      "light-paper": {
+        "role": "neutral",
+        "displayName": "Bright Paper",
+        "canonical": "oklch(98.8% 0.009 67.7)",
+        "tonalRamp": [
+          "oklch(15% 0.009 67.7)",
+          "oklch(26% 0.009 67.7)",
+          "oklch(38% 0.009 67.7)",
+          "oklch(49% 0.009 67.7)",
+          "oklch(61% 0.009 67.7)",
+          "oklch(72% 0.009 67.7)",
+          "oklch(84% 0.009 67.7)",
+          "oklch(95% 0.009 67.7)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "The mast word only."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Page titles, with a slightly smaller episode heading."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "The episode name inside a band."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Literata for the page and the 68ch reading column."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Rail items, the theme control, catalog keys, table headers, and the status word."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "mast-draw",
+        "value": "900ms cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "The masthead rule draws once, left to right. It is disabled when reduced motion is requested."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "stack",
+        "value": "800px"
+      },
+      {
+        "name": "dock",
+        "value": "720px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Cardinal rail",
+      "kind": "nav",
+      "refersTo": "rail",
+      "description": "Fixed cardinal rail. The current item reverses to cream; inactive items hover to deep cardinal. The theme control is the last item.",
+      "html": "<nav class=\"ds-rail\" aria-label=\"Sections\"><a class=\"ds-rail-mark\" href=\"#home\" aria-label=\"Cardinal home\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"26\" height=\"26\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.75\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"m12 8 6-3-6-3v10\"/><path d=\"m8 11.99-5.5 3.14a1 1 0 0 0 0 1.74l8.5 4.86a2 2 0 0 0 2 0l8.5-4.86a1 1 0 0 0 0-1.74L16 12\"/><path d=\"m6.49 12.85 11.02 6.3\"/><path d=\"M17.51 12.85 6.5 19.15\"/></svg></a><a class=\"ds-rail-link\" href=\"#home\" aria-current=\"page\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.75\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8\"/><path d=\"M3 10a2 2 0 0 1 .709-1.528l7-6a2 2 0 0 1 2.582 0l7 6A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z\"/></svg><span>Home</span></a><a class=\"ds-rail-link\" href=\"#episodes\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.75\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M3 14h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-7a9 9 0 0 1 18 0v7a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3\"/></svg><span>Episodes</span></a><div class=\"ds-rail-spacer\"></div><button class=\"ds-theme\" type=\"button\" aria-pressed=\"false\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.75\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"4\"/><path d=\"M12 2v2\"/><path d=\"M12 20v2\"/><path d=\"m4.93 4.93 1.41 1.41\"/><path d=\"m17.66 17.66 1.41 1.41\"/><path d=\"M2 12h2\"/><path d=\"M20 12h2\"/><path d=\"m6.34 17.66-1.41 1.41\"/><path d=\"m19.07 4.93-1.41 1.41\"/></svg><span>Light</span></button></nav>",
+      "css": ".ds-rail{display:flex;flex-direction:column;width:5.75rem;min-height:22rem;background:#8c1515;color:#f6efe9}.ds-rail-spacer{flex:1}.ds-rail-mark,.ds-rail-link,.ds-theme{color:inherit;background:transparent;border:0;text-decoration:none;font-family:\"Anybody Variable\",\"Anybody\",sans-serif;font-stretch:100%;font-weight:650;font-size:0.68rem;letter-spacing:0.02em;display:flex;flex-direction:column;align-items:center;gap:0.15rem;padding:0.72rem 0.2rem;cursor:pointer;width:100%}.ds-rail-mark{margin-top:0.4rem}.ds-rail-link[aria-current=\"page\"]{background:#f6efe9;color:#8c1515}.ds-rail-link:hover,.ds-theme:hover{background:#5c0e14}.ds-rail-link[aria-current=\"page\"]:hover{background:#f6efe9;color:#8c1515}.ds-rail-link:focus-visible,.ds-theme:focus-visible,.ds-rail-mark:focus-visible{outline:2px solid #f6efe9;outline-offset:3px}"
+    },
+    {
+      "name": "Masthead",
+      "kind": "custom",
+      "refersTo": "mast",
+      "description": "Cardinal title block. The left stage is where the existing cover raster sits; the word, sentence, sheet line, and drawing rule sit beside it.",
+      "html": "<header class=\"ds-mast\"><div class=\"ds-cover-stage\" role=\"img\" aria-label=\"Cardinal cover.\"></div><div><h1 class=\"ds-word\">Cardinal</h1><p class=\"ds-sentence\">Rail controlled movement. Stanford controls succession.</p><p class=\"ds-sheet\">Book I of The McAuliffe Codex · The Stanford Corridor</p><div class=\"ds-mast-rule\"></div></div></header>",
+      "css": ".ds-mast{background:#8c1515;color:#f6efe9;display:grid;grid-template-columns:minmax(12rem,22rem) 1fr;gap:1.5rem;align-items:end;padding:1.25rem 1.5rem 1.4rem}.ds-cover-stage{background:#0c0c0c;aspect-ratio:1196/1185}.ds-word{font-family:\"Anybody Variable\",\"Anybody\",sans-serif;font-weight:760;font-stretch:100%;font-size:clamp(6.6rem,14.5vw,13.05rem);line-height:0.78;letter-spacing:-0.035em;margin:0}.ds-sentence{font-family:Literata,\"Iowan Old Style\",Palatino,serif;font-size:clamp(1.15rem,2vw,1.45rem);line-height:1.35;margin:0.85rem 0 0.35rem;max-width:22em}.ds-sheet{margin:0.4rem 0 0;font-family:\"Anybody Variable\",\"Anybody\",sans-serif;font-stretch:90%;font-weight:560;font-size:0.95rem;letter-spacing:0.01em}.ds-mast-rule{height:2px;background:#f6efe9;margin-top:1rem}@media (prefers-reduced-motion:no-preference){.ds-mast-rule{animation:ds-draw 900ms cubic-bezier(0.16,1,0.3,1) both}}@keyframes ds-draw{from{clip-path:inset(0 100% 0 0)}to{clip-path:inset(0 0 0 0)}}"
+    },
+    {
+      "name": "Episode band",
+      "kind": "custom",
+      "refersTo": "band",
+      "description": "One ruled index row: icon, number, condensed name, years. Hover and focus fill the row with cardinal.",
+      "html": "<a class=\"ds-band\" href=\"#episode\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.75\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M12 7v14\"/><path d=\"M3 18a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h5a4 4 0 0 1 4 4 4 4 0 0 1 4-4h5a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1h-6a3 3 0 0 0-3 3 3 3 0 0 0-3-3z\"/></svg><span class=\"ds-num\">01</span><span class=\"ds-name\">The Ledger</span><span class=\"ds-years\">1769–1848</span></a>",
+      "css": ".ds-band{display:grid;grid-template-columns:2.5rem 4.5rem 1fr auto;gap:0.8rem;align-items:baseline;padding:0.85rem 0.4rem;border-top:1px solid #5c3034;border-bottom:1px solid #5c3034;text-decoration:none;color:#f6efe9;background:#14090b;font-family:\"Anybody Variable\",\"Anybody\",sans-serif}.ds-band:hover,.ds-band:focus-visible{background:#8c1515;color:#f6efe9}.ds-band:focus-visible{outline:2px solid #f6efe9;outline-offset:3px}.ds-num,.ds-years{font-stretch:90%;font-variant-numeric:tabular-nums;font-weight:620}.ds-num{font-size:1.05rem}.ds-name{font-stretch:75%;font-weight:720;font-size:clamp(2rem,5vw,3.6rem);line-height:0.9;letter-spacing:-0.03em}.ds-years{font-size:0.95rem}.ds-band svg{align-self:center}"
+    },
+    {
+      "name": "Search field",
+      "kind": "input",
+      "refersTo": "search-field",
+      "description": "Archive search. Square field on raised ground, cardinal caret, dim placeholder.",
+      "html": "<form class=\"ds-search\" role=\"search\"><label class=\"ds-search-label\" for=\"ds-q\">Search the archive</label><input id=\"ds-q\" type=\"search\" placeholder=\"A name, a street, a claim\"></form>",
+      "css": ".ds-search{display:flex;flex-direction:column;gap:0.35rem;max-width:40rem;color:#f6efe9;font-family:Literata,\"Iowan Old Style\",Palatino,serif;font-size:1.0625rem;line-height:1.6}.ds-search input{font:inherit;color:#f6efe9;background:#241214;border:1px solid #5c3034;border-radius:0;padding:0.7rem 0.8rem;caret-color:#8c1515}.ds-search input::placeholder{color:#e7cdc4}.ds-search input:focus-visible{outline:2px solid #f6efe9;outline-offset:3px}"
+    },
+    {
+      "name": "Catalog row",
+      "kind": "custom",
+      "refersTo": "catalog-row",
+      "description": "A catalog link: condensed title, dim key, hairline above. Hover underlines the title.",
+      "html": "<div class=\"ds-catalog\"><a href=\"#doc\"><span class=\"ds-ct\">The Ledger</span><span class=\"ds-ck\">Draft</span></a></div>",
+      "css": ".ds-catalog a{text-decoration:none;display:flex;flex-direction:column;gap:0.15rem;padding:0.75rem 0;border-top:1px solid #5c3034;color:#f6efe9}.ds-catalog a:hover .ds-ct{text-decoration:underline;text-underline-offset:0.15em}.ds-catalog a:focus-visible{outline:2px solid #f6efe9;outline-offset:3px}.ds-ck{font-family:\"Anybody Variable\",\"Anybody\",sans-serif;font-stretch:95%;font-size:0.82rem;font-weight:640;color:#e7cdc4}.ds-ct{font-family:\"Anybody Variable\",\"Anybody\",sans-serif;font-stretch:80%;font-weight:680;font-size:1.45rem;line-height:1.05;letter-spacing:-0.02em}"
+    },
+    {
+      "name": "Ledger table",
+      "kind": "custom",
+      "description": "Ruled ledger. Headers and the status word are Anybody; figures are tabular. Status is the ledger’s own word.",
+      "html": "<table class=\"ds-sheet\"><caption class=\"ds-where\">Manuscript event ledger</caption><thead><tr><th>Date</th><th>Event</th><th>Place</th><th>Status</th></tr></thead><tbody><tr><td>1769-07-16</td><td>Mission San Diego de Alcalá founded</td><td>San Diego, CA</td><td><span class=\"ds-status\">VERIFIED</span></td></tr></tbody></table>",
+      "css": ".ds-sheet{width:100%;border-collapse:collapse;font-family:Literata,\"Iowan Old Style\",Palatino,serif;font-size:0.95rem;font-variant-numeric:tabular-nums;color:#f6efe9;background:#14090b}.ds-where{caption-side:top;text-align:left;font-family:\"Anybody Variable\",\"Anybody\",sans-serif;font-stretch:95%;font-weight:620;color:#e7cdc4;margin:0 0 0.8rem}.ds-sheet th,.ds-sheet td{text-align:left;vertical-align:top;padding:0.55rem 0.7rem 0.55rem 0;border-bottom:1px solid #5c3034}.ds-sheet th{font-family:\"Anybody Variable\",\"Anybody\",sans-serif;font-stretch:95%;font-weight:650;font-size:0.82rem}.ds-status{font-family:\"Anybody Variable\",\"Anybody\",sans-serif;font-stretch:95%;font-weight:680;font-size:0.78rem;letter-spacing:0.03em}"
+    },
+    {
+      "name": "Places plate",
+      "kind": "custom",
+      "description": "Map well beside the legend table. The well is the unloaded stage; the page fills it with a Leaflet map and cardinal pins.",
+      "html": "<div class=\"ds-plate\"><div class=\"ds-well\" aria-label=\"Map\"><span class=\"ds-pin\"></span></div><div><h2 class=\"ds-group\">On the map</h2><table class=\"ds-sheet\"><thead><tr><th>Place</th><th>Precision</th></tr></thead><tbody><tr><td>San Diego, CA</td><td>city</td></tr></tbody></table></div></div>",
+      "css": ".ds-plate{display:grid;grid-template-columns:minmax(0,1.45fr) minmax(16rem,0.85fr);gap:1.25rem;align-items:start;color:#f6efe9;background:#14090b}.ds-well{height:min(70vh,36rem);min-height:22rem;background:#d8d0c6;border:1px solid #5c3034;position:relative}.ds-pin{position:absolute;left:46%;top:58%;width:16px;height:16px;border-radius:50%;background:#8c1515;border:2px solid #1c0d10}.ds-group{font-family:\"Anybody Variable\",\"Anybody\",sans-serif;font-stretch:90%;font-weight:700;font-size:1.4rem;margin:0 0 0.4rem}.ds-sheet{width:100%;border-collapse:collapse;font-family:Literata,\"Iowan Old Style\",Palatino,serif;font-size:0.95rem;color:#f6efe9}.ds-sheet th,.ds-sheet td{text-align:left;vertical-align:top;padding:0.55rem 0.7rem 0.55rem 0;border-bottom:1px solid #5c3034}.ds-sheet th{font-family:\"Anybody Variable\",\"Anybody\",sans-serif;font-stretch:95%;font-weight:650;font-size:0.82rem}"
+    },
+    {
+      "name": "Coming-soon audio",
+      "kind": "custom",
+      "refersTo": "soon",
+      "description": "The player’s resting state when the episode file has no metadata yet.",
+      "html": "<figure class=\"ds-player\"><figcaption class=\"ds-where\">Play episode 1</figcaption><p class=\"ds-soon\">Audio coming soon. This player is wired to <code>/audio/ep01.mp3</code>.</p></figure>",
+      "css": ".ds-player{margin:0;max-width:40rem;color:#f6efe9;font-family:Literata,\"Iowan Old Style\",Palatino,serif}.ds-where{font-family:\"Anybody Variable\",\"Anybody\",sans-serif;font-stretch:95%;font-weight:620;color:#e7cdc4;margin:0 0 0.8rem}.ds-soon{margin:0;padding:0.85rem 1rem;background:#241214;color:#f6efe9;max-width:40rem}.ds-soon code{font-family:Literata,\"Iowan Old Style\",Palatino,serif}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Keyed Survey Sheet",
+    "overview": "Cardinal is a reading room set as a survey sheet of one corridor. The resting field is warm black, with cream type. A fixed cardinal rail is the structural member. The masthead is the same red used as a title block: the existing book cover, the word Cardinal set to the column width, the book's sentence, and a sheet line naming the codex, the corridor, and the author. A two-pixel cream rule closes the block and draws in once.\n\nThe index is large names and few words. Episode bands, the catalog, and the ledger tables are ruled rows. A document is a Literata column. Verification status is a word. A billing line at the foot of a document names the file it was copied from. Dark is the resting theme. Light is an override the reader can switch.",
+    "keyCharacteristics": [
+      "Warm-black ground, cream ink, and cardinal as the only chromatic structure",
+      "Anybody Variable at many widths for the index; Literata for the reading column",
+      "Hairline rules and square search fields, with no shadows",
+      "The current rail item reversed to cream; a hovered episode band filled solid cardinal",
+      "Status spelled in the display face; the cover raster and the favicon kept as the existing marks"
+    ],
+    "rules": [
+      {
+        "name": "The One Rail Rule",
+        "body": "Cardinal is the structural color: the rail, the masthead, selection, and the hovered episode band. Deep cardinal is that rail's hover. No second hue is introduced.",
+        "section": "colors"
+      },
+      {
+        "name": "The Rail Stays Red Rule",
+        "body": "Light theme reassigns ground, raised ground, ink, dim ink, the rule, and paper. Cardinal, deep cardinal, and the cream set on the rail and the mast stay as they are in the dark theme.",
+        "section": "colors"
+      },
+      {
+        "name": "The Many Widths Rule",
+        "body": "One display face, Anybody Variable, changes width instead of family. The ladder in the stylesheet runs 100, 95, 90, 85, 80, 75, 72, and 62 on the phone rail. Literata does not carry an index title.",
+        "section": "typography"
+      },
+      {
+        "name": "The Column Rule",
+        "body": "Reading text stays Literata at `1.0625rem` inside 68ch. The rail, the mast, and the index carry the display face.",
+        "section": "typography"
+      },
+      {
+        "name": "The Docked Rail Rule",
+        "body": "At rest the rail is fixed to the left edge and the shell clears it. At 720px the rail docks to the bottom and the shell's side margin returns to zero.",
+        "section": "layout"
+      },
+      {
+        "name": "The Flat Sheet Rule",
+        "body": "Surfaces stay flat at rest and on hover. A hovered band changes field color. It does not lift, blur, or cast a shadow.",
+        "section": "elevation"
+      },
+      {
+        "name": "The Square Field Rule",
+        "body": "The archive search field sets its radius to 0. New fields follow that declaration. The favicon circle and the map pin are not a license to round the index.",
+        "section": "shapes"
+      }
+    ],
+    "dos": [
+      "**Do** keep dark as the resting theme: warm black ground, cream ink, oxblood rules. Offer light only as the root override.",
+      "**Do** keep cardinal on the rail and the mast in both themes, and reverse the current rail item to cream with cardinal type.",
+      "**Do** set index titles in Anybody Variable and the reading column in Literata, with the column at 68ch.",
+      "**Do** separate index rows, table rows, and the billing line with a 1px rule.",
+      "**Do** spell verification status in the status face.",
+      "**Do** use the existing cover raster at `cover.png` in the mast, and the existing favicon.",
+      "**Do** draw icons as one stroke weight (1.75) from the shared set. Leave the mast rule's draw off when reduced motion is requested."
+    ],
+    "donts": [
+      "**Don't** add a second chromatic hue, a gradient, a glass fill, or a drop shadow.",
+      "**Don't** round the search field, the bands, or the tables. The search field's radius is 0.",
+      "**Don't** set an index title in Literata, or the reading column in Anybody.",
+      "**Don't** replace Anybody Variable or Literata with a system display face.",
+      "**Don't** place a label above the mast word or a page title. The sheet line sits under the sentence, as the title block's credit.",
+      "**Don't** encode status by color alone. The word is the status.",
+      "**Don't** treat the document pager's arrow characters as the icon system. Icons are the stroked set on the rail and the bands."
+    ]
+  }
+}
