@@ -4,7 +4,7 @@
 
 **Sunnyvale, California. 1972.**
 
-Al Alcorn had built a cabinet with one game on the screen: two paddles, a dot, a score counter. He called it Pong. He installed a prototype in a bar in Burlingame to see if anyone would put quarters in it.
+Al Alcorn had built a cabinet with one game on the screen: two paddles, a dot, a score counter. He called it Pong. He installed a prototype in Andy Capp's Tavern in Sunnyvale to see if anyone would put quarters in it.
 
 They did.
 
@@ -50,7 +50,7 @@ It provided that universities, small businesses, and non-profits could take titl
 
 Every research university in the United States built a technology licensing office. Stanford already had one — established in 1970 — which meant it was positioned when the statute arrived.
 
-The Cohen–Boyer patents were already in hand. Stanford licensed the technology broadly and non-exclusively at modest rates rather than granting an exclusive licence, and it earned the universities a very large sum over the life of the patents — a few hundred million dollars, split between the two institutions. <!-- kyle: ch/4-10 -->
+The first Cohen–Boyer patent issued on December 2, 1980, ten days before Bayh–Dole was signed on December 12. Two more followed in 1984 and 1988. Stanford licensed the technology broadly and non-exclusively at modest rates rather than granting an exclusive licence, and it earned the universities a very large sum over the life of the patents — a few hundred million dollars, split between the two institutions. <!-- kyle: ch/4-10 -->
 
 The non-exclusive approach is worth marking, because it is the best version of the arrangement. The technology was available to anyone who wanted it, an entire industry was built on it, and the universities were paid.
 
@@ -62,9 +62,9 @@ Genentech went public in October 1980. The stock rose sharply on the first day o
 
 What that offering established is that biology could be financed like software. The venture model from Sand Hill Road had found a second industry.
 
-Life became an asset class in 1980, on a Stanford and UCSF patent, funded from the road that Kleiner and Perkins had opened eight years earlier.
+Life became an asset class in October 1980, on a splicing technique Stanford and UCSF were still waiting to patent, funded from the road that Kleiner and Perkins had opened eight years earlier.
 
-Reimers had filed the papers. Congress had changed the law. Swanson had been fired and then proved the firers wrong.
+Reimers had filed the papers. Congress had changed the law. Swanson had been let go by Kleiner & Perkins and then proved them wrong.
 
 The gate was no longer only for chips.
 
@@ -74,4 +74,4 @@ By the time Bayh-Dole passed, Atari had already taught the corridor a second les
 
 Venture firms learned to tolerate fashion risk. The term sheet still controlled the board. The Southern Pacific had decided which towns lived. Sand Hill Road was deciding which categories of company would be allowed to become industries.
 
-Al Alcorn would later run an engineering division far from the bar in Burlingame. Pong would be a footnote in a museum case. The road would remember the pattern longer than it remembered the game.
+Al Alcorn had installed the prototype in Andy Capp's Tavern in Sunnyvale. Pong would be a footnote in a museum case. The road would remember the pattern longer than it remembered the game.
