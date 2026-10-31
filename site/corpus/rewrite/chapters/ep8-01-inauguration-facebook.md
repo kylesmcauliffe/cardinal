@@ -457,3 +457,11 @@ That is the same failure Herbert Hoover suffered in 1932, described in Act II
 chapter 8. The machinery was intact and the explanation had stopped working.
 
 The company changed its name in 2021 and continued.
+
+## A letter to a daughter
+
+December 1, 2015. Days after their daughter was born, Mark Zuckerberg and Priscilla Chan published a letter to her, and near its end a pledge: they would give 99 percent of their Facebook shares, then worth about $45 billion, during their lives "to advance human potential and promote equality." The vehicle was the Chan Zuckerberg Initiative, and it was not a foundation. It was a limited liability company that could fund nonprofits, make private investments and take part in policy debates. That same day the company told the Securities and Exchange Commission that Zuckerberg would control the voting and disposition of any shares the new entity held, and that he intended to keep his majority vote.
+<!-- Sources: SEC 8-K, https://www.sec.gov/Archives/edgar/data/1326801/000132680115000035/form8kdec2015.htm; TechCrunch Dec 1, 2015, https://techcrunch.com/2015/12/01/mark-zuckerberg-is-now-a-dad-pledges-to-give-away-99-of-his-shares/; Reuters via Yahoo Finance, https://finance.yahoo.com/news/mark-zuckerbergs-wife-gives-birth-213244991.html. Folded in from legacy chapter 5-05 on Oct 31, 2026. -->
+
+On November 11, 1885, another couple had turned the death of a child into a document and a fortune into a form: land that could not be sold, governed by trustees who appointed their own successors. The Founding Grant gave the money away and bound it to a purpose. The letter of 2015 bound the money to a purpose and kept it in the family's hands.
+<!-- Source: ep4-02-florence-vow.md -->
