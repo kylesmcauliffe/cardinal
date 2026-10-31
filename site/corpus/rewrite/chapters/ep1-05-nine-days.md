@@ -9,6 +9,7 @@ Hidalgo was signed on 2 February. For nine days the United States negotiated for
 California without knowing it had become the most valuable territory on the
 continent, and Mexico ceded it on the same terms.
 
+<!-- Legacy working summary and beat fragments from the old draft, hidden from the rendered chapter on Oct 30, 2026 and kept here for reference:
 The chapter's argument is that the treaty mattered and the fighting did not. The
 Bear Flag Revolt and the California campaign were small, confused, and largely
 decided elsewhere. What converted military occupation into something investable
@@ -57,6 +58,7 @@ river.
    acquisition.
 9. **Landing.** The legal framework is in place. The gold is already in the
    river. Hand off.
+-->
 The Treaty of Guadalupe Hidalgo was signed on 2 February 1848, transferring
 California to the United States for fifteen million dollars.
 

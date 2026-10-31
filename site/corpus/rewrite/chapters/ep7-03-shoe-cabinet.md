@@ -10,6 +10,7 @@ Phil Knight, a middle-distance runner from Oregon with an accounting degree, kne
 
 ---
 
+<!-- Legacy working summary and beat fragments from the old draft, hidden from the rendered chapter on Oct 30, 2026 and kept here for reference:
 Stanford entrepreneurship class in 1962, arguing that Japanese manufacturing could
 do to German athletic shoes what Japanese cameras had done to German cameras. The
 company that came out of that paper controls no factories. It controls the design,
@@ -99,6 +100,7 @@ doing it with an institute.
 
 **Note.** Do not put a page count on the Shallenberger paper. Sources conflict;
 see the research log.
+-->
 
 Does the mechanism work outside technology?
 

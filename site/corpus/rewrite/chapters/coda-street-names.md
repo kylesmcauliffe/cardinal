@@ -6,6 +6,7 @@ Walk with the narrator. No companion. Only the signs.
 
 ---
 
+<!-- Legacy working summary and beat fragments from the old draft, hidden from the rendered chapter on Oct 30, 2026 and kept here for reference:
 Different societies name their streets after different things, and the Peninsula
 names its after the people who owned it — mission founders, railroad families,
 university presidents, semiconductor executives, donors. The memorial is the
@@ -55,6 +56,7 @@ which is what subliminal means.
    guide, slotted into the layer each belongs to. Do not catalogue the campus.
    and what is not. Do this without comment; the list is the argument.
    nobody reads it, which is what subliminal means.
+-->
 
 What does a civilisation look like from its street signs?
 

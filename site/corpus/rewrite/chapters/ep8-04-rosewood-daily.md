@@ -10,6 +10,7 @@ Theo Baker was a freshman. The president of the university was Marc Tessier-Lavi
 
 ---
 
+<!-- Legacy working summary and beat fragments from the old draft, hidden from the rendered chapter on Oct 30, 2026 and kept here for reference:
 the Hoover Institution's political role became a campus fight; and admissions
 litigation reached the Supreme Court. None of it changed the machine. All of it
 changed whether the machine's outputs are taken on faith.
@@ -73,6 +74,7 @@ not. When trust erodes, the elite stops bothering to be subtle.
    more damning than the personal story.
    placement. Sourced. The machine is intact.
    Point at ch. 7: when trust erodes, the elite stops bothering to be subtle.
+-->
 
 What happens when the legitimacy engine loses credibility?
 
