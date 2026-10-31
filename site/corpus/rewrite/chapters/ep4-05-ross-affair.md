@@ -146,7 +146,7 @@ Hoover, gone by then, was underground in Australia. He would read accounts if th
 
 Labor halls that had cheered Ross still existed. Coolie labor's legacy still sat in endowment ledgers Jane defended. The firing did not erase the speech. It erased the speaker from Palo Alto.
 
-May 8, 1900, was the headline the benefactress could paste into a file. November 1900 was the resignation she wanted. November 14 was the silence Jordan demanded from historians who might comment. Three dates, one outcome: monopoly's university would not host monopoly's critic. He would join the board years later in circumstances cloudy enough to suggest the institution never stopped claiming its pioneers (Whyte 2017, ch. 6). <!-- bib: TODO Whyte -->
+May 8, 1900, was the headline the benefactress could paste into a file. November 1900 was the resignation she wanted. November 14 was the silence Jordan demanded from historians who might comment. Three dates, one outcome: monopoly's university would not host monopoly's critic. He would join the board years later in circumstances cloudy enough to suggest the institution never stopped claiming its pioneers (Whyte 2017, ch. 6). <!-- bib: whyte-hoover -->
 
 Academic freedom before 1915 was a phrase without an army. Ross had students and colleagues but not tenure. Jane had endowment and trustees. Jordan chose the side that paid his salary.
 

@@ -4,7 +4,7 @@
 
 **Menlo Park, California. September 1998.**
 
-Susan Wojcicki rented rooms in her house on Santa Margarita Avenue to make mortgage payments. She charged Google $1,700 a month to rent the garage and several rooms. (Levy 2011, ch. 1) <!-- bib: TODO -->
+Susan Wojcicki rented rooms in her house on Santa Margarita Avenue to make mortgage payments. She charged Google $1,700 a month to rent the garage and several rooms. (Levy 2011, ch. 1) <!-- bib: levy-in-the-plex -->
 
 The garage myth had a rent receipt.
 
@@ -14,7 +14,7 @@ Inside the house on Santa Margarita, servers stacked where a car should have bee
 
 ## Sand Hill again
 
-The venture meetings happened in the glass-walled buildings in Menlo Park's Sand Hill Road. (Levy 2011, ch. 2) <!-- bib: TODO -->
+The venture meetings happened in the glass-walled buildings in Menlo Park's Sand Hill Road. (Levy 2011, ch. 2) <!-- bib: levy-in-the-plex -->
 
 Kleiner Perkins and Sequoia Capital both invested in June 1999 — rival firms sharing a round, which Valley gossip treated as a sign that the deal was obvious. The money was not only money. It was board discipline, hiring introductions, and credibility with the next fund on the road. Tom Perkins's firm sat four minutes from the quad where the crawl had started. Don Valentine's firm had funded Apple and Cisco from the same oak-shaded parking lots. The gate recognized its own.
 

@@ -80,7 +80,7 @@ Pressure produced a change of corporate structure rather than a change of activi
 
 ## The deep cut in the same building
 
-Doug Engelbart's 1968 demonstration at SRI — the mouse, hypertext, windowed displays — is known as the Mother of All Demos (Fisher 2018, preface). Levine places the same institute's ARPA chemical-warfare contract work in Vietnam alongside funding for Engelbart's Augmentation Research Center: SRI was “doing ARPA contract work on chemical warfare in Vietnam” while Licklider's office funded augmentation (Levine 2018, ARPA chapter). <!-- bib: TODO levine-surveillance-valley -->
+Doug Engelbart's 1968 demonstration at SRI — the mouse, hypertext, windowed displays — is known as the Mother of All Demos (Fisher 2018, preface). Levine places the same institute's ARPA chemical-warfare contract work in Vietnam alongside funding for Engelbart's Augmentation Research Center: SRI was “doing ARPA contract work on chemical warfare in Vietnam” while Licklider's office funded augmentation (Levine 2018, ARPA chapter). <!-- bib: levine-surveillance-valley -->
 
 The Mother of All Demos and napalm research in the same institution is the irony the campus would soon try to name. The April Third Movement did not invent the contradiction. It printed the budget lines.
 

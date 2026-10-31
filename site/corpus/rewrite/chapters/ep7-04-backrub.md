@@ -4,7 +4,7 @@
 
 **Stanford, California. January 1997.**
 
-The Gates Computer Science building was quiet after hours, but the network was not. Larry Page had been crawling the web from Stanford's machines for months. He called the project BackRub. That's why Page called his system BackRub. (Levy 2011, ch. 1) <!-- bib: TODO -->
+The Gates Computer Science building was quiet after hours, but the network was not. Larry Page had been crawling the web from Stanford's machines for months. He called the project BackRub. That's why Page called his system BackRub. (Levy 2011, ch. 1) <!-- bib: levy-in-the-plex -->
 
 The name was literal. A search engine that ranked pages by who linked to them was measuring the web's back links — the citations of the open internet, the way footnotes work in a journal. Sergey Brin had joined the effort; together they were graduate students on federally supported research, turning a library problem into an engineering one.
 
@@ -20,9 +20,9 @@ Page had started from academic citations. Brin brought the statistical machinery
 
 ## Excite
 
-Vinod Khosla was on the board of Excite, the portal that had grown out of the same Stanford orbit a few years earlier. Khosla had co-founded Sun Microsystems and was now a partner at Kleiner Perkins on Sand Hill Road — the same corridor Eugene Kleiner had opened in 1972, a few minutes from the quad. (Berlin 2017, ch. 15) <!-- bib: TODO -->
+Vinod Khosla was on the board of Excite, the portal that had grown out of the same Stanford orbit a few years earlier. Khosla had co-founded Sun Microsystems and was now a partner at Kleiner Perkins on Sand Hill Road — the same corridor Eugene Kleiner had opened in 1972, a few minutes from the quad. (Berlin 2017, ch. 15) <!-- bib: berlin-troublemakers -->
 
-Page wanted to finish his doctorate. He also believed BackRub could make money immediately if someone with traffic would license it. In January 1997 he emailed Khosla a plan for Excite to buy the technology. "Excite's total outlay would be $1.6 million, including $300,000 to Stanford for the license." (Levy 2011, ch. 1) <!-- bib: TODO -->
+Page wanted to finish his doctorate. He also believed BackRub could make money immediately if someone with traffic would license it. In January 1997 he emailed Khosla a plan for Excite to buy the technology. "Excite's total outlay would be $1.6 million, including $300,000 to Stanford for the license." (Levy 2011, ch. 1) <!-- bib: levy-in-the-plex -->
 
 Stanford's cut sat inside the pitch like a line item on a grocery receipt. The university was not an afterthought. It was part of the price.
 
@@ -36,7 +36,7 @@ Khosla reportedly floated a lower cash figure — seven hundred fifty thousand d
 
 ## Reimers
 
-Niels Reimers was not in the room at Excite. He did not need to be. His office at Stanford's technology licensing shop had already learned the Cohen–Boyer lesson: federally funded science, filed early, licensed broadly, could return hundreds of millions to the university. (Berlin 2017, pt. 3) <!-- bib: TODO -->
+Niels Reimers was not in the room at Excite. He did not need to be. His office at Stanford's technology licensing shop had already learned the Cohen–Boyer lesson: federally funded science, filed early, licensed broadly, could return hundreds of millions to the university. (Berlin 2017, pt. 3) <!-- bib: berlin-troublemakers -->
 
 When Reimers filed on recombinant DNA, critics inside Stanford said the application risked undermining the university's fundamental mission. The same tension applied to PageRank. A public institution was about to patent the map of the public web, developed on its machines with public grants, and lease it back to its own students.
 

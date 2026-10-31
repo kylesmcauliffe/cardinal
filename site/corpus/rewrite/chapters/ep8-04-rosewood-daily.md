@@ -4,7 +4,7 @@
 
 **Stanford, California. November 2022.**
 
-"I called Sam, the Daily editor. 'Holy shit,' he said. 'We need to get going.'" (Baker 2026, ch. 4, p. 94) <!-- bib: TODO -->
+"I called Sam, the Daily editor. 'Holy shit,' he said. 'We need to get going.'" (Baker 2026, ch. 4, p. 94) <!-- bib: baker-how-to-rule -->
 
 Theo Baker was a freshman. The president of the university was Marc Tessier-Lavigne.
 
@@ -219,7 +219,7 @@ it was being exercised openly.
 
 **Menlo Park, California.**
 
-The Rosewood Sand Hill bills itself as "the modern clubhouse for Silicon Valley… directly on Sand Hill Road… on land owned by Stanford." (Baker 2026, ch. 6, p. 120) <!-- bib: TODO -->
+The Rosewood Sand Hill bills itself as "the modern clubhouse for Silicon Valley… directly on Sand Hill Road… on land owned by Stanford." (Baker 2026, ch. 6, p. 120) <!-- bib: baker-how-to-rule -->
 
 Seventy years after Kleiner and Perkins signed the first lease, the university was still collecting rent on the view. Deal makers ate lunch where venture partners had learned to say no. The land bank outlasted every company on the cap table.
 

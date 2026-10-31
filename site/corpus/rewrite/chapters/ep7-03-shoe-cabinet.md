@@ -355,13 +355,13 @@ happens when the people it benefits acquire the government.
 
 ## Bechtel
 
-Caspar Weinberger became Secretary of Defense in 1981. George Shultz became Secretary of State in 1982. Both men had been executives at Bechtel, the San Francisco engineering firm that had grown on public-works contracts the way the railroad had grown on land grants. Shultz — "the outsider and former academic" — had become president of Bechtel a year after joining the company. (McCartney 1988, ch. 14) <!-- bib: TODO -->
+Caspar Weinberger became Secretary of Defense in 1981. George Shultz became Secretary of State in 1982. Both men had been executives at Bechtel, the San Francisco engineering firm that had grown on public-works contracts the way the railroad had grown on land grants. Shultz — "the outsider and former academic" — had become president of Bechtel a year after joining the company. (McCartney 1988, ch. 14) <!-- bib: mccartney-friends-high-places -->
 
-Shultz told his 1982 nomination hearing that "Private interests have no business with nuclear weapons." (Denton 2016, ch. 35) <!-- bib: TODO -->
+Shultz told his 1982 nomination hearing that "Private interests have no business with nuclear weapons." (Denton 2016, ch. 35) <!-- bib: denton-profiteers -->
 
 Bechtel had business with nuclear weapons. The line is worth holding in mind.
 
-The firm's social world included the Bohemian Grove, the private campground in Monte Rio where California's corporate and political leadership met each summer. Nixon's Watergate tapes record him calling the Grove "the most faggy goddamned thing you could ever imagine," in a passage that also describes Bechtel courting Shultz there (Denton 2016, ch. 12). <!-- bib: TODO -->
+The firm's social world included the Bohemian Grove, the private campground in Monte Rio where California's corporate and political leadership met each summer. Nixon's Watergate tapes record him calling the Grove "the most faggy goddamned thing you could ever imagine," in a passage that also describes Bechtel courting Shultz there (Denton 2016, ch. 12). <!-- bib: denton-profiteers -->
 
 One detail, sourced once, is enough. The point is not the campground. The point is that the cabinet and the contractor drank from the same cup.
 
