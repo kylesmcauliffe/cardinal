@@ -4,13 +4,13 @@
 
 **Menlo Park, California. 1972.**
 
-The fog was still on the foothills when Eugene Kleiner and Tom Perkins signed the lease. The address was 3000 Sand Hill Road — low buildings, parking lots, oak trees, a view of the coastal range, and nothing that announced what the place would become (Berlin 2017, ch. 15). <!-- bib: TODO -->
+The fog was still on the foothills when Eugene Kleiner and Tom Perkins signed the lease. The address was 3000 Sand Hill Road — low buildings, parking lots, oak trees, a view of the coastal range, and nothing that announced what the place would become (Berlin 2017, ch. 15). <!-- bib: berlin-troublemakers -->
 
 Sand Hill Road runs west from the freeway at Menlo Park, past the Stanford campus edge, and up into the hills. There is nothing to look at.
 
 A very large share of the world's consequential technology funding over the last fifty years has passed through those buildings. <!-- kyle: ch/4-05 -->
 
-Nobody in the office that morning knew they were founding a toll gate. They knew they were opening a partnership. Kleiner had been one of the eight who walked out on William Shockley in 1957; Perkins had run Hewlett-Packard's computer division. They were operators from the semiconductor industry who had moved into finance, which meant they could evaluate technical claims and knew personally most of the people worth funding (Berlin 2017, ch. 15). <!-- bib: TODO -->
+Nobody in the office that morning knew they were founding a toll gate. They knew they were opening a partnership. Kleiner had been one of the eight who walked out on William Shockley in 1957; Perkins had run Hewlett-Packard's computer division. They were operators from the semiconductor industry who had moved into finance, which meant they could evaluate technical claims and knew personally most of the people worth funding (Berlin 2017, ch. 15). <!-- bib: berlin-troublemakers -->
 
 The capital and the industry were the same social network. They had been colleagues.
 
@@ -66,7 +66,7 @@ The Southern Pacific decided which towns in the Central Valley would exist by de
 
 Bob Swanson was twenty-nine years old when Kleiner Perkins let him go.
 
-He had been a partner at the firm for less than a year. He was intense, impatient, and convinced that recombinant DNA — the technique Stanley Cohen at Stanford and Herbert Boyer at UCSF had published — could be turned into products if someone would finance the attempt (Berlin 2017, ch. 15). <!-- bib: TODO -->
+He had been a partner at the firm for less than a year. He was intense, impatient, and convinced that recombinant DNA — the technique Stanley Cohen at Stanford and Herbert Boyer at UCSF had published — could be turned into products if someone would finance the attempt (Berlin 2017, ch. 15). <!-- bib: berlin-troublemakers -->
 
 Swanson called Boyer. In 1976 they incorporated Genentech in South San Francisco, on the other side of the hills from the road where Swanson had just lost his job.
 

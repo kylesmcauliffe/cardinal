@@ -80,7 +80,7 @@ Within a year the San Andreas Fault would test the campus physically. Buildings 
 
 On the far side of the Pacific, a pioneer student from the class of 1891 was no longer sleeping in unfinished campus housing. Herbert Hoover, born 1874, had taken his geology training into mines in Western Australia and China (Harris 2023, ch. 2.3). By 1905 he was a young mining engineer accumulating the fortune that would later fund relief commissions, cabinet departments, a tower on the quad, and a library of war documents.
 
-By 1901 he was a partner in Bewick, Moreing; by 1908 he was running his own firm (repo ch 3-01). He was not on the board yet—that cloudy appointment would come in 1912 (Whyte 2017, ch. 6). <!-- bib: TODO Whyte --> He was proof of what the opening day had promised: the university could produce a man who moved ore and capital on four continents while the founders' names moved into stone.
+By 1901 he was a partner in Bewick, Moreing; by 1908 he was running his own firm (repo ch 3-01). He was not on the board yet—that cloudy appointment would come in 1912 (Whyte 2017, ch. 6). <!-- bib: whyte-hoover --> He was proof of what the opening day had promised: the university could produce a man who moved ore and capital on four continents while the founders' names moved into stone.
 
 The orphans California claimed as children had grown into engineers the world could use. One of them was rich before he was famous, and the farm that had photographed a horse in mid-air had credentialed him.
 
@@ -136,7 +136,7 @@ The mausoleum scene—choir, hymn, steel chest—was choreography for permanence
 
 Hoover in a mine shaft had no hymn. He had ore and profit. The pioneer class had scattered across extraction sites and offices while founders entered stone.
 
-Episode 5 will follow him to Western Australia, where air in a mine would be called notably bad and where engineering would meet empire (Whyte 2017, ch. 5). <!-- bib: TODO Whyte --> Episode 4 ends with founders entombed and institutions unburied.
+Episode 5 will follow him to Western Australia, where air in a mine would be called notably bad and where engineering would meet empire (Whyte 2017, ch. 5). <!-- bib: whyte-hoover --> Episode 4 ends with founders entombed and institutions unburied.
 
 Bertha Berner survived to tell what she heard at the Moana. Jordan survived to shape the story on the mainland. Trustees survived to appoint each other. The founders did not survive, but the grant they signed did.
 
