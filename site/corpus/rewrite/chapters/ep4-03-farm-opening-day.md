@@ -8,7 +8,7 @@ The number 555 appears in institutional histories as a round symbol of pioneer s
 
 The Southern Pacific still ran trains past fields that had once been only Stanford's. Commuters and freight moved on schedules the founder had helped set. Opening day did not retire the railroad. It layered a school atop it.
 
-Among them was Herbert Hoover, seventeen years old, born in Iowa in 1874, raised in Oregon after his parents died, admitted to the pioneer class without a high school diploma (Harris 2023, ch. 2.3). He had come to study geology under John Casper Branner. He would later remember the day as the beginning of a life the university would adopt in ways he could not yet imagine—professors paying medical bills when typhoid struck, a geology lab where he would meet Lou Henry, a board seat in circumstances cloudy enough to raise questions decades later (Harris 2023, ch. 2.3; Whyte 2017, ch. 6). <!-- bib: TODO Whyte Hoover -->
+Among them was Herbert Hoover, seventeen years old, born in Iowa in 1874, raised in Oregon after his parents died, admitted to the pioneer class without a high school diploma (Harris 2023, ch. 2.3). He had come to study geology under John Casper Branner. He would later remember the day as the beginning of a life the university would adopt in ways he could not yet imagine—professors paying medical bills when typhoid struck, a geology lab where he would meet Lou Henry, a board seat in circumstances cloudy enough to raise questions decades later (Harris 2023, ch. 2.3; Whyte 2017, ch. 6). <!-- bib: whyte-hoover -->
 
 Hoover had arrived in the summer of 1891, before the university opened, among the first students resident on the campus—admitted conditionally after failing every entrance subject except mathematics, working his way through with a laundry agency and a lecture bureau (repo ch 3-01; Harris 2023, ch. 2.3).
 
@@ -126,7 +126,7 @@ Two years and eight months later the founder would not wake up. The orphan on th
 
 Branner's geology program was why Hoover came. Field trips to foothills taught ore and fault lines. Laboratories taught measurement. The orphan who managed baseball schedules also managed hunger—working jobs between classes because free tuition was not free living.
 
-Lou Henry would meet him in Branner's orbit, though their romance belongs to years after opening day (Whyte 2017, ch. 2). <!-- bib: TODO Whyte --> On October 1, 1891, he was one face in 555, unknown to history except as pioneer.
+Lou Henry would meet him in Branner's orbit, though their romance belongs to years after opening day (Whyte 2017, ch. 2). <!-- bib: whyte-hoover --> On October 1, 1891, he was one face in 555, unknown to history except as pioneer.
 
 The campus he entered would outlast every founder. He would outlast many classmates. The farm's red tile would still be there when he returned with mining millions and political ambition.
 
