@@ -164,7 +164,10 @@ extensive and remains unresolved, and intent is not knowable from a video. The
 project's rule for contested material is to state what is documented, name the
 disagreement, and build nothing on it, and that rule is applied here.
 
-filing is a fact. A seating chart is a fact. An advisory role established by
+<!-- Orphaned words hidden from the rendered chapter on Oct 31, 2026 and kept here for reference:
+filing is a fact.
+-->
+A seating chart is a fact. An advisory role established by
 executive action is a fact. The gesture is a controversy, and controversies age
 badly while filings do not.
 
@@ -346,13 +349,16 @@ Throughout its expansion the company described itself as a technology company
 and a neutral platform rather than a media company, and this was not merely
 rhetoric. It was load-bearing.
 
-Section 230, from Act III chapter 14, provides that a service is not treated as
+Section 230, the 1996 provision quoted in the PayPal chapter, provides that a service is not treated as
 the publisher of content supplied by its users. That protection is what made the
 business possible at scale. But the same platform was continuously making
 editorial decisions — ranking the feed, promoting some material and demoting
 other material, and removing content under policies it wrote itself.
 
-description. A system that decides what a billion people see when they open an
+<!-- Orphaned words hidden from the rendered chapter on Oct 31, 2026 and kept here for reference:
+description.
+-->
+A system that decides what a billion people see when they open an
 application is exercising editorial judgment, whatever the statute calls it. The
 company's own engineers understood this; the ranking algorithm was the product.
 

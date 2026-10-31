@@ -48,7 +48,10 @@ Winkler's chronology notes that Davis included a headnote saying the Supreme Cou
 
 ### The octopus, named later
 
-<!-- kyle: ch/2-10 --> By the 1880s the Central Pacific and its affiliate the Southern Pacific controlled substantially all the rail traffic in California, along with much of the coastal shipping and the ferry connections that might have offered an alternative.
+<!-- kyle: ch/2-10 -->
+<!-- Duplicate of the passage kept in ep3-01-mussel-slough.md, hidden from the rendered chapter on Oct 31, 2026 and kept here for reference:
+By the 1880s the Central Pacific and its affiliate the Southern Pacific controlled substantially all the rail traffic in California, along with much of the coastal shipping and the ferry connections that might have offered an alternative.
+-->
 
 Norris would publish *The Octopus* after this decade closed. The name stuck because the grip was already familiar: rates, land, ferries, attorneys, commissions captured, Congress lobbied, settlers prosecuted, workers excluded, fences taxed, headnotes cited. The boy in Florence did not need the metaphor. He needed air.
 

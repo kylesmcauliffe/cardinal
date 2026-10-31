@@ -72,7 +72,9 @@ That prohibition, treated for decades as a nuisance, would outlast every buildin
 
 ## San Francisco burns
 
+<!-- Duplicate of the passage kept earlier in this chapter, hidden from the rendered chapter on Oct 31, 2026 and kept here for reference:
 San Francisco's fire destroyed the commercial centre of the West Coast and displaced a quarter of a million people. Tent camps appeared in Golden Gate Park. Refugees moved down the Peninsula on the same railroad right-of-way Leland Stanford had helped build.
+-->
 
 The university's response was not to ask whether the project remained viable. It was to rebuild and reopen. Jordan wrote donors, reassured parents, and kept enrolment growing. The institution behaved as if the founders' deaths and the city's ruin were weather events — terrible, expensive, and not decisive.
 

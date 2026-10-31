@@ -35,6 +35,7 @@ The expedition left the valley. The diary remained.
 
 ## North from San Diego
 
+<!-- Duplicate of the passage kept in ep1-02-baptismal-register.md, hidden from the rendered chapter on Oct 31, 2026 and kept here for reference:
 ## A system, not a settlement
 
 Spain came north from Baja California in 1769 and did not send settlers, because
@@ -160,6 +161,7 @@ Ohlone, use them to establish lineage, which means a set of documents created to
 convert people into an administrable population is now used by their descendants
 to demonstrate that they were there. The instrument has outlived its purpose and
 been turned around.
+-->
 
 
 
@@ -178,6 +180,7 @@ sold in 1841 to John Sutter — the same Sutter on whose land the gold would be
 found seven years later, which is the kind of connection this book will keep
 encountering and should not overstate.
 
+<!-- Duplicate of the passage kept in ep1-03-paper-state.md, hidden from the rendered chapter on Oct 31, 2026 and kept here for reference:
 The British were a more serious prospect. The Hudson's Bay Company operated in
 the Pacific Northwest and maintained an agent in San Francisco from the early
 1840s, and British naval interest in California was real enough that American
@@ -211,3 +214,4 @@ years using a garrison, a chain of missions, and a filing system, and has
 developed essentially none of it. That was not a failure of the strategy. It was
 the strategy, and the claim it established is what Mexico inherits, and what the
 United States eventually takes.
+-->

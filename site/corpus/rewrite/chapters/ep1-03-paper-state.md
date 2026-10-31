@@ -228,6 +228,7 @@ description rather than an accusation. Nothing else was on offer. A government
 that cannot enforce will be replaced by whoever can, and the people who can are
 the people with land, cattle, and armed retainers.
 
+<!-- Duplicate of the passage kept in ep1-04-rancho.md, hidden from the rendered chapter on Oct 31, 2026 and kept here for reference:
 ## The merchants
 
 The other significant development of the period is the arrival of foreigners,
@@ -317,3 +318,4 @@ that the principal instrument of government is the gift of land.
 
 That is a stacked deck waiting for a dealer, and the largest transfer of
 property in California's history is about to run straight through it.
+-->

@@ -82,7 +82,9 @@ The boy who would run Harvard's radar laboratory in the next war was eleven year
 
 ## What was done, and to whom
 
+<!-- Duplicate of the passage kept earlier in this chapter, hidden from the rendered chapter on Oct 31, 2026 and kept here for reference:
 The 1909 law was amended and broadened in 1913 and again in 1917. The operations were performed at state hospitals including Sonoma and Patton. The people subjected to them were overwhelmingly poor, disproportionately Mexican and Black, institutionalised and unable to consent.
+-->
 
 Individual cases survive in institutional files — names reduced to case numbers, diagnoses written in the language of the era, signatures of superintendents who believed they were performing public health. The chapter owes them presence as people, within what the record preserves, because the argument about heredity was not abstract. It authorized knives.
 

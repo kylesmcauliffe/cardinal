@@ -80,7 +80,9 @@ Route 128 around Boston had comparable talent, comparable universities, and comp
 
 ## The military customer, again
 
+<!-- Duplicate of the passage kept earlier in this chapter, hidden from the rendered chapter on Oct 31, 2026 and kept here for reference:
 Integrated circuits were expensive and their first large customers were programmes for which cost mattered less than weight and reliability: the Minuteman missile guidance system and the Apollo Guidance Computer. Federal purchasing in the early 1960s absorbed the great majority of American integrated circuit production and, by guaranteeing volume, drove the price down the learning curve to the point where commercial applications became viable.
+-->
 
 The consumer semiconductor industry exists because the Defense Department and NASA bought the first several years of output at whatever it cost. That does not appear in any account of the industry that begins with a garage.
 
@@ -136,7 +138,9 @@ September 1957 is a date like April 1969: a coalition forms and a name attaches.
 
 Arthur Rock traveled to California after the Hayden, Stone letter, met the eight engineers, and concluded they should start a company rather than join an existing employer (`books/cardinal/ch/4-02-shockley-and-the-eight.qmd`). He approached roughly thirty established firms; almost all declined. Fairchild Camera and Instrument agreed, with an option to buy the venture if it succeeded. Fairchild Semiconductor incorporated in Mountain View in October 1957 — same town, same talent pool, different cap table, different building.
 
+<!-- Duplicate of the passage kept earlier in this chapter, hidden from the rendered chapter on Oct 31, 2026 and kept here for reference:
 Shockley called them traitors. Harris records the phrase “the traitorous eight” (Harris 2023, ch. 3.2). The label was meant as punishment. It became an origin myth with a villain's own nickname attached.
+-->
 
 The eight won by leaving. California law made leaving legal. Rock made leaving fundable. Stanford had trained them and was already leasing land to the suppliers and tenants who would buy their chips. Shockley kept the Nobel and lost the staff. The county's story would prefer garages. The payroll would prefer missiles. Both were true on the same map.
 

@@ -73,7 +73,9 @@ The workforce for all this had to live somewhere, and where it could live had be
 
 Palo Alto, Menlo Park, Atherton, and the surrounding towns operated restrictive covenants of the kind described in the previous episodes, and the federal underwriting maps graded the area accordingly. The covenants became judicially unenforceable in 1948 but remained in deeds and continued to be honoured informally, and the practices of local real estate boards and lenders sustained the pattern for decades afterwards.
 
+<!-- Duplicate of the passage kept in ep6-05-east-palo-alto.md, hidden from the rendered chapter on Oct 31, 2026 and kept here for reference:
 East Palo Alto, immediately across the freeway from the university and the park, became substantially Black in the same decades, with a very different tax base, different schools, and no access to the housing appreciation happening a mile away (Harris 2023, ch. 3.1).
+-->
 
 The industrial park's labour force was filtered by residence before it was filtered by hiring. The boundary is still visible from the road.
 

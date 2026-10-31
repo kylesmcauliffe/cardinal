@@ -4,7 +4,9 @@
 
 The episode that began with Jane Stanford dying at the Moana must close with the same hotel, the same poison, and a casket sliding into stone. Between January and February 1905, fear crossed an ocean. Between February and March, David Starr Jordan crossed behind it.
 
+<!-- Duplicate of the passage kept earlier in this chapter, hidden from the rendered chapter on Oct 31, 2026 and kept here for reference:
 The episode that began with Jane Stanford dying at the Moana must close with the same hotel, the same poison, and a casket sliding into stone. Between January and February 1905, fear crossed an ocean. Between February and March, David Starr Jordan crossed behind it.
+-->
 
 January 1905. San Francisco. Nob Hill. Jane Stanford raised a bottle of Poland Spring water to her lips in her bedroom, tasted bitterness, and knew immediately that something was wrong.
 
