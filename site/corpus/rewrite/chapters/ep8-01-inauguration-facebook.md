@@ -22,6 +22,7 @@ A moderation guideline is a sentence written by an employee that determines what
 
 ---
 
+<!-- Legacy working summary and beat fragments from the old draft, hidden from the rendered chapter on Oct 30, 2026 and kept here for reference:
 On 20 January 2025 the founders of several of the largest technology companies
 in the world were seated at the presidential inauguration in positions closer to
 the president than much of his incoming cabinet. The chapter begins with the
@@ -73,6 +74,7 @@ million dollars and a vote.
    events written as fact. They are removed; see cut-material.md. Do not
    reintroduce.
    the discretion has been withdrawn.
+-->
 
 When does subliminal become explicit?
 
@@ -219,6 +221,7 @@ toward the Chinese while the railroad's owners watched from Nob Hill. The
 mechanism has not changed. What has changed is that the men on the hill no
 longer find it necessary to stay up there.
 
+<!-- Legacy working summary and beat fragments from the old draft, hidden from the rendered chapter on Oct 30, 2026 and kept here for reference:
 for what it does?
 
 communications infrastructure of much of the world while insisting it was a
@@ -297,6 +300,7 @@ indefinitely, and the next company does not try.
    not law. Compare to Hoover in 1932.
    to ch. 4: the next company builds for the state deliberately, and never
    claims neutrality at all.
+-->
 
 When a platform becomes infrastructure, who is responsible for what it does?
 

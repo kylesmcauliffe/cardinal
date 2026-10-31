@@ -10,6 +10,7 @@ By 2003 those grievances had a company attached. Thiel named it Palantir after t
 
 ---
 
+<!-- Legacy working summary and beat fragments from the old draft, hidden from the rendered chapter on Oct 30, 2026 and kept here for reference:
 government capacity?
 
 meaningful. Palantir was founded in Palo Alto in 2003 to build analytical
@@ -83,6 +84,7 @@ The excluded are the people the software is used to find.
    perception of a problem is mediated by a vendor's model, the vendor holds a
    governmental function. Point back to Act II ch. 11.
    nobody pretends the university is disinterested.
+-->
 
 What happens when surveillance software sits inside government capacity?
 

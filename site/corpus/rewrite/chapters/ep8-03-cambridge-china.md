@@ -10,6 +10,7 @@ The Federal Trade Commission's July 2019 administrative complaint against Cambri
 
 ---
 
+<!-- Legacy working summary and beat fragments from the old draft, hidden from the rendered chapter on Oct 30, 2026 and kept here for reference:
 for what it does?
 
 communications infrastructure of much of the world while insisting it was a
@@ -88,6 +89,7 @@ indefinitely, and the next company does not try.
    not law. Compare to Hoover in 1932.
    to ch. 4: the next company builds for the state deliberately, and never
    claims neutrality at all.
+-->
 
 When a platform becomes infrastructure, who is responsible for what it does?
 
@@ -245,6 +247,7 @@ chapter 8. The machinery was intact and the explanation had stopped working.
 
 The company changed its name in 2021 and continued.
 
+<!-- Legacy working summary and beat fragments from the old draft, hidden from the rendered chapter on Oct 30, 2026 and kept here for reference:
 supply chain and distrust each other?
 
 technology economy runs on Pacific manufacturing and Pacific capital; China's
@@ -323,6 +326,7 @@ structure.
    workers; researchers under suspicion. Name the scapegoat pattern and point
    back to Act I ch. 11.
    funds both sides of the corridor this book has been following since 1862.
+-->
 
 What happens when the world's two largest economies share a supply chain and distrust each other?
 
