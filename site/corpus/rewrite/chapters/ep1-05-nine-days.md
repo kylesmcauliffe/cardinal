@@ -273,6 +273,7 @@ statement about position.
 
 ## The scale of the shock
 
+<!-- Duplicate of the passage kept in ep2-02-the-store.md, hidden from the rendered chapter on Oct 31, 2026 and kept here for reference:
 San Francisco had somewhere under a thousand residents at the beginning of 1848.
 Within two years it had more than twenty-five thousand, and California's non-
 Indigenous population went from a few thousand to well over two hundred thousand
@@ -373,3 +374,4 @@ at the underlying activity, and do not exhaust when the placers do.
 Twelve years later, four Sacramento merchants who had made ordinary money
 selling supplies to miners applied the same insight to a railroad, and the
 federal government paid for it.
+-->

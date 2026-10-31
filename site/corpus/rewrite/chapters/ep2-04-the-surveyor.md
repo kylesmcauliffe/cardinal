@@ -53,6 +53,7 @@ National Park Service's own history of the line puts it, senators and
 representatives had little trouble settling on an acceptable bill once the
 opposition was gone.
 
+<!-- Duplicate of the passage kept earlier in this chapter, hidden from the rendered chapter on Oct 31, 2026 and kept here for reference:
 Theodore Judah spent the winter of 1861 and 1862 in Washington lobbying for it.
 Judah was the engineer who had surveyed a practicable line over the Sierra
 Nevada, and who had persuaded four Sacramento merchants to incorporate the
@@ -67,6 +68,7 @@ was not assured.
 
 The bill moved through Congress in May and June of 1862. Lincoln signed it on 1
 July.
+-->
 
 
 
@@ -153,6 +155,7 @@ why the twelve volumes of survey data changed nothing. A survey can establish
 grades and rainfall. It cannot resolve a distributive question, because the
 parties to a distributive question are not disagreeing about facts.
 
+<!-- Duplicate of the passage kept earlier in this chapter, hidden from the rendered chapter on Oct 31, 2026 and kept here for reference:
 ## The chairs empty
 
 Then, in the winter of 1860 and 1861, the southern members left.
@@ -178,6 +181,7 @@ was not assured.
 
 The bill moved through Congress in May and June of 1862. Lincoln signed it on 1
 July.
+-->
 
 
 

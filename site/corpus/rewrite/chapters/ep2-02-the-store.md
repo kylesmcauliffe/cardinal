@@ -118,6 +118,7 @@ They were, in other words, the shovel-sellers of chapter 6 operating at a
 different scale, and they understood the same thing Brannan had understood: the
 money is in the position, not the commodity.
 
+<!-- Duplicate of the passage kept in ep2-04-the-surveyor.md, hidden from the rendered chapter on Oct 31, 2026 and kept here for reference:
 Theodore Judah brought them the project, incorporated the Central Pacific with
 them in 1861, secured the legislation described in the previous chapter, and
 then fell out with them over how the company would be financed and controlled.
@@ -215,6 +216,7 @@ Union Pacific. It has never been beaten.
 
 Thirteen years later the United States passed a law barring Chinese labourers
 from entering the country. The next chapters describe how.
+-->
 
 ## What the monopoly then did
 
@@ -239,6 +241,7 @@ broken up.
 
 <!-- kyle: ch/2-09-railroads-first-monopoly -->
 
+<!-- Duplicate of the passage kept earlier in this chapter, hidden from the rendered chapter on Oct 31, 2026 and kept here for reference:
 ## Four merchants
 
 Leland Stanford sold groceries. Collis Huntington and Mark Hopkins ran a
@@ -249,7 +252,9 @@ economy, and none of them was an engineer.
 They were, in other words, the shovel-sellers of chapter 6 operating at a
 different scale, and they understood the same thing Brannan had understood: the
 money is in the position, not the commodity.
+-->
 
+<!-- Duplicate of the passage kept in ep2-04-the-surveyor.md, hidden from the rendered chapter on Oct 31, 2026 and kept here for reference:
 Theodore Judah brought them the project, incorporated the Central Pacific with
 them in 1861, secured the legislation described in the previous chapter, and
 then fell out with them over how the company would be financed and controlled.
@@ -293,4 +298,5 @@ congressional investigation could examine them.
 Keep this manoeuvre in mind. Later, a university under pressure over its
 military research will divest the research institute to itself, and the
 structure of the transaction will be recognisable.
+-->
 

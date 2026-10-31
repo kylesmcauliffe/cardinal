@@ -86,11 +86,13 @@ In 1933 Frederick Terman was on campus, teaching engineering, watching federal m
 
 Hoover left the White House. Terman had not yet arrived at Harvard. The valley was still orchards and a few defense suppliers. The name on the shantytowns and the name on the tower would both read Hoover, and they would mean opposite things to the country and to the campus.
 
+<!-- Duplicate of the passage kept earlier in this chapter, hidden from the rendered chapter on Oct 31, 2026 and kept here for reference:
 ## Roosevelt as interpretation
 
 Franklin Roosevelt's advantage in 1932 was not a superior programme. Much of the early New Deal was improvised, some of it contradicted the rest, and a good deal of it was continuous with what Hoover had already begun.
 
 His advantage was that he supplied an interpretation. He told the country that the system could be fixed from the top by someone who cared, and he acted as if that were true even when the programmes were experimental. Hoover had acted as if competence were sufficient. The electorate chose the story.
+-->
 
 ## California's exposure
 

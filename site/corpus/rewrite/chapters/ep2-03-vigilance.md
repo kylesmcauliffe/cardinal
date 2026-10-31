@@ -254,6 +254,7 @@ sandbags.
 
 
 
+<!-- Duplicate of the passage kept earlier in this chapter, hidden from the rendered chapter on Oct 31, 2026 and kept here for reference:
 ## The precedent, and the target
 
 This was the second time the city's merchants had done it. The first Committee of
@@ -288,6 +289,7 @@ prominent careers, and the episode entered San Francisco's account of itself as
 a moment when decent men restored order.
 
 Private organisation substituted for public authority, and was honoured for it.
+-->
 
 That is the premise this book will need repeatedly. It is the premise underlying
 the Hoover Commission for Relief in Belgium in a later episode, which fed a country
@@ -300,6 +302,7 @@ California decided in 1856 that competent private governance was preferable to
 incompetent public governance, and it has never seriously revisited the
 question.
 
+<!-- Duplicate of the passage kept earlier in this chapter, hidden from the rendered chapter on Oct 31, 2026 and kept here for reference:
 ## The water and the land
 
 Two other decisions of these years determined more about California's future
@@ -350,3 +353,4 @@ were in court defending titles the treaty had promised to protect.
 The Committee of Vigilance is remembered as a story about order. It was a story
 about who counted, and the answer was decided by the people who had the
 sandbags.
+-->
