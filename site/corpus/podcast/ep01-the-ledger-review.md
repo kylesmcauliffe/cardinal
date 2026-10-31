@@ -108,7 +108,7 @@ Status: KEEP = in the audio. CUT = removed. HEDGE = in the audio with the limit 
 | Campus 8,353 acres | facts.stanford.edu | KEEP |
 | Peña grant 1841, 8,418 acres; sold to the Robles brothers 1847 | Draft land-case lead | KEEP |
 | Cinnabar shown to Robles, 1824; New Almaden by 1845 | Draft; standard mining history | KEEP; share not quantified |
-| Soto grant is the Rinconada, ~2,229 acres, downtown Palo Alto, tree at the corner; campus is Buelna plus Peña | Draft correction, land-case literature | KEEP |
+| Rinconada granted in 1841 to María Antonia Mesa, ~2,229 acres, downtown Palo Alto, tree at the corner; campus is Buelna plus Peña | Bancroft Land Case 129 ND | KEEP |
 | Bear Flag June 14–July 9, 1846; Revere raised the U.S. flag | Outline WEB check; CA State Parks | KEEP |
 | Bidwell "pretense" / "Texas game"; Frisbie on the bay; Grant on the war | Brechin library text | KEEP |
 | Marshall, Jan. 24, 1848; Sutter's 11 leagues; Royce says the details are tangled | Royce library text; date is the standard one, words in Marshall's mouth not quoted | HEDGE |
@@ -137,3 +137,7 @@ Cold open stays a scene (ridge, feast day, tree, then the legend gap). San Carlo
 - Screenshot of *The Californian*, March 15, 1848.
 - Whether Portola Drive was officially named for the explorer, beyond the shared name.
 - MeasuringWorth share-of-GDP for the Astor estate and the treaty payment.
+
+## Decided
+
+Bancroft Land Case 129 ND: Governor Alvarado granted the Rinconada del Arroyo de San Francisquito on February 16, 1841, to María Antonia Mesa, Rafael Soto's widow. Rafael had settled there around 1835 and died in 1839. The script names Mesa as grantee and dates the grant in 1841, as it dates the other grants. Buelna's Rancho San Francisquito, Peña's Rincón de San Francisquito, and the Soto Rinconada stay distinct. The Seale lawyer story stays off the air. "Roughly, downtown Palo Alto" is unchanged. Narrated words after that line: **8,806**, about **58.7 minutes**.
