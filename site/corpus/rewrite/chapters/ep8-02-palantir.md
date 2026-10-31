@@ -4,9 +4,9 @@
 
 **Palo Alto, California. 2003.**
 
-Peter Thiel poured his grievances into the *Stanford Review*, the conservative paper he founded that spring at Stanford (Chafkin 2021, ch. 2, p. 24). <!-- bib: TODO -->
+Peter Thiel poured his grievances into the *Stanford Review*, the conservative paper he founded that spring at Stanford (Chafkin 2021, ch. 2, p. 24). <!-- bib: chafkin-contrarian -->
 
-By 2003 those grievances had a company attached. Thiel named it Palantir after the mythical Elvish "seeing stone." (Chafkin 2021, ch. 8, p. 113) <!-- bib: TODO -->
+By 2003 those grievances had a company attached. Thiel named it Palantir after the mythical Elvish "seeing stone." (Chafkin 2021, ch. 8, p. 113) <!-- bib: chafkin-contrarian -->
 
 ---
 

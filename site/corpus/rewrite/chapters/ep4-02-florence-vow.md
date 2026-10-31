@@ -64,11 +64,11 @@ The university was a railroad asset with a curriculum. The grief that named it w
 
 ### The president they chose
 
-The institution needed a head before it could open. In 1890 the Stanfords travelled to Bloomington, Indiana, to recruit David Starr Jordan, an ichthyologist already among the most prominent scientists in the country (Miller 2016, ch. 4). <!-- bib: TODO Miller Why Fish Don't Exist -->
+The institution needed a head before it could open. In 1890 the Stanfords travelled to Bloomington, Indiana, to recruit David Starr Jordan, an ichthyologist already among the most prominent scientists in the country (Miller 2020, ch. 4). <!-- bib: miller-why-fish -->
 
 Jordan was thirty-nine years old. He would become Stanford's first president and remain for more than two decades. He was also, by the turn of the century, one of America's most prominent advocates of eugenics—chairman of committees, author of works arguing that human quality was hereditary and that policy should act on the fact. That story belongs to a later episode. What matters here is the sequence: the institution built to shape California's elite selected as its first leader a man whose scientific reputation included ranking which people should reproduce.
 
-Jane Stanford would soon become, in Miller's phrase, "the only mark on David's dream life" (Miller 2016, ch. 4). The widow and the president would disagree repeatedly about money, about faculty, and about who controlled the machine they were building.
+Jane Stanford would soon become, in Miller's phrase, "the only mark on David's dream life" (Miller 2020, ch. 4). The widow and the president would disagree repeatedly about money, about faculty, and about who controlled the machine they were building.
 
 ### Between grant and opening
 

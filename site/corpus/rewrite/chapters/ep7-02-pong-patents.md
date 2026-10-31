@@ -8,11 +8,11 @@ Al Alcorn had built a cabinet with one game on the screen: two paddles, a dot, a
 
 They did.
 
-Nolan Bushnell had hired Al Alcorn at Atari when the company was still small enough that the engineer who built the game was also the man who fixed it when the coin mechanism jammed. (Berlin 2017, ch. 20) <!-- bib: TODO -->
+Nolan Bushnell had hired Al Alcorn at Atari when the company was still small enough that the engineer who built the game was also the man who fixed it when the coin mechanism jammed. (Berlin 2017, ch. 20) <!-- bib: berlin-troublemakers -->
 
 What Pong proved was not that Americans wanted video games. Shopkeepers had known that since pinball. What it proved was that a hit could be manufactured in a garage, installed in a bar, and scaled — if someone could raise the money to build more cabinets than one engineer could solder.
 
-"'We didn't need a business plan for Pong or the VCS,' Alcorn replied. He needed one now." (Berlin 2017, ch. 20) <!-- bib: TODO -->
+"'We didn't need a business plan for Pong or the VCS,' Alcorn replied. He needed one now." (Berlin 2017, ch. 20) <!-- bib: berlin-troublemakers -->
 
 The moment a garage becomes a corporation is the moment the corporation needs Sand Hill Road.
 
@@ -34,7 +34,7 @@ Niels Reimers ran Stanford's Office of Technology Licensing out of a small suite
 
 Recombinant DNA was not an invention in the usual sense. It was a technique for cutting and splicing genetic material, published by Cohen and Boyer in 1973, funded principally by the National Institutes of Health. The public had paid for the science. The question of who would own the applications was still open.
 
-Reimers filed patent applications on the Cohen–Boyer work on behalf of Stanford and UCSF. The filing was criticized inside the university for its potential to undermine Stanford's fundamental mission — the phrase appears in the record of the debate, and the criticism was not wrong (Berlin 2017, pt. 3). <!-- bib: TODO -->
+Reimers filed patent applications on the Cohen–Boyer work on behalf of Stanford and UCSF. The filing was criticized inside the university for its potential to undermine Stanford's fundamental mission — the phrase appears in the record of the debate, and the criticism was not wrong (Berlin 2017, pt. 3). <!-- bib: berlin-troublemakers -->
 
 A research university was about to patent life itself.
 

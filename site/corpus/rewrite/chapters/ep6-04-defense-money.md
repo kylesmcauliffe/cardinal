@@ -33,7 +33,7 @@ The ownership relationship is worth stating precisely, because a later chapter t
 
 By the late 1960s that work included research on chemical and biological warfare and on counterinsurgency techniques relevant to the war in Vietnam, and the university's ownership of the institute doing it was a matter of public record.
 
-Levine's account of the same building makes the juxtaposition plain: SRI was “doing ARPA contract work on chemical warfare in Vietnam” while J. C. R. Licklider's successors funded Douglas Engelbart's Augmentation Research Center (Levine 2018, ARPA chapter). <!-- bib: TODO levine-surveillance-valley -->
+Levine's account of the same building makes the juxtaposition plain: SRI was “doing ARPA contract work on chemical warfare in Vietnam” while J. C. R. Licklider's successors funded Douglas Engelbart's Augmentation Research Center (Levine 2018, ARPA chapter). <!-- bib: levine-surveillance-valley -->
 
 The Mother of All Demos and chemical-warfare contracts under one institute's roof is the deep cut Episode 6 owes the record: federally funded interface dreams and federally funded weapons research, Stanford-owned, Menlo Park address, students unable to read either ledger until they occupied a laboratory on campus and printed what they found.
 

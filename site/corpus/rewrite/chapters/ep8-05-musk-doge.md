@@ -4,7 +4,7 @@
 
 **Washington, D.C. First Trump administration.**
 
-More than a year before the second-term rotunda seating, Musk had sat in the Oval Office opposite President Trump while the administration pressed him to locate Tesla's next gigafactory in the United States — a meeting Siddiqui reconstructs as part of Musk's long courtship of presidential power. (Siddiqui 2025, ch. 6) <!-- bib: TODO -->
+More than a year before the second-term rotunda seating, Musk had sat in the Oval Office opposite President Trump while the administration pressed him to locate Tesla's next gigafactory in the United States — a meeting Siddiqui reconstructs as part of Musk's long courtship of presidential power. (Siddiqui 2025, ch. 6) <!-- bib: siddiqui-hubris-maximus -->
 
 The chapter is not about that meeting alone. It is about what happened when a founder who had spent the 2024 cycle campaigning personally was given a formal advisory role after the inauguration described in the previous chapter — a position concerned with spending reduction and the reorganisation of federal agencies, announced publicly and litigated almost immediately over its boundaries and conflicts.
 
