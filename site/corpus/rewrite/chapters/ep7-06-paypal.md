@@ -12,6 +12,7 @@ The product was money by email. The fight was over who would own the network.
 
 ---
 
+<!-- Legacy working summary and beat fragments from the old draft, hidden from the rendered chapter on Oct 30, 2026 and kept here for reference:
 success by later standards — eBay bought it for about $1.5 billion in 2002 — but
 its alumni went on to found or fund a substantial share of the next quarter-
 century's consequential companies. The product was the payment system. The
@@ -76,6 +77,7 @@ at the scale of a staff photograph.
    common and funded in common. Describe accurately; Act IV ch. 4 and ch. 7 will
    show the consequences.
    thesis, running at the scale of a staff photograph.
+-->
 
 How does a failed startup become a ruling class?
 
@@ -192,10 +194,12 @@ firm supplying capabilities that governments could not build themselves. A
 currency movement several of them backed early. A social platform acquired and
 reoriented by one of them on explicitly political grounds.
 
+<!-- Orphaned sentence fragment from the old draft (its opening line is missing), hidden Oct 30, 2026 and kept for reference:
 view about the inadequacy of public institutions, held by people with the
 capital and the network to act on it, produces a systematic pattern of private
 substitution — and that Act IV is largely a record of what that substitution
 looks like when it succeeds.
+-->
 
 The efficiency of the network is precisely the problem for everyone outside it.
 
@@ -219,6 +223,10 @@ That is a good outcome and an unremarkable one. Several dozen companies of the p
 What made this one different is what the participants did with the proceeds and with each other. Musk put most of his share into SpaceX and Tesla. Thiel founded Palantir in 2003 and made the first outside investment in Facebook in 2004. Hoffman would build LinkedIn. Levchin would start Affirm. The address book became a governing class.
 
 In 2007 *Fortune* photographed a group of former PayPal employees dressed as a crime family and ran the picture under the label the PayPal Mafia. It was a joke about a real thing, and by naming it the magazine made it more so.
+
+The payment system was also an early case of something larger. Proving who you were, settling a payment, delivering a message: functions that had belonged to governments, regulated utilities and common carriers were moving onto private networks that governed their users through terms of service rather than statute. Much of the legal footing had been laid on February 8, 1996, when the Telecommunications Act added a twenty-six-word sentence to federal law: "No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider." (47 U.S.C. § 230(c)(1)) <!-- Source: https://www.law.cornell.edu/uscode/text/47/230. Folded in from legacy chapter 4-14. -->
+
+The address book would spend the next two decades building on that footing.
 
 The young men walked out with cash and a network. The road had done its work again.
 
