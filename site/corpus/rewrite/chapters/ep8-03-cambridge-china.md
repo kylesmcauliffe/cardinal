@@ -91,6 +91,7 @@ indefinitely, and the next company does not try.
    claims neutrality at all.
 -->
 
+<!-- Duplicate of the platform chapter in ep8-01-inauguration-facebook.md (the outline places Facebook in Episode 8 scene 1), hidden Oct 30, 2026 and kept for reference:
 When a platform becomes infrastructure, who is responsible for what it does?
 
 A moderation guideline is a sentence, written by an employee, that determines
@@ -246,6 +247,7 @@ That is the same failure Herbert Hoover suffered in 1932, described in Act II
 chapter 8. The machinery was intact and the explanation had stopped working.
 
 The company changed its name in 2021 and continued.
+-->
 
 <!-- Legacy working summary and beat fragments from the old draft, hidden from the rendered chapter on Oct 30, 2026 and kept here for reference:
 supply chain and distrust each other?
