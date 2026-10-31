@@ -51,7 +51,7 @@ Money method throughout: Minneapolis Fed CPI, 1967 = 100, 2026 index **1004.8** 
 | Hayes veto, March 1, 1879; Angell Treaty; Arthur vetoes a 20-year bill, signs the 10-year act May 6, 1882 | U.S. State Department; National Archives | WEB ✓ |
 | Page Act, 1875, already restricted Chinese women | Standard statute | WEB, taught so the script does not call 1882 the first immigration restriction of any kind |
 | Geary Act 1892 (certificates); 1902 extension including Hawaii and the Philippines; repeal 1943 with a quota of 105 | National Archives | WEB ✓ |
-| Bierce poem, *Wasp*, April 2, 1881, last stanza as read | Rayner, footnote to the *Wasp* of that date | DOC |
+| Bierce poem, *Wasp*, April 2, 1881, first of three stanzas as read | *The Wasp*, vol. 6 (Jan.–June 1881), Internet Archive scan | DOC |
 | "Stealand Landford"; dromedary head (Examiner, Feb 11, 1896); leg/arm/eye (Examiner, April 10, 1896); hands out of his pockets (Examiner, April 12, 1896) | Rayner, with those dates in his notes | DOC. Spoken as separate columns, not one fused sentence. |
 | Hearst appointed to a short Senate vacancy March 23–Aug 4, 1886; full term from March 4, 1887; died Feb 28, 1891 | Biographical Directory of the United States Congress | WEB ✓. Outline's "elected 1886" is corrected on air. |
 | Stanford backed Hearst because the opponent was Aaron Sargent, in Huntington's orbit | Rayner | DOC |
@@ -107,3 +107,7 @@ Money method throughout: Minneapolis Fed CPI, 1967 = 100, 2026 index **1004.8** 
 - Each dollar figure keeps one comparison. Grocery dollars for the house, the $200,000 letter, the fence, the $700,000, and the $24 hog case. The acre prices are compared to the company's own $2.50 advertisement, not to a second modern yardstick.
 - "Here is the concept" / "That is the concept" are gone. The explanations of the land rise, regulatory capture, and scapegoating stay.
 - Dewey Monument date is not in this episode.
+
+## Decided
+
+The April 2, 1881 *Wasp* verse read on air is the first of three stanzas, not the last. The same column calls Crow, the railroad-side buyer killed at Mussel Slough, a hero, and one narrator line says so. Citation is the free Internet Archive scan of *The Wasp*, vol. 6 (Jan.–June 1881): https://archive.org/details/waspvol61881unse. Narrated words after that line: **8,710**, about **58.1 minutes**.
