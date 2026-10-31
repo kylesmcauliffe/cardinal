@@ -4,9 +4,9 @@
 
 **Palo Alto, California. 1999.**
 
-Elon Musk had enrolled at Stanford for a PhD in applied physics in 1995. "As the story goes," Ashlee Vance writes, Musk dropped out after two days to start Zip2. (Vance 2015) <!-- bib: TODO --> By 1999 he was running X.com on University Avenue, two blocks from where Hoover had once fed Belgium from an archive crate.
+Elon Musk had enrolled at Stanford for a PhD in applied physics in 1995. "As the story goes," Ashlee Vance writes, Musk dropped out after two days to start Zip2. (Vance 2015) <!-- bib: vance-elon-musk --> By 1999 he was running X.com on University Avenue, two blocks from where Hoover had once fed Belgium from an archive crate.
 
-Musk's joy when the X.com debit card successfully spit out money at an ATM close to the company's Palo Alto office is preserved in a photograph in Jimmy Soni's account of the period (Soni 2022). <!-- bib: TODO -->
+Musk's joy when the X.com debit card successfully spit out money at an ATM close to the company's Palo Alto office is preserved in a photograph in Jimmy Soni's account of the period (Soni 2022). <!-- bib: soni-founders -->
 
 The product was money by email. The fight was over who would own the network.
 
