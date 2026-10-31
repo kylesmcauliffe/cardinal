@@ -28,6 +28,7 @@ ORDER = [
     "ep8-01-inauguration-facebook.md", "ep8-02-palantir.md", "ep8-03-cambridge-china.md",
     "ep8-04-rosewood-daily.md", "ep8-05-musk-doge.md", "ep8-06-compute-thesis.md",
     "coda-street-names.md",
+    "appendix-off-the-land.md",
 ]
 
 def strip_html_comments(text: str) -> str:
