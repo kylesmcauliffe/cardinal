@@ -28,7 +28,7 @@ const next = n < 8 ? getEpisode(n + 1) : undefined;
     <p class="prose">{ep.through}</p>
 
     <div id="player">
-      <Player src={ep.audio} label={`Play episode ${ep.n}`} />
+      <Player src={ep.audio} label={`Play episode ${ep.n}`} ready={ep.audioReady} />
     </div>
 
     <h2 class="group-label" id="script">Script</h2>

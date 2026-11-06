@@ -25,7 +25,7 @@ site/public/audio/ep01.mp3
 site/public/audio/ep08.mp3
 ```
 
-Those files are not in the repository. A search of every git object, Git LFS (not used), and this agent's store found no episode MP3. Until a file is present at that path, the player shows “Audio coming soon.” Put the rendered files there, rebuild, and the same player uses them. `npm run build` copies `public/` into `dist/`. The Downloads page links to the same paths.
+Those files are not in the repository. Drive has one earlier cover-story recording and no per-episode MP3. That recording is not copied into the site. Until a file is present at the episode path, the player says the corrected recording is not published and does not request the missing file. Put the rendered files there, rebuild, and the same player uses them. `npm run build` copies `public/` into `dist/`. The Downloads page links to a file only when it is present.
 
 EPUB and PDF files in `site/public/downloads/` are built from the Quarto book and the episode scripts (`npm run downloads`).
 
