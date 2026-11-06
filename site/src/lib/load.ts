@@ -309,8 +309,18 @@ function buildDocs(): Doc[] {
   return docs;
 }
 
+type AudioRow = { n: number; src: string | null; status: string };
+
+function audioByEpisode(): Map<number, AudioRow> {
+  const raw = JSON.parse(read(join(repoRoot, 'site/src/data/audio-manifest.json'))) as {
+    episodes: AudioRow[];
+  };
+  return new Map(raw.episodes.map((row) => [row.n, row]));
+}
+
 function buildEpisodes() {
   const outline = parseOutline(read(join(corpusRoot, 'rewrite/outline.md')));
+  const audio = audioByEpisode();
   return EPISODE_FILES.map((file) => {
     const plan = outline.eps.find((e) => e.n === file.n);
     if (!plan) throw new Error(`Missing outline episode ${file.n}`);
@@ -318,10 +328,12 @@ function buildEpisodes() {
     const reviewPath = join(corpusRoot, 'podcast', file.review);
     const script = read(scriptPath);
     const review = read(reviewPath);
+    const row = audio.get(file.n);
     return {
       ...file,
       ...plan,
-      audio: `/audio/ep${String(file.n).padStart(2, '0')}.mp3`,
+      audio: row?.src ?? null,
+      audioStatus: row?.status ?? 'not-recorded',
       script,
       review,
       coda: file.n === 8 ? outline.coda : '',

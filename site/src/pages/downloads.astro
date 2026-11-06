@@ -40,10 +40,22 @@ const episodes = getEpisodes();
       {
         episodes.map((ep) => (
           <li>
-            <a href={ep.audio}>
-              {String(ep.n).padStart(2, '0')} {ep.title}
-            </a>
-            <div class="meta">{ep.audio}. The rendered file is not in this repository. Until it is added, the player says audio coming soon.</div>
+            {
+              ep.audio ? (
+                <a href={ep.audio}>
+                  {String(ep.n).padStart(2, '0')} {ep.title}
+                </a>
+              ) : (
+                <span>
+                  {String(ep.n).padStart(2, '0')} {ep.title}
+                </span>
+              )
+            }
+            <div class="meta">
+              {ep.audio
+                ? ep.audio
+                : 'Not recorded. The manifest has no audio URL, so this page does not link a missing file.'}
+            </div>
           </li>
         ))
       }

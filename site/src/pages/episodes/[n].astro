@@ -87,7 +87,7 @@ const next = n < 8 ? getEpisode(n + 1) : undefined;
       lines={[
         `Script and review copied read-only from ${ep.branch} at ${ep.sha.slice(0, 12)}, pull request #${ep.pr}.`,
         ep.also ?? '',
-        `Audio file: ${ep.audio}`,
+        ep.audio ? `Audio file: ${ep.audio}` : 'Audio: not recorded. No URL in site/src/data/audio-manifest.json.',
       ].filter(Boolean)}
     />
   </article>

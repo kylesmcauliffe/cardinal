@@ -1,0 +1,14 @@
+{
+  "storage": "unset",
+  "note": "No episode audio exists yet. Do not put MP3 bytes in Firestore. When a file is generated, set src to its public URL (Firebase Storage or a static /audio path) and status to ready. Leave src null until then so the player does not request a missing file.",
+  "episodes": [
+    { "n": 1, "src": null, "status": "not-recorded" },
+    { "n": 2, "src": null, "status": "not-recorded" },
+    { "n": 3, "src": null, "status": "not-recorded" },
+    { "n": 4, "src": null, "status": "not-recorded" },
+    { "n": 5, "src": null, "status": "not-recorded" },
+    { "n": 6, "src": null, "status": "not-recorded" },
+    { "n": 7, "src": null, "status": "not-recorded" },
+    { "n": 8, "src": null, "status": "not-recorded" }
+  ]
+}
