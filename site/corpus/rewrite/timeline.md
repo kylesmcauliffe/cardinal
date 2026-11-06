@@ -56,7 +56,7 @@
 - **1970s.** Bechtel recruits Shultz, who rises to company president within a year. (McCartney ch 14)
 - **1972.** Kleiner & Perkins starts at 3000 Sand Hill Road. (Berlin ch 15)
 - **1974.** Reimers files the Cohen–Boyer recombinant-DNA patent for Stanford. (Berlin pt 3)
-- **1976.** Genentech; Swanson, fired from Kleiner, co-founds it. (Berlin ch 15)
+- **1976.** Genentech; Swanson, let go by Kleiner & Perkins (payroll through the end of 1975), co-founds it. (Berlin ch 15)
 - **1980.** Bayh–Dole Act. (Berlin ch 19; Harris ch 4.2)
 - **1981–82.** Reagan cabinet: Weinberger (Defense) and Shultz (State), both ex-Bechtel. (Denton chs 24, 35; McCartney)
   - ★ DEEP CUT

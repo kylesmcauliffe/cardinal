@@ -1,5 +1,7 @@
 # Episode 7 review — The Road (1969–2002)
 
+Nov 6, 2026 correction, logged in `AUDIT-2026-11-06.md`. The script no longer says Swanson was fired. He is let go, and the payroll runs through the end of 1975, which this log already recorded. The Pong prototype is Andy Capp's Tavern in Sunnyvale. The October 14, 1980 opening is spoken as preceding the December 2, 1980 patent grant. His age is not settled: twenty-eight here, twenty-nine in `rewrite/chapters/ep7-01-sand-hill.md`. Word count below is the prior pass and was not recounted. Not cleared to record.
+
 Narrated word count after this pass: **9,082** (about **60.5 minutes** at 150 words per minute). The closing section, The Network, is **475** words, about **3.2 minutes**. The earlier band was 8,500–9,000. The ending asked for in the critique pass puts the hour just past it. Header, cue lines, and this file are not narrated.
 
 Money method, used once and held: Minneapolis Fed CPI, 1967 = 100, 2026 index **1004.8**. A past dollar is multiplied by 1004.8 divided by that year's annual index. Figures are spoken as "about" or "roughly." One comparison per figure. Minimum-wage-year stacks are not spoken. Share-of-GDP conversions were left blank.

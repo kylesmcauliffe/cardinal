@@ -2,7 +2,7 @@
 
 ## The Store
 
-1852–1856. Sacramento.
+1848–1856. San Francisco and Sacramento. The four merchants at the end are the bridge out of these years, not a scene inside 1856.
 
 The scale of the shock
 
@@ -63,7 +63,7 @@ largely left, which had been the object.
 A second version in 1852 was aimed at the Chinese and was more durable,
 eventually supplying a significant share of state revenue. It is the first
 appearance in California of a manoeuvre that this act will describe again in
-chapter 11 and the story will describe again in the opening episodesV: extract from a group
+later hours will describe again: extract from a group
 defined as outsiders, in a way that a majority of voters will support, while the
 actual concentration of wealth continues undisturbed.
 
@@ -114,7 +114,7 @@ hardware business together. Charles Crocker sold dry goods. All four were in
 Sacramento, all four had made ordinary merchant money supplying the mining
 economy, and none of them was an engineer.
 
-They were, in other words, the shovel-sellers of chapter 6 operating at a
+They were, in other words, the shovel-sellers of the gold rush operating at a
 different scale, and they understood the same thing Brannan had understood: the
 money is in the position, not the commodity.
 
@@ -249,7 +249,7 @@ hardware business together. Charles Crocker sold dry goods. All four were in
 Sacramento, all four had made ordinary merchant money supplying the mining
 economy, and none of them was an engineer.
 
-They were, in other words, the shovel-sellers of chapter 6 operating at a
+They were, in other words, the shovel-sellers of the gold rush operating at a
 different scale, and they understood the same thing Brannan had understood: the
 money is in the position, not the commodity.
 -->

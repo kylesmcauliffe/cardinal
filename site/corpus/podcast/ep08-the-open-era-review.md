@@ -1,5 +1,7 @@
 # Episode 8 review — The Open Era (2002–2025)
 
+Nov 6, 2026: status is RESEARCH BLOCKED. `rewrite/chapters/ep8-05-musk-doge.md` is still a stub, and `rewrite/timeline.md` still says the DOGE beat needs a source. Section 13 of the script is marked unfinished and is not cleared for voice. The claim log below is the October review. It is not a finding that those press cites are now in the notes. See `AUDIT-2026-11-06.md`.
+
 Narrated word count after this pass: **8,710** in the episode (about **58.1 minutes** at 150 words per minute). The street-name coda is a separate post-roll: **804** words, about **5.4 minutes**. The recount uses `\b[\w']+\b` on spoken lines after the speaker prefix and bracketed cues are stripped. Target for the hour was 8,500–9,000. Target for the coda was 5–8 minutes. Header, cue lines, and this file are not narrated.
 
 The pattern sentence is spoken once, in silence, with no music under it: "Rail controlled movement. Stanford controls succession." A personal close follows it, still inside the hour: "It is. And it connects to me."

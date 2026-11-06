@@ -72,7 +72,7 @@ Swanson called Boyer. In 1976 they incorporated Genentech in South San Francisco
 
 The company would become the commercial proof that biology could be financed like software: long timelines, binary outcomes, enormous returns on the ones that worked. It would go public in 1980, on patents filed while Swanson was still trying to get Kleiner Perkins to return his calls.
 
-A fired kid at the gate had become a biotech empire. The road had turned him away. The science had not.
+An associate the firm had let go had become a biotech empire. The road had turned him away. The science had not.
 
 He would not live to see the full shape of what he started. Swanson died in 1999, at fifty-two. Genentech outlived him by decades.
 

@@ -1,5 +1,5 @@
 # Cardinal — Episode 1: The Ledger (audio script)
-Source: reviewed script, Oct 18, 2026. Narrator = Kore. Documentary and official quotes = Charon. Personal letters and Dana = Puck. [HARD] = music gated out. [SILENCE] = 2 s of silence before a reveal. Pronunciation notes and the fact-check log are in the review file, not narrated. Money is Minneapolis Fed CPI, said as "roughly."
+Source: reviewed script, Oct 18, 2026. Nov 6, 2026 hygiene pass. Not cleared to record until the book pass. See `AUDIT-2026-11-06.md`. Narrator = Kore. Documentary and official quotes = Charon. Personal letters and Dana = Puck. [HARD] = music gated out. [SILENCE] = 2 s of silence before a reveal. Pronunciation notes and the fact-check log are in the review file, not narrated. Money is Minneapolis Fed CPI, said as "roughly."
 
 
 ## 01. The Tall Stick
@@ -129,7 +129,7 @@ Narrator (Kore): Now here is the part that makes Dana's book useful as economics
 LETTER (Puck: Richard Henry Dana, the young sailor, dry and exact): "Their hides, too, which they value at two dollars in money, they give for something which costs seventy-five cents in Boston; and buy shoes, like as not made of their own hides, and which have been carried twice around Cape Horn, at three or four dollars."
 Narrator (Kore): And things sold, he wrote,
 Quote (Charon, flat documentary): at an advance of nearly three hundred per cent upon the Boston prices.
-Narrator (Kore): A cow is skinned in California. The hide becomes a shoe in Boston. The shoe sails back, and the person who raised the cow pays several times the Boston price. That is chokepoint economics. One way in, one way out, and whoever holds the gate sets the price.
+Narrator (Kore): A cow is skinned in California. The hide becomes a shoe in Boston. The shoe sails back, and the person who raised the cow pays several times the Boston price. That is the economics of a single gate. One way in, one way out, and whoever holds the gate sets the price.
 Narrator (Kore): In Mexican California, there was one official custom-house, at Monterey. Every trading ship had to enter its cargo there and pay duties before it could trade anywhere on the coast. There were very few safe harbors. Dana counts San Francisco, Monterey, and San Diego as the only ports safe from the winter southeasters. And there were very few ships. If you lived inland, you bought what the ships brought, at the ships' price, or you went without.
 Narrator (Kore): Dana captured how isolating that was in one line about Santa Barbara, where the ship anchored three miles offshore and the town was nearly a mile farther inland. So far as the crew were concerned, he wrote, the town
 Quote (Charon, flat documentary): might almost as well have been in the middle of the Cordilleras.
