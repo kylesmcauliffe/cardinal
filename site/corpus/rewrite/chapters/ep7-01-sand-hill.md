@@ -64,7 +64,7 @@ The Southern Pacific decided which towns in the Central Valley would exist by de
 
 ## Genentech
 
-Bob Swanson was twenty-nine years old when Kleiner Perkins let him go.
+Bob Swanson was the junior partner when Kleiner Perkins let him go, at the end of 1975.
 
 He had been a partner at the firm for less than a year. He was intense, impatient, and convinced that recombinant DNA — the technique Stanley Cohen at Stanford and Herbert Boyer at UCSF had published — could be turned into products if someone would finance the attempt (Berlin 2017, ch. 15). <!-- bib: berlin-troublemakers -->
 

@@ -59,10 +59,13 @@ def main() -> None:
         errors.append("ep07: Swanson is still called fired")
 
     open_era = (ROOT / "ep08-the-open-era-script.md").read_text(encoding="utf-8")
-    if "RESEARCH BLOCK" not in open_era:
-        errors.append("ep08: DOGE section is missing its RESEARCH BLOCK comment")
-    if "not settled in the notes" not in open_era:
-        errors.append("ep08: advisory job is spoken as closed")
+    if "Executive Order" not in open_era and "executive order" not in open_era:
+        errors.append("ep08: the advisory section does not carry the executive order")
+    if "federalregister.gov" not in open_era:
+        errors.append("ep08: Federal Register URL is missing from the source comment")
+    for number, line in spoken_lines(open_era):
+        if "not settled in the notes" in line or "stays unfinished" in line or "book pass" in line:
+            errors.append(f"ep08:{number}: production status is being narrated")
 
     store = (ROOT / "ep02-the-toll.md").read_text(encoding="utf-8")
     if "That is the store." not in store:
