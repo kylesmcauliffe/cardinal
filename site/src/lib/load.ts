@@ -1,4 +1,4 @@
-import { readFileSync, readdirSync, statSync } from 'node:fs';
+import { existsSync, readFileSync, readdirSync, statSync } from 'node:fs';
 import { join, relative } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import geo from '../data/geo.json';
@@ -318,10 +318,12 @@ function buildEpisodes() {
     const reviewPath = join(corpusRoot, 'podcast', file.review);
     const script = read(scriptPath);
     const review = read(reviewPath);
+    const audioName = `ep${String(file.n).padStart(2, '0')}.mp3`;
     return {
       ...file,
       ...plan,
-      audio: `/audio/ep${String(file.n).padStart(2, '0')}.mp3`,
+      audio: `/audio/${audioName}`,
+      audioReady: existsSync(join(repoRoot, 'site/public/audio', audioName)),
       script,
       review,
       coda: file.n === 8 ? outline.coda : '',

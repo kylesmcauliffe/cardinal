@@ -33,7 +33,7 @@ Read in a browser, dark by default. Audio files are added later at `site/public/
 - `github.com/kylesmcauliffe/cardinal-sources` returned HTTP 404 to the authenticated GitHub API during this build. No records from that repository are included.
 - Contested and unverified ledger rows keep the status written in `event-ledger.csv`.
 - Map pins are geographic positions for place names that appear in the ledger or the street gazetteer. Positions are not measurements from the manuscript. Vague or compound locations are listed and not pinned.
-- Audio that is not in `public/audio/` shows a coming-soon state.
+- Audio that is not in `public/audio/` is labeled as unpublished. Earlier narration is not presented as the episode.
 
 ## Brand Commitments
 

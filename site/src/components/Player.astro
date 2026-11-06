@@ -2,28 +2,22 @@
 interface Props {
   src: string;
   label: string;
+  ready?: boolean;
 }
-const { src, label } = Astro.props;
+const { src, label, ready = false } = Astro.props;
 ---
 
 <figure class="player" data-player>
   <figcaption class="where">{label}</figcaption>
-  <audio controls preload="metadata" src={src} hidden>
-    {label}
-  </audio>
-  <p class="soon">Audio coming soon. This player is wired to <code>{src}</code>.</p>
+  {
+    ready ? (
+      <audio controls preload="metadata" src={src}>
+        {label}
+      </audio>
+    ) : (
+      <p class="soon">
+        Earlier narration is not this episode. No corrected recording is published at <code>{src}</code>.
+      </p>
+    )
+  }
 </figure>
-
-<script>
-  document.querySelectorAll('[data-player]').forEach((player) => {
-    const audio = player.querySelector('audio');
-    const soon = player.querySelector('.soon');
-    if (!(audio instanceof HTMLAudioElement) || !(soon instanceof HTMLElement)) return;
-    const ready = () => {
-      audio.hidden = false;
-      soon.hidden = true;
-    };
-    audio.addEventListener('loadedmetadata', ready);
-    if (audio.readyState >= 1) ready();
-  });
-</script>
