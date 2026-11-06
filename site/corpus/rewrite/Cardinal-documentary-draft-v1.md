@@ -6611,7 +6611,7 @@ Swanson called Boyer. In 1976 they incorporated Genentech in South San Francisco
 
 The company would become the commercial proof that biology could be financed like software: long timelines, binary outcomes, enormous returns on the ones that worked. It would go public in 1980, on patents filed while Swanson was still trying to get Kleiner Perkins to return his calls.
 
-A fired kid at the gate had become a biotech empire. The road had turned him away. The science had not.
+An associate the firm had let go had become a biotech empire. The road had turned him away. The science had not.
 
 He would not live to see the full shape of what he started. Swanson died in 1999, at fifty-two. Genentech outlived him by decades.
 
@@ -6654,7 +6654,7 @@ The tightest gate in the system was four minutes from the campus that supplied i
 
 **Sunnyvale, California. 1972.**
 
-Al Alcorn had built a cabinet with one game on the screen: two paddles, a dot, a score counter. He called it Pong. He installed a prototype in a bar in Burlingame to see if anyone would put quarters in it.
+Al Alcorn had built a cabinet with one game on the screen: two paddles, a dot, a score counter. He called it Pong. He installed a prototype in Andy Capp's Tavern in Sunnyvale to see if anyone would put quarters in it.
 
 They did.
 
@@ -6714,7 +6714,7 @@ What that offering established is that biology could be financed like software. 
 
 Life became an asset class in 1980, on a Stanford and UCSF patent, funded from the road that Kleiner and Perkins had opened eight years earlier.
 
-Reimers had filed the papers. Congress had changed the law. Swanson had been fired and then proved the firers wrong.
+Reimers had filed the papers. Congress had changed the law. Swanson had been let go by Kleiner & Perkins and then proved them wrong.
 
 The gate was no longer only for chips.
 
@@ -6724,7 +6724,7 @@ By the time Bayh-Dole passed, Atari had already taught the corridor a second les
 
 Venture firms learned to tolerate fashion risk. The term sheet still controlled the board. The Southern Pacific had decided which towns lived. Sand Hill Road was deciding which categories of company would be allowed to become industries.
 
-Al Alcorn would later run an engineering division far from the bar in Burlingame. Pong would be a footnote in a museum case. The road would remember the pattern longer than it remembered the game.
+Al Alcorn had installed the prototype in Andy Capp's Tavern in Sunnyvale. Pong would be a footnote in a museum case. The road would remember the pattern longer than it remembered the game.
 
 
 \newpage

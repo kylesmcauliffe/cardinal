@@ -12,7 +12,7 @@
 ## Answers (with sources)
 
 - Kleiner & Perkins founded 1972 at 3000 Sand Hill Road (Berlin 2017, ch. 15; timeline.md).
-- Swanson fired from K&P, co-founds Genentech 1976 (Berlin ch. 15; timeline.md).
+- Swanson let go by K&P, payroll through the end of 1975, co-founds Genentech 1976 (Berlin ch. 15; timeline.md). Age 28 in the podcast review, 29 in ep7-01. Unresolved.
 - Reimers files Cohen–Boyer patent 1974 (Berlin pt. 3; timeline.md).
 - Bayh–Dole 1980; Stanford OTL since 1970 (Harris ch. 4.2; ch/4-10 qmd).
 - Page Excite pitch Jan 1997 with $300k Stanford license (Levy 2011, ch. 1).
@@ -39,7 +39,7 @@
 | Character | Motifs | Complicating scene |
 |-----------|--------|-------------------|
 | Eugene Kleiner / Tom Perkins | Traitorous Eight → VC | Opening Sand Hill 1972 |
-| Bob Swanson | Fired at gate | Genentech after K&P |
+| Bob Swanson | Let go; payroll through the end of 1975 | Genentech after K&P |
 | Niels Reimers | Patents vs mission | Cohen–Boyer filing |
 | Phil Knight | Class paper, Oregon running | Blue Ribbon cold call |
 | Larry Page / Sergey Brin | BackRub, appendix warning | Excite passes |
