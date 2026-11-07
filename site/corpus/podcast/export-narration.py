@@ -42,11 +42,34 @@ def narration(text: str) -> str:
     return "\n\n".join(lines) + "\n"
 
 
+LABELED = ROOT / "spoken"
+
+
+def labeled(text: str) -> str:
+    """Speaker tags kept. Comments, cues, and headings dropped. This is the generation lock file."""
+    text = re.sub(r"<!--.*?-->", "", text, flags=re.S)
+    lines = []
+    for line in text.splitlines():
+        stripped = line.strip()
+        if not stripped or stripped.startswith("#") or stripped.startswith("["):
+            continue
+        if not SPOKEN.match(stripped):
+            continue
+        body = re.sub(r"\[[^\]]*\]", " ", stripped)
+        body = re.sub(r"\s+", " ", body).strip()
+        if body:
+            lines.append(body)
+    return "\n".join(lines) + "\n"
+
+
 def main() -> None:
     OUT.mkdir(exist_ok=True)
+    LABELED.mkdir(exist_ok=True)
     for name in SCRIPTS:
-        spoken = narration((ROOT / name).read_text(encoding="utf-8"))
+        raw = (ROOT / name).read_text(encoding="utf-8")
+        spoken = narration(raw)
         (OUT / name.replace(".md", ".txt")).write_text(spoken, encoding="utf-8")
+        (LABELED / name.replace(".md", ".txt")).write_text(labeled(raw), encoding="utf-8")
         print(f"{name.replace('.md', '.txt')} {len(spoken.split())} words")
 
 
