@@ -193,7 +193,8 @@ Narrator (Kore): So by 1846, the ground under the future campus was divided amon
 [CUE: singing-bowl chapter chime] [MUSIC: brahms1_1 from 0s, ducked] [AMBIENCE: crowd.mp3, wind.mp3]
 
 Narrator (Kore): Nine Days.
-Narrator (Kore): June 14, 1846. Armed American settlers ride into Sonoma and take Colonel Mariano Vallejo prisoner in his own house. They paint a bear, in berry juice, on a flour sack. Malcolm Harris, quoting the period, calls it something that they called a bear. The California Republic lasts twenty-five days. On July 9, Navy lieutenant Joseph Revere raises the Stars and Stripes. Congress had declared war on May 13. Sonoma had not heard.
+<!-- Harris, Palo Alto, the Bear Flag passage: a Chilean flour sack, scraps of flannel, and "something that they called a Bear" drawn with berry juice. -->
+Narrator (Kore): June 14, 1846. Armed American settlers ride into Sonoma and take Colonel Mariano Vallejo prisoner in his own house. Out of a Chilean flour sack and scraps of flannel they make a flag, and they draw on it, in berry juice, something that they called a bear. Malcolm Harris is quoting the period. The California Republic lasts twenty-five days. On July 9, Navy lieutenant Joseph Revere raises the Stars and Stripes. Congress had declared war on May 13. Sonoma had not heard.
 Narrator (Kore): The pioneer John Bidwell, who watched it, called it a pretense, the Texas game. General John Frisbie later told a Bancroft interviewer that the real object was San Francisco Bay. Ulysses S. Grant, who fought the war as a young officer, wrote in his memoirs that it was
 Quote (Charon, flat documentary): one of the most unjust ever waged by a stronger against a weaker nation.
 Narrator (Kore): The war ended in Mexico City, with Mexico defeated and its capital occupied. Now I am going to give you two scenes, nine days apart, two thousand miles apart, and I want you to picture them side by side.
