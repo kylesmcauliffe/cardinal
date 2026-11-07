@@ -12,7 +12,7 @@ On November sixth they make camp beside a creek that runs down from the hills to
 
 The story goes that they camped beneath one enormous redwood, a tree so tall and alone on the plain that the Spanish called it el palo alto. The tall stick.
 
-That tree is still standing, on San Francisquito Creek, at the border of Palo Alto and Menlo Park, about a hundred and ten feet tall, commuter trains a few yards from its roots. It sprouted around the year 940. It named a city, and it sits in the middle of the Stanford seal, between two Latin words, semper virens: ever green.
+That tree is still standing, on San Francisquito Creek, at the border of Palo Alto and Menlo Park. The city's heritage list puts it at a hundred and ten feet. A 1955 core put the sprout around the year 940. It named a city, and it sits in the middle of the Stanford seal, between two Latin words, semper virens: ever green.
 
 The story goes means legend. The record shows means a document.
 
@@ -34,7 +34,7 @@ Along the lower San Francisquito Creek, where the campus now sits, lived a commu
 
 At Jasper Ridge, the biological preserve that Stanford owns in the hills just west of campus, the university's own chronology records more than five thousand years of human occupation.
 
-Let me give you a number to hold that against. Five thousand years of people on this ground. Spanish, Mexican, and American rule together, from 1769 to today, is two hundred fifty-seven years. That is about five percent of the human story on this land. If the whole five thousand years were a single day, Europeans would have walked onto that plain at about a quarter to eleven at night.
+Five thousand years of people on this ground. Spanish, Mexican, and American rule together, from 1769 to today, is two hundred fifty-seven years. That is about five percent of the human story on this land. If the whole five thousand years were a single day, Europeans would have walked onto that plain at about a quarter to eleven at night.
 
 The settlers got this completely wrong. Ohlone communities did not plant fields of wheat. Later American newcomers looked at that and called them lazy, or worse, diggers, for the sticks they used to pry up edible bulbs. Malcolm Harris points out what the settlers missed. The Ohlone moved, he writes,
 
@@ -65,8 +65,6 @@ To speak of the Ohlone is to speak of the broken link between the Bay Area's ind
 Harris is careful about who broke the link and how. Disease, he writes, rather than extermination campaigns, killed about half of the roughly three hundred thousand Native people of Alta California under Spain and Mexico. We will get to how the missions made that worse. And then his turn.
 
 But when the United States showed up, the rules changed.
-
-That is the next episode's darkness, and we will not rush it.
 
 Education, he writes,
 
@@ -116,13 +114,11 @@ From 1769 through December 31, 1832, the friars across all the California missio
 
 Santa Clara was the busiest of all. It recorded more baptisms, more marriages, and more burials than any other mission in the chain: eight thousand five hundred thirty-six baptisms and six thousand eight hundred nine burials. Its Native population peaked at about one thousand four hundred sixty-four in 1827.
 
-Let me give you a comparison you can feel. Fourteen hundred sixty-four people is smaller than one year's incoming first-year class at Stanford today. In the fall of 2025 the university enrolled one thousand eight hundred sixty-six new first-years, the class of 2029. Now imagine a class that size living in one compound, working the fields without pay, with a burial book that, over the life of the mission, filled up almost as fast as the baptismal book.
+Fourteen hundred sixty-four people is smaller than one year's incoming first-year class at Stanford. The university's own count for the class of 2029 is one thousand eight hundred sixty-six students enrolled. Now imagine a class that size living in one compound, working the fields without pay, with a burial book that, over the life of the mission, filled up almost as fast as the baptismal book.
 
 Junípero Serra was born Miguel José Serra on November 24, 1713, in Petra, on Mallorca. He held a chair of philosophy at the university in Palma, gave it up in 1749, and was president of the California missions from 1769 until his death on August 28, 1784, at Mission San Carlos Borromeo in Carmel, when only nine of the twenty-one missions existed. He is buried there. He walked that coast on a leg injured years earlier, on the road up from Veracruz.
 
 His successor, Fermín Francisco de Lasuén, founded nine more missions between 1786 and 1798, including La Purísima in 1787.
-
-In 1851 the new Catholic bishop of California transferred the struggling parish at Mission Santa Clara from the Franciscans to the Jesuits. They opened Santa Clara College. It is the only university campus in California built on the site of one of the twenty-one missions. The order Spain expelled in 1767 came back and inherited the mission.
 
 On September 23, 2015, Pope Francis canonized Serra in Washington, D.C., and praised him as a witness to the joy of the Gospel in these lands. Three years later, on September 13, 2018, Stanford University announced it would take his name off its main campus mall, a dormitory, and an academic building, saying the mission system inflicted great harm and violence on Native Americans. Serra Mall became Jane Stanford Way, effective October 7, 2019. Stanford kept one small Serra Street, so that, in the committee's words, history would not be erased from the campus. There is a Lasuen Street too.
 
@@ -176,11 +172,11 @@ The missions and the ranches ran enormous herds. There was no railroad and no ba
 
 The price of a hide was fixed by custom at two dollars. Josiah Royce, born in a California mining town in 1855, writing in 1886, says the traders took them at that uniform value. A hide was money. Rancheros paid their debts in hides.
 
-Let's convert that, and let's do the method once, because this series will use it every time. We are using the consumer price index published by the Federal Reserve Bank of Minneapolis, the long table that runs back to 1800. The 2026 index on that table is 1004.8. The index for 1835 is 31. Divide one by the other and two dollars in 1835 is roughly sixty-five dollars in 2026 grocery money. Before 1913 these figures are estimates, so the honest word is roughly. Imagine walking into a store with a stiff, folded cowhide under your arm worth about sixty-five dollars, and paying with it.
+Let's convert that, and let's do the method once. The consumer price index published by the Federal Reserve Bank of Minneapolis runs back to 1800. The latest finished year on that table is 2025, and its index is 967.5. The index for 1835 is 31. Two dollars then is roughly sixty-two dollars in 2025 grocery money. Before 1913 these figures are estimates, so the honest word is roughly.
 
 Dana's work was carrying those hides. At San Diego his company had a hide-house built to hold forty thousand of them, and the crew would go in and stare at it, calculating how long it would take to fill. On May 8, 1836, the ship he sailed home on had finally loaded, in his words, our forty thousand hides, thirty thousand horns, along with barrels of otter and beaver skins.
 
-Forty thousand hides at two dollars is eighty thousand dollars. By the same index, roughly two point six million dollars today. One ship. One voyage.
+Forty thousand hides at two dollars is eighty thousand dollars. By the same index, roughly two and a half million dollars in 2025 grocery money. One ship. One voyage.
 
 Now here is the part that makes Dana's book useful as economics, not just adventure. He noticed the prices going the other way.
 
@@ -242,9 +238,11 @@ the administrators, who usually ended, in a few years, by making themselves fort
 
 At Santa Clara, secularization began in 1836. In 1832, one thousand one hundred twenty-five Native people lived at the mission. By 1839, two hundred ninety-one. A fall of about seventy-four percent in seven years. Robert Jackson, working through the baptism and burial registers, found that deaths alone do not explain it. Hundreds left, or were pulled onto the new private ranches. The mission's own census, signed December 31, 1839, by Father Jesús María Vásquez del Mercado, is still in the archives.
 
+Fifteen years after that secularization began, in 1851, the new Catholic bishop of California transferred the struggling parish from the Franciscans to the Jesuits. They opened Santa Clara College on the mission site. It is the only university campus in California built on one of the twenty-one missions. The order Spain expelled in 1767 had come back.
+
 Some Ohlone people did get land, and their stories deserve to be told by name. Santa Clara issued four land grants to Ohlone men who had entered the mission as children and asked for their own ancestral village sites back, places recorded as Ulistac and Posolmi. Four is the most of any Bay Area mission. But as Santa Clara's own historians note, those grants were only a small fraction of the total acreage the mission system controlled. In the Bay Area, nearly all other lands were granted to colonial elites during the 1830s and 1840s.
 
-To understand how fast the land moved, take one mission in the south. In 1845, Governor Pío Pico sold Mission San Juan Capistrano, the whole thing, to his brother-in-law, John Forster, for seven hundred ten dollars. On the same index, that is roughly twenty-five thousand dollars today. An entire mission.
+To understand how fast the land moved, take one mission in the south. In 1845, Governor Pío Pico sold Mission San Juan Capistrano, the whole thing, to his brother-in-law, John Forster, for seven hundred ten dollars. On the same index, that is roughly twenty-five thousand dollars in 2025 grocery money. An entire mission.
 
 Where did the land go? Into a new kind of property. Let's go back to the creek with the tall redwood, and meet the people who owned it next.
 
@@ -254,19 +252,19 @@ The Rancho.
 
 That piece of ground, today, is the northern part of the Stanford University campus.
 
-Here is how you got a rancho, because the process becomes a disaster in the next episode. You petitioned the governor. If you could not write, a neighbor wrote it. You attached a diseño, the drawing, a map with no surveyor behind it: a creek bend, a big oak, a hill. The governor asked the local officials and the mission whether the land was free and whether you owned cattle. If they said yes, he issued a título, a title. Then a local official walked the bounds with you and put you in juridical possession. The oak was the corner. The neighbors were the survey.
+Here is how you got a rancho. The proving of it comes before this hour ends. You petitioned the governor. If you could not write, a neighbor wrote it. You attached a diseño, the drawing, a map with no surveyor behind it: a creek bend, a big oak, a hill. The governor asked the local officials and the mission whether the land was free and whether you owned cattle. If they said yes, he issued a título, a title. Then a local official walked the bounds with you and put you in juridical possession. The oak was the corner. The neighbors were the survey.
 
 What is missing is a precise line. A grant might say two leagues, more or less. Under Mexican law a governor could grant as little as a third of an acre or as much as eleven square leagues, about fifty thousand acres. Two leagues was most common. In a country with plenty of land and few people, more or less was fine. Your neighbors knew where the oak was.
 
 Fourteen hundred seventy-one acres is almost six square kilometers, nearly three times the country of Monaco.
 
-And Stanford today holds eight thousand three hundred fifty-three acres, in seven cities and counties, from Portola Valley to Palo Alto to the unincorporated hills. So Buelna's whole rancho is less than a fifth of what the university now owns. Where did the rest come from?
+And Stanford's own facts page puts the campus at eight thousand three hundred fifty-three acres, in seven jurisdictions, from Portola Valley to Palo Alto to the unincorporated hills. So Buelna's whole rancho is less than a fifth of what the university now owns. Where did the rest come from?
 
 The southern part of the campus sits on a second, bigger rancho. Rancho Rincón de San Francisquito, the corner of the San Francisquito. Eight thousand four hundred eighteen acres, granted by Alvarado in 1841 to a man named José Peña.
 
 Peña was an old artilleryman from the Presidio of San Francisco who had grazed cattle on this ground with the mission's permission since 1822, went away to Mexico, came back, and in 1841 was teaching school in the little settlement at Santa Clara. In 1847 he sold almost the whole rancho to two brothers, Secundino and Teodoro Robles.
 
-And here is a detail you could not invent, and should not romanticize. Back in 1824, Ohlone people had shown Secundino Robles where they dug a red pigment rock south of San José. It was cinnabar, the ore of mercury, quicksilver, and by 1845 that deposit was the New Almaden mine, which would become one of the most valuable mines in North America. The brothers were paid in cash and a share.
+Back in 1824, Ohlone people had shown Secundino Robles where they dug a red pigment rock south of San José. It was cinnabar, the ore of mercury, quicksilver, and by 1845 that deposit was the New Almaden mine, which would become one of the most valuable mines in North America. The brothers were paid in cash and a share.
 
 The Robles brothers did not hold the land. By the late 1850s much of it had gone to lawyers' fees and debts.
 
@@ -300,7 +298,7 @@ Nine days. The gold was found on January 24. The treaty that handed California t
 
 When people say California happened in five days, this is the coincidence they mean. It was nine. Mexico sold the land without knowing what was in it. The United States bought it the same way.
 
-And the speed does not stop. Same treaty, very different clocks, and we will teach the machinery next time. California, two years and seven months, treaty to statehood on September 9, 1850, with no organized territorial stage at all. Nevada, sixteen years and nine months, October 31, 1864. Utah, almost forty-eight years, to January 4, 1896. New Mexico, January 6, 1912. Arizona, February 14, 1912, about sixty-four years. California reached statehood roughly twenty-five times faster than its neighbors to the southeast.
+And the speed does not stop. Same treaty, very different clocks. The next hour is the convention in Colton Hall that walked past the waiting room. California, two years and seven months, treaty to statehood on September 9, 1850, with no organized territorial stage at all. Nevada, sixteen years and nine months, October 31, 1864. Utah, almost forty-eight years, to January 4, 1896. New Mexico, January 6, 1912. Arizona, February 14, 1912, about sixty-four years. California reached statehood roughly twenty-five times faster than its neighbors to the southeast.
 
 The treaty transferred more than five hundred twenty-five thousand square miles, fifty-five percent of Mexico, on the order of France, Spain, and Germany put together. It became California, Nevada, Utah, most of Arizona and New Mexico, and parts of Colorado and Wyoming. Half a country, on a paper signed by a man the president had already fired.
 
@@ -316,7 +314,7 @@ Those grants, the protocol says, preserve the legal value they may possess, and 
 
 And now, the synchronicity. On March 29, 1848, nineteen days after the Senate vote, a man died in his house in New York City. His name was John Jacob Astor. A German-born immigrant who had made a fortune in furs and then in Manhattan real estate, he was the richest man in America, leaving an estate commonly estimated at about twenty million dollars.
 
-In consumer prices, roughly seven hundred seventy million dollars today. Grocery prices understate a fortune like that. Twenty million dollars was a far larger share of a smaller country than a shopping basket can show. His will left four hundred thousand dollars for a library that later became part of the New York Public Library. Thirty-seven years earlier, in 1811, his Pacific Fur Company had built Fort Astoria at the mouth of the Columbia, the first American settlement on the Pacific. He had looked west and tried to own it by trade. In the spring he died, the West's own fortune was lying in a mill race, waiting.
+In 2025 consumer prices, roughly seven hundred forty million dollars. Grocery prices understate a fortune like that. Twenty million dollars was a far larger share of a smaller country than a shopping basket can show. His will left four hundred thousand dollars for a library that later became part of the New York Public Library. Thirty-seven years earlier, in 1811, his Pacific Fur Company had built Fort Astoria at the mouth of the Columbia, the first American settlement on the Pacific. He had looked west and tried to own it by trade. In the spring he died, the West's own fortune was lying in a mill race, waiting.
 
 That same spring, the first Chinese residents of San Francisco were arriving, servants brought from China by an American businessman. Within two years, many more.
 
@@ -332,8 +330,6 @@ And the new owners of California are about to ask a question the old system was 
 
 In 1851, Congress will pass a law that requires every rancho owner in California to prove, in an American court, in English, with American lawyers paid by the hour, that their land is really theirs. More than eight hundred claims will be filed. Most of them will be confirmed. Confirmation will not be the same thing as keeping the ranch. Buelna's widow will file her claim in 1853. She will not receive her final patent from the United States until 1868, fifteen years later. By then, squatters will have settled on the land, and a wealthy San Franciscan named George Gordon will have bought out both the squatters and her family. Most rancheros will win their cases. Many of them will lose their land anyway, to lawyers' fees, to debts, to squatters, to time.
 
-And two thousand miles east, in Port Washington, a lake town in Wisconsin, a young lawyer from New York is trying to build a practice and not getting far. His brothers leave for the gold fields ahead of him. In 1852 a fire burns out his office. He follows them. In the mining country he opens a store, and the men digging for gold buy shovels and flour from him, because the shovel is a surer business than the gravel. He does not know that yet. The listener does.
-
-His name is Leland Stanford.
+And two thousand miles east, in Port Washington, a lake town in Wisconsin, a young lawyer from New York is trying to build a practice and not getting far. His brothers leave for the gold fields ahead of him. In 1852 a fire burns out his office. He follows them. In the mining country he opens a store, and the men digging for gold buy shovels and flour from him, because the shovel is a surer business than the gravel. Narrator (Kore): His name is Leland Stanford.
 
 Next time on Cardinal: The Toll.
