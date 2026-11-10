@@ -18,6 +18,7 @@ const people = group('/people/');
 const family = group('/family/');
 const surnames = group('/surnames/');
 const places = group('/places/');
+const orgs = group('/organisations/');
 const row = (r, what) => `| \`${r}\` | ${what} |`;
 
 const md = `# URL sheet
@@ -33,10 +34,12 @@ The site builds for any base path: \`WOP_BASE=/some/path/ npm run build\`. Route
 ${row('/', 'The web of people: drag, zoom, click for a profile')}
 ${row('/?p=<person-id>', 'The web with that person’s profile open (shareable). Example: `/?p=leland-stanford`')}
 ${row('/?p=place:<place-id>', 'The web with a place hub’s panel open. Example: `/?p=place:stanford-ca`')}
-${row('/people/', `All ${people.length} people, filterable`)}
+${row('/?p=org:<org-id>', 'The web with an organisation hub’s panel open. Example: `/?p=org:fairchild-semiconductor`')}
+${row('/people/', `All ${people.length} people, filterable (relatives named only through family links included)`)}
 ${row('/family/', `Families the notes document, drawn as trees, and a pointer to import`)}
 ${row('/surnames/', `${surnames.length} surnames`)}
 ${row('/places/', `${places.length} places`)}
+${row('/organisations/', `${orgs.length} organisations with sourced members`)}
 ${row('/charts/', 'Four charts drawn from the dataset')}
 ${row('/import/', 'Load a GEDCOM file in the browser (stretch feature)')}
 ${row('/sources/', 'The repository files behind every fact, with weight')}
@@ -50,6 +53,7 @@ ${row('/404.html', 'Not-found page')}
 | \`/family/<person-id>/\` (the tree that person belongs to) | ${family.length} | \`${family[0]}\` |
 | \`/surnames/<surname>/\` | ${surnames.length} | \`${surnames[0]}\` |
 | \`/places/<place-id>/\` | ${places.length} | \`${places[0]}\` |
+| \`/organisations/<org-id>/\` | ${orgs.length} | \`${orgs[0]}\` |
 
 ## Mockups (static, no build needed)
 

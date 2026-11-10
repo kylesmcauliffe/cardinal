@@ -70,7 +70,7 @@ function shell(title: string, current: string, body: string, note: string): stri
 <div class="mockflag">Mockup · static comp, not the running app · ${esc(note)}</div>
 ${headerHtml(current)}
 <main id="main">${body}</main>
-${footerHtml({ people: data.people.length, events: data.events.length, sources: data.ds.sources.length })}
+${footerHtml({ people: data.people.length, events: data.events.length, sources: data.ds.sources.length, web: data.ds.webSources?.length ?? 0 })}
 </body>
 </html>
 `;

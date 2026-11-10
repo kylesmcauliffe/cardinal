@@ -4,6 +4,7 @@ import { data } from '../lib/data';
 import { href } from '../lib/html';
 
 const c = data.ds.meta.counts;
+const shown = data.people.filter((p) => !p.relative).length;
 const verified = data.events.filter((e) => e.status === 'VERIFIED').length;
 ---
 <Base title="Web of People" current="web">
@@ -11,7 +12,7 @@ const verified = data.events.filter((e) => e.status === 'VERIFIED').length;
     <p class="eyebrow">Cardinal · who knew whom</p>
     <h1>A web of the people in the story</h1>
     <p class="lede">
-      {c.people} real figures from the Cardinal notes, drawn as bubbles that drift. Drag one, scroll or pinch to zoom, click or tap for a profile with a timeline and family history. <span class="more">Lines are stated relationships or two people named in the same recorded event. Nothing here is invented: where the notes are silent, the profile says so.</span>
+      {shown} real figures from the Cardinal notes, drawn as bubbles that drift, with {c.people - shown} relatives behind the “Show relatives” switch. Drag one, scroll or pinch to zoom, click or tap for a profile with a timeline and family history. <span class="more">Lines are stated relationships or two people named in the same recorded event. Nothing here is invented: where the notes are silent, the profile says so.</span>
     </p>
     <div id="web-root">
       <noscript><p class="not-recorded">The interactive web needs JavaScript. The <a href={href('/people/')}>people list</a> has the same profiles without it.</p></noscript>

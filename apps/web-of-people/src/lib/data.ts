@@ -1,5 +1,5 @@
 import raw from '../../data/dataset.json';
-import type { Dataset, EventRec, Person, Place, Relationship, RelType } from './types';
+import type { Affiliation, Dataset, EventRec, Org, Person, Place, Relationship, RelType } from './types';
 import { parseDate, sortKey, yearOf } from './dates';
 
 export const FAMILY_TYPES: RelType[] = ['spouse', 'parent', 'sibling'];
@@ -25,6 +25,10 @@ export interface Data {
   people: Person[];
   byId: Map<string, Person>;
   placeById: Map<string, Place>;
+  orgs: Org[];
+  orgById: Map<string, Org>;
+  affiliationsFor(personId: string): { aff: Affiliation; org: Org }[];
+  membersOf(orgId: string): { aff: Affiliation; person: Person }[];
   events: EventRec[];
   relationships: Relationship[];
   eventsFor(id: string): EventRec[];
@@ -201,6 +205,14 @@ export function makeData(ds: Dataset): Data {
     return [...ids].map((id) => byId.get(id)).filter(Boolean) as Person[];
   };
 
+  const orgs = ds.orgs ?? [];
+  const orgById = new Map(orgs.map((o) => [o.id, o]));
+  const affiliations = ds.affiliations ?? [];
+  const affiliationsFor = (pid: string) =>
+    affiliations.filter((a) => a.person === pid && orgById.has(a.org)).map((aff) => ({ aff, org: orgById.get(aff.org)! }));
+  const membersOf = (oid: string) =>
+    affiliations.filter((a) => a.org === oid && byId.has(a.person)).map((aff) => ({ aff, person: byId.get(aff.person)! }));
+
   const firstYear = (id: string) => {
     for (const e of eventsFor(id)) {
       const p = parseDate(e.date);
@@ -215,6 +227,10 @@ export function makeData(ds: Dataset): Data {
     people: ds.people,
     byId,
     placeById,
+    orgs,
+    orgById,
+    affiliationsFor,
+    membersOf,
     events: sortedEvents,
     relationships: ds.relationships,
     eventsFor,

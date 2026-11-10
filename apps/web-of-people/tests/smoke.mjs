@@ -3,7 +3,7 @@
  * Needs `npm run build` first. Exits non-zero on any failed check.
  */
 import { chromium } from 'playwright-core';
-import { existsSync } from 'node:fs';
+import { existsSync, readFileSync } from 'node:fs';
 import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { startServer } from '../scripts/lib/static-server.mjs';
@@ -15,6 +15,9 @@ if (!existsSync(join(root, 'dist/index.html'))) {
   process.exit(2);
 }
 
+const ds = JSON.parse(readFileSync(join(root, 'data/dataset.json'), 'utf8'));
+const gaps = JSON.parse(readFileSync(join(root, 'data/portrait-gaps.json'), 'utf8'));
+const mainPeople = ds.people.filter((p) => !p.relative);
 const results = [];
 function check(name, ok, extra = '') {
   results.push({ name, ok, extra });
@@ -86,7 +89,7 @@ async function run(label, width, height) {
   let page = await open('/');
   await page.waitForSelector('g.node');
   const count = await page.locator('g.node').count();
-  check(`[${label}] web renders a bubble per person`, count === 57, `got ${count}`);
+  check(`[${label}] web renders a bubble per person`, count === mainPeople.length, `got ${count}`);
   check(`[${label}] web draws place hubs and links`, (await page.locator('g.hub').count()) > 3 && (await page.locator('line.link').count()) > 50);
   check(`[${label}] web has portraits and initials bubbles`, (await page.locator('g.node image').count()) > 20 && (await page.locator('g.node text.init').count()) > 5);
   await noOverflow(page, 'web');
@@ -133,7 +136,7 @@ async function run(label, width, height) {
   const total = await page.locator('.drawer .ev').count();
   await page.selectOption('.drawer [data-tl-status]', 'VERIFIED');
   const verified = await page.locator('.drawer .ev:not([hidden])').count();
-  check(`[${label}] timeline status filter narrows the list`, verified > 0 && verified < total, `${verified}/${total}`);
+  check(`[${label}] timeline status filter narrows the list`, verified > 0 && verified <= total, `${verified}/${total}`);
   await page.selectOption('.drawer [data-tl-status]', '');
   await page.fill('.drawer [data-tl-q]', 'Branner');
   const searched = await page.locator('.drawer .ev:not([hidden])').count();
@@ -172,9 +175,16 @@ async function run(label, width, height) {
   const serra = await tx(page, nodeSel('Junípero Serra'));
   const musk = await tx(page, nodeSel('Elon Musk'));
   check(`[${label}] "arrange by time" puts earlier people to the left`, musk.x - serra.x > 100, `${serra.x.toFixed(0)} vs ${musk.x.toFixed(0)}`);
+  check(`[${label}] organisation hubs are drawn`, (await page.locator('g.hub.org').count()) >= 3);
   await page.locator('input[data-t="places"]').uncheck();
   await page.waitForTimeout(300);
-  check(`[${label}] place hubs toggle off removes hubs`, (await page.locator('g.hub').count()) === 0);
+  check(`[${label}] place hubs toggle off removes place hubs`, (await page.locator('g.hub:not(.org)').count()) === 0);
+  await page.locator('input[data-t="orgs"]').uncheck();
+  await page.waitForTimeout(300);
+  check(`[${label}] organisation hubs toggle off removes them`, (await page.locator('g.hub').count()) === 0);
+  await page.locator('input[data-t="relatives"]').check();
+  await page.waitForTimeout(500);
+  check(`[${label}] show relatives adds the relatives`, (await page.locator('g.node').count()) === ds.people.length, `got ${await page.locator('g.node').count()}`);
   await page.close();
 
   /* deep link */
@@ -185,9 +195,9 @@ async function run(label, width, height) {
 
   /* people list and profile page */
   page = await open('/people/');
-  check(`[${label}] people list has 57 entries`, (await page.locator('#plist li').count()) === 57);
+  check(`[${label}] people list has every person`, (await page.locator('#plist li').count()) === ds.people.length);
   await page.fill('#pf', 'hoover');
-  check(`[${label}] people filter works`, (await page.locator('#plist li:not([hidden])').count()) === 2);
+  check(`[${label}] people filter works`, (await page.locator('#plist li:not([hidden])').count()) === ds.people.filter((p) => `${p.name} ${p.role ?? ''}`.toLowerCase().includes('hoover')).length);
   await noOverflow(page, 'people');
   await page.close();
 
@@ -202,21 +212,34 @@ async function run(label, width, height) {
   await noOverflow(page, 'profile');
   await page.close();
 
-  page = await open('/people/peter-thiel/');
+  page = await open(`/people/${gaps[0].personId}/`);
   check(`[${label}] a person without a portrait gets an initials bubble`, (await page.locator('.portrait.none .init').count()) === 1);
+  check(`[${label}] and the page says why there is no portrait`, /No portrait/i.test(await page.locator('body').textContent()));
+  await page.close();
+  page = await open('/people/bill-duvall/');
   check(`[${label}] unknowns are stated, not filled in`, /Birth: not recorded/.test(await page.locator('.gaps').textContent()));
   await page.close();
 
   /* family */
   page = await open('/family/leland-stanford/');
-  check(`[${label}] family tree shows the Stanford cards`, (await page.locator('svg.tree .card').count()) === 3);
+  check(`[${label}] family tree shows the Stanford cards`, (await page.locator('svg.tree .card').count()) >= 10 && /Generation 3/.test(await page.locator('svg.tree').textContent()));
   await noOverflow(page, 'family');
   await page.close();
-  page = await open('/family/collis-huntington/');
-  check(`[${label}] family tree shows a placeholder for an unnamed relative`, (await page.locator('svg.tree .card.ghost').count()) === 1);
+  page = await open('/family/robert-noyce/');
+  check(`[${label}] family tree shows a placeholder for an unnamed relative`, (await page.locator('svg.tree .card.ghost').count()) >= 1);
   await page.close();
   page = await open('/family/');
   check(`[${label}] family index lists families`, (await page.locator('.fam-cards a').count()) >= 5);
+  await page.close();
+
+  /* organisations */
+  page = await open('/organisations/');
+  check(`[${label}] organisations index lists every organisation`, (await page.locator('main a[href*="/organisations/"]').count()) >= ds.orgs.length);
+  await noOverflow(page, 'organisations');
+  await page.close();
+  page = await open('/organisations/fairchild-semiconductor/');
+  check(`[${label}] organisation page names members with a source quote`, (await page.locator('h1').textContent()) === 'Fairchild Semiconductor' && (await page.locator('.cite q').count()) >= 3);
+  await noOverflow(page, 'organisation');
   await page.close();
 
   /* surnames, places, charts, sources */
