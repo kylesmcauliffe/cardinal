@@ -1,0 +1,44 @@
+---
+import Base from '../../layouts/Base.astro';
+import { data } from '../../lib/data';
+import { avatarHtml, esc, href } from '../../lib/html';
+
+const people = [...data.people].sort((a, b) => a.surname.localeCompare(b.surname) || a.name.localeCompare(b.name));
+---
+<Base title="People" current="people" description="Every person in the Cardinal web, with portrait credit and life dates where the notes record them.">
+  <div class="page">
+    <p class="eyebrow">{people.length} people</p>
+    <h1>People</h1>
+    <p class="lede">Everyone in the web, sorted by surname. Open a profile for the timeline, family and sources. Life dates show only where a source gives them.</p>
+    <div class="toolbar">
+      <label class="field"><span class="vh">Filter people</span><input type="search" id="pf" placeholder="Filter by name or role" autocomplete="off" /></label>
+      <span class="meta" id="pcount" aria-live="polite"></span>
+    </div>
+    <ul class="people-grid" id="plist">
+      {people.map((p) => (
+        <li data-text={`${p.name} ${p.role ?? ''}`.toLowerCase()}>
+          <a href={href(`/people/${p.id}/`)}>
+            <Fragment set:html={avatarHtml(p, 'mini')} />
+            <span><b>{p.name}</b><span class="dim">{p.role ?? 'Role not recorded'} · {data.lifeLabel(p.id)}</span></span>
+          </a>
+        </li>
+      ))}
+    </ul>
+    <script>
+      const input = document.getElementById('pf') as HTMLInputElement;
+      const items = [...document.querySelectorAll<HTMLElement>('#plist li')];
+      const count = document.getElementById('pcount')!;
+      const run = () => {
+        const t = input.value.trim().toLowerCase();
+        let n = 0;
+        for (const li of items) {
+          const ok = !t || li.dataset.text!.includes(t);
+          li.hidden = !ok;
+          if (ok) n++;
+        }
+        count.textContent = t ? `${n} of ${items.length} shown` : '';
+      };
+      input.addEventListener('input', run);
+    </script>
+  </div>
+</Base>

@@ -1,0 +1,109 @@
+---
+import Base from '../layouts/Base.astro';
+---
+<Base title="Import a family file" current="import" description="Load a GEDCOM family-tree file (for example an Ancestry export) and see it as a web and family trees, entirely in your browser.">
+  <div class="page">
+    <p class="eyebrow">Stretch feature · runs in your browser</p>
+    <h1>Import a family file</h1>
+    <p class="lede">
+      Choose a GEDCOM file (the <code>.ged</code> export that Ancestry, FamilySearch and most family-tree tools offer). It is read on this device and never uploaded. People who may be living are hidden unless you choose to include them. Nothing you load is saved.
+    </p>
+    <div class="drop" id="drop">
+      <p><b>Drop a .ged file here</b></p>
+      <p>
+        <label class="btn" for="gedfile" style="display:inline-flex;align-items:center;cursor:pointer">Choose a file</label>
+        <input id="gedfile" type="file" accept=".ged,.gedcom,.txt,text/plain" class="vh" />
+        <button type="button" class="btn" id="sample">Try a sample (a fictional family)</button>
+      </p>
+      <p class="dim" style="margin:0;font-size:.9rem">GEDCOM 5.5.1 and 7.0 text files, UTF-8. Zipped exports: unzip first.</p>
+    </div>
+    <div class="toolbar" style="margin-top:1rem">
+      <label class="tog"><input type="checkbox" id="living" /> Include people who may be living</label>
+    </div>
+    <div id="import-out" aria-live="polite"></div>
+    <script>
+      import { parseGedcom, toDataset, SAMPLE_GEDCOM, type Parsed } from '../lib/gedcom';
+      import { makeData } from '../lib/data';
+      import { mountWeb, type WebHandle } from '../lib/graph';
+      import { treeSvg, familyTitle } from '../lib/tree';
+      import { esc } from '../lib/html';
+      import { avatarHtml } from '../lib/html';
+      import { initTimeline } from '../lib/timeline';
+
+      const out = document.getElementById('import-out')!;
+      const drop = document.getElementById('drop')!;
+      const input = document.getElementById('gedfile') as HTMLInputElement;
+      const living = document.getElementById('living') as HTMLInputElement;
+      let current: { text: string; name: string } | null = null;
+      let handle: WebHandle | null = null;
+
+      function render() {
+        handle?.destroy();
+        handle = null;
+        if (!current) return;
+        let parsed: Parsed;
+        try {
+          parsed = parseGedcom(current.text);
+        } catch (e) {
+          out.innerHTML = `<div class="report"><b>Could not read this file.</b> ${esc(String(e))}</div>`;
+          return;
+        }
+        const { ds, report } = toDataset(parsed, { filename: current.name, includeLiving: living.checked });
+        const d = makeData(ds);
+        const warn = report.warnings.length ? `<ul class="warn">${report.warnings.slice(0, 8).map((w) => `<li>${esc(w)}</li>`).join('')}</ul>` : '';
+        const comps = d.families().filter((c) => c.length > 1);
+        out.innerHTML = `
+          <div class="report"><h2 style="margin-top:0">${esc(current.name)}</h2>
+            <dl>
+              <dt>Format</dt><dd>GEDCOM ${esc(report.version)}, ${esc(report.charset)}</dd>
+              <dt>People shown</dt><dd>${report.people}</dd>
+              <dt>Living people hidden</dt><dd>${report.livingHidden}${report.livingHidden && !living.checked ? ' (tick the box above to include them)' : ''}</dd>
+              <dt>Events</dt><dd>${report.events}</dd>
+              <dt>Family links</dt><dd>${report.relationships}</dd>
+              <dt>Places</dt><dd>${report.places}</dd>
+            </dl>${warn}
+            <p style="margin-bottom:0" class="dim">Facts are shown exactly as written in your file and labelled “As imported”. This site has not checked them.</p>
+          </div>
+          <h2>Web</h2><div id="imp-web"></div>
+          <h2>Family trees</h2>
+          ${comps.length ? comps.slice(0, 12).map((c, i) => `<h3>${esc(familyTitle(d, c))}</h3><div class="tree-wrap" tabindex="0" role="region" aria-label="Family tree">${treeSvg(d, c, null, 'imp' + i)}</div>`).join('') : '<p class="not-recorded">No family links were found in this file.</p>'}
+          <h2>People</h2>
+          <ul class="people-grid">${d.people.slice(0, 400).map((p) => `<li><a href="#" data-person="${esc(p.id)}">${avatarHtml(p, 'mini')}<span><b>${esc(p.name)}</b><span class="dim">${esc(d.lifeLabel(p.id))}</span></span></a></li>`).join('')}</ul>`;
+        const webRoot = document.getElementById('imp-web')!;
+        if (d.people.length) {
+          handle = mountWeb(webRoot, { data: d, initial: null, syncUrl: false });
+          out.querySelectorAll<HTMLAnchorElement>('.people-grid a').forEach((a) =>
+            a.addEventListener('click', (e) => {
+              e.preventDefault();
+              handle?.select(a.dataset.person!, true);
+              webRoot.scrollIntoView({ block: 'start' });
+            }),
+          );
+        } else webRoot.innerHTML = '<p class="not-recorded">No people to show.</p>';
+      }
+
+      async function load(file: File) {
+        if (/\.(gdz|zip)$/i.test(file.name)) {
+          out.innerHTML = '<div class="report"><b>Zipped files are not supported yet.</b> Unzip the download and choose the <code>.ged</code> file inside.</div>';
+          return;
+        }
+        current = { text: await file.text(), name: file.name };
+        render();
+      }
+      input.addEventListener('change', () => input.files?.[0] && load(input.files[0]));
+      living.addEventListener('change', render);
+      document.getElementById('sample')!.addEventListener('click', () => {
+        current = { text: SAMPLE_GEDCOM, name: 'sample-fictional-family.ged' };
+        render();
+      });
+      ['dragenter', 'dragover'].forEach((t) => drop.addEventListener(t, (e) => { e.preventDefault(); drop.classList.add('over'); }));
+      ['dragleave', 'drop'].forEach((t) => drop.addEventListener(t, (e) => { e.preventDefault(); drop.classList.remove('over'); }));
+      drop.addEventListener('drop', (e) => {
+        const f = (e as DragEvent).dataTransfer?.files?.[0];
+        if (f) load(f);
+      });
+      void initTimeline;
+      (window as any).__wopImport = { load: (text: string, name = 'test.ged') => { current = { text, name }; render(); } };
+    </script>
+  </div>
+</Base>

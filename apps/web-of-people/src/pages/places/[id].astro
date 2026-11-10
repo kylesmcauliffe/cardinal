@@ -1,0 +1,39 @@
+---
+import Base from '../../layouts/Base.astro';
+import { data } from '../../lib/data';
+import { citeHtml, href, personPill, statusBadge } from '../../lib/html';
+import { formatDate } from '../../lib/dates';
+
+export function getStaticPaths() {
+  return data.ds.places.map((p) => ({ params: { id: p.id } }));
+}
+const { id } = Astro.params as { id: string };
+const place = data.placeById.get(id)!;
+const evs = data.eventsAt(id);
+const people = data.peopleAt(id);
+---
+<Base title={place.name} current="places" description={`${place.name}: who is recorded there and when.`}>
+  <div class="page narrow">
+    <p class="meta"><a href={href('/places/')}>All places</a> · <a href={href(`/?p=place:${id}`)}>See in the web</a></p>
+    <p class="eyebrow">Place · {evs.length} recorded event{evs.length === 1 ? '' : 's'}</p>
+    <h1>{place.name}</h1>
+    {place.lat != null
+      ? <p class="meta">{place.lat.toFixed(4)}, {place.lon!.toFixed(4)}. {place.coordNote}</p>
+      : <p class="not-recorded">Position not recorded.</p>}
+    <h2>People recorded here</h2>
+    {people.length ? <ul class="pill-list"><Fragment set:html={people.map((p) => personPill(p)).join('')} /></ul> : <p class="not-recorded">No people.</p>}
+    <h2>Events</h2>
+    <ol class="tl-list">
+      {evs.map((e) => (
+        <li class="ev">
+          <div class="ev-date">{formatDate(e.date)}{e.dateNote && <small>{e.dateNote}</small>}</div>
+          <div class="ev-main">
+            <div class="ev-title">{e.title} <Fragment set:html={statusBadge(e.status)} /></div>
+            <p class="ev-with">{e.people.map((pid, i) => <><a href={href(`/people/${pid}/`)}>{data.byId.get(pid)?.short ?? data.byId.get(pid)?.name}</a>{i < e.people.length - 1 ? ', ' : ''}</>)}</p>
+            <details><summary>Source{e.cites.length === 1 ? '' : 's'} ({e.cites.length})</summary><Fragment set:html={e.cites.map(citeHtml).join('')} /></details>
+          </div>
+        </li>
+      ))}
+    </ol>
+  </div>
+</Base>

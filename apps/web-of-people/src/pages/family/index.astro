@@ -1,0 +1,30 @@
+---
+import Base from '../../layouts/Base.astro';
+import { data } from '../../lib/data';
+import { avatarHtml, href } from '../../lib/html';
+import { familyTitle } from '../../lib/tree';
+
+const comps = data.families();
+const inTree = new Set(comps.flat());
+const rest = data.people.filter((p) => !inTree.has(p.id));
+---
+<Base title="Family history" current="family" description="Families the Cardinal notes document: who is whose spouse, parent or sibling, with every gap left visible.">
+  <div class="page">
+    <p class="eyebrow">{comps.length} families</p>
+    <h1>Family history</h1>
+    <p class="lede">
+      The notes document family links for only a handful of people. Those families are drawn here as trees. A card that says “parents not recorded” means the notes do not say, not that there were none. {rest.length} other people have no recorded family link and appear in the web by their work and events instead.
+    </p>
+    <div class="fam-cards">
+      {comps.map((c) => (
+        <a href={href(`/family/${c[0]}/`)}>
+          <b>{familyTitle(data, c)}</b>
+          <span class="faces"><Fragment set:html={c.map((id) => avatarHtml(data.byId.get(id)!, 'mini')).join('')} /></span>
+          <span class="dim">{c.length} people: {c.map((id) => data.byId.get(id)!.short ?? data.byId.get(id)!.name).join(', ')}</span>
+        </a>
+      ))}
+    </div>
+    <h2>Bring your own family</h2>
+    <p>The same tree view works for a family file you load yourself. <a href={href('/import/')}>Import a GEDCOM file</a>; it is read in your browser and never uploaded.</p>
+  </div>
+</Base>

@@ -1,0 +1,54 @@
+---
+import Base from '../../layouts/Base.astro';
+import { data } from '../../lib/data';
+import { avatarHtml, citeHtml, href } from '../../lib/html';
+import { slug } from '../../lib/chrome';
+
+export function getStaticPaths() {
+  return data.surnameGroups().map((g) => ({ params: { name: slug(g.surname) }, props: { g } }));
+}
+const { g } = Astro.props as { g: ReturnType<typeof data.surnameGroups>[number] };
+const birthNames = g.people.filter((p) => p.birthSurname);
+const related = data.families().filter((c) => c.some((id) => data.byId.get(id)!.surname === g.surname));
+---
+<Base title={`${g.surname}`} current="surnames" description={`People named ${g.surname} in the Cardinal web.`}>
+  <div class="page narrow">
+    <p class="meta"><a href={href('/surnames/')}>All surnames</a></p>
+    <p class="eyebrow">Surname</p>
+    <h1>{g.surname}</h1>
+    <h2>People</h2>
+    <ul class="people-grid">
+      {g.people.map((p) => (
+        <li>
+          <a href={href(`/people/${p.id}/`)}>
+            <Fragment set:html={avatarHtml(p, 'mini')} />
+            <span><b>{p.name}</b><span class="dim">{p.role ?? 'Role not recorded'}</span></span>
+          </a>
+        </li>
+      ))}
+    </ul>
+    <h2>Origin of the name</h2>
+    <p class="not-recorded">Not recorded. The Cardinal notes do not say where the name {g.surname} comes from, so none is claimed.</p>
+    {birthNames.length > 0 && (
+      <>
+        <h2>Maiden names the notes state</h2>
+        <ul class="fam-list">
+          {birthNames.map((p) => (
+            <li>
+              <b>{p.name}</b> <span class="dim">· birth surname {p.birthSurname}</span>
+              <details><summary>Source</summary><Fragment set:html={(p.birthSurnameCites ?? []).map(citeHtml).join('')} /></details>
+            </li>
+          ))}
+        </ul>
+      </>
+    )}
+    {related.length > 0 && (
+      <>
+        <h2>Family trees</h2>
+        <ul class="pill-list">
+          {related.map((c) => <li><a href={href(`/family/${c[0]}/`)}>{c.map((id) => data.byId.get(id)!.short ?? data.byId.get(id)!.name).join(', ')}</a></li>)}
+        </ul>
+      </>
+    )}
+  </div>
+</Base>
