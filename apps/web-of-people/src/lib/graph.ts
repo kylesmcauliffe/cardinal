@@ -148,7 +148,7 @@ export function mountWeb(root: HTMLElement, opts: WebOptions): WebHandle {
     </div>
     <div class="webwrap">
       <div class="stage">
-        <svg class="web" role="group" aria-label="Web of people. Drag a bubble to move it, scroll or pinch to zoom, press Enter on a bubble to open its profile."><g class="zl"><g class="links"></g><g class="hubs"></g><g class="nodes"></g></g></svg>
+        <svg class="web" role="group" aria-label="Web of people. Drag a bubble to move it, scroll or pinch to zoom, press Enter on a bubble to open its profile."><g class="zl"><g class="ruler"></g><g class="links"></g><g class="hubs"></g><g class="nodes"></g></g></svg>
         <div class="zoomctl">
           <button type="button" class="btn" data-z="in" aria-label="Zoom in">+</button>
           <button type="button" class="btn" data-z="out" aria-label="Zoom out">−</button>
@@ -189,6 +189,7 @@ export function mountWeb(root: HTMLElement, opts: WebOptions): WebHandle {
   let userZoomed = false;
   let lastFocus: Element | null = null;
   let tick = 0;
+  let destroyed = false;
 
   const nodeSel = () => zl.select('g.nodes').selectAll<SVGGElement, GNode>('g.node');
   const hubSel = () => zl.select('g.hubs').selectAll<SVGGElement, GNode>('g.hub');
@@ -203,6 +204,12 @@ export function mountWeb(root: HTMLElement, opts: WebOptions): WebHandle {
   function aspect() {
     const { w, h } = size();
     return Math.max(0.7, Math.min(2, h / w));
+  }
+
+  function targetY(n: GNode): number {
+    const i = nodes.indexOf(n);
+    const { w, h } = size();
+    return ((((i * 7) % 11) / 10) - 0.5) * Math.min(h * 1.5, w * 0.45);
   }
 
   function targetX(n: GNode, w: number): number {
@@ -339,10 +346,10 @@ export function mountWeb(root: HTMLElement, opts: WebOptions): WebHandle {
     sim?.stop();
     sim = forceSimulation<GNode>(nodes)
       .force('link', forceLink<GNode, GLink>(links).id((n) => n.id).distance((l) => l.dist).strength((l) => l.str))
-      .force('charge', forceManyBody<GNode>().strength((n) => (n.kind === 'place' ? -110 : -70 - n.r * 3.5)))
+      .force('charge', forceManyBody<GNode>().strength((n) => (state.time ? 1.6 : 1) * (n.kind === 'place' ? -110 : -70 - n.r * 3.5)))
       .force('collide', forceCollide<GNode>((n) => (n.kind === 'place' ? n.hw! + 2 : n.r + 8)).strength(0.9))
-      .force('x', forceX<GNode>((n) => targetX(n, size().w)).strength(state.time ? 0.28 : 0.09 * aspect() ** 1.5))
-      .force('y', forceY<GNode>(0).strength(state.time ? 0.08 : 0.11 / aspect() ** 1.5))
+      .force('x', forceX<GNode>((n) => targetX(n, size().w)).strength(state.time ? 0.35 : 0.09 * aspect() ** 1.5))
+      .force('y', forceY<GNode>((n) => (state.time ? targetY(n) : 0)).strength(state.time ? 0.07 : 0.11 / aspect() ** 1.5))
       .force('drift', () => {
         if (reduced) return;
         tick++;
@@ -357,9 +364,28 @@ export function mountWeb(root: HTMLElement, opts: WebOptions): WebHandle {
 
     sim.stop();
     for (let i = 0; i < 260; i++) sim.tick();
+    drawRuler();
     paint();
     if (!reduced) sim.alpha(0.2).alphaTarget(idleTarget()).restart();
     applyClasses();
+  }
+
+  function drawRuler() {
+    const g = zl.select('g.ruler');
+    g.selectAll('*').remove();
+    if (!state.time) return;
+    const { w } = size();
+    let y0 = Infinity;
+    let y1 = -Infinity;
+    for (const n of nodes) {
+      y0 = Math.min(y0, n.y! - n.r);
+      y1 = Math.max(y1, n.y! + n.r);
+    }
+    for (let yr = 1750; yr <= 2050; yr += 50) {
+      const x = targetX({ year: yr } as GNode, w);
+      g.append('line').attr('class', 'ruler-line').attr('x1', x).attr('x2', x).attr('y1', y0 - 28).attr('y2', y1 + 28);
+      g.append('text').attr('class', 'ruler-text').attr('x', x + 5).attr('y', y0 - 34).text(String(yr));
+    }
   }
 
   function idleTarget() {
@@ -430,6 +456,10 @@ export function mountWeb(root: HTMLElement, opts: WebOptions): WebHandle {
   function setZoom() {
     zb = zoom<SVGSVGElement, unknown>()
       .scaleExtent([0.25, 4])
+      .extent(() => {
+        const { w, h } = size();
+        return [[0, 0], [w, h]];
+      })
       .filter((e: Event) => !(e as MouseEvent).ctrlKey || e.type === 'wheel')
       .on('zoom', (e) => {
         zl.attr('transform', e.transform.toString());
@@ -440,6 +470,7 @@ export function mountWeb(root: HTMLElement, opts: WebOptions): WebHandle {
   }
 
   function fit() {
+    if (destroyed || !svg.node()?.isConnected) return;
     const { w, h } = size();
     const items = nodes.filter((n) => n.x != null);
     if (!items.length) return;
@@ -563,6 +594,7 @@ export function mountWeb(root: HTMLElement, opts: WebOptions): WebHandle {
   const ro = new ResizeObserver(() => {
     cancelAnimationFrame(rz);
     rz = requestAnimationFrame(() => {
+      if (destroyed) return;
       const m = matchMedia('(max-width: 720px)').matches;
       if (m !== mobile) {
         mobile = m;
@@ -583,6 +615,8 @@ export function mountWeb(root: HTMLElement, opts: WebOptions): WebHandle {
     select: (id, center = true) => (id ? choose(id, center) : close()),
     fit: () => fit(),
     destroy() {
+      destroyed = true;
+      cancelAnimationFrame(rz);
       sim?.stop();
       ro.disconnect();
       document.removeEventListener('keydown', onKey);

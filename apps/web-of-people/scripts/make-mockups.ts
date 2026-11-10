@@ -327,9 +327,9 @@ const gallery = `<!doctype html>
 <body>
 <header class="mast"><div class="mast-in"><a class="brand" href="index.html"><b>Web of People</b>&nbsp;<small>Mockups</small></a></div></header>
 <main><div class="page">
-<p class="eyebrow">Static comps · before the build</p>
+<p class="eyebrow">Static comps</p>
 <h1>Mockups</h1>
-<p class="lede">Five pages, full length from header to footer, each shown at desktop (1280 px) and phone (390 px) width. They use the real stylesheet and the real cited data, but they are frozen: open any page to see it live in your browser at any width. Images are exported by <code>npm run mockups</code>.</p>
+<p class="lede">Five pages, full length from header to footer, each shown at desktop (1280 px) and phone (390 px) width. They are generated from the app’s own stylesheet, renderers and cited data, but frozen: open any page to see it live in your browser at any width. Images are exported by <code>npm run mockups</code>.</p>
 <div class="gal">
 ${pages
   .map(

@@ -1,6 +1,6 @@
 /**
  * Process screenshots. Usage:
- *   node scripts/shoot.mjs mockups   -> mockups/png/*.png and a copy in process/01-mockups/
+ *   node scripts/shoot.mjs mockups   -> mockups/png/*.png and a copy in process/02-mockups/
  *   node scripts/shoot.mjs app       -> process/03-app/*.png (needs `npm run build` first)
  *   node scripts/shoot.mjs <name> <path> <width> [height]   -> one ad-hoc shot into process/_tmp/
  * Uses the system Chrome through playwright-core. Motion is reduced so shots are repeatable.
@@ -38,7 +38,7 @@ async function settle(page) {
 async function mockups() {
   const dir = join(root, 'mockups');
   const png = join(dir, 'png');
-  const proc = join(root, 'process', '01-mockups');
+  const proc = join(root, 'process', '02-mockups');
   mkdirSync(png, { recursive: true });
   mkdirSync(proc, { recursive: true });
   const pages = ['web', 'web-open', 'profile', 'family', 'surname-place'];
@@ -60,7 +60,7 @@ async function mockups() {
   await b.close();
 }
 
-const NODE = (n) => `g.node[aria-label^="${n},"]`;
+const NODE = (n) => `g.node[aria-label^="${n}"]`;
 
 const APP_SHOTS = [
   { name: '01-web-desktop', path: '/', w: 1440, h: 1000 },

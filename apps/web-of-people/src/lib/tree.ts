@@ -50,7 +50,7 @@ export function treeSvg(d: Data, comp: string[], focus?: string | null, uid = 't
     if (r.b) edges.push({ type: r.type, a: r.a, b: r.b });
     else {
       const gid = `ghost:${r.id}`;
-      nodes.set(gid, { id: gid, ghost: { label: r.bLabel ?? 'Relative not named' }, gen: 0, x: 0, y: 0 });
+      nodes.set(gid, { id: gid, ghost: { label: (r.bLabel ?? 'A relative').replace(/\s*\(.*\)\s*$/, '') }, gen: 0, x: 0, y: 0 });
       edges.push({ type: r.type, a: r.a, b: gid });
     }
   }

@@ -115,7 +115,7 @@ input[type='search'] { width: min(100%, 22rem); }
 .chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
 
 /* ---------- the web ---------- */
-.webwrap { position: relative; }
+.webwrap { position: relative; overflow: hidden; }
 .stage {
   position: relative; border: 1px solid var(--rule); background: var(--ground-2); overflow: hidden; height: min(76vh, 46rem); min-height: 26rem; touch-action: none; user-select: none;
 }
@@ -342,3 +342,5 @@ svg.tree { display: block; margin: 0 auto; max-width: none; }
   .toolbar .tog { font-size: 0.74rem; }
 }
 .zoomctl .btn { font-size: 1.05rem; }
+.ruler-line { stroke: var(--rule); stroke-width: 1; stroke-dasharray: 3 5; }
+.ruler-text { fill: var(--ink-dim); font-family: var(--font-display); font-variation-settings: 'wdth' 85; font-size: 13px; font-weight: 650; }

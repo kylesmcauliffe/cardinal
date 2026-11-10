@@ -121,7 +121,7 @@ export function spanChart(d: Data): string {
   return fig(
     `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Span of years covered by each person's recorded events">${parts.join('')}</svg>`,
     'Years covered by each person’s recorded events',
-    'From a person’s first to last dated event in the notes. This is not a lifespan: people appear only for the moments the book records. The first 30 by start year are shown.',
+    'From a person’s first to last dated event in the notes. This is not a lifespan: people appear only for the moments the book records. Up to 30 people, by start year, are shown.',
     'chart-spans',
   );
 }
