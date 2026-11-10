@@ -482,7 +482,7 @@ export function mountWeb(root: HTMLElement, opts: WebOptions): WebHandle {
       y0 = Math.min(y0, n.y! - n.r - 4);
       y1 = Math.max(y1, n.y! + n.r + 20);
     }
-    const k = Math.min(2, 0.92 * Math.min(w / (x1 - x0), h / (y1 - y0)));
+    const k = Math.min(1.25, 0.92 * Math.min(w / (x1 - x0), h / (y1 - y0)));
     const t = zoomIdentity.translate(w / 2 - (k * (x0 + x1)) / 2, h / 2 - (k * (y0 + y1)) / 2).scale(k);
     svg.call(zb.transform, t);
     userZoomed = false;
