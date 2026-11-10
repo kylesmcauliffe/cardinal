@@ -10,7 +10,7 @@ import { initTimeline } from './timeline';
 
 export interface GNode extends SimulationNodeDatum {
   id: string;
-  kind: 'person' | 'place';
+  kind: 'person' | 'place' | 'org';
   label: string;
   r: number;
   deg: number;
@@ -41,19 +41,21 @@ export interface WebHandle {
   destroy(): void;
 }
 
-function hubPeople(d: Data) {
+function hubPeople(d: Data, visible: Set<string>) {
   const m = new Map<string, Set<string>>();
   for (const e of d.events) {
     if (!e.place || !d.placeById.has(e.place)) continue;
     if (!m.has(e.place)) m.set(e.place, new Set());
-    for (const p of e.people) m.get(e.place)!.add(p);
+    for (const p of e.people) if (visible.has(p)) m.get(e.place)!.add(p);
   }
   return m;
 }
 
-export function buildGraph(d: Data, o: { shared: boolean; places: boolean; mobile: boolean }) {
+export function buildGraph(d: Data, o: { shared: boolean; places: boolean; orgs?: boolean; relatives?: boolean; mobile: boolean }) {
   const scale = o.mobile ? 0.8 : 1;
-  const nodes: GNode[] = d.people.map((p, i) => {
+  const shown = d.people.filter((p) => o.relatives || !p.relative);
+  const visible = new Set(shown.map((p) => p.id));
+  const nodes: GNode[] = shown.map((p, i) => {
     const deg = d.degree(p.id);
     return {
       id: p.id,
@@ -71,7 +73,7 @@ export function buildGraph(d: Data, o: { shared: boolean; places: boolean; mobil
   const pairKey = (a: string, b: string) => (a < b ? `${a}|${b}` : `${b}|${a}`);
   const related = new Set<string>();
   for (const r of d.relationships) {
-    if (!r.b) continue;
+    if (!r.b || !visible.has(r.a) || !visible.has(r.b)) continue;
     related.add(pairKey(r.a, r.b));
     const fam = FAMILY_TYPES.includes(r.type);
     links.push({
@@ -86,7 +88,7 @@ export function buildGraph(d: Data, o: { shared: boolean; places: boolean; mobil
   if (o.shared) {
     const agg = new Map<string, { a: string; b: string; n: number }>();
     for (const e of d.events) {
-      const ps = [...new Set(e.people)];
+      const ps = [...new Set(e.people)].filter((x) => visible.has(x));
       if (ps.length < 2 || ps.length > 8) continue;
       for (let i = 0; i < ps.length; i++)
         for (let j = i + 1; j < ps.length; j++) {
@@ -100,7 +102,7 @@ export function buildGraph(d: Data, o: { shared: boolean; places: boolean; mobil
     for (const [k, v] of agg) links.push({ id: 'sh-' + k, source: v.a, target: v.b, type: 'shared', dist: 130 * scale, str: 0.18 });
   }
   if (o.places) {
-    for (const [pid, people] of hubPeople(d)) {
+    for (const [pid, people] of hubPeople(d, visible)) {
       if (people.size < 3) continue;
       const pl = d.placeById.get(pid)!;
       const yrs = [...people].map((id) => d.firstYear(id)).filter((y): y is number => y != null);
@@ -119,7 +121,36 @@ export function buildGraph(d: Data, o: { shared: boolean; places: boolean; mobil
       for (const id of people) links.push({ id: `pl-${pid}-${id}`, source: id, target: 'place:' + pid, type: 'placelink', dist: 130 * scale, str: 0.05 });
     }
   }
+  if (o.orgs) {
+    for (const org of d.orgs) {
+      const members = d.membersOf(org.id).filter((m) => visible.has(m.person.id));
+      if (members.length < 2) continue;
+      const yrs = members.map((m) => d.firstYear(m.person.id)).filter((y): y is number => y != null);
+      const label = org.name.length > 24 ? org.name.slice(0, 23) + '…' : org.name;
+      nodes.push({
+        id: 'org:' + org.id,
+        kind: 'org',
+        label,
+        r: 14,
+        deg: members.length,
+        year: yrs.length ? yrs.reduce((a, b) => a + b, 0) / yrs.length : null,
+        phase: (nodes.length * 2.399963) % (Math.PI * 2),
+        hw: Math.max(34, label.length * 3.6 + 12),
+        sub: `${members.length} people`,
+      });
+      for (const m of members) links.push({ id: `org-${org.id}-${m.person.id}`, source: m.person.id, target: 'org:' + org.id, type: 'orglink', dist: 120 * scale, str: 0.06 });
+    }
+  }
   return { nodes, links };
+}
+
+export function orgPanelHtml(d: Data, orgId: string): string {
+  const org = d.orgById.get(orgId)!;
+  const members = d.membersOf(orgId);
+  const open = d.local ? '' : `<p><a class="btn" href="${esc(href('/organisations/' + orgId + '/'))}">Open organisation page</a></p>`;
+  return `<article class="profile"><header class="profile-head"><span class="portrait none" aria-hidden="true"><span class="init">ORG</span></span><div><p class="eyebrow">Organisation · ${esc(org.kind)}</p><h2>${esc(org.name)}</h2><p class="role">${esc(org.summary)}</p></div></header>
+  <section><h3>People linked here</h3><ul class="fam-list">${members.map((m) => `<li><span class="fam-rel">${esc(m.aff.role)}</span> <a href="${esc(href('/people/' + m.person.id + '/'))}" data-person="${esc(m.person.id)}">${esc(m.person.name)}</a></li>`).join('')}</ul></section>
+  ${open}</article>`;
 }
 
 export function placePanelHtml(d: Data, placeId: string): string {
@@ -135,7 +166,7 @@ export function placePanelHtml(d: Data, placeId: string): string {
 export function mountWeb(root: HTMLElement, opts: WebOptions): WebHandle {
   const d = opts.data;
   const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
-  const state = { time: false, shared: true, places: true, selected: null as string | null, term: '' };
+  const state = { time: false, shared: true, places: true, orgs: true, relatives: false, selected: null as string | null, term: '' };
   let mobile = matchMedia('(max-width: 720px)').matches;
 
   root.innerHTML = `
@@ -144,7 +175,7 @@ export function mountWeb(root: HTMLElement, opts: WebOptions): WebHandle {
       <datalist id="wp-names">${d.people.map((p) => `<option value="${esc(p.name)}"></option>`).join('')}</datalist>
       <label class="tog"><input type="checkbox" data-t="time"> Arrange by time</label>
       <label class="tog"><input type="checkbox" data-t="shared" checked> Shared-event links</label>
-      <label class="tog"><input type="checkbox" data-t="places" checked> Place hubs</label>
+      <label class="tog"><input type="checkbox" data-t="places" checked> Place hubs</label>${d.orgs.length ? '\n      <label class="tog"><input type="checkbox" data-t="orgs" checked> Organisation hubs</label>' : ''}${d.people.some((p) => p.relative) ? '\n      <label class="tog"><input type="checkbox" data-t="relatives"> Show relatives</label>' : ''}
     </div>
     <div class="webwrap">
       <div class="stage">
@@ -169,6 +200,7 @@ export function mountWeb(root: HTMLElement, opts: WebOptions): WebHandle {
       <li><svg viewBox="0 0 36 8"><path d="M0 4H36" style="stroke-width:2;stroke-dasharray:7 5"/></svg> Mentor or recruited</li>
       <li><svg viewBox="0 0 36 8"><path d="M0 4H36" style="stroke:var(--ink);stroke-width:2;stroke-dasharray:2 6;stroke-linecap:round"/></svg> Conflict</li>
       <li><svg viewBox="0 0 36 8"><path d="M0 4H36" style="stroke-width:1;stroke-dasharray:1 5;stroke-linecap:round"/></svg> Same recorded event</li>
+      ${d.orgs.length ? '<li><svg viewBox="0 0 36 14"><rect x="1" y="2" width="34" height="10" rx="5" style="fill:none;stroke:var(--cardinal-lift);stroke-width:2"/></svg> Organisation hub</li>' : ''}
       <li>Bubble size = number of people connected</li>
     </ul>`;
 
@@ -220,7 +252,7 @@ export function mountWeb(root: HTMLElement, opts: WebOptions): WebHandle {
 
   function build(keepPositions: boolean) {
     const old = new Map(nodes.map((n) => [n.id, n]));
-    const g = buildGraph(d, { shared: state.shared, places: state.places, mobile });
+    const g = buildGraph(d, { shared: state.shared, places: state.places, orgs: state.orgs, relatives: state.relatives, mobile });
     nodes = g.nodes;
     links = g.links;
     nodes.forEach((n, i) => {
@@ -256,17 +288,17 @@ export function mountWeb(root: HTMLElement, opts: WebOptions): WebHandle {
       .attr('class', (l) => `link ${l.type}`);
 
     const people = nodes.filter((n) => n.kind === 'person');
-    const hubs = nodes.filter((n) => n.kind === 'place');
+    const hubs = nodes.filter((n) => n.kind !== 'person');
 
     const hs = zl
       .select('g.hubs')
       .selectAll<SVGGElement, GNode>('g')
       .data(hubs, (n) => n.id)
       .join('g')
-      .attr('class', 'hub')
+      .attr('class', (n) => `hub ${n.kind}`)
       .attr('tabindex', 0)
       .attr('role', 'button')
-      .attr('aria-label', (n) => `Place: ${n.label}. Press Enter to see who is recorded here.`);
+      .attr('aria-label', (n) => (n.kind === 'org' ? `Organisation: ${n.label}. Press Enter to see who is linked.` : `Place: ${n.label}. Press Enter to see who is recorded here.`));
     hs.append('rect')
       .attr('x', (n) => -n.hw!)
       .attr('y', -12)
@@ -346,8 +378,8 @@ export function mountWeb(root: HTMLElement, opts: WebOptions): WebHandle {
     sim?.stop();
     sim = forceSimulation<GNode>(nodes)
       .force('link', forceLink<GNode, GLink>(links).id((n) => n.id).distance((l) => l.dist).strength((l) => l.str))
-      .force('charge', forceManyBody<GNode>().strength((n) => (state.time ? 1.6 : 1) * (n.kind === 'place' ? -110 : -70 - n.r * 3.5)))
-      .force('collide', forceCollide<GNode>((n) => (n.kind === 'place' ? n.hw! + 2 : n.r + 8)).strength(0.9))
+      .force('charge', forceManyBody<GNode>().strength((n) => (state.time ? 1.6 : 1) * (n.kind !== 'person' ? -110 : -70 - n.r * 3.5)))
+      .force('collide', forceCollide<GNode>((n) => (n.kind !== 'person' ? n.hw! + 2 : n.r + 8)).strength(0.9))
       .force('x', forceX<GNode>((n) => targetX(n, size().w)).strength(state.time ? 0.35 : 0.09 * aspect() ** 1.5))
       .force('y', forceY<GNode>((n) => (state.time ? targetY(n) : 0)).strength(state.time ? 0.07 : 0.11 / aspect() ** 1.5))
       .force('drift', () => {
@@ -476,7 +508,7 @@ export function mountWeb(root: HTMLElement, opts: WebOptions): WebHandle {
     if (!items.length) return;
     let x0 = Infinity, x1 = -Infinity, y0 = Infinity, y1 = -Infinity;
     for (const n of items) {
-      const r = n.kind === 'place' ? n.hw! : n.r + 6;
+      const r = n.kind !== 'person' ? n.hw! : n.r + 6;
       x0 = Math.min(x0, n.x! - r);
       x1 = Math.max(x1, n.x! + r);
       y0 = Math.min(y0, n.y! - n.r - 4);
@@ -510,11 +542,18 @@ export function mountWeb(root: HTMLElement, opts: WebOptions): WebHandle {
   }
 
   function choose(id: string, center: boolean) {
+    if (d.byId.get(id)?.relative && !state.relatives) {
+      state.relatives = true;
+      const box = root.querySelector<HTMLInputElement>('[data-t="relatives"]');
+      if (box) box.checked = true;
+      build(true);
+    }
     const n = nodes.find((x) => x.id === id);
     if (!n) return;
     lastFocus = document.activeElement;
     state.selected = n.kind === 'place' ? id.slice(6) : id;
     if (n.kind === 'person') open(profileHtml(d, id, { heading: 'h2' }), href('/people/' + id + '/'));
+    else if (n.kind === 'org') open(orgPanelHtml(d, id.slice(4)), href('/organisations/' + id.slice(4) + '/'));
     else open(placePanelHtml(d, id.slice(6)), href('/places/' + id.slice(6) + '/'));
     if (center) centerOn(id);
     if (opts.syncUrl !== false) {
@@ -609,7 +648,7 @@ export function mountWeb(root: HTMLElement, opts: WebOptions): WebHandle {
   build(false);
   fit();
   const start = 'initial' in opts ? opts.initial : new URL(location.href).searchParams.get('p');
-  if (start && (d.byId.has(start) || start.startsWith('place:'))) choose(start, true);
+  if (start && (d.byId.has(start) || start.startsWith('place:') || start.startsWith('org:'))) choose(start, true);
 
   return {
     select: (id, center = true) => (id ? choose(id, center) : close()),

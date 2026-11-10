@@ -10,6 +10,8 @@
     "preview": "astro preview --host 0.0.0.0",
     "data": "node scripts/build-data.mjs",
     "data:check": "node scripts/build-data.mjs --check",
+    "verify:web": "node scripts/verify-web.mjs --fresh",
+    "portraits": "node scripts/fetch-portraits.mjs",
     "test": "vitest run",
     "test:smoke": "node tests/smoke.mjs",
     "shoot": "node scripts/shoot.mjs",

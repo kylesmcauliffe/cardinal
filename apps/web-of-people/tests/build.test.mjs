@@ -59,10 +59,11 @@ describe.each([['/'], ['/wop/']])('static build with base %s', (base) => {
   }, 120000);
 
   it('emits every route in the URL sheet', () => {
-    const must = ['', 'people/', 'family/', 'surnames/', 'places/', 'charts/', 'import/', 'sources/', '404.html'];
+    const must = ['', 'people/', 'family/', 'surnames/', 'places/', 'charts/', 'import/', 'sources/', 'organisations/', '404.html'];
     for (const r of must) expect(existsSync(join(out, r, r.endsWith('.html') ? '' : 'index.html')), r).toBe(true);
     for (const p of ds.people) expect(existsSync(join(out, 'people', p.id, 'index.html')), p.id).toBe(true);
     for (const p of ds.places) expect(existsSync(join(out, 'places', p.id, 'index.html')), p.id).toBe(true);
+    for (const o of ds.orgs) expect(existsSync(join(out, 'organisations', o.id, 'index.html')), o.id).toBe(true);
   });
 
   it('has no broken internal links or assets', () => {

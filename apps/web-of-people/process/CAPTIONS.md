@@ -63,3 +63,25 @@ Surname origins are “not recorded” because the notes do not say. Charts are 
 ![GEDCOM import, phone](03-app/15-import-mobile.png)
 
 A GEDCOM file (for example an Ancestry export) is parsed in the browser and shown as the same web and trees. Living people are hidden by default; nothing is uploaded. The sample is a fictional family.
+
+## 9. Second pass (10 November 2026)
+
+![Portraits contact sheet](01-data/portraits-contact-sheet.png)
+
+49 of the 57 people in the web now have a licence-checked portrait. The 8 dashed boxes have none, and each profile says what was searched.
+
+![Organisation page](03-app/17-organisation-desktop.png)
+![Organisations index](03-app/18-organisations-index-desktop.png)
+
+Organisations appear only where a page states what they are and who was tied to them. Each link to a person carries its own quote.
+
+![Web with relatives shown](03-app/19-web-relatives-desktop.png)
+![Three-generation family tree](03-app/20-family-three-generations-desktop.png)
+
+The 158 relatives named through family links stay out of the web until “Show relatives” is on. Trees now run to three generations; unnamed relatives are dashed placeholders.
+
+![Profile with a non-Commons portrait](03-app/21-profile-non-commons-portrait-desktop.png)
+![Profile with no portrait](03-app/22-profile-no-portrait-desktop.png)
+![Sources page with external pages](03-app/23-sources-external-desktop.png)
+
+Francisco Palóu’s portrait is a 1926 book plate from the Internet Archive; the credit states how its rights were worked out. Eugene Kleiner has none, and the profile says why. The sources page now lists the 170 external pages and how they were checked.

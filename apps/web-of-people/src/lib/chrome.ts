@@ -6,6 +6,7 @@ export const NAV: [string, string, string][] = [
   ['family', 'Family', '/family/'],
   ['surnames', 'Surnames', '/surnames/'],
   ['places', 'Places', '/places/'],
+  ['organisations', 'Organisations', '/organisations/'],
   ['charts', 'Charts', '/charts/'],
   ['import', 'Import', '/import/'],
   ['sources', 'Sources', '/sources/'],
@@ -30,10 +31,10 @@ export function headerHtml(current: string): string {
   </div></header>`;
 }
 
-export function footerHtml(counts: { people: number; events: number; sources: number }): string {
+export function footerHtml(counts: { people: number; events: number; sources: number; web?: number }): string {
   return `<footer class="foot"><div class="foot-in">
     <p><b>Web of People</b> is a prototype for Cardinal, built to be reused in Dawn.</p>
-    <p class="fine">${counts.people} people, ${counts.events} events and ${counts.sources} repository sources. Every fact cites a file in the Cardinal repository with a verbatim quote. Where the notes are silent, this site says “not recorded”. Entries marked Draft come from drafting notes that the project’s own research log has not yet verified. Portraits are public-domain or Creative Commons images from Wikimedia Commons, credited on each profile.</p>
+    <p class="fine">${counts.people} people, ${counts.events} events and ${counts.sources} repository files${counts.web ? ` and ${counts.web} external pages` : ''} as sources. Every fact cites a file in the Cardinal repository or an external page, with a verbatim quote. Where the sources are silent, this site says “not recorded”. Entries marked Draft come from drafting notes that no external source has yet confirmed. Portraits are public-domain or Creative Commons images, almost all from Wikimedia Commons, credited on each profile; where none was found the profile says so.</p>
     <p class="fine"><a href="${esc(href('/sources/'))}">Sources</a> · <a href="${esc(href('/charts/'))}">Charts</a> · <a href="${esc(href('/import/'))}">Import a family file</a></p>
   </div></footer>`;
 }

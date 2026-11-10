@@ -1,0 +1,23 @@
+[
+  {
+    "personId": "francisco-palou",
+    "file": "portraits/francisco-palou.jpg",
+    "source": "Internet Archive",
+    "pageTitle": "Historical Memoirs of New California, vol. 1 (Palóu; ed. Bolton, 1926), plate facing p. xxiv",
+    "pageUrl": "https://archive.org/details/historicalmemoir0001fray/page/n32/mode/1up",
+    "author": "Anonymous painter (painting in the Museo Nacional, Mexico); reproduced in Historical Memoirs of New California, ed. Herbert Eugene Bolton",
+    "credit": "University of California Press, Berkeley, 1926 (scan: Internet Archive, from the Dominican College Library, San Rafael)",
+    "date": "Undated 18th-century painting; halftone plate published 1926",
+    "fileUrl": "https://archive.org/download/historicalmemoir0001fray/page/n32.jpg",
+    "medium": "halftone plate of an oil portrait painting, head and shoulders in Franciscan habit",
+    "subjectEvidence": "The printed caption on the plate reads: \"Portrait of Father Palóu. From the painting in the Museo Nacional, Mexico. With facsimile of signature.\" The book's text records it as the frontispiece to the introduction at page xxiv.",
+    "verifiedOn": "2026-11-10",
+    "license": "Public domain (US publication 1926; the painting is 18th century)",
+    "licenseUrl": null,
+    "rightsStatement": "The Internet Archive item page carries no licence or rights field. The basis is the publication date: the title page reads University of California Press, Berkeley, 1926, and US works published in 1926 entered the public domain on 1 January 2022. The underlying painting is far older. This is a date-based determination, not a statement on the page.",
+    "description": "Plate: Portrait of Father Palóu",
+    "scaled": "Cropped from the scanned plate page (1896×2856 px) to the portrait (1318×1294 px), then resized to 500x491 px; no other edits. The attribution to Palóu rests on the 1926 caption; the painting's painter is not recorded.",
+    "sha256": "9c951919976838d4edae4a1fde52d77d3f67a07a8509517f3bd63576f0c8115f",
+    "retrieved": "2026-11-10"
+  }
+]

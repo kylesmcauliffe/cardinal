@@ -72,22 +72,45 @@ export function placesHtml(d: Data, id: string): string {
     .join('')}</ul>`;
 }
 
+export function orgsHtml(d: Data, id: string): string {
+  const rows = d.affiliationsFor(id);
+  if (!rows.length) return '<p class="not-recorded">No organisations recorded.</p>';
+  return `<ul class="fam-list">${rows
+    .map(({ aff, org }) => {
+      const name = d.local ? esc(org.name) : `<a href="${esc(href('/organisations/' + org.id + '/'))}">${esc(org.name)}</a>`;
+      return `<li><span class="fam-rel">${esc(aff.role)}</span> ${name}<details class="role-src"><summary>Source${aff.cites.length === 1 ? '' : 's'}</summary>${aff.cites.map(citeHtml).join('')}</details></li>`;
+    })
+    .join('')}</ul>`;
+}
+
 export function sourcesHtml(d: Data, id: string): string {
   const files = new Map<string, number>();
-  const bump = (f: string) => files.set(f, (files.get(f) ?? 0) + 1);
+  const web = new Map<string, number>();
+  const bump = (c: { f?: string; url?: string }) => {
+    if (c.url) web.set(c.url, (web.get(c.url) ?? 0) + 1);
+    else if (c.f) files.set(c.f, (files.get(c.f) ?? 0) + 1);
+  };
   const p = d.byId.get(id)!;
-  p.roleCites?.forEach((c) => bump(c.f));
-  d.eventsFor(id).forEach((e) => e.cites.forEach((c) => bump(c.f)));
-  d.relsFor(id).forEach((r) => r.rel.cites.forEach((c) => bump(c.f)));
-  if (!files.size) return '<p class="not-recorded">No sources.</p>';
+  p.roleCites?.forEach(bump);
+  d.affiliationsFor(id).forEach(({ aff }) => aff.cites.forEach(bump));
+  d.eventsFor(id).forEach((e) => e.cites.forEach(bump));
+  d.relsFor(id).forEach((r) => r.rel.cites.forEach(bump));
+  if (!files.size && !web.size) return '<p class="not-recorded">No sources.</p>';
   const title = new Map(d.ds.sources.map((s) => [s.path, s.title]));
-  return `<ul class="fam-list">${[...files.entries()]
+  const wtitle = new Map((d.ds.webSources ?? []).map((s) => [s.url, `${s.title} (${s.publisher})`]));
+  const repoItems = [...files.entries()]
     .sort((a, b) => b[1] - a[1])
     .map(
       ([f, n]) =>
         `<li><b>${esc(title.get(f) ?? f)}</b> <span class="dim">· ${n} citation${n === 1 ? '' : 's'}</span><br><code class="dim" style="font-size:.8rem;word-break:break-all">${esc(f)}</code></li>`,
-    )
-    .join('')}</ul>`;
+    );
+  const webItems = [...web.entries()]
+    .sort((a, b) => b[1] - a[1])
+    .map(
+      ([u, n]) =>
+        `<li><a href="${esc(u)}" rel="noopener"><b>${esc(wtitle.get(u) ?? u)}</b></a> <span class="dim">· ${n} citation${n === 1 ? '' : 's'}</span><br><code class="dim" style="font-size:.8rem;word-break:break-all">${esc(u)}</code></li>`,
+    );
+  return `<ul class="fam-list">${[...repoItems, ...webItems].join('')}</ul>`;
 }
 
 export interface ProfileOpts {
@@ -104,8 +127,10 @@ export function profileHtml(d: Data, id: string, o: ProfileOpts = {}): string {
   const badges = [...counts.entries()].map(([s, n]) => `<span class="badge">${n} ${STATUS_LABEL[s].toLowerCase()}</span>`).join('');
   const gaps = d.gaps(id);
   const credit = p.portrait
-    ? `<p class="credit">Portrait: ${esc(p.portrait.author)}, ${esc(p.portrait.date)}. ${esc(p.portrait.license)}${p.portrait.licenseUrl ? ` (<a href="${esc(p.portrait.licenseUrl)}" rel="noopener">licence</a>)` : ''}. <a href="${esc(p.portrait.commonsUrl)}" rel="noopener">Wikimedia Commons</a>. ${esc(p.portrait.scaled)}</p>`
-    : '';
+    ? `<p class="credit">Portrait${p.portrait.medium ? ` (${esc(p.portrait.medium)})` : ''}: ${esc(p.portrait.author)}, ${esc(p.portrait.date)}. ${esc(p.portrait.license)}${p.portrait.licenseUrl ? ` (<a href="${esc(p.portrait.licenseUrl)}" rel="noopener">licence</a>)` : ''}. <a href="${esc(p.portrait.pageUrl)}" rel="noopener">${esc(p.portrait.source ?? 'Wikimedia Commons')}</a>. ${esc(p.portrait.scaled)}${p.portrait.rightsStatement ? ` ${esc(p.portrait.rightsStatement)}` : ''}</p>`
+    : p.portraitGap
+      ? `<p class="credit">No portrait: ${esc(p.portraitGap.why)}. Searched ${esc(p.portraitGap.checked)}: ${esc(p.portraitGap.searched)}.</p>`
+      : '';
   return `<article class="profile" data-profile="${esc(id)}">
     <header class="profile-head">
       ${avatarHtml(p, 'portrait')}
@@ -122,6 +147,7 @@ export function profileHtml(d: Data, id: string, o: ProfileOpts = {}): string {
     <section aria-labelledby="h-tl-${esc(id)}"><${h === 'h1' ? 'h2' : 'h3'} id="h-tl-${esc(id)}">Timeline</${h === 'h1' ? 'h2' : 'h3'}>${timelineHtml(d, id)}</section>
     <section><${h === 'h1' ? 'h2' : 'h3'}>Family history</${h === 'h1' ? 'h2' : 'h3'}>${familyHtml(d, id)}</section>
     <section><${h === 'h1' ? 'h2' : 'h3'}>Connections</${h === 'h1' ? 'h2' : 'h3'}>${connectionsHtml(d, id)}</section>
+    ${d.orgs.length ? `<section><${h === 'h1' ? 'h2' : 'h3'}>Organisations</${h === 'h1' ? 'h2' : 'h3'}>${orgsHtml(d, id)}</section>` : ''}
     <section><${h === 'h1' ? 'h2' : 'h3'}>Places</${h === 'h1' ? 'h2' : 'h3'}>${placesHtml(d, id)}</section>
     <section><${h === 'h1' ? 'h2' : 'h3'}>Sources</${h === 'h1' ? 'h2' : 'h3'}>${sourcesHtml(d, id)}</section>
   </article>`;

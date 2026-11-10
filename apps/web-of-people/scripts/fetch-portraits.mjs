@@ -3,6 +3,7 @@
 // Wikimedia Commons API for license + attribution, downloads a scaled thumbnail,
 // and writes data/portraits.json. Anything outside the license allowlist is refused.
 import { mkdir, writeFile, readFile } from 'node:fs/promises';
+import { imageSize, scaledNote } from './lib/imgsize.mjs';
 import { readFileSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import { dirname, join } from 'node:path';
@@ -10,7 +11,7 @@ import { fileURLToPath } from 'node:url';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const UA = 'CardinalWebOfPeople/0.1 (research prototype; github.com/kylesmcauliffe/cardinal)';
-const WIDTH = 360;
+const WIDTH = 360; // requested; Commons serves its nearest standard thumbnail size (usually 500 px), or the original when that is smaller
 const req = JSON.parse(await readFile(join(root, 'data/portrait-requests.json'), 'utf8'));
 const allow = new Set(req.licenseAllowlist);
 const strip = (s = '') =>
@@ -30,6 +31,7 @@ async function politeFetch(url, asJson) {
   }
   throw new Error(`giving up on ${url}`);
 }
+const cleanDate = (d) => d.replace(/\s*date QS:.*$/i, '').replace(/\s*\{\{.*$/, '').replace(/^between (\d{4}) and (\d{4})$/, 'between $1 and $2').trim();
 const cleanAuthor = (a) => {
   const t = a.replace(/^(Unknown author\s*)+$/i, 'Unknown author').trim();
   return (t || 'Unknown author').slice(0, 160);
@@ -62,15 +64,19 @@ for (const r of req.requests) {
   out.push({
     personId: r.personId,
     file,
-    commonsTitle: page.title,
-    commonsUrl: info.descriptionurl,
+    pageTitle: page.title,
+    pageUrl: info.descriptionurl,
     author: cleanAuthor(strip(m.Artist?.value)),
     credit: strip(m.Credit?.value),
-    date: strip(m.DateTimeOriginal?.value),
+    date: cleanDate(strip(m.DateTimeOriginal?.value)),
+    fileUrl: info.url.replace(/\?.*$/, ''),
+    ...(r.medium ? { medium: r.medium } : {}),
+    ...(r.subjectEvidence ? { subjectEvidence: r.subjectEvidence } : {}),
+    verifiedOn: new Date().toISOString().slice(0, 10),
     license,
     licenseUrl: strip(m.LicenseUrl?.value) || null,
     description: strip(m.ImageDescription?.value).slice(0, 300),
-    scaled: `Scaled to ${WIDTH}px wide from the original; no other edits.`,
+    scaled: scaledNote({ width: info.width, height: info.height }, imageSize(bin)),
     sha256: createHash('sha256').update(bin).digest('hex'),
     retrieved: new Date().toISOString().slice(0, 10),
   });

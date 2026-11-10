@@ -32,7 +32,7 @@ const full = title === 'Web of People' ? title : `${title} · Web of People`;
     <main id="main">
       <slot />
     </main>
-    <Fragment set:html={footerHtml({ people: data.people.length, events: data.events.length, sources: data.ds.sources.length })} />
+    <Fragment set:html={footerHtml({ people: data.people.length, events: data.events.length, sources: data.ds.sources.length, web: data.ds.webSources?.length ?? 0 })} />
     <script>
       document.querySelectorAll('[data-theme-toggle]').forEach((b) =>
         b.addEventListener('click', () => {

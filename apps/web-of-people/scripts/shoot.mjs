@@ -79,6 +79,13 @@ const APP_SHOTS = [
   { name: '14-import-desktop', path: '/import/', w: 1280, h: 900, full: true, run: async (p) => { await p.click('#sample'); await p.waitForTimeout(900); } },
   { name: '15-import-mobile', path: '/import/', w: 390, h: 844, full: true, run: async (p) => { await p.click('#sample'); await p.waitForTimeout(900); } },
   { name: '16-people-mobile', path: '/people/', w: 390, h: 844, full: true },
+  { name: '17-organisation-desktop', path: '/organisations/fairchild-semiconductor/', w: 1280, h: 900, full: true },
+  { name: '18-organisations-index-desktop', path: '/organisations/', w: 1280, h: 900, full: true },
+  { name: '19-web-relatives-desktop', path: '/', w: 1440, h: 1000, run: async (p) => { await p.locator('input[data-t="relatives"]').check(); await p.waitForTimeout(1800); } },
+  { name: '20-family-three-generations-desktop', path: '/family/robert-noyce/', w: 1280, h: 900, full: true },
+  { name: '21-profile-non-commons-portrait-desktop', path: '/people/francisco-palou/', w: 1280, h: 900, full: true },
+  { name: '22-profile-no-portrait-desktop', path: '/people/eugene-kleiner/', w: 1280, h: 900, full: true },
+  { name: '23-sources-external-desktop', path: '/sources/', w: 1280, h: 900, full: true },
 ];
 
 async function app(outDir, only) {

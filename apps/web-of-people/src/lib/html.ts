@@ -44,12 +44,25 @@ export function statusBadge(s: Status): string {
 
 const REPO_BASE = 'https://github.com/kylesmcauliffe/cardinal/blob/main/';
 
+const KIND_LABEL: Record<string, string> = {
+  primary: 'primary source',
+  reference: 'reference work',
+  scholarly: 'scholarly work',
+  institutional: 'institutional page',
+  tertiary: 'encyclopedia (tertiary)',
+};
+
 export function citeHtml(c: Cite): string {
-  if (c.f.startsWith('import:')) {
-    return `<span class="cite">${esc(c.f.slice(7))}${c.line ? ` line ${c.line}` : ''} <q>${esc(c.q)}</q></span>`;
+  if (c.url) {
+    const label = [c.title, c.publisher].filter(Boolean).join(' · ') || c.url;
+    return `<span class="cite web"><a href="${esc(c.url)}" rel="noopener">${esc(label)}</a>${c.kind ? ` <span class="kind">${esc(KIND_LABEL[c.kind] ?? c.kind)}</span>` : ''} <q>${esc(c.q)}</q></span>`;
   }
-  const url = REPO_BASE + c.f.split('/').map(encodeURIComponent).join('/') + (c.line ? `#L${c.line}` : '');
-  const where = c.f + (c.line ? `:${c.line}` : '');
+  const f = c.f ?? '';
+  if (f.startsWith('import:')) {
+    return `<span class="cite">${esc(f.slice(7))}${c.line ? ` line ${c.line}` : ''} <q>${esc(c.q)}</q></span>`;
+  }
+  const url = REPO_BASE + f.split('/').map(encodeURIComponent).join('/') + (c.line ? `#L${c.line}` : '');
+  const where = f + (c.line ? `:${c.line}` : '');
   return `<span class="cite"><a href="${esc(url)}" rel="noopener">${esc(where)}</a> <q>${esc(c.q)}</q></span>`;
 }
 
