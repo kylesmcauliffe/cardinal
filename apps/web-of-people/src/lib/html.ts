@@ -5,11 +5,14 @@ export function esc(s: unknown): string {
   return String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]!);
 }
 
-let resolver: (path: string) => string = (path) => {
-  const base = (typeof import.meta !== 'undefined' && (import.meta as any).env?.BASE_URL) || '/';
-  const b = String(base).replace(/\/$/, '');
-  return b + (path.startsWith('/') ? path : '/' + path);
-};
+function baseUrl(): string {
+  // Vite inlines import.meta.env in the Astro build and in the browser bundle; plain Node (tsx) has none.
+  // @ts-ignore
+  const env = typeof import.meta.env !== 'undefined' ? import.meta.env : undefined;
+  return String(env?.BASE_URL ?? '/').replace(/\/$/, '');
+}
+
+let resolver: (path: string) => string = (path) => baseUrl() + (path.startsWith('/') ? path : '/' + path);
 
 export function setLinkResolver(fn: (path: string) => string) {
   resolver = fn;

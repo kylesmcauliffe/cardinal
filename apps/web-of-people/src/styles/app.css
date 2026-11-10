@@ -329,3 +329,16 @@ svg.tree { display: block; margin: 0 auto; max-width: none; }
 .node:hover text.lab, .node:focus-visible text.lab, .node.is-sel text.lab, .node.is-match text.lab { opacity: 1; }
 .sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 [hidden] { display: none !important; }
+
+@media (max-width: 720px) {
+  .stage .empty-note { display: none; }
+  .zoomctl { flex-direction: row; top: auto; bottom: 0.6rem; left: 0.6rem; }
+  .zoomctl .btn { min-height: 2.5rem; min-width: 2.5rem; padding: 0 0.7rem; }
+}
+@media (max-width: 560px) {
+  .lede .more { display: none; }
+  .toolbar { gap: 0.4rem 0.9rem; margin-bottom: 0.6rem; }
+  .toolbar .field { flex: 1 1 100%; }
+  .toolbar .tog { font-size: 0.74rem; }
+}
+.zoomctl .btn { font-size: 1.05rem; }

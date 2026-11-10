@@ -3,7 +3,7 @@ import { initials } from './data';
 import { yearOf } from './dates';
 import { esc, href, portraitSrc } from './html';
 
-const CW = 196;
+const CW = 212;
 const CH = 80;
 const GAP = 26;
 const COUPLE_GAP = 30;
@@ -247,7 +247,7 @@ export function treeSvg(d: Data, comp: string[], focus?: string | null, uid = 't
       face = `<circle class="circ" cx="30" cy="${CH / 2}" r="22" stroke-dasharray="3 3"/><text class="circ-i" x="30" y="${CH / 2}">${esc(initials(p.name))}</text>`;
     }
     const noParents = !parentsOf.has(p.id);
-    const nm = clip(p.name.length > 21 ? p.short ?? p.name : p.name, 21);
+    const nm = clip(p.name.length > 22 ? p.short ?? p.name : p.name, 22);
     out.push(`<a href="${esc(href('/people/' + p.id + '/'))}" aria-label="${esc(p.name)}, ${esc(lifeShort(d, p.id))}">
       <g class="card${focus === p.id ? ' focus' : ''}" transform="translate(${cx} ${cy})"><title>${esc(p.name)}</title><rect width="${CW}" height="${CH}"/>
         ${face}

@@ -8,7 +8,7 @@ import { esc, href, personPill, portraitSrc } from './html';
 import { profileHtml } from './profile';
 import { initTimeline } from './timeline';
 
-interface GNode extends SimulationNodeDatum {
+export interface GNode extends SimulationNodeDatum {
   id: string;
   kind: 'person' | 'place';
   label: string;
@@ -22,7 +22,7 @@ interface GNode extends SimulationNodeDatum {
   sub?: string;
 }
 
-interface GLink extends SimulationLinkDatum<GNode> {
+export interface GLink extends SimulationLinkDatum<GNode> {
   type: string;
   dist: number;
   str: number;
@@ -51,7 +51,7 @@ function hubPeople(d: Data) {
   return m;
 }
 
-function buildGraph(d: Data, o: { shared: boolean; places: boolean; mobile: boolean }) {
+export function buildGraph(d: Data, o: { shared: boolean; places: boolean; mobile: boolean }) {
   const scale = o.mobile ? 0.8 : 1;
   const nodes: GNode[] = d.people.map((p, i) => {
     const deg = d.degree(p.id);
@@ -200,6 +200,11 @@ export function mountWeb(root: HTMLElement, opts: WebOptions): WebHandle {
     return { w: r.width || 800, h: r.height || 600 };
   }
 
+  function aspect() {
+    const { w, h } = size();
+    return Math.max(0.7, Math.min(2, h / w));
+  }
+
   function targetX(n: GNode, w: number): number {
     if (!state.time || n.year == null) return 0;
     const t = (n.year - 1760) / (2025 - 1760);
@@ -336,8 +341,8 @@ export function mountWeb(root: HTMLElement, opts: WebOptions): WebHandle {
       .force('link', forceLink<GNode, GLink>(links).id((n) => n.id).distance((l) => l.dist).strength((l) => l.str))
       .force('charge', forceManyBody<GNode>().strength((n) => (n.kind === 'place' ? -110 : -70 - n.r * 3.5)))
       .force('collide', forceCollide<GNode>((n) => (n.kind === 'place' ? n.hw! + 2 : n.r + 8)).strength(0.9))
-      .force('x', forceX<GNode>((n) => targetX(n, size().w)).strength(state.time ? 0.28 : 0.09))
-      .force('y', forceY<GNode>(0).strength(state.time ? 0.08 : 0.11))
+      .force('x', forceX<GNode>((n) => targetX(n, size().w)).strength(state.time ? 0.28 : 0.09 * aspect() ** 1.5))
+      .force('y', forceY<GNode>(0).strength(state.time ? 0.08 : 0.11 / aspect() ** 1.5))
       .force('drift', () => {
         if (reduced) return;
         tick++;
