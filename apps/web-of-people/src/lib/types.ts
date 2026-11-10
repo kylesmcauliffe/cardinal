@@ -77,6 +77,8 @@ export interface EventRec {
   status: Status;
   /** Set when this pass changed a status the ledger carried (the ledger itself is not edited). */
   ledgerStatus?: Status;
+  /** The date the ledger row carries, when an external source moved the event to a better-supported date. */
+  ledgerDate?: string;
   /** What the second research pass found when it differed from the manuscript note. */
   revisionNote?: string;
   why?: string;

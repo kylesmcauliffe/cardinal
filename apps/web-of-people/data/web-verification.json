@@ -2213,6 +2213,11 @@
           "qSha256": "d9879aeae8d5c743f65e7457a05b9092afb27fbd069c7791c3afa79e7b0ec5ea",
           "q": "MARSHALL, James Wilson, discoverer of gold in California, b.",
           "found": true
+        },
+        {
+          "qSha256": "cc56b642a2fba12f510989851653a9be9b682d91a4387d70d6bdb409174a8a62",
+          "q": "On 18 Jan., 1848, while superintending the construction of a",
+          "found": true
         }
       ]
     },
@@ -2256,6 +2261,24 @@
         {
           "qSha256": "7e10df520400c23bca1a3e0e5992b176e88c9c44da77b1b024ecda8dce62ca3b",
           "q": "Born at Petra, Island of Majorca, 24 November, 1713; died at",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikisource.org/wiki/Page:History_of_California_(Bancroft)_volume_6.djvu/50",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "6554486de2791a1856cdf64b99f2ec5b0f2aa26b390a7ee2624b62c933182209",
+      "quotes": [
+        {
+          "qSha256": "5a7b9b0e7408c2aa7a3cbba7b37472a9de9efd91ce68962598790308225b09a3",
+          "q": "Marshall arrived at the fort on the evening of the 28th.",
+          "found": true
+        },
+        {
+          "qSha256": "5683362612093f35dc5c033d70128b994ecbc4c976ca69fcac77e08e22c3811c",
+          "q": "he kept a journal, in which he entered occurrences on the sp",
           "found": true
         }
       ]
@@ -2411,6 +2434,11 @@
           "qSha256": "087b976bff29847d7d0dda4bcf88c6e54382ea400f9bbff8231d7a75a634ac03",
           "q": "1905 Feb. 28 Jane Lathrop Stanford dies",
           "found": true
+        },
+        {
+          "qSha256": "d02b37dd61522c303f122c060625ccccf28a79e02e4894bcaaececfcc3f61bc1",
+          "q": "1919 June 20 Hoover War Collection (now the Hoover Instituti",
+          "found": true
         }
       ]
     },
@@ -2456,6 +2484,19 @@
         {
           "qSha256": "9a08becd7ceaa860b4c568854ad3d113419d37ea528da7add2a825135f3e3f10",
           "q": "Joining the board of trustees in 1912, he served for nearly ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://histories.hoover.org/hoover-today/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "089e435696a752ea4fa0ec428e15a78f1bf3bcab9ba175242bc3f5f02ca9a250",
+      "quotes": [
+        {
+          "qSha256": "d121659cc3edf0e994b3309fa5aa20e94a1231d8a039dd1dd75d1717f710ac78",
+          "q": "On April 22, 1919, Herbert Hoover sent his wife, Lou Henry, ",
           "found": true
         }
       ]
@@ -2599,6 +2640,19 @@
       ]
     },
     {
+      "url": "https://malakoff.com/gpmarshl.htm",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "0b3b0799b7600e345354e011eb78e90b475b4b432faacbcb8334e00287f36b47",
+      "quotes": [
+        {
+          "qSha256": "5afa3601f21685785996bd3222900db7e528176910d9f494c4ff899fa4c566a7",
+          "q": "on or about the 19th of January--I am not quite certain to t",
+          "found": true
+        }
+      ]
+    },
+    {
       "url": "https://millercenter.org/president/hoover/essays/hoover-1929-firstlady",
       "httpStatus": 200,
       "retrieved": "2026-11-10",
@@ -2625,6 +2679,24 @@
         {
           "qSha256": "b8d7d3da548b16e6488a66221a1b15f6c8462116b04fa261df4f9147da25e7c0",
           "q": "Using the wired sledge, Stanford and Durant both swung at th",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://oac.cdlib.org/findaid/ark:/13030/c83n25hj",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "25749e4ffef43dab05e64403b8ee6012c910d4f0a915dc04d042abf3c2a7a3bb",
+      "quotes": [
+        {
+          "qSha256": "933b8fa0447615db54d2c76aaabc17e91271b4ead348a66eac6357785c3395b6",
+          "q": "Azariah Smith, who corroborated Bigler's claim by recording ",
+          "found": true
+        },
+        {
+          "qSha256": "b93638da9f89e1ee67869380b1b64bdd1c6f158c0fef089d5a8fe6a6e7e190b4",
+          "q": "Monday 24th - this day some kind of mettle was discover was ",
           "found": true
         }
       ]
@@ -2908,7 +2980,7 @@
       "url": "https://stanfordmag.org/contents/century-at-stanford",
       "httpStatus": 200,
       "retrieved": "2026-11-10",
-      "pageTextSha256": "f443f9e610a498c737b3a04bd947f25ea5f1985238c37f20b06f9dbda815e6e6",
+      "pageTextSha256": "ac2276211176ff5f75efa94d206403f5ed0fa8655fe53314fc38dcc9817f1b2b",
       "quotes": [
         {
           "qSha256": "a5032690030d52f0810c6d668446f537c1960d8a02a3c0dca0cb7535f8495b5e",
@@ -2926,7 +2998,7 @@
       "url": "https://stanfordmag.org/contents/jane-stanford-s-allowance-saved-the-university",
       "httpStatus": 200,
       "retrieved": "2026-11-10",
-      "pageTextSha256": "7383969132afac725707cc5b2762423acea74e98e8cbf037f90fe8f7191ee9ba",
+      "pageTextSha256": "e8808d313e4bb745ed676d34839f2ab13a77dfc09fd6cbc3a38bb2df88b34919",
       "quotes": [
         {
           "qSha256": "15f9637b956e595190a98b28508ab61e06a9bc53d476a74cce958f48510934df",
@@ -2939,7 +3011,7 @@
       "url": "https://stanfordmag.org/contents/meet-the-next-president",
       "httpStatus": 200,
       "retrieved": "2026-11-10",
-      "pageTextSha256": "5473ab2fad84cdbbddd8893bbdc140ee90c65ef03a259166989a5e68efb33a1f",
+      "pageTextSha256": "eb5c01140d62d7fc0ca52d8065f7e30efee5fe47bf937aaf3432affc527ac63b",
       "quotes": [
         {
           "qSha256": "c5096e2b3a06ce65655e0689dede8673ff1b5dd9b33bf02ac5c1737402e16cd6",
@@ -2952,7 +3024,7 @@
       "url": "https://stanfordmag.org/contents/who-killed-jane-stanford",
       "httpStatus": 200,
       "retrieved": "2026-11-10",
-      "pageTextSha256": "9d02d8fb0e79e62f30b601aba4b9b18ed0744773e2b9058a64e400bccb8b6623",
+      "pageTextSha256": "bf4cd9baf17714d7f906b60a592f8fabf49b813fe65f0d4f55d5ba7a1a1b9031",
       "quotes": [
         {
           "qSha256": "675223ab13135d7a300b2c9e6edc8fdb40fe372e966782d8bb0ca824e4870c59",
@@ -3298,6 +3370,19 @@
       ]
     },
     {
+      "url": "https://www.hoover.org/about/hoover-story/timeline",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "00210555d22823c54720da24e149c2c8a62915a02be14f1c68df771a1d9af766",
+      "quotes": [
+        {
+          "qSha256": "a70a3dc59c8bd92908dba871b6bb244d742ac1c3f4477b93589f4a079edd984a",
+          "q": "He began the collection in June 1919",
+          "found": true
+        }
+      ]
+    },
+    {
       "url": "https://www.hoover.org/research/celebrating-life-lou-henry-hoover",
       "httpStatus": 200,
       "retrieved": "2026-11-10",
@@ -3306,6 +3391,37 @@
         {
           "qSha256": "6b7a513b6f8a968bdddcce67be6e49e04ae9a35d0a3a5fb1341bfecd4e8d14bd",
           "q": "Born in 1874 to Charles Henry and Florence Weed in Waterloo,",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.hoover.org/research/ideas-and-consequences",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "d5b9cc4f1b16606dd30bf79cf43bfb186bb21d6c768000e8ca2fa7d1fac517e5",
+      "quotes": [
+        {
+          "qSha256": "f713101798110464822738af2d98f2715d897e0e08dfcfbf18d2b5c8c8d1c4d2",
+          "q": "On April 23, 1919, Lou Henry Hoover received a telegram from",
+          "found": true
+        },
+        {
+          "qSha256": "e09a6a3cd319a951573a4766b50bf3d50e8492c88f85bb5d922f534dd9dc10ff",
+          "q": "a second telegram on May 15",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.hoover.org/research/making-hoover-history-telegram",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "f8c0b32da69ad7d9ed9b9330d47b6167b94fd7d32e1752e54d24d5ce3efb9c50",
+      "quotes": [
+        {
+          "qSha256": "bd2fd89beea630fac209712406171668ebf26889f43e20749b3013e24c41a331",
+          "q": "On April 22, 1919, Herbert Hoover sent a telegram from Paris",
           "found": true
         }
       ]
@@ -3340,7 +3456,7 @@
       "url": "https://www.linkedin.com/pulse/gordon-french-has-passed-away-allan-m-french",
       "httpStatus": 200,
       "retrieved": "2026-11-10",
-      "pageTextSha256": "a6d2b30543831f05016a9b7af96b386bb5097c07d7eaba5c062b8de6d9822e6f",
+      "pageTextSha256": "c218371fe8fa05dbe2d093a8e01bfcf1d0b51f12c1de9093e1e7b68d59d8880b",
       "quotes": [
         {
           "qSha256": "e5695541523f0ca3367bf1ebdab3679ea23fe65638ea8956ef2b4de94ca98aa9",

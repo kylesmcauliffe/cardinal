@@ -2,7 +2,7 @@
 
 An interactive web of the real people in the Cardinal story: photo bubbles that drift, can be dragged and clicked, and open into profiles with a working timeline and family history. Self-contained in this folder so it can be split out and reused in Dawn (life timeline, family history, surname origins, Ancestry hookup, historical-figure webs).
 
-- Where it stands (second pass, 10 November 2026): 215 people (57 in the web, 158 relatives behind a toggle), 197 events (184 verified, 12 contested, 1 draft), 49 of 57 portraits found, 13 organisations, 163 external pages with 771 verified quotes. What is still unverified: [`RESEARCH.md`](RESEARCH.md) section 6.
+- Where it stands (second pass, 10 November 2026): 215 people (57 in the web, 158 relatives behind a toggle), 197 events (184 verified, 12 contested, 1 draft), 49 of 57 portraits found, 13 organisations, 170 external pages with 783 verified quotes. What is still unverified: [`RESEARCH.md`](RESEARCH.md) section 6.
 - Read the design first: [`PLAN.md`](PLAN.md) (data model, import path, MVP scope) and [`RESEARCH.md`](RESEARCH.md) (graph libraries, GEDCOM, portrait sources and licences).
 - Routes: [`URL_SHEET.md`](URL_SHEET.md). Process screenshots: [`process/`](process/CAPTIONS.md). Mockups: [`mockups/index.html`](mockups/index.html).
 

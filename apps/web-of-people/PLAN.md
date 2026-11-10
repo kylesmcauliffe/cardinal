@@ -158,7 +158,7 @@ In the MVP the repo supports six small families: Stanford (Leland, Jane, Leland 
 | Events | 78 | 197: 184 verified, 12 contested, 1 draft |
 | Curated "draft note" events | 33 draft | 29 verified, 3 contested, 1 draft |
 | Relationships | 31 | 234 (25 dashed placeholders for unnamed relatives) |
-| External sources | 0 | 163 pages, 771 quoted citations, all re-checked by script |
+| External sources | 0 | 170 pages, 783 quoted citations, all re-checked by script |
 | Places | 23 | 89 |
 | Organisations | 0 | 13, with 47 sourced affiliations |
 

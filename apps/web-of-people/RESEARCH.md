@@ -62,7 +62,7 @@ Result: **49 of the 57 people in the web have a licence-checked portrait** (48 f
 
 ## 6. Second pass: research gaps
 
-Method. Six parallel research passes (Stanford, railroad, missions and Gold Rush, Hoover and Terman, electronics and venture capital, modern) took each "Draft note" event and each "gaps in the record" panel and tried to confirm it against a page that can be read by a script. Every external citation is `{url, title, publisher, kind, q}` where `q` is a verbatim passage. `npm run verify:web` fetches every page again, normalises whitespace, quotes, dashes and footnote markers, and checks that every `q` is on the page; the result (HTTP status, retrieval date, a SHA-256 of the page text and of each quote) is committed in `data/web-verification.json`, and offline tests check that file. As of this commit: **771 citations to 163 pages, 0 failures.** Kinds: 71 tertiary (mostly Wikipedia), 53 institutional (universities, archives, museums), 23 reference, 10 scholarly, 6 primary.
+Method. Six parallel research passes (Stanford, railroad, missions and Gold Rush, Hoover and Terman, electronics and venture capital, modern) took each "Draft note" event and each "gaps in the record" panel and tried to confirm it against a page that can be read by a script. Every external citation is `{url, title, publisher, kind, q}` where `q` is a verbatim passage. `npm run verify:web` fetches every page again, normalises whitespace, quotes, dashes and footnote markers, and checks that every `q` is on the page; the result (HTTP status, retrieval date, a SHA-256 of the page text and of each quote) is committed in `data/web-verification.json`, and offline tests check that file. As of this commit: **783 citations to 170 pages, 0 failures.** Pages by kind: 71 tertiary (mostly Wikipedia), 57 institutional (universities, archives, museums), 23 reference, 11 scholarly, 8 primary.
 
 Layers. `data/curated.json` and the manuscript are untouched. `data/research.json` patches curated events, overrides the status of ledger rows (the ledger CSV is never edited; the original status is kept as `ledgerStatus`), and adds people, places, events, relationships, organisations and affiliations.
 
@@ -89,11 +89,26 @@ Layers. `data/curated.json` and the manuscript are untouched. `data/research.jso
 | `stanford-swung-and-missed` | missed "the golden spike" | both Stanford and Durant missed an ordinary iron spike wired to the telegraph |
 | `hoover-australia` | 1897 to 1908 | about 1897 to 1898, before the China post |
 | ledger row 1957-09-18 | Arthur Rock among the eight who resigned | Rock was the banker who helped them find Fairchild; the eight were Blank, Grinich, Hoerni, Kleiner, Last, Moore, Noyce and Roberts |
+| ledger row 1919-06-01 | Hoover funds what becomes the Hoover War Collection, 1 June 1919 | the funding telegram is dated 22 April 1919; the event now carries that date and keeps the ledger date as `ledgerDate` (see "Two ledger dates" below) |
+
+
+**Two ledger dates, resolved.** Two ledger rows carried dates that sources dispute. The ledger CSV itself is never edited. An override in `data/research.json` can set the displayed date; the ledger's own date is then kept as `ledgerDate` and the event must say why (`dateNote`) and carry at least two external cites (a test enforces both).
+
+1. *Marshall's gold find (`ledger-1848-01-24-gold-discovered-at-sutter-s-mill`). Date kept: 24 January 1848.* Three dates are in play.
+   - 24 January: James Bigler's diary, in the Online Archive of California finding aid: "Monday 24th - this day some kind of mettle was discover was found in the tail race that that looks like goald". The same finding aid says Azariah Smith "corroborated Bigler's claim by recording the date of discovery as falling in the week before January 30th."
+   - About 19 January: Marshall's own 1857 account (malakoff.com): "on or about the 19th of January--I am not quite certain to the day, but it was between the 18th and the 20th of that month--1848". Marshall kept no diary, and says himself he is unsure.
+   - 18 January: the Appletons' Cyclopaedia entry (Wikisource): "On 18 Jan., 1848, while superintending the construction of a mill-race, he found a nugget of gold". It names no source, and 18 January is the earliest edge of Marshall's own uncertain range.
+   - Bancroft (History of California, vol. 6, p. 50) tested the dates against a journal: "he kept a journal, in which he entered occurrences on the spot, and it is from this journal I get my date." He puts Marshall's arrival at the fort at "the evening of the 28th", which fits a find in the days around the 24th and not much earlier.
+   - Reasoning: the only contemporary written record (Bigler, corroborated by Smith) says 24 January; Marshall's recollection came nine years later and gives a range; Appletons is a later dictionary entry with no source. The ledger date stands. The event is marked verified, with the competing dates in its note. The exact day is still disputed among sources, so the note says so.
+2. *Hoover War Collection (`ledger-1919-06-01-hoover-funds-what-becomes-the-hoover-war-collect`). Date moved: 1 June 1919 to 22 April 1919.* The ledger row is about Hoover funding the collection, and no source gives 1 June.
+   - 22 April 1919: the funding telegram. The Hoover Institution: "On April 22, 1919, Herbert Hoover sent a telegram from Paris to his wife, Lou Henry Hoover, in Palo Alto, California." Its history pages repeat the date. Its "Ideas and Consequences" page has the receipt a day later: "On April 23, 1919, Lou Henry Hoover received a telegram from her husband", and a clarifying "second telegram on May 15".
+   - June 1919: the Hoover Institution timeline: "He began the collection in June 1919".
+   - 20 June 1919: Stanford Libraries: "1919 June 20 Hoover War Collection (now the Hoover Institution on War, Revolution and Peace) established".
+   - Reasoning: the event is the act of funding, which is the April telegram. The June entries are the start of collecting and the formal establishment, later steps in the same story, not the funding. The event now reads 22 April 1919, with the ledger's 1 June kept as `ledgerDate` and all dates listed in the note. The 20 June establishment date is cited on the event rather than given its own event.
 
 **Still unverified or unresolved** (these are the things to read next):
 
 - `huntington-learns-by-wire` (above).
-- The Hoover War Collection ledger date (1919-06-01) matches none of the dates sources give (telegram of 22 or 23 April 1919; "June 1919"; 20 June 1919). It stays as the ledger has it; it should be checked.
 - The "notably bad" mine air quotation about Hoover at Gwalia (a book, not found online).
 - Juan Crespí's own diary for 6 to 11 November 1769 was not reachable, so whether he named the tree is neither confirmed nor ruled out.
 - Hulda Hoover's death year (1883 or 1884) and cause disagree between sources, so no death event was added. Palóu's birthplace (Petra or Palma) likewise.

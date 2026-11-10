@@ -129,7 +129,7 @@ describe('source quotes are real', () => {
     for (const e of ds.events.filter((x) => x.origin === 'ledger')) {
       const c = e.cites[0];
       expect(lines[c.line - 1].startsWith(c.q), `${e.id} line ${c.line}`).toBe(true);
-      expect(c.q.startsWith(e.date + ','), `${e.id} date`).toBe(true);
+      expect(c.q.startsWith((e.ledgerDate ?? e.date) + ','), `${e.id} date`).toBe(true);
       expect(lines[c.line - 1], `${e.id} status`).toContain(e.ledgerStatus ?? e.status);
     }
   });
@@ -201,6 +201,10 @@ describe('external sources', () => {
     for (const e of ds.events) {
       if (e.ledgerStatus) expect(e.revisionNote || e.note, `${e.id} changed ledger status without a note`).toBeTruthy();
       if (e.ledgerStatus) expect(e.cites.some((c) => c.url), `${e.id} overrides the ledger without an external cite`).toBe(true);
+      if (e.ledgerDate) {
+        expect(e.dateNote?.length, `${e.id} moved the ledger date without saying why`).toBeGreaterThan(40);
+        expect(e.cites.filter((c) => c.url).length, `${e.id} moves the ledger date without two external cites`).toBeGreaterThanOrEqual(2);
+      }
     }
   });
 });

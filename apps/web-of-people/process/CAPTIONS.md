@@ -84,4 +84,4 @@ The 158 relatives named through family links stay out of the web until “Show r
 ![Profile with no portrait](03-app/22-profile-no-portrait-desktop.png)
 ![Sources page with external pages](03-app/23-sources-external-desktop.png)
 
-Francisco Palóu’s portrait is a 1926 book plate from the Internet Archive; the credit states how its rights were worked out. Eugene Kleiner has none, and the profile says why. The sources page now lists the 163 external pages and how they were checked.
+Francisco Palóu’s portrait is a 1926 book plate from the Internet Archive; the credit states how its rights were worked out. Eugene Kleiner has none, and the profile says why. The sources page now lists the 170 external pages and how they were checked.

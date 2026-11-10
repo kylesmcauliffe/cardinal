@@ -121,7 +121,9 @@ for (const r of rows) {
   ledgerEvents.push({
     id: evId,
     people: [...ids].sort(),
-    date: r.date,
+    date: ov?.date ?? r.date,
+    ...(ov?.date && ov.date !== r.date ? { ledgerDate: r.date } : {}),
+    ...(ov?.dateNote ? { dateNote: ov.dateNote } : {}),
     kind: life?.kind ?? kindOf(r.event),
     ...(life?.subject ? { subject: life.subject } : {}),
     title: r.event,
