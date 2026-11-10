@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mockups · Web of People</title>
+<meta name="robots" content="noindex">
+<link rel="stylesheet" href="../public/fonts/fonts.css">
+<link rel="stylesheet" href="../src/styles/app.css">
+<style>
+.gal { display: grid; gap: 2.4rem; }
+.gal article { border-top: 2px solid var(--ink); padding-top: 1rem; }
+.gal .shots { display: grid; grid-template-columns: minmax(0, 3fr) minmax(0, 1fr); gap: 1.2rem; align-items: start; margin-top: 0.8rem; }
+.gal img { border: 1px solid var(--rule); width: 100%; height: auto; max-height: 38rem; object-fit: cover; object-position: top; }
+.gal figcaption { font-family: var(--font-display); font-size: 0.78rem; color: var(--ink-dim); margin-top: 0.3rem; }
+@media (max-width: 720px) { .gal .shots { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<header class="mast"><div class="mast-in"><a class="brand" href="index.html"><b>Web of People</b>&nbsp;<small>Mockups</small></a></div></header>
+<main><div class="page">
+<p class="eyebrow">Static comps</p>
+<h1>Mockups</h1>
+<p class="lede">Five pages, full length from header to footer, each shown at desktop (1280 px) and phone (390 px) width. They are generated from the app’s own stylesheet, renderers and cited data, but frozen: open any page to see it live in your browser at any width. Images are exported by <code>npm run mockups</code>.</p>
+<div class="gal">
+<article><h2 style="margin-top:0">Web view</h2><p>Bubbles with photo or initials, links, place hubs, search and toggles. Nothing selected. <a href="web.html">Open the page</a></p>
+<div class="shots"><figure style="margin:0"><a href="web.html"><img src="png/web-desktop.png" alt="Web view at desktop width" loading="lazy"></a><figcaption>Desktop, 1280 px</figcaption></figure>
+<figure style="margin:0"><a href="web.html"><img src="png/web-mobile.png" alt="Web view at phone width" loading="lazy"></a><figcaption>Phone, 390 px</figcaption></figure></div></article>
+<article><h2 style="margin-top:0">Web with a profile open</h2><p>A click opens the profile beside the web (a bottom sheet on a phone). <a href="web-open.html">Open the page</a></p>
+<div class="shots"><figure style="margin:0"><a href="web-open.html"><img src="png/web-open-desktop.png" alt="Web with a profile open at desktop width" loading="lazy"></a><figcaption>Desktop, 1280 px</figcaption></figure>
+<figure style="margin:0"><a href="web-open.html"><img src="png/web-open-mobile.png" alt="Web with a profile open at phone width" loading="lazy"></a><figcaption>Phone, 390 px</figcaption></figure></div></article>
+<article><h2 style="margin-top:0">Person profile</h2><p>Timeline axis and list with status words, family history, connections, places, sources. <a href="profile.html">Open the page</a></p>
+<div class="shots"><figure style="margin:0"><a href="profile.html"><img src="png/profile-desktop.png" alt="Person profile at desktop width" loading="lazy"></a><figcaption>Desktop, 1280 px</figcaption></figure>
+<figure style="margin:0"><a href="profile.html"><img src="png/profile-mobile.png" alt="Person profile at phone width" loading="lazy"></a><figcaption>Phone, 390 px</figcaption></figure></div></article>
+<article><h2 style="margin-top:0">Family tree view</h2><p>Stated families only, a dashed placeholder for an unnamed relative, and a sample import. <a href="family.html">Open the page</a></p>
+<div class="shots"><figure style="margin:0"><a href="family.html"><img src="png/family-desktop.png" alt="Family tree view at desktop width" loading="lazy"></a><figcaption>Desktop, 1280 px</figcaption></figure>
+<figure style="margin:0"><a href="family.html"><img src="png/family-mobile.png" alt="Family tree view at phone width" loading="lazy"></a><figcaption>Phone, 390 px</figcaption></figure></div></article>
+<article><h2 style="margin-top:0">Surname and place</h2><p>Surname page with “origin: not recorded”, places table, charts, and a place page. <a href="surname-place.html">Open the page</a></p>
+<div class="shots"><figure style="margin:0"><a href="surname-place.html"><img src="png/surname-place-desktop.png" alt="Surname and place at desktop width" loading="lazy"></a><figcaption>Desktop, 1280 px</figcaption></figure>
+<figure style="margin:0"><a href="surname-place.html"><img src="png/surname-place-mobile.png" alt="Surname and place at phone width" loading="lazy"></a><figcaption>Phone, 390 px</figcaption></figure></div></article>
+</div></div></main>
+</body>
+</html>

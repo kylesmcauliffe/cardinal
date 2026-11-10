@@ -1,0 +1,27 @@
+---
+import Base from '../../layouts/Base.astro';
+import { data } from '../../lib/data';
+import { href } from '../../lib/html';
+import { slug } from '../../lib/chrome';
+
+const groups = data.surnameGroups();
+---
+<Base title="Surnames" current="surnames" description="Surnames in the Cardinal web and what the notes say about where they come from.">
+  <div class="page">
+    <p class="eyebrow">{groups.length} surnames</p>
+    <h1>Surnames</h1>
+    <p class="lede">Who shares a surname in the web. Surname <em>origins</em> are not in the Cardinal notes, so none are claimed here. When you import your own family file, this is where origin research for your surnames would attach.</p>
+    <table class="sheet-table">
+      <thead><tr><th scope="col">Surname</th><th scope="col">People</th><th scope="col">Names</th></tr></thead>
+      <tbody>
+        {groups.map((g) => (
+          <tr>
+            <td><a href={href(`/surnames/${slug(g.surname)}/`)}>{g.surname}</a></td>
+            <td>{g.people.length}</td>
+            <td>{g.people.map((p) => p.name).join(', ')}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+</Base>

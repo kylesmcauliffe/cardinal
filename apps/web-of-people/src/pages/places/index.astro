@@ -1,0 +1,29 @@
+---
+import Base from '../../layouts/Base.astro';
+import { data } from '../../lib/data';
+import { href } from '../../lib/html';
+
+const rows = data.ds.places
+  .map((p) => ({ p, n: data.eventsAt(p.id).length, who: data.peopleAt(p.id).length }))
+  .sort((a, b) => b.n - a.n || a.p.name.localeCompare(b.p.name));
+---
+<Base title="Places" current="places" description="Places named in the Cardinal notes and the people recorded at each.">
+  <div class="page">
+    <p class="eyebrow">{rows.length} places</p>
+    <h1>Places</h1>
+    <p class="lede">Named places from the event ledger and notes. A pair of places in one row, or a place that is not given, is left unplaced rather than guessed. Coordinates appear only where the Cardinal site already holds them.</p>
+    <table class="sheet-table">
+      <thead><tr><th scope="col">Place</th><th scope="col">Events</th><th scope="col">People</th><th scope="col">Position</th></tr></thead>
+      <tbody>
+        {rows.map(({ p, n, who }) => (
+          <tr>
+            <td><a href={href(`/places/${p.id}/`)}>{p.name}</a></td>
+            <td>{n}</td>
+            <td>{who}</td>
+            <td>{p.lat != null ? `${p.lat.toFixed(2)}, ${p.lon!.toFixed(2)}` : <span class="not-recorded">not recorded</span>}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+</Base>

@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mockup: Person profile · Web of People</title>
+<meta name="robots" content="noindex">
+<link rel="stylesheet" href="../public/fonts/fonts.css">
+<link rel="stylesheet" href="../src/styles/app.css">
+<style>
+.mockflag { background: var(--paper); color: #1c0d10; font-family: var(--font-display); font-weight: 650; font-variation-settings: 'wdth' 92; font-size: 0.78rem; letter-spacing: 0.03em; text-transform: uppercase; padding: 0.35rem var(--pad); text-align: center; }
+.m-only { display: none; }
+@media (max-width: 720px) { .d-only { display: none; } .m-only { display: block; } }
+.mock .stage { height: min(76vh, 46rem); }
+.mock .drawer { position: absolute; }
+@media (max-width: 720px) {
+  .mock .drawer { position: relative; transform: none; visibility: visible; height: auto; max-height: 40rem; border: 2px solid var(--ink); top: auto; width: 100%; margin-top: 1rem; z-index: 1; }
+  .mock .drawer-grip { display: block; }
+  .mock .webwrap { display: block; }
+}
+.mock .toolbar .field input { pointer-events: none; }
+.annot { font-family: var(--font-display); font-variation-settings: 'wdth' 90; font-size: 0.82rem; color: var(--ink-dim); margin: 0.5rem 0 0; }
+</style>
+</head>
+<body class="mock">
+<div class="mockflag">Mockup · static comp, not the running app · profile with timeline, family history, connections, places and sources</div>
+<header class="mast"><div class="mast-in">
+    <a class="brand" href="web.html"><svg width="38" height="38" viewBox="0 0 38 38" aria-hidden="true"><g fill="none" stroke="#f6efe9" stroke-width="2.4"><path d="M9 28 19 9l10 19M9 28h20"/></g><g fill="#8c1515" stroke="#f6efe9" stroke-width="2.4"><circle cx="9" cy="28" r="5"/><circle cx="19" cy="9" r="5"/><circle cx="29" cy="28" r="5"/></g></svg><span><b>Web of People</b><small>A Cardinal project</small></span></a>
+    <nav class="nav" aria-label="Main"><a href="web.html">Web</a><a href="profile.html" aria-current="page">People</a><a href="family.html">Family</a><a href="surname-place.html">Surnames</a><a href="surname-place.html#places">Places</a><a href="#">Charts</a><a href="#">Import</a><a href="#">Sources</a></nav>
+    <button type="button" class="theme" data-theme-toggle aria-label="Switch between dark and light">Light / Dark</button>
+  </div></header>
+<main id="main"><div class="page narrow"><p class="meta"><a href="web.html">See in the web</a> · <a href="#">All people</a></p><article class="profile" data-profile="leland-stanford">
+    <header class="profile-head">
+      <span class="portrait"><img src="../public/portraits/leland-stanford.jpg" alt="Portrait of Leland Stanford" width="192" height="192" loading="lazy"></span>
+      <div>
+        <p class="eyebrow">d. 1893</p>
+        <h1>Leland Stanford</h1>
+        <p class="role">Governor; one of the Associates; founder of the university</p>
+        <div class="badges"><span class="badge">4 draft note</span><span class="badge">1 needs source</span><span class="badge">2 verified</span></div>
+      </div>
+    </header>
+    <p class="credit">Portrait: Bradley &amp; Rulofson, between 1863 and 1883, likely 1860s. Public domain. <a href="https://commons.wikimedia.org/wiki/File:Portrait_of_Leland_Stanford_Crop.jpg" rel="noopener">Wikimedia Commons</a>. Scaled to 360px wide from the original; no other edits.</p>
+    <div class="gaps"><b>Gaps in the record.</b> Birth: not recorded in the notes · Parents: not recorded</div>
+    <details class="role-src"><summary>Why this role</summary><span class="cite"><a href="https://github.com/kylesmcauliffe/cardinal/blob/main/site/corpus/rewrite/timeline.md" rel="noopener">site/corpus/rewrite/timeline.md</a> <q>Stanford elected governor.</q></span><span class="cite"><a href="https://github.com/kylesmcauliffe/cardinal/blob/main/site/corpus/rewrite/GLOSSARY.md" rel="noopener">site/corpus/rewrite/GLOSSARY.md</a> <q>The Associates / the Big Four: Collis P. Huntington, Mark Hopkins, Charles Crocker, Leland Stanford.</q></span><span class="cite"><a href="https://github.com/kylesmcauliffe/cardinal/blob/main/books/cardinal/_project/event-ledger.csv" rel="noopener">books/cardinal/_project/event-ledger.csv</a> <q>Stanford Founding Grant executed,Leland and Jane Stanford</q></span></details>
+    <section aria-labelledby="h-tl-leland-stanford"><h2 id="h-tl-leland-stanford">Timeline</h2><div class="tl" data-tl data-person="leland-stanford">
+    <div class="tl-controls" role="group" aria-label="Timeline controls">
+      <input type="search" data-tl-q placeholder="Search this timeline" aria-label="Search this timeline">
+      <select data-tl-status aria-label="Filter by status">
+        <option value="">All statuses</option>
+        <option value="VERIFIED">Verified only</option>
+        <option value="NOT">Not yet verified</option>
+      </select>
+      <button type="button" class="btn" data-tl-zoom="out" aria-label="Zoom out">Zoom −</button>
+      <button type="button" class="btn" data-tl-zoom="in" aria-label="Zoom in">Zoom +</button>
+      <button type="button" class="btn" data-tl-zoom="left" aria-label="Pan earlier">◀</button>
+      <button type="button" class="btn" data-tl-zoom="right" aria-label="Pan later">▶</button>
+      <button type="button" class="btn" data-tl-zoom="all">All years</button>
+      <select data-tl-lane aria-label="Compare with a connected person"><option value="">Compare with…</option><option value="charles-crocker">Charles Crocker</option><option value="collis-huntington">Collis P. Huntington</option><option value="david-starr-jordan">David Starr Jordan</option><option value="jane-stanford">Jane Lathrop Stanford</option><option value="leland-stanford-jr">Leland Stanford Jr.</option><option value="mark-hopkins">Mark Hopkins</option><option value="theodore-judah">Theodore Judah</option></select>
+    </div>
+    <div data-tl-axis data-has="1"><span class="d-only"><svg class="tl-axis" width="960" height="118" viewBox="0 0 960 118" role="group" aria-label="Timeline axis. Each mark is an event; press Enter on a mark to select it."><line class="ax" x1="16" x2="944" y1="98" y2="98"/><g class="tick"><line class="ax" x1="41.8" x2="41.8" y1="2" y2="98" opacity=".35"/><text x="41.8" y="114" text-anchor="middle">1860</text></g><g class="tick"><line class="ax" x1="170.7" x2="170.7" y1="2" y2="98" opacity=".35"/><text x="170.7" y="114" text-anchor="middle">1865</text></g><g class="tick"><line class="ax" x1="299.6" x2="299.6" y1="2" y2="98" opacity=".35"/><text x="299.6" y="114" text-anchor="middle">1870</text></g><g class="tick"><line class="ax" x1="428.4" x2="428.4" y1="2" y2="98" opacity=".35"/><text x="428.4" y="114" text-anchor="middle">1875</text></g><g class="tick"><line class="ax" x1="557.3" x2="557.3" y1="2" y2="98" opacity=".35"/><text x="557.3" y="114" text-anchor="middle">1880</text></g><g class="tick"><line class="ax" x1="686.2" x2="686.2" y1="2" y2="98" opacity=".35"/><text x="686.2" y="114" text-anchor="middle">1885</text></g><g class="tick"><line class="ax" x1="815.1" x2="815.1" y1="2" y2="98" opacity=".35"/><text x="815.1" y="114" text-anchor="middle">1890</text></g><g class="tick"><line class="ax" x1="944.0" x2="944.0" y1="2" y2="98" opacity=".35"/><text x="944.0" y="114" text-anchor="middle">1895</text></g><line class="lane" x1="16" x2="944" y1="88" y2="88"/><circle class="pt draft" data-ev="stanford-governor" tabindex="0" role="button" aria-label="1861: Elected governor (Draft note)" cx="80.4" cy="20" r="7"><title>1861: Elected governor (Draft note)</title></circle><circle class="pt needs" data-ev="ledger-1861-06-28-central-pacific-railroad-incorporated" tabindex="0" role="button" aria-label="28 June 1861: Central Pacific Railroad incorporated (Needs source)" cx="80.2" cy="37" r="7"><title>28 June 1861: Central Pacific Railroad incorporated (Needs source)</title></circle><circle class="pt draft" data-ev="stanford-swung-and-missed" tabindex="0" role="button" aria-label="10 May 1869: At Promontory, &quot;swung and missed&quot; the golden spike (Draft note)" cx="283.0" cy="20" r="7"><title>10 May 1869: At Promontory, &quot;swung and missed&quot; the golden spike (Draft note)</title></circle><circle class="pt draft" data-ev="stanfords-vow" tabindex="0" role="button" aria-label="1884: Reported vow: &quot;The children of California shall be our children&quot; (Draft note)" cx="673.3" cy="20" r="7"><title>1884: Reported vow: &quot;The children of California shall be our children&quot; (Draft note)</title></circle><circle class="pt verified" data-ev="ledger-1885-11-11-stanford-founding-grant-executed" tabindex="0" role="button" aria-label="11 November 1885: Stanford Founding Grant executed (Verified)" cx="708.4" cy="20" r="7"><title>11 November 1885: Stanford Founding Grant executed (Verified)</title></circle><circle class="pt draft" data-ev="stanfords-recruit-jordan" tabindex="0" role="button" aria-label="1890: The Stanfords travel to Bloomington to recruit David Starr Jordan (Draft note)" cx="828.0" cy="20" r="7"><title>1890: The Stanfords travel to Bloomington to recruit David Starr Jordan (Draft note)</title></circle><circle class="pt verified" data-ev="ledger-1893-06-21-leland-stanford-dies-during-the-panic-of-1893" tabindex="0" role="button" aria-label="21 June 1893: Leland Stanford dies during the Panic of 1893 (Verified)" cx="904.6" cy="20" r="7"><title>21 June 1893: Leland Stanford dies during the Panic of 1893 (Verified)</title></circle></svg></span><span class="m-only"><svg class="tl-axis" width="330" height="118" viewBox="0 0 330 118" role="group" aria-label="Timeline axis. Each mark is an event; press Enter on a mark to select it."><line class="ax" x1="16" x2="314" y1="98" y2="98"/><g class="tick"><line class="ax" x1="24.3" x2="24.3" y1="2" y2="98" opacity=".35"/><text x="24.3" y="114" text-anchor="middle">1860</text></g><g class="tick"><line class="ax" x1="65.7" x2="65.7" y1="2" y2="98" opacity=".35"/><text x="65.7" y="114" text-anchor="middle">1865</text></g><g class="tick"><line class="ax" x1="107.1" x2="107.1" y1="2" y2="98" opacity=".35"/><text x="107.1" y="114" text-anchor="middle">1870</text></g><g class="tick"><line class="ax" x1="148.4" x2="148.4" y1="2" y2="98" opacity=".35"/><text x="148.4" y="114" text-anchor="middle">1875</text></g><g class="tick"><line class="ax" x1="189.8" x2="189.8" y1="2" y2="98" opacity=".35"/><text x="189.8" y="114" text-anchor="middle">1880</text></g><g class="tick"><line class="ax" x1="231.2" x2="231.2" y1="2" y2="98" opacity=".35"/><text x="231.2" y="114" text-anchor="middle">1885</text></g><g class="tick"><line class="ax" x1="272.6" x2="272.6" y1="2" y2="98" opacity=".35"/><text x="272.6" y="114" text-anchor="middle">1890</text></g><g class="tick"><line class="ax" x1="314.0" x2="314.0" y1="2" y2="98" opacity=".35"/><text x="314.0" y="114" text-anchor="middle">1895</text></g><line class="lane" x1="16" x2="314" y1="88" y2="88"/><circle class="pt draft" data-ev="stanford-governor" tabindex="0" role="button" aria-label="1861: Elected governor (Draft note)" cx="36.7" cy="20" r="7"><title>1861: Elected governor (Draft note)</title></circle><circle class="pt needs" data-ev="ledger-1861-06-28-central-pacific-railroad-incorporated" tabindex="0" role="button" aria-label="28 June 1861: Central Pacific Railroad incorporated (Needs source)" cx="36.6" cy="37" r="7"><title>28 June 1861: Central Pacific Railroad incorporated (Needs source)</title></circle><circle class="pt draft" data-ev="stanford-swung-and-missed" tabindex="0" role="button" aria-label="10 May 1869: At Promontory, &quot;swung and missed&quot; the golden spike (Draft note)" cx="101.7" cy="20" r="7"><title>10 May 1869: At Promontory, &quot;swung and missed&quot; the golden spike (Draft note)</title></circle><circle class="pt draft" data-ev="stanfords-vow" tabindex="0" role="button" aria-label="1884: Reported vow: &quot;The children of California shall be our children&quot; (Draft note)" cx="227.1" cy="20" r="7"><title>1884: Reported vow: &quot;The children of California shall be our children&quot; (Draft note)</title></circle><circle class="pt verified" data-ev="ledger-1885-11-11-stanford-founding-grant-executed" tabindex="0" role="button" aria-label="11 November 1885: Stanford Founding Grant executed (Verified)" cx="238.3" cy="37" r="7"><title>11 November 1885: Stanford Founding Grant executed (Verified)</title></circle><circle class="pt draft" data-ev="stanfords-recruit-jordan" tabindex="0" role="button" aria-label="1890: The Stanfords travel to Bloomington to recruit David Starr Jordan (Draft note)" cx="276.7" cy="20" r="7"><title>1890: The Stanfords travel to Bloomington to recruit David Starr Jordan (Draft note)</title></circle><circle class="pt verified" data-ev="ledger-1893-06-21-leland-stanford-dies-during-the-panic-of-1893" tabindex="0" role="button" aria-label="21 June 1893: Leland Stanford dies during the Panic of 1893 (Verified)" cx="301.3" cy="20" r="7"><title>21 June 1893: Leland Stanford dies during the Panic of 1893 (Verified)</title></circle></svg></span></div>
+    <div class="tl-key" aria-label="Key">
+    <span><svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="6" fill="currentColor" stroke="currentColor" stroke-width="2" /></svg> Verified</span>
+    <span><svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="6" fill="none" stroke="currentColor" stroke-width="2" /></svg> Draft note</span>
+    <span><svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="6" fill="none" stroke="currentColor" stroke-width="2" stroke-dasharray="2 2"/></svg> Needs source</span>
+    <span><svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="6" fill="var(--cardinal)" stroke="currentColor" stroke-width="2"/></svg> Contested</span>
+    <span><svg viewBox="0 0 28 16" aria-hidden="true" style="width:1.6rem"><rect x="1" y="4" width="26" height="8" fill="currentColor" opacity=".55"/></svg> A span of years</span>
+  </div>
+    <p class="tl-detail" data-tl-detail aria-live="polite">Select a mark or an entry to see its sources.</p>
+    <ol class="tl-list" data-tl-list><li class="ev" id="ev-stanford-governor" data-ev="stanford-governor" data-status="DRAFT" data-text="elected governor   ">
+    <div class="ev-date">1861</div>
+    <div class="ev-main">
+      <div class="ev-title">Elected governor <span class="status draft">Draft note</span></div>
+      
+      
+      
+      <details><summary>Source (1)</summary><span class="cite"><a href="https://github.com/kylesmcauliffe/cardinal/blob/main/site/corpus/rewrite/timeline.md" rel="noopener">site/corpus/rewrite/timeline.md</a> <q>Stanford elected governor.</q></span></details>
+    </div>
+  </li><li class="ev" id="ev-ledger-1861-06-28-central-pacific-railroad-incorporated" data-ev="ledger-1861-06-28-central-pacific-railroad-incorporated" data-status="NEEDS SOURCE" data-text="central pacific railroad incorporated four merchants and an engineer. judah is bought out and dies in 1863. sacramento, ca charles crocker collis p. huntington mark hopkins theodore judah">
+    <div class="ev-date">28 June 1861</div>
+    <div class="ev-main">
+      <div class="ev-title">Central Pacific Railroad incorporated <span class="status needs">Needs source</span></div>
+      <p class="ev-sub"><a href="#">Sacramento, CA</a> · Four merchants and an engineer. Judah is bought out and dies in 1863.</p>
+      
+      <p class="ev-with"><span class="dim">With:</span> <a href="#" data-person="charles-crocker">Charles Crocker</a>, <a href="#" data-person="collis-huntington">Collis Huntington</a>, <a href="#" data-person="mark-hopkins">Mark Hopkins</a>, <a href="#" data-person="theodore-judah">Theodore Judah</a></p>
+      <details><summary>Source (1)</summary><span class="cite"><a href="https://github.com/kylesmcauliffe/cardinal/blob/main/books/cardinal/_project/event-ledger.csv#L16" rel="noopener">books/cardinal/_project/event-ledger.csv:16</a> <q>1861-06-28,Central Pacific Railroad incorporated,Leland Stanford; Collis Hunting</q></span></details>
+    </div>
+  </li><li class="ev" id="ev-stanford-swung-and-missed" data-ev="stanford-swung-and-missed" data-status="DRAFT" data-text="at promontory, &quot;swung and missed&quot; the golden spike  promontory summit, ut ">
+    <div class="ev-date">10 May 1869</div>
+    <div class="ev-main">
+      <div class="ev-title">At Promontory, &quot;swung and missed&quot; the golden spike <span class="status draft">Draft note</span></div>
+      <p class="ev-sub"><a href="#">Promontory Summit, UT</a></p>
+      
+      
+      <details><summary>Source (1)</summary><span class="cite"><a href="https://github.com/kylesmcauliffe/cardinal/blob/main/site/corpus/rewrite/timeline.md" rel="noopener">site/corpus/rewrite/timeline.md</a> <q>Promontory: Stanford “swung and missed.”</q></span></details>
+    </div>
+  </li><li class="ev" id="ev-stanfords-vow" data-ev="stanfords-vow" data-status="DRAFT" data-text="reported vow: &quot;the children of california shall be our children&quot;   jane lathrop stanford">
+    <div class="ev-date">1884<small>after their son&#39;s death</small></div>
+    <div class="ev-main">
+      <div class="ev-title">Reported vow: &quot;The children of California shall be our children&quot; <span class="status draft">Draft note</span></div>
+      
+      <p class="ev-sub">The source says he &quot;is supposed to have&quot; said it; treat as reported.</p>
+      <p class="ev-with"><span class="dim">With:</span> <a href="#" data-person="jane-stanford">Jane Stanford</a></p>
+      <details><summary>Source (1)</summary><span class="cite"><a href="https://github.com/kylesmcauliffe/cardinal/blob/main/site/corpus/rewrite/chapters/ep4-02-florence-vow.md" rel="noopener">site/corpus/rewrite/chapters/ep4-02-florence-vow.md</a> <q>&quot;The children of California shall be our children,&quot; Leland Stanford told his wife, Jane</q></span></details>
+    </div>
+  </li><li class="ev" id="ev-ledger-1885-11-11-stanford-founding-grant-executed" data-ev="ledger-1885-11-11-stanford-founding-grant-executed" data-status="VERIFIED" data-text="stanford founding grant executed self-perpetuating board, insulated from politics, endowed with land that cannot be sold. the clause that produces the research park in 1951. palo alto, ca jane lathrop stanford">
+    <div class="ev-date">11 November 1885</div>
+    <div class="ev-main">
+      <div class="ev-title">Stanford Founding Grant executed <span class="status verified">Verified</span></div>
+      <p class="ev-sub"><a href="#">Palo Alto, CA</a> · Self-perpetuating board, insulated from politics, endowed with land that cannot be sold. The clause that produces the research park in 1951.</p>
+      
+      <p class="ev-with"><span class="dim">With:</span> <a href="#" data-person="jane-stanford">Jane Stanford</a></p>
+      <details><summary>Source (1)</summary><span class="cite"><a href="https://github.com/kylesmcauliffe/cardinal/blob/main/books/cardinal/_project/event-ledger.csv#L24" rel="noopener">books/cardinal/_project/event-ledger.csv:24</a> <q>1885-11-11,Stanford Founding Grant executed,Leland and Jane Stanford,&quot;Palo Alto,</q></span></details>
+    </div>
+  </li><li class="ev" id="ev-stanfords-recruit-jordan" data-ev="stanfords-recruit-jordan" data-status="DRAFT" data-text="the stanfords travel to bloomington to recruit david starr jordan   jane lathrop stanford david starr jordan">
+    <div class="ev-date">1890</div>
+    <div class="ev-main">
+      <div class="ev-title">The Stanfords travel to Bloomington to recruit David Starr Jordan <span class="status draft">Draft note</span></div>
+      
+      
+      <p class="ev-with"><span class="dim">With:</span> <a href="#" data-person="jane-stanford">Jane Stanford</a>, <a href="#" data-person="david-starr-jordan">David Starr Jordan</a></p>
+      <details><summary>Source (1)</summary><span class="cite"><a href="https://github.com/kylesmcauliffe/cardinal/blob/main/site/corpus/rewrite/timeline.md" rel="noopener">site/corpus/rewrite/timeline.md</a> <q>The Stanfords travel to Bloomington to recruit David Starr Jordan.</q></span></details>
+    </div>
+  </li><li class="ev" id="ev-ledger-1893-06-21-leland-stanford-dies-during-the-panic-of-1893" data-ev="ledger-1893-06-21-leland-stanford-dies-during-the-panic-of-1893" data-status="VERIFIED" data-text="leland stanford dies during the panic of 1893 estate frozen; the federal government sues for $15 million. the university nearly closes. palo alto, ca ">
+    <div class="ev-date">21 June 1893</div>
+    <div class="ev-main">
+      <div class="ev-title">Leland Stanford dies during the Panic of 1893 <span class="status verified">Verified</span></div>
+      <p class="ev-sub"><a href="#">Palo Alto, CA</a> · Estate frozen; the federal government sues for $15 million. The university nearly closes.</p>
+      
+      
+      <details><summary>Source (1)</summary><span class="cite"><a href="https://github.com/kylesmcauliffe/cardinal/blob/main/books/cardinal/_project/event-ledger.csv#L28" rel="noopener">books/cardinal/_project/event-ledger.csv:28</a> <q>1893-06-21,Leland Stanford dies during the Panic of 1893,Leland Stanford,&quot;Palo A</q></span></details>
+    </div>
+  </li></ol>
+    <p class="tl-empty" data-tl-empty hidden>No entries match.</p>
+  </div></section>
+    <section><h2>Family history</h2><ul class="fam-list"><li><span class="fam-rel">Spouse</span> <a href="#" data-person="jane-stanford"><b>Jane Lathrop Stanford</b></a><span class="dim"> · Married (Jane is Leland&#39;s wife)</span>
+    <details><summary>Source</summary><span class="cite"><a href="https://github.com/kylesmcauliffe/cardinal/blob/main/site/corpus/rewrite/chapters/ep4-02-florence-vow.md" rel="noopener">site/corpus/rewrite/chapters/ep4-02-florence-vow.md</a> <q>Leland Stanford told his wife, Jane</q></span></details></li><li><span class="fam-rel">Child</span> <a href="#" data-person="leland-stanford-jr"><b>Leland Stanford Jr.</b></a><span class="dim"> · Father of their only child</span>
+    <details><summary>Source</summary><span class="cite"><a href="https://github.com/kylesmcauliffe/cardinal/blob/main/site/corpus/rewrite/chapters/ep4-02-florence-vow.md" rel="noopener">site/corpus/rewrite/chapters/ep4-02-florence-vow.md</a> <q>He was the Stanfords&#39; only child.</q></span></details></li></ul><p class="not-recorded">Not recorded: parents.</p><p><a class="btn" href="#">Open family tree</a></p></section>
+    <section><h2>Connections</h2><ul class="fam-list"><li><span class="fam-rel">Recruited</span> <a href="#" data-person="david-starr-jordan"><b>David Starr Jordan</b></a><span class="dim"> · Recruited him to Stanford</span><details><summary>Source</summary><span class="cite"><a href="https://github.com/kylesmcauliffe/cardinal/blob/main/site/corpus/rewrite/timeline.md" rel="noopener">site/corpus/rewrite/timeline.md</a> <q>The Stanfords travel to Bloomington to recruit David Starr Jordan.</q></span></details></li><li><span class="fam-rel">Partners</span> <a href="#" data-person="collis-huntington"><b>Collis P. Huntington</b></a><span class="dim"> · The Associates (the Big Four)</span><details><summary>Source</summary><span class="cite"><a href="https://github.com/kylesmcauliffe/cardinal/blob/main/site/corpus/rewrite/GLOSSARY.md" rel="noopener">site/corpus/rewrite/GLOSSARY.md</a> <q>The Associates / the Big Four: Collis P. Huntington, Mark Hopkins, Charles Crocker, Leland Stanford.</q></span></details></li><li><span class="fam-rel">Partners</span> <a href="#" data-person="mark-hopkins"><b>Mark Hopkins</b></a><span class="dim"> · The Associates (the Big Four)</span><details><summary>Source</summary><span class="cite"><a href="https://github.com/kylesmcauliffe/cardinal/blob/main/site/corpus/rewrite/GLOSSARY.md" rel="noopener">site/corpus/rewrite/GLOSSARY.md</a> <q>The Associates / the Big Four: Collis P. Huntington, Mark Hopkins, Charles Crocker, Leland Stanford.</q></span></details></li><li><span class="fam-rel">Partners</span> <a href="#" data-person="charles-crocker"><b>Charles Crocker</b></a><span class="dim"> · The Associates (the Big Four)</span><details><summary>Source</summary><span class="cite"><a href="https://github.com/kylesmcauliffe/cardinal/blob/main/site/corpus/rewrite/GLOSSARY.md" rel="noopener">site/corpus/rewrite/GLOSSARY.md</a> <q>The Associates / the Big Four: Collis P. Huntington, Mark Hopkins, Charles Crocker, Leland Stanford.</q></span></details></li></ul><p class="dim" style="margin-bottom:0">Appear in the same recorded event:</p><ul class="pill-list"><li><a href="#" data-person="jane-stanford"><span class="mini"><img src="../public/portraits/jane-stanford.jpg" alt="" width="72" height="72" loading="lazy"></span>Jane Stanford</a></li><li><a href="#" data-person="charles-crocker"><span class="mini"><img src="../public/portraits/charles-crocker.jpg" alt="" width="72" height="72" loading="lazy"></span>Charles Crocker</a></li><li><a href="#" data-person="collis-huntington"><span class="mini"><img src="../public/portraits/collis-huntington.jpg" alt="" width="72" height="72" loading="lazy"></span>Collis Huntington</a></li><li><a href="#" data-person="mark-hopkins"><span class="mini"><img src="../public/portraits/mark-hopkins.jpg" alt="" width="72" height="72" loading="lazy"></span>Mark Hopkins</a></li><li><a href="#" data-person="theodore-judah"><span class="mini"><img src="../public/portraits/theodore-judah.jpg" alt="" width="72" height="72" loading="lazy"></span>Theodore Judah</a></li><li><a href="#" data-person="david-starr-jordan"><span class="mini"><img src="../public/portraits/david-starr-jordan.jpg" alt="" width="72" height="72" loading="lazy"></span>David Starr Jordan</a></li></ul></section>
+    <section><h2>Places</h2><ul class="pill-list"><li><a href="#">Sacramento, CA <span class="dim">· 1</span></a></li><li><a href="#">Promontory Summit, UT <span class="dim">· 1</span></a></li><li><a href="#">Palo Alto, CA <span class="dim">· 2</span></a></li></ul></section>
+    <section><h2>Sources</h2><ul class="fam-list"><li><b>Rewrite master timeline</b> <span class="dim">· 5 citations</span><br><code class="dim" style="font-size:.8rem;word-break:break-all">site/corpus/rewrite/timeline.md</code></li><li><b>Rewrite names and terms glossary</b> <span class="dim">· 4 citations</span><br><code class="dim" style="font-size:.8rem;word-break:break-all">site/corpus/rewrite/GLOSSARY.md</code></li><li><b>Event ledger</b> <span class="dim">· 4 citations</span><br><code class="dim" style="font-size:.8rem;word-break:break-all">books/cardinal/_project/event-ledger.csv</code></li><li><b>Rewrite chapter ep4-02-florence-vow (Episode 4: The Boy and the Farm)</b> <span class="dim">· 3 citations</span><br><code class="dim" style="font-size:.8rem;word-break:break-all">site/corpus/rewrite/chapters/ep4-02-florence-vow.md</code></li></ul></section>
+  </article></div></main>
+<footer class="foot"><div class="foot-in">
+    <p><b>Web of People</b> is a prototype for Cardinal, built to be reused in Dawn.</p>
+    <p class="fine">57 people, 78 events and 13 repository sources. Every fact cites a file in the Cardinal repository with a verbatim quote. Where the notes are silent, this site says “not recorded”. Entries marked Draft come from drafting notes that the project’s own research log has not yet verified. Portraits are public-domain or Creative Commons images from Wikimedia Commons, credited on each profile.</p>
+    <p class="fine"><a href="#">Sources</a> · <a href="#">Charts</a> · <a href="#">Import a family file</a></p>
+  </div></footer>
+</body>
+</html>

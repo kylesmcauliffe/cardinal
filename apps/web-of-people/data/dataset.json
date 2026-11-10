@@ -1,0 +1,3278 @@
+{
+  "meta": {
+    "title": "Web of People: Cardinal dataset",
+    "repo": {
+      "url": "https://github.com/kylesmcauliffe/cardinal",
+      "branch": "main"
+    },
+    "counts": {
+      "people": 57,
+      "events": 78,
+      "relationships": 31,
+      "places": 23,
+      "sources": 13
+    },
+    "ledgerRows": 78,
+    "ledgerActorsNotMapped": [
+      "48 delegates",
+      "Alf Brandin",
+      "Amazon",
+      "App-based platforms",
+      "April Third Movement",
+      "California legislature",
+      "California voters",
+      "Central Pacific",
+      "Central Pacific Chinese workforce",
+      "Electronics magazine",
+      "Facebook",
+      "Fairchild Semiconductor",
+      "Federal Trade Commission",
+      "Franklin D. Roosevelt",
+      "Genentech",
+      "IBM",
+      "Jimmy Carter",
+      "Joseph Biden",
+      "Lockheed",
+      "Mexican republic",
+      "Mexico",
+      "Microsoft",
+      "National Science Foundation",
+      "New York Times",
+      "Nvidia",
+      "Observer",
+      "Onitsuka",
+      "OpenAI",
+      "OpenAI board",
+      "PayPal",
+      "SRI",
+      "San Francisco News",
+      "Southern Pacific",
+      "Stanford University",
+      "Stanford board special committee",
+      "Stanford trustees",
+      "UN Human Rights Council",
+      "US Congress",
+      "US Department of Labor",
+      "US Supreme Court",
+      "US marshal",
+      "Union Pacific",
+      "United States",
+      "Varian Associates",
+      "and others",
+      "eBay",
+      "police",
+      "settlers",
+      "—"
+    ],
+    "notice": "Every fact cites a repository file and a verbatim quote. Unknown stays unknown."
+  },
+  "people": [
+    {
+      "id": "abraham-lincoln",
+      "name": "Abraham Lincoln",
+      "given": "Abraham",
+      "surname": "Lincoln",
+      "portrait": {
+        "file": "portraits/abraham-lincoln.jpg",
+        "author": "Alexander Gardner",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_head_on_shoulders_photo_portrait.jpg",
+        "commonsTitle": "File:Abraham Lincoln head on shoulders photo portrait.jpg",
+        "date": "1863-11-08",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "arthur-rock",
+      "name": "Arthur Rock",
+      "given": "Arthur",
+      "surname": "Rock",
+      "portrait": null
+    },
+    {
+      "id": "bill-bowerman",
+      "name": "Bill Bowerman",
+      "given": "Bill",
+      "surname": "Bowerman",
+      "role": "Knight's partner in Blue Ribbon Sports",
+      "roleCites": [
+        {
+          "f": "books/cardinal/_project/research-log.md",
+          "q": "Bowerman and Knight each put in $500 and ordered 300 pairs"
+        }
+      ],
+      "portrait": {
+        "file": "portraits/bill-bowerman.jpg",
+        "author": "University of Oregon",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Bill_Bowerman.jpg",
+        "commonsTitle": "File:Bill Bowerman.jpg",
+        "date": "1958",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "bill-duvall",
+      "name": "Bill Duvall",
+      "given": "Bill",
+      "surname": "Duvall",
+      "portrait": null
+    },
+    {
+      "id": "bill-hewlett",
+      "name": "Bill Hewlett",
+      "given": "Bill",
+      "surname": "Hewlett",
+      "role": "Co-founder of Hewlett-Packard",
+      "roleCites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "Hewlett-Packard founded at 367 Addison Avenue,Bill Hewlett; David Packard"
+        }
+      ],
+      "portrait": {
+        "file": "portraits/bill-hewlett.jpg",
+        "author": "Copyright held by English Wikipedia User:Alanhtripp. Transferred from Wikipedia.org English Wikipedia to Commons. by User:Scm83x. Uploaded to commons by User:Im",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:William_Hewlett_1993.jpg",
+        "commonsTitle": "File:William Hewlett 1993.jpg",
+        "date": "1993",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "charles-crocker",
+      "name": "Charles Crocker",
+      "given": "Charles",
+      "surname": "Crocker",
+      "role": "One of the Associates (the Big Four)",
+      "roleCites": [
+        {
+          "f": "site/corpus/rewrite/GLOSSARY.md",
+          "q": "The Associates / the Big Four: Collis P. Huntington, Mark Hopkins, Charles Crocker, Leland Stanford."
+        }
+      ],
+      "portrait": {
+        "file": "portraits/charles-crocker.jpg",
+        "author": "Silas Selleck",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Charles_Crocker_Silas_Selleck_Portrait_Crop.jpg",
+        "commonsTitle": "File:Charles Crocker Silas Selleck Portrait Crop.jpg",
+        "date": "circa 1865–1875",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "charley-kline",
+      "name": "Charley Kline",
+      "given": "Charley",
+      "surname": "Kline",
+      "portrait": null
+    },
+    {
+      "id": "chester-a-arthur",
+      "name": "Chester A. Arthur",
+      "given": "Chester A.",
+      "surname": "Arthur",
+      "portrait": {
+        "file": "portraits/chester-a-arthur.jpg",
+        "author": "Charles Milton Bell",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Chester_A._Arthur_portrait_c1882.jpg",
+        "commonsTitle": "File:Chester A. Arthur portrait c1882.jpg",
+        "date": "1882",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "collis-huntington",
+      "name": "Collis P. Huntington",
+      "short": "Collis Huntington",
+      "given": "Collis P.",
+      "surname": "Huntington",
+      "role": "One of the Associates (the Big Four)",
+      "roleCites": [
+        {
+          "f": "site/corpus/rewrite/GLOSSARY.md",
+          "q": "The Associates / the Big Four: Collis P. Huntington, Mark Hopkins, Charles Crocker, Leland Stanford."
+        }
+      ],
+      "portrait": {
+        "file": "portraits/collis-huntington.jpg",
+        "author": "Stephen William Shaw",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Collis_P_Huntington_by_Stephen_W_Shaw.jpg",
+        "commonsTitle": "File:Collis P Huntington by Stephen W Shaw.jpg",
+        "date": "1872 date QS:P571,+1872-00-00T00:00:00Z/9",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "david-packard",
+      "name": "David Packard",
+      "given": "David",
+      "surname": "Packard",
+      "role": "Co-founder of Hewlett-Packard",
+      "roleCites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "Hewlett-Packard founded at 367 Addison Avenue,Bill Hewlett; David Packard"
+        }
+      ],
+      "portrait": {
+        "file": "portraits/david-packard.jpg",
+        "author": "Department of Defense Historical Office Public Affairs",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:David-Packard-DepSecDef.jpg",
+        "commonsTitle": "File:David-Packard-DepSecDef.jpg",
+        "date": "2015-03-03 08:09:32",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "david-starr-jordan",
+      "name": "David Starr Jordan",
+      "given": "David Starr",
+      "surname": "Jordan",
+      "role": "First president of Stanford University",
+      "roleCites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "Stanford University opens,David Starr Jordan (president)"
+        }
+      ],
+      "portrait": {
+        "file": "portraits/david-starr-jordan.jpg",
+        "author": "Moffett Studio",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_David_Starr_Jordan.jpg",
+        "commonsTitle": "File:Portrait of David Starr Jordan.jpg",
+        "date": "no later than 1913",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "don-valentine",
+      "name": "Don Valentine",
+      "given": "Don",
+      "surname": "Valentine",
+      "portrait": null
+    },
+    {
+      "id": "douglas-engelbart",
+      "name": "Douglas Engelbart",
+      "given": "Douglas",
+      "surname": "Engelbart",
+      "portrait": {
+        "file": "portraits/douglas-engelbart.jpg",
+        "author": "Alex Handy from Oakland, Nmibia",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Douglas_Engelbart_in_2008.jpg",
+        "commonsTitle": "File:Douglas Engelbart in 2008.jpg",
+        "date": "2008-12-08 09:39",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "e-b-crocker",
+      "name": "E. B. Crocker",
+      "given": "E. B.",
+      "surname": "Crocker",
+      "role": "Charles Crocker's brother",
+      "roleCites": [
+        {
+          "f": "site/corpus/rewrite/GLOSSARY.md",
+          "q": "E. B. Crocker is Charles's brother."
+        }
+      ],
+      "portrait": null
+    },
+    {
+      "id": "edward-a-ross",
+      "name": "Edward A. Ross",
+      "given": "Edward A.",
+      "surname": "Ross",
+      "role": "Professor forced out of Stanford in 1900",
+      "roleCites": [
+        {
+          "f": "site/corpus/rewrite/timeline.md",
+          "q": "costs a professor his job for attacking it"
+        }
+      ],
+      "portrait": {
+        "file": "portraits/edward-a-ross.jpg",
+        "author": "George Grantham Bain Collection (Library of Congress)",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Edward_Alsworth_Ross.jpg",
+        "commonsTitle": "File:Edward Alsworth Ross.jpg",
+        "date": "Unrecorded",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "elon-musk",
+      "name": "Elon Musk",
+      "given": "Elon",
+      "surname": "Musk",
+      "portrait": null
+    },
+    {
+      "id": "ephraim-adams",
+      "name": "Ephraim Adams",
+      "given": "Ephraim",
+      "surname": "Adams",
+      "portrait": null
+    },
+    {
+      "id": "eugene-kleiner",
+      "name": "Eugene Kleiner",
+      "given": "Eugene",
+      "surname": "Kleiner",
+      "role": "One of the eight who left Shockley; co-founder of Kleiner Perkins",
+      "roleCites": [
+        {
+          "f": "site/corpus/rewrite/GLOSSARY.md",
+          "q": "the \"traitorous eight\": Robert Noyce, Gordon Moore, Eugene Kleiner, Julius Blank, Victor Grinich, Jean Hoerni, Jay Last, Sheldon Roberts."
+        },
+        {
+          "f": "site/corpus/rewrite/GLOSSARY.md",
+          "q": "Eugene Kleiner and Tom Perkins"
+        }
+      ],
+      "portrait": null
+    },
+    {
+      "id": "francisco-palou",
+      "name": "Francisco Palóu",
+      "given": "Francisco",
+      "surname": "Palóu",
+      "portrait": null
+    },
+    {
+      "id": "fred-moore",
+      "name": "Fred Moore",
+      "given": "Fred",
+      "surname": "Moore",
+      "portrait": null
+    },
+    {
+      "id": "frederick-terman",
+      "name": "Frederick Terman",
+      "short": "Fred Terman",
+      "given": "Frederick",
+      "surname": "Terman",
+      "role": "Engineer; investor, board member and landlord-dean in one name",
+      "roleCites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep6-01-the-lease.md",
+          "q": "investor-board member-landlord-dean in a single name"
+        }
+      ],
+      "portrait": null
+    },
+    {
+      "id": "gaspar-de-portola",
+      "name": "Gaspar de Portolá",
+      "given": "Gaspar",
+      "surname": "Portolá",
+      "portrait": {
+        "file": "portraits/gaspar-de-portola.jpg",
+        "author": "Unknown painter",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Retrat_Gaspar_de_Portol%C3%A0_(Lleida).jpg",
+        "commonsTitle": "File:Retrat Gaspar de Portolà (Lleida).jpg",
+        "date": "18 th century date QS:P,+1750-00-00T00:00:00Z/7",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "gordon-french",
+      "name": "Gordon French",
+      "given": "Gordon",
+      "surname": "French",
+      "portrait": null
+    },
+    {
+      "id": "gordon-moore",
+      "name": "Gordon Moore",
+      "given": "Gordon",
+      "surname": "Moore",
+      "role": "One of the eight who left Shockley",
+      "roleCites": [
+        {
+          "f": "site/corpus/rewrite/GLOSSARY.md",
+          "q": "the \"traitorous eight\": Robert Noyce, Gordon Moore, Eugene Kleiner, Julius Blank, Victor Grinich, Jean Hoerni, Jay Last, Sheldon Roberts."
+        }
+      ],
+      "portrait": {
+        "file": "portraits/gordon-moore.jpg",
+        "author": "Staff photographer",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Gordon_Moore_ID2004_crop.jpg",
+        "commonsTitle": "File:Gordon Moore ID2004 crop.jpg",
+        "date": "14 September 2004",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "herbert-boyer",
+      "name": "Herbert Boyer",
+      "given": "Herbert",
+      "surname": "Boyer",
+      "portrait": null
+    },
+    {
+      "id": "herbert-hoover",
+      "name": "Herbert Hoover",
+      "given": "Herbert",
+      "surname": "Hoover",
+      "role": "Stanford pioneer-class student; later president of the United States",
+      "roleCites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep4-03-farm-opening-day.md",
+          "q": "admitted to the pioneer class without a high school diploma"
+        },
+        {
+          "f": "site/corpus/rewrite/timeline.md",
+          "q": "Hoover's presidency."
+        }
+      ],
+      "portrait": {
+        "file": "portraits/herbert-hoover.jpg",
+        "author": "Bain via Clinedinst",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Herbert_Hoover_photo_portrait_from_1917.jpg",
+        "commonsTitle": "File:Herbert Hoover photo portrait from 1917.jpg",
+        "date": "1917",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "james-gadsden",
+      "name": "James Gadsden",
+      "given": "James",
+      "surname": "Gadsden",
+      "portrait": {
+        "file": "portraits/james-gadsden.jpg",
+        "author": "Charles Fraser",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:James_Gadsden_by_Charles_Fraser,_circa_1831.jpg",
+        "commonsTitle": "File:James Gadsden by Charles Fraser, circa 1831.jpg",
+        "date": "circa 1831 date QS:P,+1831-00-00T00:00:00Z/9,P1480,Q5727902",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "james-w-marshall",
+      "name": "James W. Marshall",
+      "given": "James W.",
+      "surname": "Marshall",
+      "portrait": {
+        "file": "portraits/james-w-marshall.jpg",
+        "author": "John R. Hodson",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:James_W._Marshall_Hodson_Portrait.jpg",
+        "commonsTitle": "File:James W. Marshall Hodson Portrait.jpg",
+        "date": "1894",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "jane-stanford",
+      "name": "Jane Lathrop Stanford",
+      "short": "Jane Stanford",
+      "given": "Jane",
+      "surname": "Stanford",
+      "birthSurname": "Lathrop",
+      "birthSurnameCites": [
+        {
+          "f": "site/corpus/rewrite/GLOSSARY.md",
+          "q": "Jane Lathrop Stanford is \"Jane Stanford,\" then \"Jane.\""
+        }
+      ],
+      "role": "Widow who kept the university funded after 1893",
+      "roleCites": [
+        {
+          "f": "site/corpus/rewrite/timeline.md",
+          "q": "the estate is frozen and Jane funds the university."
+        }
+      ],
+      "portrait": {
+        "file": "portraits/jane-stanford.jpg",
+        "author": "Photographer unidentified",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Jane_Lathrop_Stanford_from_American_Women,_1897.jpg",
+        "commonsTitle": "File:Jane Lathrop Stanford from American Women, 1897.jpg",
+        "date": "1897",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "jean-hoerni",
+      "name": "Jean Hoerni",
+      "given": "Jean",
+      "surname": "Hoerni",
+      "role": "One of the eight who left Shockley",
+      "roleCites": [
+        {
+          "f": "site/corpus/rewrite/GLOSSARY.md",
+          "q": "the \"traitorous eight\": Robert Noyce, Gordon Moore, Eugene Kleiner, Julius Blank, Victor Grinich, Jean Hoerni, Jay Last, Sheldon Roberts."
+        }
+      ],
+      "portrait": null
+    },
+    {
+      "id": "jefferson-davis",
+      "name": "Jefferson Davis",
+      "given": "Jefferson",
+      "surname": "Davis",
+      "role": "Secretary of War; spoke for a transcontinental railroad days before leaving the Senate",
+      "roleCites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "Jefferson Davis (Secretary of War)"
+        },
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "Jefferson Davis speaks for a transcontinental railroad days before leaving the Senate"
+        }
+      ],
+      "portrait": {
+        "file": "portraits/jefferson-davis.jpg",
+        "author": "Unknown author",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Jefferson_Davis,_carte-de-visite_photograph,_circa_1861-1864_(PORTRAITS_2285).jpg",
+        "commonsTitle": "File:Portrait of Jefferson Davis, carte-de-visite photograph, circa 1861-1864 (PORTRAITS 2285).jpg",
+        "date": "circa between 1861 and 1864 date QS:P571,+1861-00-00T00:00:00Z/8,P1319,+1861-00-00T00:00:00Z/9,P1326,+1864-00-00T00:00:00Z/9",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "jim-clark",
+      "name": "Jim Clark",
+      "given": "Jim",
+      "surname": "Clark",
+      "portrait": null
+    },
+    {
+      "id": "john-casper-branner",
+      "name": "John Casper Branner",
+      "given": "John Casper",
+      "surname": "Branner",
+      "role": "Chairman of the geology department",
+      "roleCites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep5-01-gwalia.md",
+          "q": "Branner was chairman of the geology department"
+        }
+      ],
+      "portrait": {
+        "file": "portraits/john-casper-branner.jpg",
+        "author": "Bain News Service, publisher",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Dr._J.C._Branner_LCCN2014693178.jpg",
+        "commonsTitle": "File:Dr. J.C. Branner LCCN2014693178.jpg",
+        "date": "1910",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "john-steinbeck",
+      "name": "John Steinbeck",
+      "given": "John",
+      "surname": "Steinbeck",
+      "role": "Writer; attended Stanford 1919–1925 without a degree",
+      "roleCites": [
+        {
+          "f": "books/cardinal/_project/research-log.md",
+          "q": "Steinbeck attended Stanford intermittently 1919–1925 and never earned a degree"
+        }
+      ],
+      "portrait": null
+    },
+    {
+      "id": "john-sutter",
+      "name": "John Sutter",
+      "given": "John",
+      "surname": "Sutter",
+      "portrait": {
+        "file": "portraits/john-sutter.jpg",
+        "author": "unattributed",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:John_Augustus_Sutter_c1850.jpg",
+        "commonsTitle": "File:John Augustus Sutter c1850.jpg",
+        "date": "circa 1850 date QS:P,+1850-00-00T00:00:00Z/9,P1480,Q5727902",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "jose-figueroa",
+      "name": "José Figueroa",
+      "given": "José",
+      "surname": "Figueroa",
+      "portrait": null
+    },
+    {
+      "id": "junipero-serra",
+      "name": "Junípero Serra",
+      "given": "Junípero",
+      "surname": "Serra",
+      "portrait": {
+        "file": "portraits/junipero-serra.jpg",
+        "author": "Detroit Publishing Company",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Jun%C3%ADpero_Serra.jpg",
+        "commonsTitle": "File:Junípero Serra.jpg",
+        "date": "between 1913 and 1930 date QS:P,+1950-00-00T00:00:00Z/7,P1319,+1913-00-00T00:00:00Z/9,P1326,+1930-00-00T00:00:00Z/9",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "larry-page",
+      "name": "Larry Page",
+      "given": "Larry",
+      "surname": "Page",
+      "role": "Co-founder of Google",
+      "roleCites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "Google incorporated,Larry Page; Sergey Brin"
+        }
+      ],
+      "portrait": {
+        "file": "portraits/larry-page.jpg",
+        "author": "Schmidt-Brin-Page-20080520.jpg : Joi Ito derivative work: Bonnifac ( talk )",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Larry_Page_(cropped).jpg",
+        "commonsTitle": "File:Larry Page (cropped).jpg",
+        "date": "2009-07-20 21:27",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "leland-stanford",
+      "name": "Leland Stanford",
+      "given": "Leland",
+      "surname": "Stanford",
+      "role": "Governor; one of the Associates; founder of the university",
+      "roleCites": [
+        {
+          "f": "site/corpus/rewrite/timeline.md",
+          "q": "Stanford elected governor."
+        },
+        {
+          "f": "site/corpus/rewrite/GLOSSARY.md",
+          "q": "The Associates / the Big Four: Collis P. Huntington, Mark Hopkins, Charles Crocker, Leland Stanford."
+        },
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "Stanford Founding Grant executed,Leland and Jane Stanford"
+        }
+      ],
+      "portrait": {
+        "file": "portraits/leland-stanford.jpg",
+        "author": "Bradley & Rulofson",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Leland_Stanford_Crop.jpg",
+        "commonsTitle": "File:Portrait of Leland Stanford Crop.jpg",
+        "date": "between 1863 and 1883, likely 1860s",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "leland-stanford-jr",
+      "name": "Leland Stanford Jr.",
+      "short": "Leland Jr.",
+      "given": "Leland",
+      "surname": "Stanford",
+      "role": "The Stanfords' only child",
+      "roleCites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep4-02-florence-vow.md",
+          "q": "He was the Stanfords' only child."
+        }
+      ],
+      "portrait": {
+        "file": "portraits/leland-stanford-jr.jpg",
+        "author": "A. D. M. Cooper",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Leland_Stanford_Jr._by_Astley_D._M._Cooper.jpg",
+        "commonsTitle": "File:Portrait of Leland Stanford Jr. by Astley D. M. Cooper.jpg",
+        "date": "between 1890 and 1899 date QS:P571,+1890-00-00T00:00:00Z/8,P1319,+1890-00-00T00:00:00Z/9,P1326,+1899-00-00T00:00:00Z/9",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "lewis-terman",
+      "name": "Lewis Terman",
+      "given": "Lewis",
+      "surname": "Terman",
+      "role": "Psychologist (IQ test); Frederick Terman's father",
+      "roleCites": [
+        {
+          "f": "site/corpus/rewrite/GLOSSARY.md",
+          "q": "Lewis Terman (father, IQ test)"
+        }
+      ],
+      "portrait": {
+        "file": "portraits/lewis-terman.jpg",
+        "author": "Unknown author",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Lewis_Madison_Terman.jpg",
+        "commonsTitle": "File:Lewis Madison Terman.jpg",
+        "date": "1923",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "lou-henry-hoover",
+      "name": "Lou Henry Hoover",
+      "short": "Lou Henry",
+      "given": "Lou",
+      "surname": "Hoover",
+      "birthSurname": "Henry",
+      "birthSurnameCites": [
+        {
+          "f": "site/corpus/rewrite/GLOSSARY.md",
+          "q": "Lou Henry (Hoover)"
+        }
+      ],
+      "role": "Stanford geology graduate; married Herbert Hoover",
+      "roleCites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep5-01-gwalia.md",
+          "q": "She entered Stanford in 1894 and took a degree in geology in 1898"
+        }
+      ],
+      "portrait": {
+        "file": "portraits/lou-henry-hoover.jpg",
+        "author": "Harris & Ewing",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Mrs._Herbert_C._Hoover_(Lou_Henry_Hoover)_by_Harris_%26_Ewing_-_Original.tiff",
+        "commonsTitle": "File:Mrs. Herbert C. Hoover (Lou Henry Hoover) by Harris & Ewing - Original.tiff",
+        "date": "1905",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "marc-andreessen",
+      "name": "Marc Andreessen",
+      "given": "Marc",
+      "surname": "Andreessen",
+      "portrait": null
+    },
+    {
+      "id": "marc-tessier-lavigne",
+      "name": "Marc Tessier-Lavigne",
+      "given": "Marc",
+      "surname": "Tessier-Lavigne",
+      "role": "Resigned as Stanford president in 2023",
+      "roleCites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "Marc Tessier-Lavigne resigns as Stanford president"
+        }
+      ],
+      "portrait": null
+    },
+    {
+      "id": "mark-hopkins",
+      "name": "Mark Hopkins",
+      "given": "Mark",
+      "surname": "Hopkins",
+      "role": "One of the Associates (the Big Four)",
+      "roleCites": [
+        {
+          "f": "site/corpus/rewrite/GLOSSARY.md",
+          "q": "The Associates / the Big Four: Collis P. Huntington, Mark Hopkins, Charles Crocker, Leland Stanford."
+        }
+      ],
+      "portrait": {
+        "file": "portraits/mark-hopkins.jpg",
+        "author": "Unknown author",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Mark_Hopkins_Oval_Portrait_Crop.jpg",
+        "commonsTitle": "File:Mark Hopkins Oval Portrait Crop.jpg",
+        "date": "Unknown, circa 1860s–1870s",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "millard-fillmore",
+      "name": "Millard Fillmore",
+      "given": "Millard",
+      "surname": "Fillmore",
+      "portrait": {
+        "file": "portraits/millard-fillmore.jpg",
+        "author": "James Reid Lambdin",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Millard_Fillmore_by_James_Reid_Lambdin_(National_Portrait_Gallery).jpg",
+        "commonsTitle": "File:Millard Fillmore by James Reid Lambdin (National Portrait Gallery).jpg",
+        "date": "circa 1858 date QS:P,+1858-00-00T00:00:00Z/9,P1480,Q5727902",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "peter-thiel",
+      "name": "Peter Thiel",
+      "given": "Peter",
+      "surname": "Thiel",
+      "role": "Founded the Stanford Review",
+      "roleCites": [
+        {
+          "f": "site/corpus/rewrite/timeline.md",
+          "q": "Thiel founds the *Stanford Review*."
+        }
+      ],
+      "portrait": null
+    },
+    {
+      "id": "phil-knight",
+      "name": "Phil Knight",
+      "given": "Phil",
+      "surname": "Knight",
+      "role": "Stanford MBA (1962); invented the name Blue Ribbon Sports",
+      "roleCites": [
+        {
+          "f": "books/cardinal/_project/research-log.md",
+          "q": "Knight earned an MBA from Stanford Graduate School of Business in 1962"
+        },
+        {
+          "f": "books/cardinal/_project/research-log.md",
+          "q": "He invented the name \"Blue Ribbon Sports\" on the spot"
+        }
+      ],
+      "portrait": null
+    },
+    {
+      "id": "robert-noyce",
+      "name": "Robert Noyce",
+      "given": "Robert",
+      "surname": "Noyce",
+      "role": "One of the eight who left Shockley",
+      "roleCites": [
+        {
+          "f": "site/corpus/rewrite/GLOSSARY.md",
+          "q": "the \"traitorous eight\": Robert Noyce, Gordon Moore, Eugene Kleiner, Julius Blank, Victor Grinich, Jean Hoerni, Jay Last, Sheldon Roberts."
+        }
+      ],
+      "portrait": null
+    },
+    {
+      "id": "robert-swanson",
+      "name": "Robert Swanson",
+      "short": "Bob Swanson",
+      "given": "Robert",
+      "surname": "Swanson",
+      "portrait": null
+    },
+    {
+      "id": "russell-varian",
+      "name": "Russell Varian",
+      "given": "Russell",
+      "surname": "Varian",
+      "role": "Co-founder of Varian Associates",
+      "roleCites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep6-01-the-lease.md",
+          "q": "Varian Associates — Russell and Sigurd Varian"
+        }
+      ],
+      "portrait": null
+    },
+    {
+      "id": "sergey-brin",
+      "name": "Sergey Brin",
+      "given": "Sergey",
+      "surname": "Brin",
+      "role": "Co-founder of Google",
+      "roleCites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "Google incorporated,Larry Page; Sergey Brin"
+        }
+      ],
+      "portrait": {
+        "file": "portraits/sergey-brin.jpg",
+        "author": "Joi Ito",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Sergey_Brin_cropped.jpg",
+        "commonsTitle": "File:Sergey Brin cropped.jpg",
+        "date": "2008-05-20 02:05:17",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "sigurd-varian",
+      "name": "Sigurd Varian",
+      "given": "Sigurd",
+      "surname": "Varian",
+      "role": "Co-founder of Varian Associates",
+      "roleCites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep6-01-the-lease.md",
+          "q": "Varian Associates — Russell and Sigurd Varian"
+        }
+      ],
+      "portrait": null
+    },
+    {
+      "id": "theodore-judah",
+      "name": "Theodore Judah",
+      "given": "Theodore",
+      "surname": "Judah",
+      "role": "Engineer",
+      "roleCites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "Four merchants and an engineer. Judah is bought out and dies in 1863."
+        }
+      ],
+      "portrait": {
+        "file": "portraits/theodore-judah.jpg",
+        "author": "Carleton Watkins",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Theodore_Judah.jpg",
+        "commonsTitle": "File:Theodore Judah.jpg",
+        "date": "1863",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "tom-perkins",
+      "name": "Tom Perkins",
+      "given": "Tom",
+      "surname": "Perkins",
+      "portrait": null
+    },
+    {
+      "id": "vannevar-bush",
+      "name": "Vannevar Bush",
+      "given": "Vannevar",
+      "surname": "Bush",
+      "portrait": {
+        "file": "portraits/vannevar-bush.jpg",
+        "author": "Harris & Ewing",
+        "license": "Public domain",
+        "licenseUrl": null,
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:Vannevar_Bush,_1938,_Harris_%26_Ewing_(cropped).jpg",
+        "commonsTitle": "File:Vannevar Bush, 1938, Harris & Ewing (cropped).jpg",
+        "date": "1938",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    },
+    {
+      "id": "william-shockley",
+      "name": "William Shockley",
+      "given": "William",
+      "surname": "Shockley",
+      "role": "Founder of Shockley Semiconductor",
+      "roleCites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "Shockley Semiconductor opens in Mountain View,William Shockley"
+        }
+      ],
+      "portrait": {
+        "file": "portraits/william-shockley.jpg",
+        "author": "Chuck Painter / Stanford News Service",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "commonsUrl": "https://commons.wikimedia.org/wiki/File:William_Shockley,_Stanford_University_(cropped).jpg",
+        "commonsTitle": "File:William Shockley, Stanford University (cropped).jpg",
+        "date": "1975",
+        "scaled": "Scaled to 360px wide from the original; no other edits."
+      }
+    }
+  ],
+  "events": [
+    {
+      "id": "ledger-1769-07-16-mission-san-diego-de-alcala-founded-spanish-occu",
+      "people": [
+        "gaspar-de-portola",
+        "junipero-serra"
+      ],
+      "date": "1769-07-16",
+      "kind": "founding",
+      "title": "Mission San Diego de Alcalá founded; Spanish occupation of Alta California begins",
+      "place": "san-diego-ca",
+      "locationText": "San Diego, CA",
+      "status": "VERIFIED",
+      "why": "Begins the mission-presidio-pueblo system: California's first apparatus of labour and record.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1769-07-16,Mission San Diego de Alcalá founded; Spanish occupation of Alta Calif",
+          "line": 2
+        }
+      ]
+    },
+    {
+      "id": "ledger-1776-06-29-mission-san-francisco-de-asis-founded-at-what-is",
+      "people": [
+        "francisco-palou"
+      ],
+      "date": "1776-06-29",
+      "kind": "founding",
+      "title": "Mission San Francisco de Asís founded at what is now 320 Dolores Street",
+      "place": "san-francisco-ca",
+      "locationText": "San Francisco, CA",
+      "status": "VERIFIED",
+      "why": "Anchors the Spanish claim to the Pacific's greatest natural harbour. Oldest intact building in the city.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1776-06-29,Mission San Francisco de Asís founded at what is now 320 Dolores Stre",
+          "line": 3
+        }
+      ]
+    },
+    {
+      "id": "ledger-1834-08-09-secularisation-of-the-missions-begins",
+      "people": [
+        "jose-figueroa"
+      ],
+      "date": "1834-08-09",
+      "kind": "other",
+      "title": "Secularisation of the missions begins",
+      "place": "alta-california",
+      "locationText": "Alta California",
+      "status": "VERIFIED",
+      "why": "Largest land transfer in California history. Restitution promised to neophytes; almost none delivered.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1834-08-09,Secularisation of the missions begins,Governor José Figueroa,Alta Cal",
+          "line": 5
+        }
+      ]
+    },
+    {
+      "id": "ledger-1848-01-24-gold-discovered-at-sutter-s-mill",
+      "people": [
+        "james-w-marshall",
+        "john-sutter"
+      ],
+      "date": "1848-01-24",
+      "kind": "other",
+      "title": "Gold discovered at Sutter's Mill",
+      "place": "coloma-ca",
+      "locationText": "Coloma, CA",
+      "status": "VERIFIED",
+      "why": "Detonates the incentive structure of the Pacific coast. Marshall and Sutter both ruined by it.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1848-01-24,Gold discovered at Sutter's Mill,James W. Marshall; John Sutter,\"Colo",
+          "line": 6
+        }
+      ]
+    },
+    {
+      "id": "ledger-1850-09-09-california-admitted-as-a-state-under-the-comprom",
+      "people": [
+        "millard-fillmore"
+      ],
+      "date": "1850-09-09",
+      "kind": "law",
+      "title": "California admitted as a state under the Compromise of 1850",
+      "place": "washington-dc",
+      "locationText": "Washington, DC",
+      "status": "VERIFIED",
+      "why": "Places California on the sectional chessboard from its first day, which decides the railroad route in 1862.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1850-09-09,California admitted as a state under the Compromise of 1850,US Congre",
+          "line": 11
+        }
+      ]
+    },
+    {
+      "id": "ledger-1853-03-03-congress-appropriates-150-000-for-pacific-railro",
+      "people": [
+        "jefferson-davis"
+      ],
+      "date": "1853-03-03",
+      "kind": "other",
+      "title": "Congress appropriates $150,000 for Pacific railroad surveys",
+      "place": "washington-dc",
+      "locationText": "Washington, DC",
+      "status": "VERIFIED",
+      "why": "Four corridors surveyed. Every field commander reports his own route is best; Congress cannot decide.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1853-03-03,\"Congress appropriates $150,000 for Pacific railroad surveys\",US Cong",
+          "line": 13
+        }
+      ]
+    },
+    {
+      "id": "ledger-1853-12-30-gadsden-purchase-signed",
+      "people": [
+        "james-gadsden"
+      ],
+      "date": "1853-12-30",
+      "kind": "law",
+      "title": "Gadsden Purchase signed",
+      "place": "mexico-city",
+      "locationText": "Mexico City",
+      "status": "VERIFIED",
+      "why": "Acquires the strip required for a 32nd-parallel southern railroad route.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1853-12-30,Gadsden Purchase signed,James Gadsden; Mexico,Mexico City,Acquires th",
+          "line": 14
+        }
+      ]
+    },
+    {
+      "id": "ledger-1861-01-21-jefferson-davis-speaks-for-a-transcontinental-ra",
+      "people": [
+        "jefferson-davis"
+      ],
+      "date": "1861-01-21",
+      "kind": "other",
+      "title": "Jefferson Davis speaks for a transcontinental railroad days before leaving the Senate",
+      "place": "washington-dc",
+      "locationText": "Washington, DC",
+      "status": "VERIFIED",
+      "why": "'To couple with bonds of iron the people of the Pacific with the valley of the Mississippi.' His departure is what makes it possible.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1861-01-21,Jefferson Davis speaks for a transcontinental railroad days before le",
+          "line": 15
+        }
+      ]
+    },
+    {
+      "id": "ledger-1861-06-28-central-pacific-railroad-incorporated",
+      "people": [
+        "charles-crocker",
+        "collis-huntington",
+        "leland-stanford",
+        "mark-hopkins",
+        "theodore-judah"
+      ],
+      "date": "1861-06-28",
+      "kind": "founding",
+      "title": "Central Pacific Railroad incorporated",
+      "place": "sacramento-ca",
+      "locationText": "Sacramento, CA",
+      "status": "NEEDS SOURCE",
+      "why": "Four merchants and an engineer. Judah is bought out and dies in 1863.",
+      "ledgerNote": "Verify against articles of incorporation",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1861-06-28,Central Pacific Railroad incorporated,Leland Stanford; Collis Hunting",
+          "line": 16
+        }
+      ]
+    },
+    {
+      "id": "ledger-1862-07-01-pacific-railway-act-signed",
+      "people": [
+        "abraham-lincoln"
+      ],
+      "date": "1862-07-01",
+      "kind": "law",
+      "title": "Pacific Railway Act signed",
+      "place": "washington-dc",
+      "locationText": "Washington, DC",
+      "status": "VERIFIED",
+      "why": "Passes only after secession empties the Southern seats. Land grants and 30-year bonds at 6 per cent. Union Pacific is the first federally chartered corporation since the Second Bank.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1862-07-01,Pacific Railway Act signed,Abraham Lincoln; US Congress,\"Washington, ",
+          "line": 17
+        }
+      ]
+    },
+    {
+      "id": "ledger-1867-06-25-chinese-workers-strike-on-the-sierra-grade",
+      "people": [
+        "charles-crocker"
+      ],
+      "date": "1867-06-25",
+      "kind": "conflict",
+      "title": "Chinese workers strike on the Sierra grade",
+      "place": "sierra-nevada-ca",
+      "locationText": "Sierra Nevada, CA",
+      "status": "VERIFIED",
+      "why": "Several thousand men demand pay parity and shorter tunnel hours. Broken within a week by cutting off food.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1867-06-25,Chinese workers strike on the Sierra grade,Central Pacific Chinese wo",
+          "line": 18
+        }
+      ]
+    },
+    {
+      "id": "ledger-1882-05-06-chinese-exclusion-act-signed",
+      "people": [
+        "chester-a-arthur"
+      ],
+      "date": "1882-05-06",
+      "kind": "law",
+      "title": "Chinese Exclusion Act signed",
+      "place": "washington-dc",
+      "locationText": "Washington, DC",
+      "status": "VERIFIED",
+      "why": "First federal law barring a nationality. The men who built the Sierra grade are prohibited from the country they connected.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1882-05-06,Chinese Exclusion Act signed,US Congress; Chester A. Arthur,\"Washingt",
+          "line": 22
+        }
+      ]
+    },
+    {
+      "id": "ledger-1884-03-13-leland-stanford-jr-dies-in-florence",
+      "people": [
+        "leland-stanford-jr"
+      ],
+      "date": "1884-03-13",
+      "kind": "death",
+      "subject": "leland-stanford-jr",
+      "title": "Leland Stanford Jr. dies in Florence",
+      "place": "florence-italy",
+      "locationText": "Florence, Italy",
+      "status": "VERIFIED",
+      "why": "The university follows. Corrects the 1885 date given in some drafts.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1884-03-13,Leland Stanford Jr. dies in Florence,Leland Stanford Jr.,\"Florence, I",
+          "line": 23
+        }
+      ]
+    },
+    {
+      "id": "ledger-1885-11-11-stanford-founding-grant-executed",
+      "people": [
+        "jane-stanford",
+        "leland-stanford"
+      ],
+      "date": "1885-11-11",
+      "kind": "other",
+      "title": "Stanford Founding Grant executed",
+      "place": "palo-alto-ca",
+      "locationText": "Palo Alto, CA",
+      "status": "VERIFIED",
+      "why": "Self-perpetuating board, insulated from politics, endowed with land that cannot be sold. The clause that produces the research park in 1951.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1885-11-11,Stanford Founding Grant executed,Leland and Jane Stanford,\"Palo Alto,",
+          "line": 24
+        }
+      ]
+    },
+    {
+      "id": "ledger-1891-10-01-stanford-university-opens",
+      "people": [
+        "david-starr-jordan"
+      ],
+      "date": "1891-10-01",
+      "kind": "founding",
+      "title": "Stanford University opens",
+      "place": "palo-alto-ca",
+      "locationText": "Palo Alto, CA",
+      "status": "VERIFIED",
+      "why": "Free tuition, coeducational, practical curriculum. First president is a leading eugenicist.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1891-10-01,Stanford University opens,David Starr Jordan (president),\"Palo Alto, ",
+          "line": 27
+        }
+      ]
+    },
+    {
+      "id": "ledger-1893-06-21-leland-stanford-dies-during-the-panic-of-1893",
+      "people": [
+        "leland-stanford"
+      ],
+      "date": "1893-06-21",
+      "kind": "death",
+      "subject": "leland-stanford",
+      "title": "Leland Stanford dies during the Panic of 1893",
+      "place": "palo-alto-ca",
+      "locationText": "Palo Alto, CA",
+      "status": "VERIFIED",
+      "why": "Estate frozen; the federal government sues for $15 million. The university nearly closes.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1893-06-21,Leland Stanford dies during the Panic of 1893,Leland Stanford,\"Palo A",
+          "line": 28
+        }
+      ]
+    },
+    {
+      "id": "ledger-1900-11-12-edward-ross-forced-out-of-stanford",
+      "people": [
+        "david-starr-jordan",
+        "edward-a-ross",
+        "jane-stanford"
+      ],
+      "date": "1900-11-12",
+      "kind": "conflict",
+      "title": "Edward Ross forced out of Stanford",
+      "place": "palo-alto-ca",
+      "locationText": "Palo Alto, CA",
+      "status": "VERIFIED",
+      "why": "Founding controversy of American academic freedom, at a university built by a railroad, over criticism of railroads.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1900-11-12,Edward Ross forced out of Stanford,Jane Stanford; David Starr Jordan;",
+          "line": 30
+        }
+      ]
+    },
+    {
+      "id": "ledger-1905-02-28-jane-stanford-dies-in-honolulu",
+      "people": [
+        "jane-stanford"
+      ],
+      "date": "1905-02-28",
+      "kind": "death",
+      "subject": "jane-stanford",
+      "title": "Jane Stanford dies in Honolulu",
+      "place": "2365-kalakaua-avenue-honolulu",
+      "locationText": "2365 Kalākaua Avenue, Honolulu",
+      "status": "CONTESTED",
+      "why": "Cause contested. The institution continues without structural change, which is the load-bearing fact.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1905-02-28,Jane Stanford dies in Honolulu,Jane Stanford,\"2365 Kalākaua Avenue, H",
+          "line": 31
+        }
+      ]
+    },
+    {
+      "id": "ledger-1919-06-01-hoover-funds-what-becomes-the-hoover-war-collect",
+      "people": [
+        "ephraim-adams",
+        "herbert-hoover"
+      ],
+      "date": "1919-06-01",
+      "kind": "other",
+      "title": "Hoover funds what becomes the Hoover War Collection",
+      "place": "palo-alto-ca",
+      "locationText": "Palo Alto, CA",
+      "status": "VERIFIED",
+      "why": "$50,000 and agents in a collapsed Europe. California acquires memory infrastructure.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1919-06-01,Hoover funds what becomes the Hoover War Collection,Herbert Hoover; E",
+          "line": 35
+        }
+      ]
+    },
+    {
+      "id": "ledger-1936-10-05-steinbeck-s-the-harvest-gypsies-begins-publicati",
+      "people": [
+        "john-steinbeck"
+      ],
+      "date": "1936-10-05",
+      "kind": "publication",
+      "title": "Steinbeck's 'The Harvest Gypsies' begins publication",
+      "place": "san-francisco-ca",
+      "locationText": "San Francisco, CA",
+      "status": "VERIFIED",
+      "why": "An administrative record of a labour system compiled by someone with no institutional interest in the outcome.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1936-10-05,Steinbeck's 'The Harvest Gypsies' begins publication,John Steinbeck; ",
+          "line": 37
+        }
+      ]
+    },
+    {
+      "id": "ledger-1939-01-01-hewlett-packard-founded-at-367-addison-avenue",
+      "people": [
+        "bill-hewlett",
+        "david-packard",
+        "frederick-terman"
+      ],
+      "date": "1939-01-01",
+      "kind": "founding",
+      "title": "Hewlett-Packard founded at 367 Addison Avenue",
+      "place": "palo-alto-ca",
+      "locationText": "Palo Alto, CA",
+      "status": "VERIFIED",
+      "why": "The garage is real and it is not the explanation. Terman told them to stay.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1939-01-01,Hewlett-Packard founded at 367 Addison Avenue,Bill Hewlett; David Pac",
+          "line": 38
+        }
+      ]
+    },
+    {
+      "id": "ledger-1945-07-01-vannevar-bush-delivers-science-the-endless-front",
+      "people": [
+        "vannevar-bush"
+      ],
+      "date": "1945-07-01",
+      "kind": "publication",
+      "title": "Vannevar Bush delivers 'Science, the Endless Frontier'",
+      "place": "washington-dc",
+      "locationText": "Washington, DC",
+      "status": "VERIFIED",
+      "why": "The intellectual case for permanent federal funding of basic research through universities.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1945-07-01,\"Vannevar Bush delivers 'Science, the Endless Frontier'\",Vannevar Bus",
+          "line": 40
+        }
+      ]
+    },
+    {
+      "id": "ledger-1951-01-01-stanford-industrial-park-opens",
+      "people": [
+        "frederick-terman"
+      ],
+      "date": "1951-01-01",
+      "kind": "founding",
+      "title": "Stanford Industrial Park opens",
+      "place": "page-mill-road-palo-alto-ca",
+      "locationText": "Page Mill Road, Palo Alto, CA",
+      "status": "NEEDS SOURCE",
+      "why": "First university-owned industrial park in the US. Direct consequence of the 1885 prohibition on selling land.",
+      "ledgerNote": "Sources differ on authorised 1951 vs opened 1953; resolve",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1951-01-01,Stanford Industrial Park opens,Frederick Terman; Alf Brandin; Varian ",
+          "line": 43
+        }
+      ]
+    },
+    {
+      "id": "ledger-1956-02-01-shockley-semiconductor-opens-in-mountain-view",
+      "people": [
+        "william-shockley"
+      ],
+      "date": "1956-02-01",
+      "kind": "founding",
+      "title": "Shockley Semiconductor opens in Mountain View",
+      "place": "mountain-view-ca",
+      "locationText": "Mountain View, CA",
+      "status": "VERIFIED",
+      "why": "Located there because his mother lived there.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1956-02-01,Shockley Semiconductor opens in Mountain View,William Shockley,\"Mount",
+          "line": 45
+        }
+      ]
+    },
+    {
+      "id": "ledger-1957-09-18-the-eight-resign-from-shockley-fairchild-semicon",
+      "people": [
+        "arthur-rock",
+        "eugene-kleiner",
+        "gordon-moore",
+        "jean-hoerni",
+        "robert-noyce"
+      ],
+      "date": "1957-09-18",
+      "kind": "conflict",
+      "title": "The eight resign from Shockley; Fairchild Semiconductor follows",
+      "place": "mountain-view-ca",
+      "locationText": "Mountain View, CA",
+      "status": "VERIFIED",
+      "why": "The spinoff becomes the Valley's reproductive mechanism, enabled by California's refusal to enforce non-competes.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1957-09-18,The eight resign from Shockley; Fairchild Semiconductor follows,Rober",
+          "line": 46
+        }
+      ]
+    },
+    {
+      "id": "ledger-1959-01-01-planar-process-developed-at-fairchild",
+      "people": [
+        "jean-hoerni"
+      ],
+      "date": "1959-01-01",
+      "kind": "founding",
+      "title": "Planar process developed at Fairchild",
+      "place": "mountain-view-ca",
+      "locationText": "Mountain View, CA",
+      "status": "VERIFIED",
+      "why": "Makes the integrated circuit manufacturable. The advantage lives in people and therefore walks.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1959-01-01,Planar process developed at Fairchild,Jean Hoerni,\"Mountain View, CA\"",
+          "line": 47
+        }
+      ]
+    },
+    {
+      "id": "ledger-1962-11-01-knight-secures-tiger-distribution-rights-in-kobe",
+      "people": [
+        "phil-knight"
+      ],
+      "date": "1962-11-01",
+      "kind": "other",
+      "title": "Knight secures Tiger distribution rights in Kobe",
+      "place": "kobe-japan",
+      "locationText": "Kobe, Japan",
+      "status": "VERIFIED",
+      "why": "Blue Ribbon Sports invented on the spot. The company began as a Stanford class paper.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1962-11-01,Knight secures Tiger distribution rights in Kobe,Phil Knight; Onitsuk",
+          "line": 48
+        }
+      ]
+    },
+    {
+      "id": "ledger-1965-04-19-moore-s-law-published",
+      "people": [
+        "gordon-moore"
+      ],
+      "date": "1965-04-19",
+      "kind": "law",
+      "title": "Moore's law published",
+      "place": "santa-clara-valley-ca",
+      "locationText": "Santa Clara Valley, CA",
+      "status": "VERIFIED",
+      "why": "A coordination device rather than a prediction. Sets the industry's clock for half a century.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1965-04-19,Moore's law published,Gordon Moore; Electronics magazine,\"Santa Clara",
+          "line": 50
+        }
+      ]
+    },
+    {
+      "id": "ledger-1968-12-09-engelbart-s-demonstration-at-the-fall-joint-comp",
+      "people": [
+        "douglas-engelbart"
+      ],
+      "date": "1968-12-09",
+      "kind": "other",
+      "title": "Engelbart's demonstration at the Fall Joint Computer Conference",
+      "place": "san-francisco-ca",
+      "locationText": "San Francisco, CA",
+      "status": "VERIFIED",
+      "why": "Mouse, hypertext, windows, collaborative editing. Federally funded and commercially uncaptured.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1968-12-09,Engelbart's demonstration at the Fall Joint Computer Conference,Dougl",
+          "line": 51
+        }
+      ]
+    },
+    {
+      "id": "ledger-1969-10-29-first-arpanet-message-ucla-to-sri",
+      "people": [
+        "bill-duvall",
+        "charley-kline"
+      ],
+      "date": "1969-10-29",
+      "kind": "other",
+      "title": "First ARPANET message, UCLA to SRI",
+      "place": null,
+      "locationText": "Los Angeles ↔ Menlo Park, CA",
+      "status": "VERIFIED",
+      "why": "The system crashes after two letters. The internet's first word is 'lo'.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1969-10-29,\"First ARPANET message, UCLA to SRI\",Charley Kline; Bill Duvall,\"Los ",
+          "line": 54
+        }
+      ]
+    },
+    {
+      "id": "ledger-1972-01-01-kleiner-perkins-and-sequoia-capital-founded-on-s",
+      "people": [
+        "don-valentine",
+        "eugene-kleiner",
+        "tom-perkins"
+      ],
+      "date": "1972-01-01",
+      "kind": "founding",
+      "title": "Kleiner Perkins and Sequoia Capital founded on Sand Hill Road",
+      "place": "menlo-park-ca",
+      "locationText": "Menlo Park, CA",
+      "status": "VERIFIED",
+      "why": "Both founded by operators from the semiconductor industry, four minutes from the campus supplying the deal flow.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1972-01-01,Kleiner Perkins and Sequoia Capital founded on Sand Hill Road,Eugene ",
+          "line": 56
+        }
+      ]
+    },
+    {
+      "id": "ledger-1975-03-05-first-homebrew-computer-club-meeting",
+      "people": [
+        "fred-moore",
+        "gordon-french"
+      ],
+      "date": "1975-03-05",
+      "kind": "other",
+      "title": "First Homebrew Computer Club meeting",
+      "place": "menlo-park-ca",
+      "locationText": "Menlo Park, CA",
+      "status": "VERIFIED",
+      "why": "Circulating culture, enclosed within about five years.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1975-03-05,First Homebrew Computer Club meeting,Fred Moore; Gordon French,\"Menlo",
+          "line": 57
+        }
+      ]
+    },
+    {
+      "id": "ledger-1980-10-14-genentech-ipo",
+      "people": [
+        "herbert-boyer",
+        "robert-swanson"
+      ],
+      "date": "1980-10-14",
+      "kind": "founding",
+      "title": "Genentech IPO",
+      "place": null,
+      "locationText": "NASDAQ",
+      "status": "VERIFIED",
+      "why": "Biology financed like software, on a Stanford and UCSF patent.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1980-10-14,Genentech IPO,Genentech; Herbert Boyer; Robert Swanson,NASDAQ,\"Biolog",
+          "line": 60
+        }
+      ]
+    },
+    {
+      "id": "ledger-1995-08-09-netscape-ipo",
+      "people": [
+        "jim-clark",
+        "marc-andreessen"
+      ],
+      "date": "1995-08-09",
+      "kind": "founding",
+      "title": "Netscape IPO",
+      "place": null,
+      "locationText": "NASDAQ",
+      "status": "VERIFIED",
+      "why": "Built on Mosaic, developed at a public university on federal funding.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1995-08-09,Netscape IPO,Marc Andreessen; Jim Clark,NASDAQ,\"Built on Mosaic, deve",
+          "line": 63
+        }
+      ]
+    },
+    {
+      "id": "ledger-1998-09-04-google-incorporated",
+      "people": [
+        "larry-page",
+        "sergey-brin"
+      ],
+      "date": "1998-09-04",
+      "kind": "founding",
+      "title": "Google incorporated",
+      "place": "menlo-park-ca",
+      "locationText": "Menlo Park, CA",
+      "status": "VERIFIED",
+      "why": "Their published paper argues ad-funded search will be biased against users. Stanford owns the PageRank patent.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "1998-09-04,Google incorporated,Larry Page; Sergey Brin,\"Menlo Park, CA\",Their pu",
+          "line": 65
+        }
+      ]
+    },
+    {
+      "id": "ledger-2023-07-19-marc-tessier-lavigne-resigns-as-stanford-preside",
+      "people": [
+        "marc-tessier-lavigne"
+      ],
+      "date": "2023-07-19",
+      "kind": "conflict",
+      "title": "Marc Tessier-Lavigne resigns as Stanford president",
+      "place": "stanford-ca",
+      "locationText": "Stanford, CA",
+      "status": "VERIFIED",
+      "why": "Review found manipulation by others in his laboratories and criticised his failure to correct the record.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "2023-07-19,Marc Tessier-Lavigne resigns as Stanford president,Stanford board spe",
+          "line": 77
+        }
+      ]
+    },
+    {
+      "id": "ledger-2025-01-20-technology-founders-seated-at-the-presidential-i",
+      "people": [
+        "peter-thiel"
+      ],
+      "date": "2025-01-20",
+      "kind": "other",
+      "title": "Technology founders seated at the presidential inauguration",
+      "place": "washington-dc",
+      "locationText": "Washington, DC",
+      "status": "VERIFIED",
+      "why": "Visibility changes; substance does not. Thiel's roughly $15m to the 2022 Vance campaign is documented in FEC filings.",
+      "origin": "ledger",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "2025-01-20,Technology founders seated at the presidential inauguration,—,\"Washin",
+          "line": 79
+        }
+      ]
+    },
+    {
+      "id": "hoover-born",
+      "people": [
+        "herbert-hoover"
+      ],
+      "date": "1874",
+      "kind": "birth",
+      "title": "Born in Iowa; raised in Oregon after his parents died",
+      "place": "iowa",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep4-03-farm-opening-day.md",
+          "q": "born in Iowa in 1874, raised in Oregon after his parents died"
+        }
+      ],
+      "origin": "curated"
+    },
+    {
+      "id": "hoover-enters-stanford",
+      "people": [
+        "herbert-hoover",
+        "john-casper-branner"
+      ],
+      "date": "1891",
+      "kind": "education",
+      "title": "Enters Stanford with the pioneer class to study geology under Branner",
+      "place": "stanford-ca",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep4-03-farm-opening-day.md",
+          "q": "admitted to the pioneer class without a high school diploma"
+        },
+        {
+          "f": "site/corpus/rewrite/chapters/ep4-03-farm-opening-day.md",
+          "q": "He had come to study geology under John Casper Branner."
+        }
+      ],
+      "origin": "curated"
+    },
+    {
+      "id": "branner-pays-bills",
+      "people": [
+        "john-casper-branner",
+        "herbert-hoover"
+      ],
+      "date": null,
+      "dateNote": "while Hoover was a junior; year not given",
+      "kind": "other",
+      "title": "Branner pays Hoover's medical bills after typhoid",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep5-01-gwalia.md",
+          "q": "even paid his favorite pupil’s medical bills"
+        }
+      ],
+      "place": null,
+      "origin": "curated"
+    },
+    {
+      "id": "hoover-meets-lou",
+      "people": [
+        "herbert-hoover",
+        "lou-henry-hoover",
+        "john-casper-branner"
+      ],
+      "date": "1894/1895",
+      "kind": "life",
+      "title": "Hoover meets Lou Henry in Branner's geology lab",
+      "place": "stanford-ca",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/timeline.md",
+          "q": "Hoover meets Lou Henry in Branner's geology lab."
+        }
+      ],
+      "origin": "curated"
+    },
+    {
+      "id": "lou-at-stanford",
+      "people": [
+        "lou-henry-hoover"
+      ],
+      "date": "1894/1898",
+      "kind": "education",
+      "title": "Enters Stanford (1894); takes a degree in geology (1898)",
+      "place": "stanford-ca",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep5-01-gwalia.md",
+          "q": "She entered Stanford in 1894 and took a degree in geology in 1898"
+        }
+      ],
+      "origin": "curated"
+    },
+    {
+      "id": "hoover-australia",
+      "people": [
+        "herbert-hoover"
+      ],
+      "date": "1897/1908",
+      "kind": "work",
+      "title": "Works in Western Australia (Sons of Gwalia mine)",
+      "place": "western-australia",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/timeline.md",
+          "q": "Hoover in Western Australia; his Sons of Gwalia mine has air “notably bad.”"
+        }
+      ],
+      "origin": "curated"
+    },
+    {
+      "id": "hoover-lou-marry",
+      "people": [
+        "herbert-hoover",
+        "lou-henry-hoover"
+      ],
+      "date": "1899-02",
+      "kind": "life",
+      "title": "Marry in Monterey and sail for China the next day",
+      "place": "monterey-ca",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep5-01-gwalia.md",
+          "q": "They married in Monterey in February 1899 and sailed for China the next day."
+        }
+      ],
+      "origin": "curated"
+    },
+    {
+      "id": "hoover-trustee",
+      "people": [
+        "herbert-hoover"
+      ],
+      "date": "1912",
+      "kind": "work",
+      "title": "Joins the Stanford board of trustees",
+      "place": "stanford-ca",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/timeline.md",
+          "q": "Hoover joins the Stanford board of trustees."
+        }
+      ],
+      "origin": "curated"
+    },
+    {
+      "id": "hoover-presidency",
+      "people": [
+        "herbert-hoover"
+      ],
+      "date": "1929/1933",
+      "kind": "work",
+      "title": "Presidency of the United States",
+      "place": "washington-dc",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/timeline.md",
+          "q": "Hoover's presidency."
+        }
+      ],
+      "origin": "curated"
+    },
+    {
+      "id": "stanford-governor",
+      "people": [
+        "leland-stanford"
+      ],
+      "date": "1861",
+      "kind": "work",
+      "title": "Elected governor",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/timeline.md",
+          "q": "Stanford elected governor."
+        }
+      ],
+      "place": null,
+      "origin": "curated"
+    },
+    {
+      "id": "stanford-swung-and-missed",
+      "people": [
+        "leland-stanford"
+      ],
+      "date": "1869-05-10",
+      "kind": "other",
+      "title": "At Promontory, \"swung and missed\" the golden spike",
+      "place": "promontory-summit-ut",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/timeline.md",
+          "q": "Promontory: Stanford “swung and missed.”"
+        }
+      ],
+      "origin": "curated"
+    },
+    {
+      "id": "stanfords-vow",
+      "people": [
+        "leland-stanford",
+        "jane-stanford"
+      ],
+      "date": "1884",
+      "dateNote": "after their son's death",
+      "kind": "life",
+      "title": "Reported vow: \"The children of California shall be our children\"",
+      "status": "DRAFT",
+      "note": "The source says he \"is supposed to have\" said it; treat as reported.",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep4-02-florence-vow.md",
+          "q": "\"The children of California shall be our children,\" Leland Stanford told his wife, Jane"
+        }
+      ],
+      "place": null,
+      "origin": "curated"
+    },
+    {
+      "id": "stanfords-recruit-jordan",
+      "people": [
+        "leland-stanford",
+        "jane-stanford",
+        "david-starr-jordan"
+      ],
+      "date": "1890",
+      "kind": "work",
+      "title": "The Stanfords travel to Bloomington to recruit David Starr Jordan",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/timeline.md",
+          "q": "The Stanfords travel to Bloomington to recruit David Starr Jordan."
+        }
+      ],
+      "place": null,
+      "origin": "curated"
+    },
+    {
+      "id": "jane-funds-university",
+      "people": [
+        "jane-stanford"
+      ],
+      "date": "1893-06",
+      "kind": "work",
+      "title": "With the estate frozen, Jane funds the university",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/timeline.md",
+          "q": "the estate is frozen and Jane funds the university."
+        }
+      ],
+      "place": null,
+      "origin": "curated"
+    },
+    {
+      "id": "jane-poison-january",
+      "people": [
+        "jane-stanford"
+      ],
+      "date": "1905-01-14",
+      "kind": "other",
+      "title": "Strychnine in Jane's Poland Spring water",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/timeline.md",
+          "q": "Strychnine in Jane's Poland Spring water."
+        }
+      ],
+      "place": null,
+      "origin": "curated"
+    },
+    {
+      "id": "jordan-honolulu",
+      "people": [
+        "david-starr-jordan",
+        "jane-stanford"
+      ],
+      "date": "1905-03",
+      "kind": "conflict",
+      "title": "Inquest finds strychnine poisoning; Jordan sails to Honolulu and backs \"natural causes\"",
+      "place": "2365-kalakaua-avenue-honolulu",
+      "status": "CONTESTED",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/timeline.md",
+          "q": "Jordan sails to Honolulu and backs “natural causes.”"
+        }
+      ],
+      "origin": "curated"
+    },
+    {
+      "id": "huntington-panama",
+      "people": [
+        "collis-huntington"
+      ],
+      "date": "1849",
+      "kind": "other",
+      "title": "Stranded in Panama; writes of \"eight to ten deaths a day\"",
+      "place": "panama",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/timeline.md",
+          "q": "Huntington stranded in Panama: “eight to ten deaths a day.”"
+        }
+      ],
+      "origin": "curated"
+    },
+    {
+      "id": "judah-lucky-streak",
+      "people": [
+        "theodore-judah"
+      ],
+      "date": "1860-11-09",
+      "kind": "other",
+      "title": "Writes: \"I have struck a lucky streak.\"",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/timeline.md",
+          "q": "Judah: “I have struck a lucky streak.”"
+        }
+      ],
+      "place": null,
+      "origin": "curated"
+    },
+    {
+      "id": "judah-lobbies",
+      "people": [
+        "theodore-judah"
+      ],
+      "date": "1861/1862",
+      "kind": "work",
+      "title": "Lobbies for the Pacific railroad legislation through the winter",
+      "place": "washington-dc",
+      "status": "VERIFIED",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/research-log.md",
+          "q": "Theodore Judah lobbied for the legislation through the winter of 1861–62"
+        }
+      ],
+      "origin": "curated"
+    },
+    {
+      "id": "hopkins-dies-yuma",
+      "people": [
+        "mark-hopkins"
+      ],
+      "date": "1878-03-28",
+      "kind": "death",
+      "subject": "mark-hopkins",
+      "title": "Dies in his rail car at Yuma",
+      "place": "yuma",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/timeline.md",
+          "q": "Mark Hopkins dies in his rail car at Yuma."
+        }
+      ],
+      "origin": "curated"
+    },
+    {
+      "id": "huntington-learns-by-wire",
+      "people": [
+        "collis-huntington",
+        "mark-hopkins"
+      ],
+      "date": "1878-03",
+      "dateNote": "within a day of Hopkins's death",
+      "kind": "other",
+      "title": "Huntington, in New York, learns of Hopkins's death by wire",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep3-03-yuma.md",
+          "q": "Collis Huntington, in New York, learned the news by wire."
+        }
+      ],
+      "place": null,
+      "origin": "curated"
+    },
+    {
+      "id": "lewis-terman-binet",
+      "people": [
+        "lewis-terman"
+      ],
+      "date": "1916",
+      "kind": "publication",
+      "title": "Publishes the Stanford–Binet IQ test",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/timeline.md",
+          "q": "Lewis Terman publishes the Stanford–Binet IQ test."
+        }
+      ],
+      "place": null,
+      "origin": "curated"
+    },
+    {
+      "id": "frederick-terman-born",
+      "people": [
+        "frederick-terman"
+      ],
+      "date": "1900",
+      "kind": "birth",
+      "title": "Born",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep5-02-bionomics.md",
+          "q": "His son Frederick, born in 1900"
+        }
+      ],
+      "place": null,
+      "origin": "curated"
+    },
+    {
+      "id": "frederick-terman-returns",
+      "people": [
+        "frederick-terman"
+      ],
+      "date": "1930/1939",
+      "dateNote": "\"the 1930s\"",
+      "kind": "work",
+      "title": "Returns to Palo Alto after graduate work at MIT",
+      "place": "palo-alto-ca",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep5-02-bionomics.md",
+          "q": "He came back to Palo Alto in the 1930s as the Depression deepened."
+        }
+      ],
+      "origin": "curated"
+    },
+    {
+      "id": "klystron",
+      "people": [
+        "russell-varian",
+        "sigurd-varian"
+      ],
+      "date": null,
+      "dateNote": "before the war; year not given",
+      "kind": "work",
+      "title": "With William Hansen, develop the klystron tube at Stanford",
+      "place": "stanford-ca",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep5-07-harvard-internment.md",
+          "q": "developed the klystron tube at Stanford before the war"
+        }
+      ],
+      "origin": "curated"
+    },
+    {
+      "id": "varian-founded",
+      "people": [
+        "russell-varian",
+        "sigurd-varian"
+      ],
+      "date": "1948",
+      "kind": "founding",
+      "title": "Varian Associates founded",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep6-01-the-lease.md",
+          "q": "Varian Associates was founded in 1948."
+        }
+      ],
+      "place": null,
+      "origin": "curated"
+    },
+    {
+      "id": "varian-lease",
+      "people": [
+        "frederick-terman",
+        "russell-varian",
+        "sigurd-varian"
+      ],
+      "date": "1953",
+      "kind": "founding",
+      "title": "Varian Associates signs the first ground lease at the Stanford Industrial Park; Terman is on its board and among its investors",
+      "place": "page-mill-road-palo-alto-ca",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep6-05-east-palo-alto.md",
+          "q": "Varian Associates signed the first long ground lease for its research and development operation in 1953, with Frederick Terman on the company's board and among its investors"
+        }
+      ],
+      "origin": "curated"
+    },
+    {
+      "id": "hp-moves-to-park",
+      "people": [
+        "bill-hewlett",
+        "david-packard"
+      ],
+      "date": "1956",
+      "kind": "founding",
+      "title": "Hewlett-Packard moves from rented premises to the Stanford Industrial Park",
+      "place": "page-mill-road-palo-alto-ca",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep6-01-the-lease.md",
+          "q": "Hewlett-Packard moved from its various rented premises to the park in 1956"
+        }
+      ],
+      "origin": "curated"
+    },
+    {
+      "id": "shockley-wartime",
+      "people": [
+        "william-shockley"
+      ],
+      "date": "1939/1945",
+      "dateNote": "\"WWII\"",
+      "kind": "work",
+      "title": "Wartime operations research raises successful anti-submarine attacks fivefold",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/timeline.md",
+          "q": "Shockley's operations research raises successful anti-submarine attacks fivefold."
+        }
+      ],
+      "place": null,
+      "origin": "curated"
+    },
+    {
+      "id": "swanson-genentech",
+      "people": [
+        "robert-swanson"
+      ],
+      "date": "1976",
+      "kind": "founding",
+      "title": "Fired from Kleiner, co-founds Genentech",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/timeline.md",
+          "q": "Genentech; Swanson, fired from Kleiner, co-founds it."
+        }
+      ],
+      "place": null,
+      "origin": "curated"
+    },
+    {
+      "id": "page-excite",
+      "people": [
+        "larry-page"
+      ],
+      "date": "1997-01",
+      "kind": "work",
+      "title": "Pitches BackRub to Excite, including \"$300,000 to Stanford for the license\"",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/timeline.md",
+          "q": "Page's Excite pitch for BackRub includes “$300,000 to Stanford for the license.”"
+        }
+      ],
+      "place": null,
+      "origin": "curated"
+    },
+    {
+      "id": "google-garage",
+      "people": [
+        "larry-page",
+        "sergey-brin"
+      ],
+      "date": "1998",
+      "kind": "founding",
+      "title": "Google in the Santa Margarita Avenue garage at $1,700 a month",
+      "place": "menlo-park-ca",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/timeline.md",
+          "q": "Google in the Santa Margarita Ave. garage at $1,700/month."
+        }
+      ],
+      "origin": "curated"
+    },
+    {
+      "id": "thiel-review",
+      "people": [
+        "peter-thiel"
+      ],
+      "date": "1987",
+      "kind": "founding",
+      "title": "Founds the Stanford Review",
+      "place": "stanford-ca",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/timeline.md",
+          "q": "Thiel founds the *Stanford Review*."
+        }
+      ],
+      "origin": "curated"
+    },
+    {
+      "id": "musk-stanford",
+      "people": [
+        "elon-musk"
+      ],
+      "date": "1995",
+      "kind": "education",
+      "title": "Enrolls in Stanford and leaves \"after two days,\" as the story goes",
+      "place": "stanford-ca",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/timeline.md",
+          "q": "Musk enrolls in Stanford and leaves “after two days,” as the story goes."
+        }
+      ],
+      "origin": "curated"
+    },
+    {
+      "id": "portola-names-tree",
+      "people": [
+        "gaspar-de-portola"
+      ],
+      "date": "1769-11",
+      "kind": "other",
+      "title": "Portolá expedition names the redwood El Palo Alto",
+      "place": "palo-alto-ca",
+      "status": "DRAFT",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/timeline.md",
+          "q": "Portolá expedition names the redwood El Palo Alto."
+        }
+      ],
+      "origin": "curated"
+    },
+    {
+      "id": "steinbeck-at-stanford",
+      "people": [
+        "john-steinbeck"
+      ],
+      "date": "1919/1925",
+      "kind": "education",
+      "title": "Attends Stanford intermittently; never earns a degree",
+      "place": "stanford-ca",
+      "status": "VERIFIED",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/research-log.md",
+          "q": "Steinbeck attended Stanford intermittently 1919–1925 and never earned a degree"
+        }
+      ],
+      "origin": "curated"
+    },
+    {
+      "id": "steinbeck-leaves",
+      "people": [
+        "john-steinbeck"
+      ],
+      "date": "1925",
+      "kind": "life",
+      "title": "Leaves for New York with neither a diploma nor an intention to return",
+      "status": "VERIFIED",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/research-log.md",
+          "q": "He left in 1925 for New York with neither a diploma nor an intention to return"
+        }
+      ],
+      "place": null,
+      "origin": "curated"
+    },
+    {
+      "id": "knight-mba",
+      "people": [
+        "phil-knight"
+      ],
+      "date": "1962",
+      "kind": "education",
+      "title": "Earns an MBA from Stanford Graduate School of Business",
+      "place": "stanford-ca",
+      "status": "VERIFIED",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/research-log.md",
+          "q": "Knight earned an MBA from Stanford Graduate School of Business in 1962"
+        }
+      ],
+      "origin": "curated"
+    },
+    {
+      "id": "knight-paper",
+      "people": [
+        "phil-knight"
+      ],
+      "date": null,
+      "dateNote": "during his Stanford studies; date not given",
+      "kind": "publication",
+      "title": "Writes the class paper that becomes Blue Ribbon Sports and earns an A",
+      "place": "stanford-ca",
+      "status": "VERIFIED",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/research-log.md",
+          "q": "The paper was written for Frank Shallenberger's entrepreneurship class"
+        },
+        {
+          "f": "books/cardinal/_project/research-log.md",
+          "q": "He received an A"
+        }
+      ],
+      "origin": "curated"
+    },
+    {
+      "id": "knight-bowerman-handshake",
+      "people": [
+        "phil-knight",
+        "bill-bowerman"
+      ],
+      "date": "1964-01-25",
+      "kind": "founding",
+      "title": "Knight and Bowerman seal their partnership by handshake; each puts in $500 and orders 300 pairs",
+      "status": "VERIFIED",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/research-log.md",
+          "q": "Bowerman and Knight each put in $500 and ordered 300 pairs; partnership sealed by handshake 25 January 1964"
+        }
+      ],
+      "place": null,
+      "origin": "curated"
+    },
+    {
+      "id": "knight-center",
+      "people": [
+        "phil-knight"
+      ],
+      "date": "2011",
+      "kind": "other",
+      "title": "Knight Management Center at Stanford GSB, funded by Knight, is dedicated",
+      "place": "stanford-ca",
+      "status": "VERIFIED",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/research-log.md",
+          "q": "Knight later funded the Knight Management Center at Stanford GSB, dedicated 2011"
+        }
+      ],
+      "origin": "curated"
+    }
+  ],
+  "relationships": [
+    {
+      "id": "stanford-spouses",
+      "type": "spouse",
+      "a": "leland-stanford",
+      "b": "jane-stanford",
+      "label": "Married (Jane is Leland's wife)",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep4-02-florence-vow.md",
+          "q": "Leland Stanford told his wife, Jane"
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "stanford-leland-child",
+      "type": "parent",
+      "a": "leland-stanford",
+      "b": "leland-stanford-jr",
+      "label": "Father of their only child",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep4-02-florence-vow.md",
+          "q": "He was the Stanfords' only child."
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "stanford-jane-child",
+      "type": "parent",
+      "a": "jane-stanford",
+      "b": "leland-stanford-jr",
+      "label": "Mother of their only child",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep4-02-florence-vow.md",
+          "q": "None of that prepared a mother for a single child dying two months before his sixteenth birthday."
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "hoover-spouses",
+      "type": "spouse",
+      "a": "herbert-hoover",
+      "b": "lou-henry-hoover",
+      "label": "Married February 1899",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep5-01-gwalia.md",
+          "q": "They married in Monterey in February 1899"
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "terman-father-son",
+      "type": "parent",
+      "a": "lewis-terman",
+      "b": "frederick-terman",
+      "label": "Father of Frederick",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep5-02-bionomics.md",
+          "q": "His son Frederick, born in 1900"
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "crocker-brothers",
+      "type": "sibling",
+      "a": "charles-crocker",
+      "b": "e-b-crocker",
+      "label": "Brothers",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/GLOSSARY.md",
+          "q": "E. B. Crocker is Charles's brother."
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "varian-brothers",
+      "type": "sibling",
+      "a": "russell-varian",
+      "b": "sigurd-varian",
+      "label": "Brothers",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep5-07-harvard-internment.md",
+          "q": "the Varian brothers, Russell and Sigurd"
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "huntington-brother",
+      "type": "sibling",
+      "a": "collis-huntington",
+      "b": null,
+      "bLabel": "a brother (not named in the repo notes)",
+      "label": "Writes to his brother",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep2-01-done-and-panama.md",
+          "q": "Huntington wrote to his brother"
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "branner-hoover",
+      "type": "mentor",
+      "a": "john-casper-branner",
+      "b": "herbert-hoover",
+      "label": "Professor and pupil",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep5-01-gwalia.md",
+          "q": "even paid his favorite pupil’s medical bills"
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "terman-hewlett",
+      "type": "mentor",
+      "a": "frederick-terman",
+      "b": "bill-hewlett",
+      "label": "Terman told them to stay",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "Terman told them to stay."
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "terman-packard",
+      "type": "mentor",
+      "a": "frederick-terman",
+      "b": "david-packard",
+      "label": "Terman told them to stay",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "Terman told them to stay."
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "terman-varian-russell",
+      "type": "partners",
+      "a": "frederick-terman",
+      "b": "russell-varian",
+      "label": "Terman on the board of, and an investor in, Varian Associates",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep6-05-east-palo-alto.md",
+          "q": "with Frederick Terman on the company's board and among its investors"
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "terman-varian-sigurd",
+      "type": "partners",
+      "a": "frederick-terman",
+      "b": "sigurd-varian",
+      "label": "Terman on the board of, and an investor in, Varian Associates",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/chapters/ep6-05-east-palo-alto.md",
+          "q": "with Frederick Terman on the company's board and among its investors"
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "hewlett-packard",
+      "type": "partners",
+      "a": "bill-hewlett",
+      "b": "david-packard",
+      "label": "Founded Hewlett-Packard",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "Hewlett-Packard founded at 367 Addison Avenue,Bill Hewlett; David Packard"
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "knight-bowerman",
+      "type": "partners",
+      "a": "phil-knight",
+      "b": "bill-bowerman",
+      "label": "Partners in Blue Ribbon Sports",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/research-log.md",
+          "q": "Bowerman and Knight each put in $500 and ordered 300 pairs; partnership sealed by handshake 25 January 1964"
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "page-brin",
+      "type": "partners",
+      "a": "larry-page",
+      "b": "sergey-brin",
+      "label": "Founded Google",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "Google incorporated,Larry Page; Sergey Brin"
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "kleiner-perkins",
+      "type": "partners",
+      "a": "eugene-kleiner",
+      "b": "tom-perkins",
+      "label": "Founded Kleiner Perkins",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "Kleiner Perkins and Sequoia Capital founded on Sand Hill Road,Eugene Kleiner; Tom Perkins; Don Valentine"
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "shockley-noyce",
+      "type": "employer",
+      "a": "william-shockley",
+      "b": "robert-noyce",
+      "label": "Noyce was one of the eight who resigned from Shockley",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "The eight resign from Shockley; Fairchild Semiconductor follows,Robert Noyce; Gordon Moore; Jean Hoerni; Eugene Kleiner"
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "shockley-moore",
+      "type": "employer",
+      "a": "william-shockley",
+      "b": "gordon-moore",
+      "label": "Moore was one of the eight who resigned from Shockley",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "The eight resign from Shockley; Fairchild Semiconductor follows,Robert Noyce; Gordon Moore; Jean Hoerni; Eugene Kleiner"
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "shockley-hoerni",
+      "type": "employer",
+      "a": "william-shockley",
+      "b": "jean-hoerni",
+      "label": "Hoerni was one of the eight who resigned from Shockley",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "The eight resign from Shockley; Fairchild Semiconductor follows,Robert Noyce; Gordon Moore; Jean Hoerni; Eugene Kleiner"
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "shockley-kleiner",
+      "type": "employer",
+      "a": "william-shockley",
+      "b": "eugene-kleiner",
+      "label": "Kleiner was one of the eight who resigned from Shockley",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "The eight resign from Shockley; Fairchild Semiconductor follows,Robert Noyce; Gordon Moore; Jean Hoerni; Eugene Kleiner"
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "stanfords-jordan-leland",
+      "type": "recruited",
+      "a": "leland-stanford",
+      "b": "david-starr-jordan",
+      "label": "Recruited him to Stanford",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/timeline.md",
+          "q": "The Stanfords travel to Bloomington to recruit David Starr Jordan."
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "stanfords-jordan-jane",
+      "type": "recruited",
+      "a": "jane-stanford",
+      "b": "david-starr-jordan",
+      "label": "Recruited him to Stanford",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/timeline.md",
+          "q": "The Stanfords travel to Bloomington to recruit David Starr Jordan."
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "ross-forced-out",
+      "type": "conflict",
+      "a": "david-starr-jordan",
+      "b": "edward-a-ross",
+      "label": "Ross forced out of Stanford, 1900",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "Edward Ross forced out of Stanford,Jane Stanford; David Starr Jordan; Edward A. Ross"
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "ross-forced-out-jane",
+      "type": "conflict",
+      "a": "jane-stanford",
+      "b": "edward-a-ross",
+      "label": "Ross forced out of Stanford, 1900",
+      "cites": [
+        {
+          "f": "books/cardinal/_project/event-ledger.csv",
+          "q": "Edward Ross forced out of Stanford,Jane Stanford; David Starr Jordan; Edward A. Ross"
+        }
+      ],
+      "fromGroup": false
+    },
+    {
+      "id": "big-four:collis-huntington:mark-hopkins",
+      "type": "partners",
+      "a": "collis-huntington",
+      "b": "mark-hopkins",
+      "label": "The Associates (the Big Four)",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/GLOSSARY.md",
+          "q": "The Associates / the Big Four: Collis P. Huntington, Mark Hopkins, Charles Crocker, Leland Stanford."
+        }
+      ],
+      "fromGroup": true
+    },
+    {
+      "id": "big-four:collis-huntington:charles-crocker",
+      "type": "partners",
+      "a": "collis-huntington",
+      "b": "charles-crocker",
+      "label": "The Associates (the Big Four)",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/GLOSSARY.md",
+          "q": "The Associates / the Big Four: Collis P. Huntington, Mark Hopkins, Charles Crocker, Leland Stanford."
+        }
+      ],
+      "fromGroup": true
+    },
+    {
+      "id": "big-four:collis-huntington:leland-stanford",
+      "type": "partners",
+      "a": "collis-huntington",
+      "b": "leland-stanford",
+      "label": "The Associates (the Big Four)",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/GLOSSARY.md",
+          "q": "The Associates / the Big Four: Collis P. Huntington, Mark Hopkins, Charles Crocker, Leland Stanford."
+        }
+      ],
+      "fromGroup": true
+    },
+    {
+      "id": "big-four:mark-hopkins:charles-crocker",
+      "type": "partners",
+      "a": "mark-hopkins",
+      "b": "charles-crocker",
+      "label": "The Associates (the Big Four)",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/GLOSSARY.md",
+          "q": "The Associates / the Big Four: Collis P. Huntington, Mark Hopkins, Charles Crocker, Leland Stanford."
+        }
+      ],
+      "fromGroup": true
+    },
+    {
+      "id": "big-four:mark-hopkins:leland-stanford",
+      "type": "partners",
+      "a": "mark-hopkins",
+      "b": "leland-stanford",
+      "label": "The Associates (the Big Four)",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/GLOSSARY.md",
+          "q": "The Associates / the Big Four: Collis P. Huntington, Mark Hopkins, Charles Crocker, Leland Stanford."
+        }
+      ],
+      "fromGroup": true
+    },
+    {
+      "id": "big-four:charles-crocker:leland-stanford",
+      "type": "partners",
+      "a": "charles-crocker",
+      "b": "leland-stanford",
+      "label": "The Associates (the Big Four)",
+      "cites": [
+        {
+          "f": "site/corpus/rewrite/GLOSSARY.md",
+          "q": "The Associates / the Big Four: Collis P. Huntington, Mark Hopkins, Charles Crocker, Leland Stanford."
+        }
+      ],
+      "fromGroup": true
+    }
+  ],
+  "places": [
+    {
+      "id": "2365-kalakaua-avenue-honolulu",
+      "name": "2365 Kalākaua Avenue, Honolulu",
+      "kind": "address",
+      "lat": 21.2767,
+      "lon": -157.8286,
+      "coordNote": "Position for the place name, from site/src/data/geo.json; not a measurement from the manuscript."
+    },
+    {
+      "id": "alta-california",
+      "name": "Alta California",
+      "kind": "place"
+    },
+    {
+      "id": "coloma-ca",
+      "name": "Coloma, CA",
+      "kind": "town",
+      "lat": 38.8024,
+      "lon": -120.8941,
+      "coordNote": "Position for the place name, from site/src/data/geo.json; not a measurement from the manuscript."
+    },
+    {
+      "id": "florence-italy",
+      "name": "Florence, Italy",
+      "kind": "city",
+      "lat": 43.7696,
+      "lon": 11.2558,
+      "coordNote": "Position for the place name, from site/src/data/geo.json; not a measurement from the manuscript."
+    },
+    {
+      "id": "iowa",
+      "name": "Iowa",
+      "kind": "region"
+    },
+    {
+      "id": "kobe-japan",
+      "name": "Kobe, Japan",
+      "kind": "city",
+      "lat": 34.6901,
+      "lon": 135.1955,
+      "coordNote": "Position for the place name, from site/src/data/geo.json; not a measurement from the manuscript."
+    },
+    {
+      "id": "menlo-park-ca",
+      "name": "Menlo Park, CA",
+      "kind": "city",
+      "lat": 37.453,
+      "lon": -122.1817,
+      "coordNote": "Position for the place name, from site/src/data/geo.json; not a measurement from the manuscript."
+    },
+    {
+      "id": "mexico-city",
+      "name": "Mexico City",
+      "kind": "city",
+      "lat": 19.4326,
+      "lon": -99.1332,
+      "coordNote": "Position for the place name, from site/src/data/geo.json; not a measurement from the manuscript."
+    },
+    {
+      "id": "monterey-ca",
+      "name": "Monterey, CA",
+      "kind": "city",
+      "lat": 36.6002,
+      "lon": -121.8947,
+      "coordNote": "Position for the place name, from site/src/data/geo.json; not a measurement from the manuscript."
+    },
+    {
+      "id": "mountain-view-ca",
+      "name": "Mountain View, CA",
+      "kind": "city",
+      "lat": 37.3861,
+      "lon": -122.0839,
+      "coordNote": "Position for the place name, from site/src/data/geo.json; not a measurement from the manuscript."
+    },
+    {
+      "id": "page-mill-road-palo-alto-ca",
+      "name": "Page Mill Road, Palo Alto, CA",
+      "kind": "road",
+      "lat": 37.4135,
+      "lon": -122.1485,
+      "coordNote": "Position for the place name, from site/src/data/geo.json; not a measurement from the manuscript."
+    },
+    {
+      "id": "palo-alto-ca",
+      "name": "Palo Alto, CA",
+      "kind": "city",
+      "lat": 37.4419,
+      "lon": -122.143,
+      "coordNote": "Position for the place name, from site/src/data/geo.json; not a measurement from the manuscript."
+    },
+    {
+      "id": "panama",
+      "name": "Panama",
+      "kind": "region"
+    },
+    {
+      "id": "promontory-summit-ut",
+      "name": "Promontory Summit, UT",
+      "kind": "place",
+      "lat": 41.6192,
+      "lon": -112.547,
+      "coordNote": "Position for the place name, from site/src/data/geo.json; not a measurement from the manuscript."
+    },
+    {
+      "id": "sacramento-ca",
+      "name": "Sacramento, CA",
+      "kind": "city",
+      "lat": 38.5816,
+      "lon": -121.4944,
+      "coordNote": "Position for the place name, from site/src/data/geo.json; not a measurement from the manuscript."
+    },
+    {
+      "id": "san-diego-ca",
+      "name": "San Diego, CA",
+      "kind": "city",
+      "lat": 32.7157,
+      "lon": -117.1611,
+      "coordNote": "Position for the place name, from site/src/data/geo.json; not a measurement from the manuscript."
+    },
+    {
+      "id": "san-francisco-ca",
+      "name": "San Francisco, CA",
+      "kind": "city",
+      "lat": 37.7749,
+      "lon": -122.4194,
+      "coordNote": "Position for the place name, from site/src/data/geo.json; not a measurement from the manuscript."
+    },
+    {
+      "id": "santa-clara-valley-ca",
+      "name": "Santa Clara Valley, CA",
+      "kind": "place"
+    },
+    {
+      "id": "sierra-nevada-ca",
+      "name": "Sierra Nevada, CA",
+      "kind": "place"
+    },
+    {
+      "id": "stanford-ca",
+      "name": "Stanford, CA",
+      "kind": "campus",
+      "lat": 37.4275,
+      "lon": -122.1697,
+      "coordNote": "Position for the place name, from site/src/data/geo.json; not a measurement from the manuscript."
+    },
+    {
+      "id": "washington-dc",
+      "name": "Washington, DC",
+      "kind": "city",
+      "lat": 38.9072,
+      "lon": -77.0369,
+      "coordNote": "Position for the place name, from site/src/data/geo.json; not a measurement from the manuscript."
+    },
+    {
+      "id": "western-australia",
+      "name": "Western Australia",
+      "kind": "region"
+    },
+    {
+      "id": "yuma",
+      "name": "Yuma",
+      "kind": "town"
+    }
+  ],
+  "sources": [
+    {
+      "path": "books/cardinal/_project/event-ledger.csv",
+      "title": "Event ledger",
+      "kind": "ledger",
+      "weight": "Each row carries VERIFIED, NEEDS SOURCE or CONTESTED, as written by the author."
+    },
+    {
+      "path": "books/cardinal/_project/research-log.md",
+      "title": "Research log",
+      "kind": "research-log",
+      "weight": "Claims logged with a status and a source, as written by the author."
+    },
+    {
+      "path": "site/corpus/rewrite/GLOSSARY.md",
+      "title": "Rewrite names and terms glossary",
+      "kind": "drafting-note",
+      "weight": "Style glossary of names and spellings; used only for name, family and grouping statements."
+    },
+    {
+      "path": "site/corpus/rewrite/chapters/ep2-01-done-and-panama.md",
+      "title": "Rewrite chapter ep2-01-done-and-panama (Episode 2: The Toll)",
+      "kind": "drafting-note",
+      "weight": "Documentary-rewrite chapter text with an inline book citation; the repo has not verified it independently."
+    },
+    {
+      "path": "site/corpus/rewrite/chapters/ep3-03-yuma.md",
+      "title": "Rewrite chapter ep3-03-yuma (Episode 3: The Octopus)",
+      "kind": "drafting-note",
+      "weight": "Documentary-rewrite chapter text with an inline book citation; the repo has not verified it independently."
+    },
+    {
+      "path": "site/corpus/rewrite/chapters/ep4-02-florence-vow.md",
+      "title": "Rewrite chapter ep4-02-florence-vow (Episode 4: The Boy and the Farm)",
+      "kind": "drafting-note",
+      "weight": "Documentary-rewrite chapter text with an inline book citation; the repo has not verified it independently."
+    },
+    {
+      "path": "site/corpus/rewrite/chapters/ep4-03-farm-opening-day.md",
+      "title": "Rewrite chapter ep4-03-farm-opening-day (Episode 4: The Boy and the Farm)",
+      "kind": "drafting-note",
+      "weight": "Documentary-rewrite chapter text with an inline book citation; the repo has not verified it independently."
+    },
+    {
+      "path": "site/corpus/rewrite/chapters/ep5-01-gwalia.md",
+      "title": "Rewrite chapter ep5-01-gwalia (Episode 5: The Engineer's Century)",
+      "kind": "drafting-note",
+      "weight": "Documentary-rewrite chapter text with an inline book citation; the repo has not verified it independently."
+    },
+    {
+      "path": "site/corpus/rewrite/chapters/ep5-02-bionomics.md",
+      "title": "Rewrite chapter ep5-02-bionomics (Episode 5: The Engineer's Century)",
+      "kind": "drafting-note",
+      "weight": "Documentary-rewrite chapter text with an inline book citation; the repo has not verified it independently."
+    },
+    {
+      "path": "site/corpus/rewrite/chapters/ep5-07-harvard-internment.md",
+      "title": "Rewrite chapter ep5-07-harvard-internment (Episode 5: The Engineer's Century)",
+      "kind": "drafting-note",
+      "weight": "Documentary-rewrite chapter text with an inline book citation; the repo has not verified it independently."
+    },
+    {
+      "path": "site/corpus/rewrite/chapters/ep6-01-the-lease.md",
+      "title": "Rewrite chapter ep6-01-the-lease (Episode 6: The Park)",
+      "kind": "drafting-note",
+      "weight": "Documentary-rewrite chapter text with an inline book citation; the repo has not verified it independently."
+    },
+    {
+      "path": "site/corpus/rewrite/chapters/ep6-05-east-palo-alto.md",
+      "title": "Rewrite chapter ep6-05-east-palo-alto (Episode 6: The Park)",
+      "kind": "drafting-note",
+      "weight": "Documentary-rewrite chapter text with an inline book citation; the repo has not verified it independently."
+    },
+    {
+      "path": "site/corpus/rewrite/timeline.md",
+      "title": "Rewrite master timeline",
+      "kind": "drafting-note",
+      "weight": "Drafting note citing a named book per entry; the repo has not verified it independently."
+    }
+  ]
+}
