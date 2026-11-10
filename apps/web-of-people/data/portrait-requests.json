@@ -1,37 +1,303 @@
 {
   "_note": "Input to scripts/fetch-portraits.mjs. Each entry names ONE Wikimedia Commons file for ONE person. The script re-reads license and attribution from the Commons API and refuses anything outside the allowlist.",
-  "licenseAllowlist": ["Public domain", "CC0", "CC BY 2.0", "CC BY 3.0", "CC BY 4.0", "CC BY-SA 2.0", "CC BY-SA 3.0", "CC BY-SA 4.0"],
+  "licenseAllowlist": [
+    "Public domain",
+    "CC0",
+    "CC BY 2.0",
+    "CC BY 3.0",
+    "CC BY 4.0",
+    "CC BY-SA 2.0",
+    "CC BY-SA 3.0",
+    "CC BY-SA 4.0"
+  ],
   "requests": [
-    { "personId": "leland-stanford", "title": "File:Portrait of Leland Stanford Crop.jpg" },
-    { "personId": "jane-stanford", "title": "File:Jane Lathrop Stanford from American Women, 1897.jpg" },
-    { "personId": "leland-stanford-jr", "title": "File:Portrait of Leland Stanford Jr. by Astley D. M. Cooper.jpg" },
-    { "personId": "collis-huntington", "title": "File:Collis P Huntington by Stephen W Shaw.jpg" },
-    { "personId": "charles-crocker", "title": "File:Charles Crocker Silas Selleck Portrait Crop.jpg" },
-    { "personId": "mark-hopkins", "title": "File:Mark Hopkins Oval Portrait Crop.jpg" },
-    { "personId": "theodore-judah", "title": "File:Theodore Judah.jpg" },
-    { "personId": "david-starr-jordan", "title": "File:Portrait of David Starr Jordan.jpg" },
-    { "personId": "herbert-hoover", "title": "File:Herbert Hoover photo portrait from 1917.jpg" },
-    { "personId": "lou-henry-hoover", "title": "File:Mrs. Herbert C. Hoover (Lou Henry Hoover) by Harris & Ewing - Original.tiff" },
-    { "personId": "john-casper-branner", "title": "File:Dr. J.C. Branner LCCN2014693178.jpg" },
-    { "personId": "edward-a-ross", "title": "File:Edward Alsworth Ross.jpg" },
-    { "personId": "lewis-terman", "title": "File:Lewis Madison Terman.jpg" },
-    { "personId": "abraham-lincoln", "title": "File:Abraham Lincoln head on shoulders photo portrait.jpg" },
-    { "personId": "jefferson-davis", "title": "File:Portrait of Jefferson Davis, carte-de-visite photograph, circa 1861-1864 (PORTRAITS 2285).jpg" },
-    { "personId": "james-gadsden", "title": "File:James Gadsden by Charles Fraser, circa 1831.jpg" },
-    { "personId": "john-sutter", "title": "File:John Augustus Sutter c1850.jpg" },
-    { "personId": "james-w-marshall", "title": "File:James W. Marshall Hodson Portrait.jpg" },
-    { "personId": "millard-fillmore", "title": "File:Millard Fillmore by James Reid Lambdin (National Portrait Gallery).jpg" },
-    { "personId": "chester-a-arthur", "title": "File:Chester A. Arthur portrait c1882.jpg" },
-    { "personId": "vannevar-bush", "title": "File:Vannevar Bush, 1938, Harris & Ewing (cropped).jpg" },
-    { "personId": "gaspar-de-portola", "title": "File:Retrat Gaspar de Portolà (Lleida).jpg" },
-    { "personId": "junipero-serra", "title": "File:Junípero Serra.jpg" },
-    { "personId": "william-shockley", "title": "File:William Shockley, Stanford University (cropped).jpg" },
-    { "personId": "douglas-engelbart", "title": "File:Douglas Engelbart in 2008.jpg" },
-    { "personId": "gordon-moore", "title": "File:Gordon Moore ID2004 crop.jpg" },
-    { "personId": "bill-hewlett", "title": "File:William Hewlett 1993.jpg" },
-    { "personId": "david-packard", "title": "File:David-Packard-DepSecDef.jpg" },
-    { "personId": "bill-bowerman", "title": "File:Bill Bowerman.jpg" },
-    { "personId": "larry-page", "title": "File:Larry Page (cropped).jpg" },
-    { "personId": "sergey-brin", "title": "File:Sergey Brin cropped.jpg" }
+    {
+      "personId": "leland-stanford",
+      "title": "File:Portrait of Leland Stanford Crop.jpg",
+      "medium": "photograph (carte-de-visite), Bradley & Rulofson, San Francisco, 1860s",
+      "subjectEvidence": "Commons description: \"Portrait of Leland Stanford. Back is stamped Bradley & Rulofson\""
+    },
+    {
+      "personId": "jane-stanford",
+      "title": "File:Jane Lathrop Stanford from American Women, 1897.jpg",
+      "medium": "printed portrait from American Women (1897)",
+      "subjectEvidence": "Commons description: \"Illustrated portrait of American philanthropist Jane Lathrop Stanford (1828–1905), co-founder of Stanford University\""
+    },
+    {
+      "personId": "leland-stanford-jr",
+      "title": "File:Portrait of Leland Stanford Jr. by Astley D. M. Cooper.jpg",
+      "medium": "oil portrait by A. D. M. Cooper, painted after his death in 1884 (Cantor Arts Center)",
+      "subjectEvidence": "Commons title and description: \"Portrait of Leland Stanford Jr. by Astley David Middleton Cooper\""
+    },
+    {
+      "personId": "collis-huntington",
+      "title": "File:Collis P Huntington by Stephen W Shaw.jpg",
+      "medium": "oil portrait by Stephen W. Shaw, 1872 (Crocker Art Museum)",
+      "subjectEvidence": "Commons description: \"A portrait of railroad baron Collis P. Huntington by Stephen W. Shaw\""
+    },
+    {
+      "personId": "charles-crocker",
+      "title": "File:Charles Crocker Silas Selleck Portrait Crop.jpg",
+      "medium": "oil portrait by Silas Selleck, c. 1865–1875 (cropped)",
+      "subjectEvidence": "Commons description: \"Portrait of Charles Crocker by Silas Selleck\""
+    },
+    {
+      "personId": "mark-hopkins",
+      "title": "File:Mark Hopkins Oval Portrait Crop.jpg",
+      "medium": "oval portrait, c. 1860s–1870s (medium and creator not recorded on the file page)",
+      "subjectEvidence": "Commons title \"Mark Hopkins Oval Portrait Crop\"; description: \"built the transcontinental railroad with partners Huntington, Crocker and Stanford\""
+    },
+    {
+      "personId": "theodore-judah",
+      "title": "File:Theodore Judah.jpg",
+      "medium": "photograph by Carleton Watkins, 1863",
+      "subjectEvidence": "Commons description: \"Theodore Judah (1826-1863), American businessman who co-founded the Central Pacific Railroad\""
+    },
+    {
+      "personId": "david-starr-jordan",
+      "title": "File:Portrait of David Starr Jordan.jpg",
+      "medium": "studio photograph, Moffett Studio, no later than 1913",
+      "subjectEvidence": "Commons description: \"Portrait of David Starr Jordan\""
+    },
+    {
+      "personId": "herbert-hoover",
+      "title": "File:Herbert Hoover photo portrait from 1917.jpg",
+      "medium": "photograph, 1917",
+      "subjectEvidence": "Commons title and description: \"Herbert Hoover photo portrait from 1917\""
+    },
+    {
+      "personId": "lou-henry-hoover",
+      "title": "File:Mrs. Herbert C. Hoover (Lou Henry Hoover) by Harris & Ewing - Original.tiff",
+      "medium": "photograph (glass negative), Harris & Ewing",
+      "subjectEvidence": "Commons title and description: \"Mrs. Herbert C. Hoover\" (Lou Henry Hoover)"
+    },
+    {
+      "personId": "john-casper-branner",
+      "title": "File:Dr. J.C. Branner LCCN2014693178.jpg",
+      "medium": "photograph (glass negative), Bain News Service, c. 1910",
+      "subjectEvidence": "Commons title and description: \"Dr. J.C. Branner\""
+    },
+    {
+      "personId": "edward-a-ross",
+      "title": "File:Edward Alsworth Ross.jpg",
+      "medium": "photograph, Bain Collection, Library of Congress (date unrecorded)",
+      "subjectEvidence": "Commons description: \"American sociologist and eugenicist Edward Alsworth Ross (1866-1951)\""
+    },
+    {
+      "personId": "lewis-terman",
+      "title": "File:Lewis Madison Terman.jpg",
+      "medium": "photograph, 1923 as recorded on Commons",
+      "subjectEvidence": "Commons description: \"Lewis Madison Terman, American psychologist and pioneer in educational psychology\""
+    },
+    {
+      "personId": "abraham-lincoln",
+      "title": "File:Abraham Lincoln head on shoulders photo portrait.jpg",
+      "medium": "photograph by Alexander Gardner, 8 November 1863",
+      "subjectEvidence": "Commons description: \"Abraham Lincoln, the sixteenth President of the United States\""
+    },
+    {
+      "personId": "jefferson-davis",
+      "title": "File:Portrait of Jefferson Davis, carte-de-visite photograph, circa 1861-1864 (PORTRAITS 2285).jpg",
+      "medium": "carte-de-visite photograph, c. 1861–1864",
+      "subjectEvidence": "Commons title: \"Portrait of Jefferson Davis, carte-de-visite photograph, circa 1861-1864\""
+    },
+    {
+      "personId": "james-gadsden",
+      "title": "File:James Gadsden by Charles Fraser, circa 1831.jpg",
+      "medium": "oil portrait by Charles Fraser, c. 1831 (Gibbes Museum of Art)",
+      "subjectEvidence": "Commons title and description: \"James Gadsden by Charles Fraser, circa 1831\""
+    },
+    {
+      "personId": "john-sutter",
+      "title": "File:John Augustus Sutter c1850.jpg",
+      "medium": "daguerreotype, c. 1850",
+      "subjectEvidence": "Commons description: \"Half plate daguerreotype of John Sutter\""
+    },
+    {
+      "personId": "james-w-marshall",
+      "title": "File:James W. Marshall Hodson Portrait.jpg",
+      "medium": "photograph by John R. Hodson, 1894 (first taken no later than 1885)",
+      "subjectEvidence": "Commons description: \"Portrait of James W. Marshall by John R. Hodson\""
+    },
+    {
+      "personId": "millard-fillmore",
+      "title": "File:Millard Fillmore by James Reid Lambdin (National Portrait Gallery).jpg",
+      "medium": "oil portrait by James Reid Lambdin, c. 1858 (National Portrait Gallery)",
+      "subjectEvidence": "Commons title: \"Millard Fillmore by James Reid Lambdin (National Portrait Gallery)\""
+    },
+    {
+      "personId": "chester-a-arthur",
+      "title": "File:Chester A. Arthur portrait c1882.jpg",
+      "medium": "photograph by Charles Milton Bell, 1882",
+      "subjectEvidence": "Commons description: \"Portrait of Chester A. Arthur\""
+    },
+    {
+      "personId": "vannevar-bush",
+      "title": "File:Vannevar Bush, 1938, Harris & Ewing (cropped).jpg",
+      "medium": "photograph, Harris & Ewing, 1938",
+      "subjectEvidence": "Commons description: original caption \"Dr. Vannevar Bush, President, Carnegie Institution, Washington\""
+    },
+    {
+      "personId": "gaspar-de-portola",
+      "title": "File:Retrat Gaspar de Portolà (Lleida).jpg",
+      "medium": "painting, 18th century, painter unknown (posthumous or undated; family home, Catalonia)",
+      "subjectEvidence": "Commons description: \"Portrait of Gaspar de Portolà held at the Parador de Turismo de Arties, Portolà's family home in Catalonia\""
+    },
+    {
+      "personId": "junipero-serra",
+      "title": "File:Junípero Serra.jpg",
+      "medium": "portrait printed on a Detroit Publishing Company postcard, 1913–1930 (a later depiction, not a life portrait)",
+      "subjectEvidence": "Commons description: \"Detail of a portrait of Junípero Serra printed on a Detroit Publishing Company postcard\""
+    },
+    {
+      "personId": "william-shockley",
+      "title": "File:William Shockley, Stanford University (cropped).jpg",
+      "medium": "photograph, Stanford News Service, 1975",
+      "subjectEvidence": "Commons description: \"William Shockley, Nobel Prize in physics\""
+    },
+    {
+      "personId": "douglas-engelbart",
+      "title": "File:Douglas Engelbart in 2008.jpg",
+      "medium": "photograph, 2008",
+      "subjectEvidence": "Commons title: \"Douglas Engelbart in 2008\""
+    },
+    {
+      "personId": "gordon-moore",
+      "title": "File:Gordon Moore ID2004 crop.jpg",
+      "medium": "photograph, 14 September 2004",
+      "subjectEvidence": "Commons description: \"Photograph of Gordon E. Moore, at Innovation Day, 14 September 2004\""
+    },
+    {
+      "personId": "bill-hewlett",
+      "title": "File:William Hewlett 1993.jpg",
+      "medium": "photograph, 1993",
+      "subjectEvidence": "Commons description: \"William Hewlett, co-founder of Hewlett-Packard\""
+    },
+    {
+      "personId": "david-packard",
+      "title": "File:David-Packard-DepSecDef.jpg",
+      "medium": "official Department of Defense portrait photograph",
+      "subjectEvidence": "Commons description: \"United States Department of Defense portrait photograph of David Packard\""
+    },
+    {
+      "personId": "bill-bowerman",
+      "title": "File:Bill Bowerman.jpg",
+      "medium": "yearbook photograph, University of Oregon Oregana, 1958",
+      "subjectEvidence": "Commons title \"Bill Bowerman\"; source: 1958 Oregana, University of Oregon"
+    },
+    {
+      "personId": "larry-page",
+      "title": "File:Larry Page (cropped).jpg",
+      "medium": "photograph, Joi Ito (cropped)",
+      "subjectEvidence": "Commons description: \"Larry Page\""
+    },
+    {
+      "personId": "sergey-brin",
+      "title": "File:Sergey Brin cropped.jpg",
+      "medium": "photograph, Joi Ito, 2008 (cropped)",
+      "subjectEvidence": "Commons description: \"Sergey Brin\""
+    },
+    {
+      "personId": "arthur-rock",
+      "title": "File:Arthur Rock.jpg",
+      "medium": "photograph (colour), recent (EXIF 2003)",
+      "subjectEvidence": "File is in Commons Category:Arthur Rock and is the Wikidata P18 image; CC BY-SA 4.0, author Singhaniket255"
+    },
+    {
+      "personId": "don-valentine",
+      "title": "File:Don Valentine in 2009.jpg",
+      "medium": "photograph, 2009 (Flickr, Steve Jurvetson)",
+      "subjectEvidence": "File title and Commons Category:Don Valentine; also Wikidata P18 and en.wikipedia infobox image; CC BY 2.0"
+    },
+    {
+      "personId": "e-b-crocker",
+      "title": "File:E B Crocker by Stephen W Shaw.jpg",
+      "medium": "oil portrait, 1872 (painted in his lifetime; he died 1875)",
+      "subjectEvidence": "File title 'E B Crocker', Commons Category:Edwin B. Crocker; Wikidata P18; PD Old (Stephen William Shaw)"
+    },
+    {
+      "personId": "elon-musk",
+      "title": "File:Elon Musk (54816836217).jpg",
+      "medium": "photograph, 21 September 2025 (Gage Skidmore, Glendale AZ)",
+      "subjectEvidence": "Description: 'Elon Musk at the Memorial for Charlie Kirk at State Farm Stadium'; Wikidata P18 image is a crop of this file; CC BY-SA 4.0"
+    },
+    {
+      "personId": "frederick-terman",
+      "title": "File:Frederick Terman (1955).jpg",
+      "medium": "newspaper halftone photograph, 1955 (Stanford Daily, 28 July 1955)",
+      "subjectEvidence": "Description: 'Frederick Terman in 1955'; Wikidata P18 and en.wikipedia infobox image; Public domain"
+    },
+    {
+      "personId": "gordon-french",
+      "title": "File:Gordon French at the Living Computer Museum.jpg",
+      "medium": "photograph, 12 April 2017 (Living Computer Museum, Seattle)",
+      "subjectEvidence": "Commons description: \"Gordon French at age 82 photographed in front of a display at the Living Computer Museum\"; Commons Category:Gordon French"
+    },
+    {
+      "personId": "herbert-boyer",
+      "title": "File:Herbert Boyer HD2005 Winthrop Sears Medal.JPG",
+      "medium": "photograph, 9 June 2005 (Science History Institute, Douglas A. Lockard)",
+      "subjectEvidence": "Title names Herbert Boyer; Commons Category:Herbert Boyer and Portraits, Science History Institute; CC BY-SA 3.0"
+    },
+    {
+      "personId": "jim-clark",
+      "title": "File:James H. Clark.jpg",
+      "medium": "photograph (colour, speaking at a podium), uploaded 2013, probably 1990s",
+      "subjectEvidence": "Description: \"James H. Clark, American computer scientist and entrepreneur\"; file is the sole item in Commons Category:James H. Clark (Wikidata P18 / en.wikipedia lead image). Licence CC BY-SA 3.0, author Knnkanda."
+    },
+    {
+      "personId": "john-steinbeck",
+      "title": "File:John Steinbeck 1949.jpg",
+      "medium": "photograph, 1949 (Los Angeles Daily News, UCLA Library)",
+      "subjectEvidence": "Commons description: \"John Steinbeck, seated portrait in a room\"; file is in Category:Portraits of John Steinbeck; source record at UCLA Library Digital Collections (ark:/21198/zz0002nv5b); licence template Daily News UCLA (CC BY 4.0)"
+    },
+    {
+      "personId": "jose-figueroa",
+      "title": "File:José Figueroa de California.jpg",
+      "medium": "lithograph portrait (dated 1843 on Commons, i.e. posthumous; Figueroa died 1835); printed caption \"Grál FIGUEROA\"",
+      "subjectEvidence": "Description: \"General José Figueroa, Gobernador de California\"; image carries the printed label \"Gral. FIGUEROA\"; the cropped derivative is the Wikidata P18 / en.wikipedia lead image for José Figueroa (Q6292209)"
+    },
+    {
+      "personId": "marc-andreessen",
+      "title": "File:Marc Andreessen-9 (cropped).jpg",
+      "medium": "photograph, 3 Oct 2013",
+      "subjectEvidence": "Description: \"Marc Andreessen at Pando Monthly with interviewer Sarah Lacy, at Dogpatch Studios in SF on Oct. 3, 2013.\"; in Category:Marc Andreessen; Wikidata P18"
+    },
+    {
+      "personId": "marc-tessier-lavigne",
+      "title": "File:Marc Tessier-Lavigne at Rally for Medical Research.jpg",
+      "medium": "photograph, 8 Apr 2013",
+      "subjectEvidence": "Title and description: \"Stanford University President and former Genetech executive Marc Tessier-Lavigne, speaking at Rally for Medical Research ... Washington, DC\"; Wikidata P18"
+    },
+    {
+      "personId": "peter-thiel",
+      "title": "File:Peter Thiel by Gage Skidmore.jpg",
+      "medium": "photograph, 9 Feb 2022",
+      "subjectEvidence": "Title \"Peter Thiel by Gage Skidmore\"; description \"Peter Thiel speaking at an event in Scottsdale, Arizona\"; in Category:Peter Thiel; Wikidata P18"
+    },
+    {
+      "personId": "phil-knight",
+      "title": "File:Phil Knight-1957.jpg",
+      "medium": "yearbook photograph (1957 Oregana, University of Oregon); low resolution (230x341)",
+      "subjectEvidence": "Title \"Phil Knight-1957.jpg\"; in Category:Phil Knight; Commons structured data 'depicts: Phil Knight'; used on en.wikipedia Phil Knight article; PD-US no notice"
+    },
+    {
+      "personId": "robert-noyce",
+      "title": "File:Robert Noyce in 1959 (3x4 cropped).png",
+      "medium": "photograph, 1959 (Intel Free Press / Intel archive), cropped; small (234x312)",
+      "subjectEvidence": "Title and description: \"In 1959, Robert Noyce co-invented the integrated circuit.\"; derived from File:Robert Noyce with Motherboard 1959.png which is in Category:Robert Noyce and is the Wikidata P18 / en.wikipedia lead image"
+    },
+    {
+      "personId": "robert-swanson",
+      "title": "File:Robert A. Swanson 2000 Biotech Award.tif",
+      "medium": "photograph (colour), c. 1999 (Science History Institute; award photo, posthumous award as Swanson died 1999)",
+      "subjectEvidence": "Description: \"Photograph of Robert A. Swanson, co-recipient of the 2000 Biotechnology Heritage Award ... posthumously to Robert A. Swanson\"; in Category:Robert A. Swanson and Portraits, Science History Institute; Wikidata P18"
+    },
+    {
+      "personId": "tom-perkins",
+      "title": "File:Thomas Perkins at TechCrunch SF 2013.jpg",
+      "medium": "photograph, 11 Sep 2013 (TechCrunch Disrupt SF), cropped extract",
+      "subjectEvidence": "Title names Thomas Perkins; extracted from File:TechCrunch SF 2013 4S2A2023 (9725396803).jpg which is in Category:Tom Perkins; en.wikipedia lead image 'Thomas_Perkins_at_TechCrunch_SF_2013.jpg'"
+    }
   ]
 }

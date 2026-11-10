@@ -1,0 +1,3529 @@
+{
+  "note": "Written by scripts/verify-web.mjs. Each external quote was found in the page text on the retrieved date. Pages can change; re-run to re-check.",
+  "entries": [
+    {
+      "url": "http://large.stanford.edu/history/kaist/references/terman/levy/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "7bf2638d4f3ab6a20a96b8dee640a6cfb4d3707f2e36426e31a72cbc9a273bf1",
+      "quotes": [
+        {
+          "qSha256": "3046171c8f1e85eb092c438974172ce8020905f775ef00e4e326f7dbf23f4b2a",
+          "q": "Born in Indiana in 1900, Terman came to Stanford at age 10 w",
+          "found": true
+        },
+        {
+          "qSha256": "efcc65b673e80053a324155ea3ad58442282ebe74a8572a2c28e38fb9b98a04b",
+          "q": "Sibyl Walcutt, the psychology and education graduate student",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://about.google/company-info/our-story/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "e3bb3f267024bdc6caaa8d04d164af9cf04d9e0b43aefb7c7d1dec6867675c3e",
+      "quotes": [
+        {
+          "qSha256": "8c8c804d41cd710a65582eb006e15697a06427ac5f41a0251f2cfbc1874802b7",
+          "q": "the newly incorporated team made the upgrade from the dorms ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://achievement.org/achiever/larry-page/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "31eaa08563d0c8aa8740c34ab281317affda15f9b4cf9440e02fc9303077f46c",
+      "quotes": [
+        {
+          "qSha256": "3c8997cd5fb842267485b7084da523bd323c9ae92ddfa5fa19b78327139982c1",
+          "q": "Date of Birth March 26, 1973 Lawrence Edward Page was born i",
+          "found": true
+        },
+        {
+          "qSha256": "2e9bed1d528eaf2d169c80e6d80548c9bbdbc7db4f2d012e393f910ce7574111",
+          "q": "His father, Dr. Carl Victor Page, was a professor of compute",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://archive.nytimes.com/www.nytimes.com/library/financial/sunday/032600biz-tech-activist.html",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "5dfb2aa196fdbf5cff3fb9f455c4450164b4c4a5dbe8ca0e6769478254f46196",
+      "quotes": [
+        {
+          "qSha256": "8d08e69c44c43e53b3c1a3653816b786565e40ef38010fdc111ddfb698d6e6fe",
+          "q": "Moore died in 1997 after a traffic accident in eastern Arizo",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://archive.org/stream/anzascaliforniae02bolt/anzascaliforniae02bolt_djvu.txt",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "3c2470f9533f3cf6c3176d2b3eabcc8f382b7703f3e145ccd5b129038da16be4",
+      "quotes": [
+        {
+          "qSha256": "30cecc3b919b8dbe66c4b9d2930ce5d24b2ec13c3f03447f69518c6e9b812b2c",
+          "q": "It is visible for more than a league before reaching the arr",
+          "found": true
+        },
+        {
+          "qSha256": "7dd537fd580530a99349e8e1e92c9f019bfc944206bbeecc4c1f2212d27a0ab4",
+          "q": "The first expedition was in this same place, it being the la",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://archive.org/stream/collispotterhunt01evan/collispotterhunt01evan_djvu.txt",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "bf9467899e333ef5e748c9aa9be7a65573fce7171ffa4f78fb99082d4be290e5",
+      "quotes": [
+        {
+          "qSha256": "76f3f4eec7d12cf231c4d88a0412b4a144b3ad745bd5503be4107b5963dba7f7",
+          "q": "Charles Crocker, born at Troy, New York, September 16, 1822,",
+          "found": true
+        },
+        {
+          "qSha256": "4c641724ee3931e454d8fe95ac92d96bed969c98a74d1272953c00383f041cfe",
+          "q": "Collis Potter Huntington was bom October 22, 1821, at Harwin",
+          "found": true
+        },
+        {
+          "qSha256": "9464f6c8d89601ecb6816958f5145b33f0bcee2a3a7e95f6d4a1d6f676fd390a",
+          "q": "In September 1844, Mr. Huntington married Elizabeth Stoddard",
+          "found": true
+        },
+        {
+          "qSha256": "f591690510dd9857d8f6d0a68b34a5285af13657e5b6a68f3f3b27ed559b11ab",
+          "q": "In a letter to his brother Solon in Oneonta, dated May 9, 18",
+          "found": true
+        },
+        {
+          "qSha256": "3696032ddd358ed1a0454b0ec681758061aa411ff2ce06d670b832dc5a0f832c",
+          "q": "On Friday June 28, 1861, the Central Pacific Railroad Compan",
+          "found": true
+        },
+        {
+          "qSha256": "1e1982bd9f1b7656ddc44317850cca29065da49e9ffb012a6d78ef85addc5cd9",
+          "q": "On March 29, 1878, Mr. Hopkins died at Yuma, where he had so",
+          "found": true
+        },
+        {
+          "qSha256": "1a4331837c12c69074d98426a6c507a272b7cb557ed2cf15718cf7af5d092d26",
+          "q": "On Tuesday, April 30, 1861, after frequent and earnest discu",
+          "found": true
+        },
+        {
+          "qSha256": "ee056a50bb31b947cc5c10103375015d4a7b8be7c75194c531a932d4d314d05b",
+          "q": "The officers elected were Leland Stanford, president; C. P. ",
+          "found": true
+        },
+        {
+          "qSha256": "939590260588f43493c332cf80763f977c2f401309dbc77de1211dc35df1dcf1",
+          "q": "also, Edwin B. Crocker, a brother of Charles Crocker, who be",
+          "found": true
+        },
+        {
+          "qSha256": "fc2415dfcc541e966c3054bd23a62b94ef2879102a0721230e85c2b7aa23484a",
+          "q": "death is carrying off the Americans most fearfully. A gentle",
+          "found": true
+        },
+        {
+          "qSha256": "f1283d03ebe162d8c942f7f17e92fcd6c595c0317c912ef76a48acd926b4c46c",
+          "q": "son of William and Elizabeth (Vincent) Huntington; grandson ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://archive.org/stream/collispotterhunt02evan/collispotterhunt02evan_djvu.txt",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "750aad6fa7ed47ef9dc1271eb83d895a5043cab41ebc411495fabf0fa79fd8b1",
+      "quotes": [
+        {
+          "qSha256": "3fc9185d22f2748cad097f3a10b4fb6b33a8f0dfb01481503062dae39a1f332d",
+          "q": "Death came to Collis Potter Huntington on the night of Augus",
+          "found": true
+        },
+        {
+          "qSha256": "12c6f690f802f1db11a333a05fbdeab3f99220d04877ffd3a98f660323f50cbc",
+          "q": "her son, Archer Milton Huntington; the adopted daughter, the",
+          "found": true
+        },
+        {
+          "qSha256": "4e7b8bcb2bf85313b8d5e39f194d0d389a0e768875079ce43f2b36860019bbe2",
+          "q": "his wife, Mrs. Arabella Duval Huntington; her son, Archer Mi",
+          "found": true
+        },
+        {
+          "qSha256": "ffde145c24b5908ec4d2ab572613db33872926f0412685e0ae487d11ca29060f",
+          "q": "with Mrs. Huntington's young son whom Mr. Huntington adopted",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://archive.org/stream/historicalmemoir0001fray/historicalmemoir0001fray_djvu.txt",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "ba2db97608dce94744c193c68f4df9cbce6256517c19509fa718052607a0ae7f",
+      "quotes": [
+        {
+          "qSha256": "a0212e01e160e9b2b1491ecb6eaced8ea02230b2e06048d331140a9f3dd33f4f",
+          "q": "Palou, Francisco, 1723-1789. Historical memoirs of New Calif",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://archive.org/stream/historyofcalifor03banc/historyofcalifor03banc_djvu.txt",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "f70ad13452f3feb3e4046fc243d0bcd1adda7e95cef03a4f5b6e9fbfcbe7824c",
+      "quotes": [
+        {
+          "qSha256": "c4de7bcf5c168bea6399715e3a525f355c960d12b8a49d09c3e46bb48d7c804a",
+          "q": "Jose Figueroa died at Monterey September 29th, at 5.30 p. m.",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://archive.org/stream/johnhopkinsofcam00hopk/johnhopkinsofcam00hopk_djvu.txt",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "02bb0da75bddce75f3df27eab1b7ac7d87c9c0f9a3606ad2d333d6ed7c69251a",
+      "quotes": [
+        {
+          "qSha256": "58515d08628c1c251bf136341106a2f565afda655e4e3e5d2fee25c3448b0353",
+          "q": "Mark Hopkins had no children, but he brought up from infancy",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://archive.org/stream/portolaexpeditio02cost/portolaexpeditio02cost_djvu.txt",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "8c4ff8cebff1e4e12f1c52333655e001d71e1536ceebc6c922e83e7a677302e6",
+      "quotes": [
+        {
+          "qSha256": "4ac09b582f3fd6e2e22f1d7e3b36476560474c29570c334d0709bd9bc82a977b",
+          "q": "We proceeded for a short stretch in this direction, and halt",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://archive.org/stream/stanfroduniversi009361mbp/stanfroduniversi009361mbp_djvu.txt",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "be8d6bfa7be492424f137d763b935310e6c71b71db940c20108700bae8030579",
+      "quotes": [
+        {
+          "qSha256": "bef754d9c7d67eb63dd2377d5b65703f85077b1dcbd8392b44328d498328c4bd",
+          "q": "Bloomington, the seat of the University, was reached Saturda",
+          "found": true
+        },
+        {
+          "qSha256": "fb99c05b51f7f188c9f5d4f94e6fc9ac3706a21222e9c31dd7c81d6326318b4d",
+          "q": "In his very first meeting with Dr. Jordan, Mr Stanford told ",
+          "found": true
+        },
+        {
+          "qSha256": "7d24ffbdbc7550d3d4e9d70585c47ac2157d55a36025348844b1a34efb3da7cc",
+          "q": "a few weeks later (April 1 1, 1891 ) wrote as follows: \"I he",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://bookreadfree.com/384331/9452587",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "2b2738303f6dfcbedf76c1884e32a23d8a2f5e1bc210e7b0eb0d06e452fef245",
+      "quotes": [
+        {
+          "qSha256": "543b7fe5e9e8385b719fd01f6a431cf1af42604c9fed69c2da2bf9fd59d90f8b",
+          "q": "During the spring semester of his junior year his stamina wa",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://cmns.umd.edu/news-events/news/eugenia-brin-1948-2024",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "f0084343e98dbbae089dd0fa60864d4336a5bc17a93ae00cdf45c0b70a8cdc40",
+      "quotes": [
+        {
+          "qSha256": "aca8d6531e4eeab5f0f35e2d07d96ca681d1ff7188461065486620df96063355",
+          "q": "Eugenia Brin, a Russian immigrant and retired NASA scientist",
+          "found": true
+        },
+        {
+          "qSha256": "3cae0ab6be3b219080a319d04d5ca1e546c40bb34923fd2eb96ee7287bc12e51",
+          "q": "Eugenia was born on Aug. 19, 1948, in Moscow.",
+          "found": true
+        },
+        {
+          "qSha256": "297bccb1b4628709d64d1fc06188afa1fb299e9670cd0358b6b7f9bcfd98681c",
+          "q": "The far-reaching impact of the couple, parents to Google co-",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://computerhalloffame.org/home/computer-hall-of-fame-honorees/class-of-2004/marc-andreessen/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "89eb14ea6f478b1497247abd3217123073f1b26b8c3fbf2f347e0bf7bb550c0b",
+      "quotes": [
+        {
+          "qSha256": "13cefbddd6a5b1da863f83254f6538c882f4af8fd481746b361770dc71379019",
+          "q": "Marc Andreessen Programmer / entrepreneur July 9, 1971",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://distributedmuseum.illinois.edu/exhibit/marc_andreessen/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "15be88634be1c0d909f82a9821ebd01dcb88df353e1acb27fe6f6b56c260f00e",
+      "quotes": [
+        {
+          "qSha256": "32d6c9b5426aac6a75697145c5583ecbd6b1a042e356ba1c9a9c3cea08a22a4b",
+          "q": "Marc Andreessen, innovator and visionary, was born in Cedar ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://embryo.asu.edu/pages/david-starr-jordan-1851-1931",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "f449136a0079b6ceac4a4efc1d02ad54e8b93b9c300d6dbb70f6606a76acbd3b",
+      "quotes": [
+        {
+          "qSha256": "f8b127ba2f96aa5ca3cdde53856df975531ca5eb72312b6eae82ec0e4fd243bc",
+          "q": "Jordan was born 19 January 1851 in Gainesville, New York, to",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arabella_Huntington",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "993bba837c45172ab5a624181a7a86c9dd955fdf30588ac238c3885ad015c21f",
+      "quotes": [
+        {
+          "qSha256": "074e49a9287ba1c4a77e1bce441fa5d032f872181f9733c3a446cbe2f89fe6e0",
+          "q": "Arabella Duval Huntington (née Yarrington; c. 1850/1851 - Se",
+          "found": true
+        },
+        {
+          "qSha256": "d630921ae439ca23dd600c5ec867c9553ffdcc224e897266cbdf774018171e19",
+          "q": "Collis Huntington's wife died in 1884. In the same year, Col",
+          "found": true
+        },
+        {
+          "qSha256": "c10c264a942c2f0d7bbb27fe347726427dbd03f9889dea92cc6fdd5128afd0cc",
+          "q": "It has been suggested that Collis was Archer's biological fa",
+          "found": true
+        },
+        {
+          "qSha256": "44bcf0915b8068b9c4910c42ed7b96115d334908640a384cdb4543c242d7dbde",
+          "q": "September 16, 1924 (age 72-74) New York City, U.S.",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Archer_Milton_Huntington",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "e732eb925e544a0b70734425b5595599cc37d9bb6c2db285c86d31f39658430a",
+      "quotes": [
+        {
+          "qSha256": "af30e96056480fb016128eb04ca39604da8a9cd7b1de42c532125b740c1272df",
+          "q": "He may have been Collis Huntington's biological son.",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Arthur_Rock",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "4fbd3ef12c0d89c471ee9228096c46f477c88b21faa70721725a2891a3412b7c",
+      "quotes": [
+        {
+          "qSha256": "f8b9c93833d34797dd5778c1ca823ff679ef2903c43809519310df571e84aac0",
+          "q": "Arthur Rock (born August 19, 1926) is an American businessma",
+          "found": true
+        },
+        {
+          "qSha256": "93b7bec968f6916a678209c116076b03cda408518b6ab842f57b25d9c360b375",
+          "q": "In 1957, when the \"traitorous eight\" left Shockley Semicondu",
+          "found": true
+        },
+        {
+          "qSha256": "ea6f4dd3172be137b74c9c5ac108783abb24afc02bc2dbc0483d32932b301889",
+          "q": "Rock was born and raised in Rochester, New York.",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bill_Bowerman",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "85e564f09b626d37e9ebf897a1f7606d51646606af537438bc4812e11f4411ce",
+      "quotes": [
+        {
+          "qSha256": "ff5016273db8b04234dcdf0e73ff9aade92c3d569dc032daacba3d4c2a91e4ce",
+          "q": "Born in Portland, Oregon, in 1911. Bowerman's father Jay was",
+          "found": true
+        },
+        {
+          "qSha256": "06985d8acda4e615578e834b72382e6f5797eaebd11601de3fd64ec85cb64211",
+          "q": "Bowerman had an older brother and sister, Dan and Mary Eliza",
+          "found": true
+        },
+        {
+          "qSha256": "79c821ddbcd3b319161123328779c1d463eff22f7601d2033014b7dcbb689193",
+          "q": "In declining health in late 1999, Bowerman died at age 88 at",
+          "found": true
+        },
+        {
+          "qSha256": "9cbaafa6035220798abbb62a4cebd620682b0fe41b4dffc218bd24f91c4f49c7",
+          "q": "William Jay Bowerman (February 19, 1911 - December 24, 1999)",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bill_Hewlett",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "2c6ab7ad147ccdc0b0012ec87598bc0be4c870e9deb3ae3b80b77b1bae9535e9",
+      "quotes": [
+        {
+          "qSha256": "a12a06f12462a6f0ac6940e4420e40c1f0939837fca3e2dccfbf1f45a675fc7f",
+          "q": "BornWilliam Redington Hewlett (1913-05-20)May 20, 1913 Ann A",
+          "found": true
+        },
+        {
+          "qSha256": "dddd39d441ec00dc1afe7afae41b4c2d54509690235edd6743bccb40599220fb",
+          "q": "Hewlett died of heart failure in Palo Alto, California, on J",
+          "found": true
+        },
+        {
+          "qSha256": "de21b3471a0817056a172886d59bfed35ef8fd0cd6149b8773125d9618b12f60",
+          "q": "Hewlett married Flora Lamson in 1939, and he had 5 children ",
+          "found": true
+        },
+        {
+          "qSha256": "c56acf519e06a4d1150f0190a5543ecafba529c2f0683b0a222da2502aadc7db",
+          "q": "His wife died in 1977.",
+          "found": true
+        },
+        {
+          "qSha256": "3d9923e0aebe8af1c72854ba7b50eda04a5bfb0629f5843726abbfdab8014579",
+          "q": "In 1916, the family moved to San Francisco after his father,",
+          "found": true
+        },
+        {
+          "qSha256": "bc3a8ac4172447e33b9a2bc052d845f550e17f4a545ff4be17a13fd24e31d3df",
+          "q": "In 1978, Hewlett married Rosemary Kopmeier Bradford.",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Central_Pacific_Railroad",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "1c0fbfe7218571daf5211a2ec76c29b0ad0e6c22ee9b5419129d9074de29f8d6",
+      "quotes": [
+        {
+          "qSha256": "a55dcf3806ea0af7d0c91ec9e7524513f068915a7c763d9cf8a8aa710eb9fcaa",
+          "q": "1861 June 28, 1861: \"Central Pacific Rail Road of California",
+          "found": true
+        },
+        {
+          "qSha256": "be63172c44c6f58781b0ba03a0d17813e5a33393c22589a80db47d036ba8ac79",
+          "q": "CPRR's chief engineer, Theodore Judah, also argued against s",
+          "found": true
+        },
+        {
+          "qSha256": "ce258372c78c000a1aac7f33eccd8eb2c47bd9f886f2684a6b2d828f87ccb326",
+          "q": "Stanford served as president (at the same time he was electe",
+          "found": true
+        },
+        {
+          "qSha256": "d7c5af61bf14b3445f42d117842c8fe1e3b315e9fe85ffc20aade1605593e091",
+          "q": "The Central Pacific Railroad (CPRR) was a rail company chart",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Charles_Crocker",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "5004d07fb8e998c9fdeaf4390a859d4b04784b9621bad9054b9a5fb27695d36c",
+      "quotes": [
+        {
+          "qSha256": "a3618daa679f9cbea9788b3a4e1a842f0e6a05c05e49aeafc7094ec79d6e327d",
+          "q": "(aged 65) Monterey, California, U.S.",
+          "found": true
+        },
+        {
+          "qSha256": "0fcc0e4c4adc61f14acb43c10b2b311498fde808e4ce1be040fded4f3e641235",
+          "q": "Crocker was born in Troy, New York, on September 16, 1822.",
+          "found": true
+        },
+        {
+          "qSha256": "bffb2070e42b4ed784bf5eb1f140a2252ada30dcf2db23eeac1c3070c36846f2",
+          "q": "Harriet Valentine Crocker (1859-1935), who married Charles B",
+          "found": true
+        },
+        {
+          "qSha256": "b1d9b6a76f51fd71cfbc252a9981090c72deed3b919b892bb3798e0a33cd2081",
+          "q": "Harriet Valentine Crocker (1859-1935), who married Charles B",
+          "found": true
+        },
+        {
+          "qSha256": "f04a9a4c2e8dffdbeb0e68724fe921d0cfcd191ae8cc12d84830cfe8b5cbe8e2",
+          "q": "In 1852, Crocker was married to Mary Ann Deming.",
+          "found": true
+        },
+        {
+          "qSha256": "be96fb8a4b05ae418cf33007427a1f9b4a18473215b76351c35b522067785be1",
+          "q": "Together, they had six children, four of whom survived to ad",
+          "found": true
+        },
+        {
+          "qSha256": "a5a9a0009c439eedc75c1fdaa5c7d4dad5aae8a8c9ceaabf3f9fbd5a4c384b08",
+          "q": "Together, they had six children, four of whom survived to ad",
+          "found": true
+        },
+        {
+          "qSha256": "f68d87c8ac304cd6d47c0d19f92afaad6ea2d9579f56807ecf343273e8f870b2",
+          "q": "never fully recovered, and died two years later on August 14",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Charles_Stanford_(politician)",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "7453928a4515288c9ffb566c744e9a4083b09edfc4496eef4c5f602a3b4d4a7d",
+      "quotes": [
+        {
+          "qSha256": "8234f73ca8d0a845cdc30d153aadc78c9049057b24381b93265d41c2f561de89",
+          "q": "Charles Stanford (April 26, 1819 Watervliet (now Colonie), A",
+          "found": true
+        },
+        {
+          "qSha256": "f0448f1fe4ebf233df11ab6d624f7f6340b31458d1c4628d3a0c9d94ec172151",
+          "q": "He was the son of Josiah Stanford (1795-1862) and Elizabeth ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Chester_A._Arthur",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "b98fb2c4d61a51a5fcd82511a132892a03939e44ee45e11f8596fbac8c2420b9",
+      "quotes": [
+        {
+          "qSha256": "64998c9c06a51e28844ce29c24199aec215fa88e25bce4d4613ab25e44ff72b4",
+          "q": "In 1856, Arthur courted Ellen Herndon, the daughter of Willi",
+          "found": true
+        },
+        {
+          "qSha256": "eef61529caeb7039599dcc6f66d35b4617a90ab553104b102a9bad217d87a70b",
+          "q": "In 1859, they were married at Calvary Episcopal Church in Ma",
+          "found": true
+        },
+        {
+          "qSha256": "17e46a006e882a10409a20f4660480b398f2fef456b27dc0a5587dca648cfa24",
+          "q": "In 1859, they were married at Calvary Episcopal Church in Ma",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Collis_Potter_Huntington",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "c41676d554f24f3465eade9306890f985e369c61fbbe20fa5631c01134154f0f",
+      "quotes": [
+        {
+          "qSha256": "a845d6ef184bc0cb65b4dc6414f03dd0a7f953937d59e1bf321039c1d33b6363",
+          "q": "Huntington was born in Harwinton, Connecticut, on October 22",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/David_Packard",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "08f9c6823d3c0d3fec1c502401cd7208a528d285af7767f455e68e1af0d0d103",
+      "quotes": [
+        {
+          "qSha256": "d3142118c299170b3491e9cec67fd173e153ade89617d72ccd1638c56f545972",
+          "q": "Born(1912-09-07)September 7, 1912 Pueblo, Colorado, U.S. Die",
+          "found": true
+        },
+        {
+          "qSha256": "67e8443a14fd230075724cbac939f544ff09f8199da1830b00b7450161874568",
+          "q": "In the same year, he married Lucile Salter, with whom he had",
+          "found": true
+        },
+        {
+          "qSha256": "c4f782ba5c9941fd70c1e2469b87c2db4c612dd03861651be3009af36a6dab43",
+          "q": "Lucile Packard died in 1987 (age 72).",
+          "found": true
+        },
+        {
+          "qSha256": "0179fbe601a24f1edb877aed699f00907def8dc05efabc883c64eb42cfe950bc",
+          "q": "Packard was born in Pueblo, Colorado, the son of Ella (Grabe",
+          "found": true
+        },
+        {
+          "qSha256": "af71b8c4f26c4b3975c5a08444f43594bbf910097bc33d756732455886ca968e",
+          "q": "Prompted by his daughters Nancy and Julie, in 1978 David and",
+          "found": true
+        },
+        {
+          "qSha256": "f374935c95cd2379c08e63b6f853322368897b1db711ac1d1fa8dbecfa794ad6",
+          "q": "The couple eventually donated $55 million to build the new a",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Don_Valentine",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "71290818cb129ed2fd8a88c61eec728120e2456d5bd909d0a599f11d2093b8d0",
+      "quotes": [
+        {
+          "qSha256": "57f6bebd1ef88eb724515d03e41cc607daef1393aee9be33ea3d72f51cdc1416",
+          "q": "He is survived by three children and seven grandchildren who",
+          "found": true
+        },
+        {
+          "qSha256": "4937c2a5caeacd681ada0cd065522074f50db5679803981b8fdaf21f3a348651",
+          "q": "Valentine died on October 25, 2019, in Woodside, California,",
+          "found": true
+        },
+        {
+          "qSha256": "96c10391a7dd85cb6b37aef633a4b7c046e1627ccd8c14bf9b27f54506315744",
+          "q": "Valentine was born on June 26, 1932, in New York City, and g",
+          "found": true
+        },
+        {
+          "qSha256": "762382cd2daa7fa3c1191bbc4cdb76daab72d8caa1855b954f91e65b9bdb9cfe",
+          "q": "Valentine's mother suffered from tuberculosis, with her trea",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Douglas_Engelbart",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "8c0566ed3d1c383cc9e9d86fcbcf75e7a64bed9d8ac135b7e448933aa81d9a92",
+      "quotes": [
+        {
+          "qSha256": "f9d87fff57c6eed63c87451e5418108a6f4d36c2c18f7f109c784ea51457cea4",
+          "q": "Ballard Fish (August 18, 1928 - June 18, 1997), who was just",
+          "found": true
+        },
+        {
+          "qSha256": "e885535e4f2cfdc24d875e4d7f70cf3950cf9f2f8fb7ecd289c44f3123dccbf7",
+          "q": "Engelbart died at his home in Atherton, California, on July ",
+          "found": true
+        },
+        {
+          "qSha256": "da2f230a2a1fc026be2e899d967db80189323eb4db87cc6013136831a1185a3c",
+          "q": "Engelbart had four children, Gerda, Diana, Christina and Nor",
+          "found": true
+        },
+        {
+          "qSha256": "06a2732be9fc0b62623b9f7965bc0ad05ccee57e4446713d245f5877f24acafa",
+          "q": "Engelbart was Founder Emeritus of the Doug Engelbart Institu",
+          "found": true
+        },
+        {
+          "qSha256": "6e4bda6a03a538ee5406f3b9ab9f42049a22aff8405b69b14e246166dce508f6",
+          "q": "Engelbart was born in Portland, Oregon, on January 30, 1925,",
+          "found": true
+        },
+        {
+          "qSha256": "573f1915cfe743c661d235b75921ce6cb0eccb2fdaa3f7bb6837ae64f32d8387",
+          "q": "He remarried on January 26, 2008, to writer and producer Kar",
+          "found": true
+        },
+        {
+          "qSha256": "4f9e0248cd37e34c714b2de7d59f24f4221a03cdc6578333cc6547f09d7831f1",
+          "q": "He was the middle of three children, with a sister Dorianne ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Edwin_B._Crocker",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "3cfce115de03067078576aed0f3b1c20b475fed3d76b3a2c7ee660294f8557be",
+      "quotes": [
+        {
+          "qSha256": "123f9786bc92bc1650c49d13ec4067397f2fb5f5e2ad82c4c01e8c80e01ea95f",
+          "q": "April 26, 1818 Jamesville, New York, US",
+          "found": true
+        },
+        {
+          "qSha256": "417385f5829f05a6849674c458d9ba1052fc419ebe78139ea5a199eb052a812b",
+          "q": "Edwin Bryant Crocker (26 April 1818 - 24 June 1875) was a Ca",
+          "found": true
+        },
+        {
+          "qSha256": "01aee90362483698cbaddf44a7fd958101511d3de546434db68a5816e033699f",
+          "q": "On July 8, 1852, he remarried to Margaret Rhodes in New York",
+          "found": true
+        },
+        {
+          "qSha256": "d2ae70fe68e83bb8f15f08e64279de6a5dc47722076ba4927f8cf91d84a22e44",
+          "q": "On July 8, 1852, he remarried to Margaret Rhodes in New York",
+          "found": true
+        },
+        {
+          "qSha256": "f33d5e2eddece482e60eab3c041732d4886ed6b8e0db457cac8f5a0ec13b7931",
+          "q": "On June 24, 1875, he died in Sacramento.",
+          "found": true
+        },
+        {
+          "qSha256": "6023946c10e893ec010b3b964b2cd005b016c074dbc97e020d98667d176406e7",
+          "q": "the Big Four, which included Edwin's younger brother, Charle",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/El_Palo_Alto",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "ebdfd4624fdba0c56163b6c0a385d699f868c1654c23cdcaa269d3f224352fbb",
+      "quotes": [
+        {
+          "qSha256": "bf8588a330a31d076b739e06bd127959bc8a5cfd9cf4eaf92b54e566916e1aa7",
+          "q": "The earliest known reference to the name \"Palo Alto\" dates t",
+          "found": true
+        },
+        {
+          "qSha256": "9b9d3fd6da6fabedda580ed895f04c00bd7994f46dd33c3450b16321443cd6c9",
+          "q": "They traveled southwest and arrived at San Francisquito Cree",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Elon_Musk",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "c9c93b7b1d656dd2dba56824f8cb976e2bc8fb717daec2ccc07c9a1932ebb1b2",
+      "quotes": [
+        {
+          "qSha256": "5b70df38e47cdf893260b40fcf7dbd377f089346a9c6da8651702b18f22edfb8",
+          "q": "In 1995, he was accepted to a graduate program in materials ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Ephraim_Douglass_Adams",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "5a6b8431b651658825dd392a17220a8e985c0d70084d0d2436f73774b114caf6",
+      "quotes": [
+        {
+          "qSha256": "423f8bc0624afe1d37920acfbb54752274235809ae90a8154c913ef2059c1e56",
+          "q": "Ephraim Douglass Adams (December 18, 1865 in Decorah, Iowa -",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Eugene_Kleiner",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "5d3e82e163faaa3dec4218ba16fb3fb752679fa327933502eb24905b121d7574",
+      "quotes": [
+        {
+          "qSha256": "664f02fbd7d2c2ce733e37a8b0c6e2a5041560207d6591c20a675ede17fdddd8",
+          "q": "He died on November 20, 2003, in Los Altos Hills, California",
+          "found": true
+        },
+        {
+          "qSha256": "25e4b7588a77fe55103d0da020286b857a7a5dceb4f61b25ddaac76160fcdb44",
+          "q": "In 1947, he married Rose Wassertheil (d. 2001), a Polish Jew",
+          "found": true
+        },
+        {
+          "qSha256": "6d53bff8a1e44e8e84547ea4e850b67b07bb417326374fdb25123a97445f6c0d",
+          "q": "Kleiner was born on May 12, 1923, in Vienna, Austria.",
+          "found": true
+        },
+        {
+          "qSha256": "3c3561082434759f3358cdc1338d38c7d73e819791fccaf58187083ccdd06d19",
+          "q": "They had two children, Robert and Lisa.",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fairchild_Semiconductor",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "abed6e76ff6c04bac6ad63d6a8614f06089aa13458af1a87c5adc54c4f73cae2",
+      "quotes": [
+        {
+          "qSha256": "134cecd20914693e1761d279cd070d2f5342f7991ada7c5f09561833e33a343e",
+          "q": "Noyce was rewarded with the position of corporate vice-presi",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Francisco_Pal%C3%B3u",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "1482da8de7e07acabc1e105dac1652c1c6be83be87b0867803fc0cf226dd107d",
+      "quotes": [
+        {
+          "qSha256": "395cef9d20f8b2e23f96617cea37e3622ae67e077c9296f57904e31d784ea03b",
+          "q": "Died1789 (aged 65-66) Mexico City, New Spain",
+          "found": true
+        },
+        {
+          "qSha256": "5f41b22ebd4b14b7b5870b6bb6d3710c8dd3593413b288e7f11c11a7440a7019",
+          "q": "was a Spanish Franciscan missionary, administrator, and hist",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Frederick_Terman",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "2bd80592c5d47640e3760cda269992e6d347ebf8cd5c1b612302eba013b8af5d",
+      "quotes": [
+        {
+          "qSha256": "ba71f7967b695f86985f6b95c836db6294e9939c8f7ea3a27f0a8a6b72672ead",
+          "q": "BornFrederick Emmons Terman (1900-06-07)June 7, 1900 English",
+          "found": true
+        },
+        {
+          "qSha256": "32568da9ad6ac7d1e5e5ce2a2f6bd0e79b9db1726863feb2ba16aa4474e8c45a",
+          "q": "DiedDecember 19, 1982(1982-12-19) (aged 82) Palo Alto, Calif",
+          "found": true
+        },
+        {
+          "qSha256": "512280a8c41178c4be694e1971188d81aa48b4d045b05cfe0f7b97bd29caddc4",
+          "q": "He encouraged his students to form their own companies and p",
+          "found": true
+        },
+        {
+          "qSha256": "cedf89ece50350910f392e1a50bedb68218860cadd67eac8f365da6a791ea0de",
+          "q": "In 1951 he spearheaded the creation of Stanford Industrial P",
+          "found": true
+        },
+        {
+          "qSha256": "278e3a29a57926037f3ddbab6962cbf407fb3697272c098dd895ec16a90a581c",
+          "q": "Terman returned to Stanford in 1925 as a member of the engin",
+          "found": true
+        },
+        {
+          "qSha256": "3e461da51bc980d0b6738714cd9c7611bd99875b6d1f0b33864b4bd1a579170b",
+          "q": "Terman was born to Lewis Terman and Anna Belle Minton Terman",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gaspar_de_Portol%C3%A0",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "acee5d31c45390baeebf0e571f90dfdd01fd990c60bd6eda4cff5e6ddb6847af",
+      "quotes": [
+        {
+          "qSha256": "5d26f05af406a784e0b0c7998459857d81e718a21bde5c0ab09a1e273a241e48",
+          "q": "DiedOctober 10, 1786 (aged 70) Lleida, Catalonia",
+          "found": true
+        },
+        {
+          "qSha256": "067acf1a0940bc61dc97e8fff5c1452659011ab2c4577f32f2b1cccf033265f5",
+          "q": "Gaspar de Portolá y Rovira was born on January 1, 1716 in Os",
+          "found": true
+        },
+        {
+          "qSha256": "4b3a5b8f4f148a6a0390f776d206b253b9526ec001ede6575c6932ad842c6f9d",
+          "q": "On February 7, 1786 he was appointed King's Lieutenant for t",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Genentech",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "ec12ba02e5c6818350f913d799320b56141de76e654299e49787f802d778c091",
+      "quotes": [
+        {
+          "qSha256": "9dc5d4f1579cb47ed409927abb007a734c85184bdd2ad86b98203b1fcdf864ff",
+          "q": "The company was founded in 1976 by venture capitalist Robert",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Google",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "9cabf3f9136a026ad9fa8a0ab5b7c01cb3a59ba9beaa5af85559d3e71d934210",
+      "quotes": [
+        {
+          "qSha256": "ee4d13a51ffd0ba17abd33efcebbc74252da8416a1a196c06f5a5e04169cbd88",
+          "q": "Google was founded in 1998 by American computer scientists L",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gordon_E._Moore",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "843a75c7b166528c6ff5893abf698ec51bb515848f6efd98c51ca9faddc2065b",
+      "quotes": [
+        {
+          "qSha256": "b8e5d4c0f8a4d8d12ae39766c32791328ee703fcadb8753e4451f53c99acbc14",
+          "q": "BornGordon Earle Moore (1929-01-03)January 3, 1929 Pescadero",
+          "found": true
+        },
+        {
+          "qSha256": "b6ebbd44dab0fc798d87655e314dab423c3c0830cc3eb14d3696101e20cfad94",
+          "q": "Gordon Moore was born in 1929 as the second son of Walter Ha",
+          "found": true
+        },
+        {
+          "qSha256": "2fb27223ba8cb0d4bf1aaeae0283ee3046682d3541a5be1b5ee21f3d02f7ca46",
+          "q": "Moore died at his home in Waimea, Hawaii on March 24, 2023, ",
+          "found": true
+        },
+        {
+          "qSha256": "c351cf9081126a99ed9678ea320b09a166c9aed46fbc5be7cda820eb3b9a45fc",
+          "q": "Moore met his wife, Betty Irene Whitaker, in 1947 during a s",
+          "found": true
+        },
+        {
+          "qSha256": "cc93d2d8595d2069379cd596dea85a3f97273284f8ed89316e8d5cb8b66beac5",
+          "q": "They married in 1950, and Moore became a father to two sons:",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Gordon_French",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "6362057bc25228fcab0c37fe515c41b8ea71b1b40f35db54f41d37981c2b26e2",
+      "quotes": [
+        {
+          "qSha256": "222626ca575df1c3c44933f638b115e9ad11c479327b9089084f39c61bfa2feb",
+          "q": "Gordon French (March 7, 1935 - October 26, 2019) was an Amer",
+          "found": true
+        },
+        {
+          "qSha256": "a903a28db36ab7b63d001a8271d5d878108866b7d63f57737cfd8aa8287221fc",
+          "q": "He died on October 26, 2019, in Roseburg, Oregon.",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Herbert_Boyer",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "654908d7b377801023fe21341efda6106561fc2cfdaab1e7ab06fb047b5d75bf",
+      "quotes": [
+        {
+          "qSha256": "6b6c7a69836acf49b7262d5e203ec761119d47d9d21167c9a0fc1c4032b84b3c",
+          "q": "Born (1936-07-10) July 10, 1936 (age 90) Derry, Pennsylvania",
+          "found": true
+        },
+        {
+          "qSha256": "12c98fe60446b919253c4cb7f9d198b86c73e744929e2f8a610ee7653baf9e7f",
+          "q": "Boyer was born in 1936 in Derry, Pennsylvania.",
+          "found": true
+        },
+        {
+          "qSha256": "51cbace1a7201536c305601cd7e5d0eee00b2c909ff2d4b2af1c5749114d3136",
+          "q": "He married his wife Grace the following year.",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Herbert_Hoover",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "45fb1b7f90e21ece0620de2551d77709fa36ee85a9b36012301931321c4b7bd3",
+      "quotes": [
+        {
+          "qSha256": "eda5c5c6ea4e2b9bfc3d1f691d282470e3ec98ac32567f7ace44480a6f60b2d3",
+          "q": "During his freshman year, he switched his major from mechani",
+          "found": true
+        },
+        {
+          "qSha256": "081dcd7e512e166e7826684fcec83e20ea1fdb47e7212bfc02940c89ae5f16a3",
+          "q": "He convinced Bewick to purchase the Sons of Gwalia gold mine",
+          "found": true
+        },
+        {
+          "qSha256": "bebe5c9a08cebadfb531c830b2c6f69521e2ef5d11db57f4bcdd502743a26235",
+          "q": "His father, Jesse Hoover, was a blacksmith and farm implemen",
+          "found": true
+        },
+        {
+          "qSha256": "24a4b4c0c8cee01c7327957431831dce1b1e02da5c6aba84d2dd5a1895badc7e",
+          "q": "Hoover's elder brother Theodore also studied mining engineer",
+          "found": true
+        },
+        {
+          "qSha256": "77521e269adcb0604f81a922f916232a1bfa3665bd6302a28a8c6e3c40241be1",
+          "q": "Like most other citizens of West Branch, Jesse and Hulda wer",
+          "found": true
+        },
+        {
+          "qSha256": "2646ad1ffff8e385814eeb53d6e8af2306f189f36ebc706c1fa86da220ae3302",
+          "q": "died in 1880 at the age of 34 of a sudden heart attack.",
+          "found": true
+        },
+        {
+          "qSha256": "781d650d72c45935197e457e3d1c80cce764f72874cb6e4b863f85d38376d70d",
+          "q": "leaving Hoover, his older brother, Theodore, and his younger",
+          "found": true
+        },
+        {
+          "qSha256": "4f0b8222d0417896237dec5effb09e73eaac1c50368e9f25617682b6340f224d",
+          "q": "the historic townsite of Gwalia, Western Australia contains ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Hewlett-Packard",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "0b1193d16f1d2feb1889ca7468005c3c75450f05d48b3b3c85ac6bbfd9d34aa0",
+      "quotes": [
+        {
+          "qSha256": "fca0fd345150261c73948d775eb9c08c3e0986585818930a2c38af0860bd1e92",
+          "q": "In 1942, they built their first building at 395 Page Mill Ro",
+          "found": true
+        },
+        {
+          "qSha256": "bcc75d5de70a7945a7e1241641c17d26fde0fa947ab5f2b6ea0e2d1d688e305a",
+          "q": "It was founded by Bill Hewlett and David Packard in 1939 in ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Intel",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "37599ca7a85d2b9b683a998eb0aedb6106c5186c76d6b26e881cf8d4085b386b",
+      "quotes": [
+        {
+          "qSha256": "9757f7c70758040570e301c7df8c83eb0a5db6c367358a56f8fe09ee8b119276",
+          "q": "Intel was founded in 1968 by engineers Gordon Moore and Robe",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/James_H._Clark",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "0bbf8011aff7c02db0b899e34536081086fc63930d328c9e00ff920bfa6fb1de",
+      "quotes": [
+        {
+          "qSha256": "feb57d04ff1baa33e1716e00b4c3a30fbeabef5e7e4a37f269d21fe43dd152d2",
+          "q": "James Henry Clark (born March 23, 1944) is an American entre",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/James_W._Marshall",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "e7fe48cda66ca558204c9c33f095fc8a6e8b5e4b2a3885a70020d4c615a6eac2",
+      "quotes": [
+        {
+          "qSha256": "7af6d0d4aa6abbac71ce4c26dcaf7ceb0be516aade1e037d1a01ec73c3ddee27",
+          "q": "He was the oldest of four children, and the only male.",
+          "found": true
+        },
+        {
+          "qSha256": "dd11a255c8915108686c98d732c46359ea2d09d0fc0bd9a166a3adce4cb3cad3",
+          "q": "Marshall died in Kelsey on August 10, 1885.",
+          "found": true
+        },
+        {
+          "qSha256": "17d08560661c9582549cb54d5db96d42373aa09b84fbc07a28ed018a93442cc5",
+          "q": "was born to Philip Marshall and Sarah Wilson (married 1808) ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jane_Stanford",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "c237ebf801f641e9826751de87747c7f21b3d9aee7572b563bdc8cbe15a248fd",
+      "quotes": [
+        {
+          "qSha256": "c9bd4112e849f5997a88a1d6cc90e8ea274a23a2a51984302a2dc0756d4b3856",
+          "q": "A March 11, 1905, dispatch in The New York Times stated that",
+          "found": true
+        },
+        {
+          "qSha256": "bf0b80d08d121cafabf3cae603924ebca15ae516d46ba634e7d333e8937a74fe",
+          "q": "At the Moana Hotel on the island of Oahu on the evening of F",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jean_Hoerni",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "4a59a5fb76d4c226e6041364a534271ce98fb790bc7abd802832ee32856bd808",
+      "quotes": [
+        {
+          "qSha256": "b66d3f97771aacb723d421abb5ab36260ea51cb25ff0c3d4ca26ad509a8ee0b4",
+          "q": "He had one brother, Marc Hoerni.",
+          "found": true
+        },
+        {
+          "qSha256": "cc5fdbd289ee70c199ac02d82ae1ce56c20928ee4d607abc914f768bf3a32033",
+          "q": "He was married to Anne Marie Hoerni and had three children: ",
+          "found": true
+        },
+        {
+          "qSha256": "4d615c17f71bb9660c36b584ba3fbd2868963a92a0c861060140f9ec933f5bc6",
+          "q": "Hoerni died of myelofibrosis on January 12, 1997, in Seattle",
+          "found": true
+        },
+        {
+          "qSha256": "b50233b4d59d943e78781f4164e88d8d319eab5bc777a989b7746b5273bea013",
+          "q": "Hoerni married Jennifer Wilson in 1993.",
+          "found": true
+        },
+        {
+          "qSha256": "dfa10b7c78224e265a7061885930774a453701a82672fdd4c9c5773b390d0702",
+          "q": "Jean Amédée Hoerni was born on September 26, 1924, in Geneva",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_Augustus_Sutter_Jr.",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "6d9aff6104dfe9304c77c06498f1f727afe38abe91666355bde3253692e90c14",
+      "quotes": [
+        {
+          "qSha256": "a335935ffca02250cf278bafc00fa081635993548d085aebfb0c3fe76f53fc61",
+          "q": "The son was afterwards raised by his single mother, Anna Sut",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_Steinbeck",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "15ee58ed5d3e3a80bb3f41831f32bcc8fec9663cde3bdddaeeecd08c25c67275",
+      "quotes": [
+        {
+          "qSha256": "572e447a91e4243525ec3d8ba136ed95534d55c796851920e167a7e115f7dbba",
+          "q": "His father, John Ernst Steinbeck (1862-1935), served as Mont",
+          "found": true
+        },
+        {
+          "qSha256": "0b0fd8eb8701853dd6dcd4a4fb8c2ef7ffe8d1c04d4716eaf1f80435b17e77b4",
+          "q": "John's mother, Olive \"Ollie\" Hamilton (1867-1934), met Stein",
+          "found": true
+        },
+        {
+          "qSha256": "5546ea44b96c880da51e78a7c111d78144255779e96c2da32a10f967f4cb1501",
+          "q": "Steinbeck and his first wife, Carol Henning, married in Janu",
+          "found": true
+        },
+        {
+          "qSha256": "9869c54b177dc8a879b082d3de98c20e4003525c4186dec72718670e58077e4b",
+          "q": "Steinbeck was born on February 27, 1902, in Salinas, Califor",
+          "found": true
+        },
+        {
+          "qSha256": "35b341a0f1b9350a3c07d928764b15333c1946d14a02079ecc32c99ac0c7fb79",
+          "q": "This third marriage for Steinbeck lasted until his death in ",
+          "found": true
+        },
+        {
+          "qSha256": "fd31bdb61551b061ceba6ec104e310d4b736aa9ff84a2e6194f88f91226ad367",
+          "q": "With his second wife Steinbeck had two sons, Thomas (\"Thom\")",
+          "found": true
+        },
+        {
+          "qSha256": "f6276ccac0b4eec0b6ff40d0140a6766e95b3e6c2b974f0b05778b5341a7fc82",
+          "q": "for he had just married his third wife, Elaine Scott, the ye",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_Sutter",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "7932ddd562c46ed4e87799eb5e996b181feb8b6bc2df741b9b856856a4677f94",
+      "quotes": [
+        {
+          "qSha256": "3c50a5a7d8716ad0efb97309034aec8ccb23d6d1cf3b4185d4ff10bb96e55ca8",
+          "q": "Annette Sutter died the following January and is buried with",
+          "found": true
+        },
+        {
+          "qSha256": "5917b389be686d488b0ff9dd9dc48bdad9c699f5e1e5b2c80635d4dd7e545dc0",
+          "q": "Founder of Sutter's Fort Spouse Annette Dubeld (married",
+          "found": true
+        },
+        {
+          "qSha256": "2fe03618da85d10409524d69858f9d1db5beae263b2b9a9e3265f357520bfe5c",
+          "q": "He and wife Annette moved to Lititz, Pennsylvania in 1871.",
+          "found": true
+        },
+        {
+          "qSha256": "9d721af8bf56bd12906d9c478f8d1854c52fd41e8e07d6f9e674d0f61674d692",
+          "q": "In May 1834, he left his wife and five children behind in Bu",
+          "found": true
+        },
+        {
+          "qSha256": "4e509616be83f5a7c6f9770136a9934737947510a75ab54cf20368ef589f7fe6",
+          "q": "On June 16, 1880, Congress adjourned, once again, without ac",
+          "found": true
+        },
+        {
+          "qSha256": "c2a6fc2b5ef6ca3262e39dc727779648f23bb05e02769c939b878fc119ee372e",
+          "q": "Sutter was born on February 23, 1803, in Kandern, Baden in p",
+          "found": true
+        },
+        {
+          "qSha256": "593988e043b01fdca91408414918dd9aeff9e937f03a2fcf4ae0ce505e6a740a",
+          "q": "those of his elder son, John Augustus Sutter Jr., were more ",
+          "found": true
+        },
+        {
+          "qSha256": "92ab6856d26469374905832cf381908ef1f99837d3f485a243c5c9bee5a16f1f",
+          "q": "to Johann Jakob Sutter, a foreman at a paper mill, and Chris",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Figueroa",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "b6d0b7cb213e82676b03dfe4deaca372e223d5be3668e5352c2cb52581d9a579",
+      "quotes": [
+        {
+          "qSha256": "d6da5ce38f199ff2b144c056f1da44ae63eecee7ef4f4fb1f768ef168dbc2341",
+          "q": "Figueroa was born in 1792 at Jonacatepec, in the southeaster",
+          "found": true
+        },
+        {
+          "qSha256": "d95536533906f6512a2f2c7b1f1f084f9f85ccc3c679445c38cdedc4ed897457",
+          "q": "He died at Monterey on the afternoon of 29 September 1835, a",
+          "found": true
+        },
+        {
+          "qSha256": "2a1b8ca86d022f01dee18c1cdb9ab13b3bc591702de9eff6e5eb0d8e67171c6b",
+          "q": "He had a brother, Francisco, and a sister whose name is not ",
+          "found": true
+        },
+        {
+          "qSha256": "cba6b2d0ee9db696f5a067364795c0b074cb8363b92b9f3e1f1734b593d61dbe",
+          "q": "at age nineteen and newly married to María Francisca Gutiérr",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jun%C3%ADpero_Serra",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "8f194bd3b72bb3c00371776b66886394d5154011b3cf561cb219c85a68796bf6",
+      "quotes": [
+        {
+          "qSha256": "07b741e32fa4c4d84452464b925f5ce3a87e74d6aac2e4dcb85e22bde3f5e981",
+          "q": "His father Antonio Nadal Serra and mother Margarita Rosa Fer",
+          "found": true
+        },
+        {
+          "qSha256": "8f07850de24c67adef16f4c043893331c60efc832c3314934514c16b24f2143a",
+          "q": "In one of his final visits to Petra, Serra found his younger",
+          "found": true
+        },
+        {
+          "qSha256": "b62d9caf61d36793a69549dcc95bb659ae9d6bc9a11b807a605be8da3146d3c2",
+          "q": "Serra sometimes went home from Palma for brief visits to his",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Kleiner_Perkins",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "4b91e359e93f4d1ac0a5a11f609b9330b04ec84d36d17ba98351d8afff9bf491",
+      "quotes": [
+        {
+          "qSha256": "47e2dcbc9df316ffd2d517cf16e1a2b0145035bcf2d2988ab202bbff38233fea",
+          "q": "The firm is named after its four founding partners: Eugene K",
+          "found": true
+        },
+        {
+          "qSha256": "e886d15e1a3137af5d427b58e92405a184089c0e98ae7013677f082c5558bd91",
+          "q": "The firm was formed in 1972 as Kleiner Perkins.",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Klystron",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "2c94ad5cf6f46743f46b345e5cb8b2e90ba83804c4c966f341be888b6a5dd881",
+      "quotes": [
+        {
+          "qSha256": "d46fc33a4e45ea9f773d045a1c05db984215e7d6dc0241900a7fe731178b2346",
+          "q": "Their prototype was completed and demonstrated successfully ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Leland_Stanford",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "eba74769942fc3a5c75b50f5bcba8d34369710c617252505be8aa0f2c05a7fd6",
+      "quotes": [
+        {
+          "qSha256": "73e14edf9997e4cb1186996a4adc9db6e56721be9b24510419c8e01934f39387",
+          "q": "Leland Stanford was born on March 9, 1824, in what was then ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lewis_Terman",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "e34b3a963c63bedb6adb68f78f671b6c63060c753e4c1f12be1fa7c3344156d1",
+      "quotes": [
+        {
+          "qSha256": "5c9cd979eb7622b2fdee1b31d047e515926eac33c54c3309290904d8aa0ef561",
+          "q": "DiedDecember 21, 1956(1956-12-21) (aged 79) Palo Alto, Calif",
+          "found": true
+        },
+        {
+          "qSha256": "b61011b50bb1ddc1afd8a3087ade71695f5c554cd6f9bb7bcdec0687b88f20e6",
+          "q": "Terman published the Stanford Revision of the Binet-Simon In",
+          "found": true
+        },
+        {
+          "qSha256": "b09f33ecfa042558e82fbf5bd9fede790d9455905489c580c08421960db2e9bb",
+          "q": "Terman was born in Johnson County, Indiana, the son of Marth",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Lou_Henry_Hoover",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "eb934f4ce02e6c3b4047c0e505e96684942b3fe20397cb70fc571ee802c6ebd3",
+      "quotes": [
+        {
+          "qSha256": "f8b9a2932161a5214f7c27a3fb526c5ab4eced4dd9d4b7b2081f53d2ed589b30",
+          "q": "Her mother was Florence Ida (née Weed), a former schoolteach",
+          "found": true
+        },
+        {
+          "qSha256": "ad9d99e45d795dd8443e12c7c0474edea4eec255bbbc90a5983e36432aa1a713",
+          "q": "It was there that Branner introduced her to her future husba",
+          "found": true
+        },
+        {
+          "qSha256": "51ff073aa39256c189d86a6221db04ba026c82b2ade5549cfacd9b2e9fbd5d74",
+          "q": "She was the older of two daughters, raised in Waterloo befor",
+          "found": true
+        },
+        {
+          "qSha256": "b345ed7ae740e8287fb948ba5376c1aa10f1925d623bafb128cee1993f76cba8",
+          "q": "The Hoovers had two sons who accompanied them as they travel",
+          "found": true
+        },
+        {
+          "qSha256": "0eabbb248e7dc8cf9aaa0a5c14d5413841901950fb35e8863bcca88e3561f0f9",
+          "q": "They returned to China once more with Lou's sister Jean for ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Marc_Tessier-Lavigne",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "3bd24d9a8325ac0982d6b7b1a231f8f00a5455f10ac428d2b136b5828158a8d7",
+      "quotes": [
+        {
+          "qSha256": "32c937a3c357155a8cb6baa0c36b0edff2fec9ab3ff91108d08fbe9e6a78a8ae",
+          "q": "Marc Trevor Tessier-Lavigne (born December 18, 1959) is a Ca",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Mark_Hopkins_(railroad_executive)",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "cc312e8d357e2f642c173b5fe3d87d401eaad44f5f50584574bf4851f93c3cd9",
+      "quotes": [
+        {
+          "qSha256": "b15fe8d94580fe5fec1f25e89992f88d8960a5b820b9cf8b6633a885a9bd923d",
+          "q": "His father, Mark Hopkins (1779-1828), served as Postmaster, ",
+          "found": true
+        },
+        {
+          "qSha256": "06d1bdcdf6ebea26746499a287d59b438f31c542a0319c361c1c3bd71a775451",
+          "q": "Hopkins was born in Henderson, Jefferson County, New York to",
+          "found": true
+        },
+        {
+          "qSha256": "ef8884497c1e9c0ce8b4f197d6e2f623f257bb979c6c9599af212d0a3e205844",
+          "q": "Mark Hopkins Jr. (September 3, 1813 - March 29, 1878) was an",
+          "found": true
+        },
+        {
+          "qSha256": "f111ab156e3bc866916457e101811866a9fb2267aae0ed6929a8e1c9d57ba747",
+          "q": "On September 22, 1854, in New York City, Hopkins married his",
+          "found": true
+        },
+        {
+          "qSha256": "7bde06033fdc92936ba310d0c95d5bac0b4d95c62ec14b0c698b146736d3dd7e",
+          "q": "in 1878 died aboard a company train near Yuma, Arizona.",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Millard_Fillmore",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "5c50ae85b840e6396db4dd15707f53a23a9a1c116dd8ecade8c0bea9bd646670",
+      "quotes": [
+        {
+          "qSha256": "38ae9a2297a9e8f9360385aca8f81dc2376a627ce4acf38d7d310bc5ce4c922b",
+          "q": "His parents were Phoebe Millard and Nathaniel Fillmore",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Moana_Surfrider",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "b0cfc69dfb3844c1260200b4acf718b1aa26dce734f6f976d977830b5915b317",
+      "quotes": [
+        {
+          "qSha256": "980deaf60eec9b51926b6b0fb0a315e41ee8f244cbf3ddc19169ffbd64fa3dd0",
+          "q": "The Moana Hotel is a historic hotel building in Honolulu, Ha",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Nike,_Inc.",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "4725c1a16ca2c0a484463534d7cf23a7ccffc08c7f2eae240514547373403574",
+      "quotes": [
+        {
+          "qSha256": "def799024d212fdce90f4b26cd343ae3e5923f6435b66ce16c2aef75b14f5d1a",
+          "q": "Nike, originally known as Blue Ribbon Sports (BRS), was foun",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Peter_Thiel",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "15ec69e9daa65f340398d9ba4821d4833b35abc07df89a59c15dd3f1b290b116",
+      "quotes": [
+        {
+          "qSha256": "d2f270cecc52a7f93f71e643f0be89d947c4676295ec58fe6516daeec1ca062c",
+          "q": "Peter Andreas Thiel was born in Frankfurt am Main, Hesse on ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Promontory_Summit",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "fab571c8a7c5b690da2c9380a0337a706e365bcbf31b5d901f6a7b57a6bc7b38",
+      "quotes": [
+        {
+          "qSha256": "bfee6ff9d956157f9ceca26798ddc5d4dba4e4bded9f2e03c2d6dffe5a8680b2",
+          "q": "Stanford missed the Spike, hitting the wooden tie instead; h",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Robert_A._Swanson",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "3be621a3c126f7500197a5bb15796a30d9407185578bfbc3c2dc9edb4788ffe9",
+      "quotes": [
+        {
+          "qSha256": "e294a0e57a487cbd440b465f21eefe4d1c153611d323005f278cc8159e2f07d9",
+          "q": "Kleiner & Perkins had decided that they would rather work al",
+          "found": true
+        },
+        {
+          "qSha256": "4af291938a620da8c79da4c3322da970092cdef2d3f86370975a03a6764bbf5e",
+          "q": "Known forGenentech, Biotechnology, Venture Capital SpouseJud",
+          "found": true
+        },
+        {
+          "qSha256": "a0d792a022479f7daf9f7b1e8e361677133ccf9126a3e838319093fe1652e416",
+          "q": "On December 6, 1999, he succumbed to glioblastoma, a type of",
+          "found": true
+        },
+        {
+          "qSha256": "68bafbf143a8b1a18b48459551f7724cc5941dcf5efe99b0d918bac885f9cffb",
+          "q": "Swanson was born in Brooklyn, New York, in 1947 to Arthur J.",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Robert_Noyce",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "26653cdc5092e9d4bc9cbf63aba2f63f0a67549fbb7063a149a0e30f405f7c36",
+      "quotes": [
+        {
+          "qSha256": "5ac4fdd6c7be685b7ca2632a0601127977abc67f505dc2f97f0545222c6ef9c5",
+          "q": "In 1953, Noyce married Elizabeth Bottomley, who was a 1951 g",
+          "found": true
+        },
+        {
+          "qSha256": "afd57371532f930cdc887fa28d4363841ca592f9b03802cee109bc428a6dcc0b",
+          "q": "Noyce had three siblings: Donald Sterling Noyce, Gaylord Bre",
+          "found": true
+        },
+        {
+          "qSha256": "a5e7568c61cdaadd929dfc40ef62acc4beba94c9c0bf41b9252b8ee825b81999",
+          "q": "Noyce suffered a heart attack at age 62 at home on June 3, 1",
+          "found": true
+        },
+        {
+          "qSha256": "4e1bdc143f77f11f038232aa8fe63c5160a1055c25f538d17c9aec71422be89f",
+          "q": "On November 27, 1974, Noyce married Ann Schmeltz Bowers.",
+          "found": true
+        },
+        {
+          "qSha256": "0d61771d3989067f9c648378938e61830ee3f916e22768c13c2b70b2cac9c3f5",
+          "q": "Robert Norton Noyce was born on December 12, 1927, in Burlin",
+          "found": true
+        },
+        {
+          "qSha256": "d70afe835caaf4745fd7dd611351112bd4abf1e14220406d8113c99e19884bf6",
+          "q": "They divorced in 1974.",
+          "found": true
+        },
+        {
+          "qSha256": "0e47bc7af671a230cc1e18b4bdffe6ec4abf3f4a28942e7cd78afc9cdef86497",
+          "q": "While living in Los Altos, California, they had four childre",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Russell_and_Sigurd_Varian",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "6ea4d4102bb543b5ee219ef0c7aa9f2b8a077cdc75ab3d46fc236b27945b7b80",
+      "quotes": [
+        {
+          "qSha256": "5bdcf2b7bcbd264d22426b4ed34ef955e2ea64dd5a105d5ffb38de53292f2d0e",
+          "q": "BornRussell Harrison Varian (1898-04-24)April 24, 1898 Washi",
+          "found": true
+        },
+        {
+          "qSha256": "04c6805b7e01c8c6b556fab2448334c064f1b9b2e92fdf74526a0c772101a70f",
+          "q": "BornSigurd Fergus Varian (1901-05-04)May 4, 1901 Syracuse, N",
+          "found": true
+        },
+        {
+          "qSha256": "2814225602005afece330e58b61de6fad9d6c57acbc1a2be440b1b1eac60162e",
+          "q": "Dorothy died on July 9, 1992.",
+          "found": true
+        },
+        {
+          "qSha256": "df0b54c2c82f1df546427dbc06d33d4207d239e82de80ef9d3f26fa81a761ed0",
+          "q": "Dorothy, born in 1907, attended UC Berkeley in 1924-28, work",
+          "found": true
+        },
+        {
+          "qSha256": "dabfbaf46f9f1715d492ebd6ed810f0bf82ecb11041b5f3c47d0ad7b9485a37d",
+          "q": "From his first marriage, he had a son, George Russell Varian",
+          "found": true
+        },
+        {
+          "qSha256": "957fe2afc1b1570bc61d0dbdde032e72beda7101fee94926beadedfcddb11473",
+          "q": "John and Agnes had three sons, Russell, Sigurd and Eric.",
+          "found": true
+        },
+        {
+          "qSha256": "8e85b33af9ee426971ea780cc72a655eab8eb6818c3c03ebced232d3822c111d",
+          "q": "On October 18, 1961, Sigurd crashed his private plane into t",
+          "found": true
+        },
+        {
+          "qSha256": "89a4494f998bd560cd0ecf17d27f71201c3335e0158621ca59d5d035db6c8e0d",
+          "q": "ParentJohn Osborne Varian (father) Agnes Varian (mother) Rel",
+          "found": true
+        },
+        {
+          "qSha256": "7a734a96c0ab767c079151f745a1261c7bb239bb510316c32c253071e472f117",
+          "q": "Russell and Sigurd's brother, Eric Varian, remained in the H",
+          "found": true
+        },
+        {
+          "qSha256": "4597f32399e1e72a619aa5eec48ef9799b289659e05cbb5b7b3b24b202eaaf44",
+          "q": "Russell died of a heart condition in 1959 on a hiking trip i",
+          "found": true
+        },
+        {
+          "qSha256": "c0f422b72659ad5dfe434a156ea7d94165288bb28baf784a97f5d445d941be32",
+          "q": "Russell's second marriage, in 1947, was to Dorothy Hill.",
+          "found": true
+        },
+        {
+          "qSha256": "72ade45e380aca95601b0f424ddb097a7977481f9282024918b8c76d91c06f57",
+          "q": "She wrote a biography of Russell and Sigurd, titled The Inve",
+          "found": true
+        },
+        {
+          "qSha256": "2591a96326b5264357b1a5fafc2943fc33cf74bb17fed580465f8ba0333e75af",
+          "q": "Sigurd met and married his wife, Winifred, in Mexico.",
+          "found": true
+        },
+        {
+          "qSha256": "b722106a6c6066d06f5a06cef85d496b79eb209745a3f4dbec04be2d4aba88db",
+          "q": "SpouseWinifred H. Varian Children2 ParentJohn Osborne Varian",
+          "found": true
+        },
+        {
+          "qSha256": "7d942327e8528dce6b71188ea1000e8098621b971298b9aaac4661fdfd81b5ce",
+          "q": "They had two children: John O. (\"Jack\") and Lorna.",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sequoia_Capital",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "1e914fb55482d46c3ee176cc0596c9aa136f97ff04edb0d0b7dc7fe56cf77d12",
+      "quotes": [
+        {
+          "qSha256": "27658086a3876c672fac5c1745fdde248d47ec618426d4caf75c42d26fe57ef1",
+          "q": "Sequoia was founded by Don Valentine in 1972 in Menlo Park, ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Sergey_Brin",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "7762a7192cb0a3474801aaee2f87daf535b8e3d1832f2a7f7f56fcadde8f1b74",
+      "quotes": [
+        {
+          "qSha256": "2477214a91a7531a38b5d37d881ba83cdcafd87607e59189ad866852da39f660",
+          "q": "Both of his parents, Mikhail and Eugenia \"Genia\" Brin, gradu",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Shockley_Semiconductor_Laboratory",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "2dfef5d09b137996d70475aff360d9bab01f48223ada749474b1a2ba628cad6e",
+      "quotes": [
+        {
+          "qSha256": "b40c9af443c0b50304a5ff9210ebe553762e02fcaf66018f41014893b383f4c7",
+          "q": "Eventually a group of the youngest employees - Julius Blank,",
+          "found": true
+        },
+        {
+          "qSha256": "4e77cfc377009399a8b48f7e772ca68f49a8fdd51d65d747f280e660a3e84ff5",
+          "q": "Shockley Semiconductor Laboratory, later known as Shockley T",
+          "found": true
+        },
+        {
+          "qSha256": "6db3837ec4cdae8034dd2af1bd3371e414d3c6e81a612dbd00769b4cceccc836",
+          "q": "Shockley Semiconductor Laboratory, later known as Shockley T",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/SRI_International",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "c5b1f4286799d3d4bb1ee05fb5779718e4f442849ae8fcb86b6534ecfe770fce",
+      "quotes": [
+        {
+          "qSha256": "d59f61be66ef9a5fc6b657bc4a5486d29fe03bdb75ef4cb7fb3c06bb5e978284",
+          "q": "Douglas Engelbart's laboratory at SRI",
+          "found": true
+        },
+        {
+          "qSha256": "fa3d9df61daef46cd70fff0ec7d660967b0fecc28ffc44b5052e4c447aad8504",
+          "q": "It was established in 1946 by trustees of Stanford Universit",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Stanford_Research_Park",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "f513be3dd8b3e56693cf244a303d6bb6ce51ebff6b191911fe7f75ff87d1ae51",
+      "quotes": [
+        {
+          "qSha256": "6405a20154dbb70379cd4ecb348c170a96440f604e827531eac0a803b2ebc216",
+          "q": "By 1956, Hewlett-Packard established its world headquarters ",
+          "found": true
+        },
+        {
+          "qSha256": "d8b6fc51e64ec24251baad9429d55b4d306b7b49f40365092f15adeb468bf5c4",
+          "q": "In 1951, the initiative was authorized and 209 acres were al",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Stanford_University",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "167d38a82fff7bcff9760e16038fd1de218f53fdbc6bdd11102863243f5b5571",
+      "quotes": [
+        {
+          "qSha256": "b7619367009b4752e27d9b5103f1784ed555691f3e59c2a356d93b4af0330c06",
+          "q": "Co-founders of Hewlett-Packard, Bill Hewlett (BS 1934) and D",
+          "found": true
+        },
+        {
+          "qSha256": "592f89cacf533af42f700e8957f79ca59fa785e8388ebd3df0fa6c62abf748ed",
+          "q": "Google began in January 1996 as a research project by Larry ",
+          "found": true
+        },
+        {
+          "qSha256": "dfae08804e2d29b0c5362f3714f671a68344b2f08e08ef701ffb21126ed91fd5",
+          "q": "In the 1940s and 1950s, Frederick Terman, an engineering pro",
+          "found": true
+        },
+        {
+          "qSha256": "df14ab4fc1b6a8e1e951131729ab509b6e42aa8f401883ee968f8e1fbda74394",
+          "q": "Marc Tessier-Lavigne (2016-2023)",
+          "found": true
+        },
+        {
+          "qSha256": "e30e06e8d1e2f4519426f097d897fc7400acd7a2a823bee66656ff064e835fc3",
+          "q": "Phil Knight (MBA 1962), founder of Nike Inc.",
+          "found": true
+        },
+        {
+          "qSha256": "d0c8e711ca005aee181a4a80c97cde34fbee6125c3ae2aa3cf3d1fd0b811dedb",
+          "q": "Stanford University was founded in 1885 by Leland and Jane S",
+          "found": true
+        },
+        {
+          "qSha256": "2658a3137c5ff08e56124fcd364114fec7e3f742d610f7b5492ee354ab3b8e35",
+          "q": "The Stanford Graduate School of Business was founded in 1925",
+          "found": true
+        },
+        {
+          "qSha256": "f96a7f571ba0ddd150e383897b01c47d112036729880e3156e7b27a740ad6108",
+          "q": "but Jane Stanford insisted the university remain in operatio",
+          "found": true
+        },
+        {
+          "qSha256": "87ce9fa6d9c55c44e1852d924d66c0c66fa2fb0c2baa9cd1978d381739bc556a",
+          "q": "including its first president, David Starr Jordan, and its s",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Theodore_Judah",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "7008f9d54323f01f78fd670031d6635f713fedc93bcaa29d5e8e15c48ce5da9d",
+      "quotes": [
+        {
+          "qSha256": "6ae63d33cd198ca3522c02faad590e2a085e89fe21872d3d0f68af5b78c9a2a0",
+          "q": "(1863-11-02) (aged 37) New York City, U.S.",
+          "found": true
+        },
+        {
+          "qSha256": "1f3199effdb2c4c751c1ffbe9f05799ded6b368268a310c65dc6c13173b64b33",
+          "q": "At age 23, Judah married Anna Pierce on May 10, 1849.",
+          "found": true
+        },
+        {
+          "qSha256": "8eb1d98564c1e087f09434f762dc7f95e8179f22dd8af20970f3b592b4e0949a",
+          "q": "Judah died of yellow fever on November 2, 1863. He contracte",
+          "found": true
+        },
+        {
+          "qSha256": "f53ab050e058c95d4e94af285fc92d47422320e076204f91236bf47e498619fa",
+          "q": "Theodore Dehone Judah (March 4, 1826 - November 2, 1863) was",
+          "found": true
+        },
+        {
+          "qSha256": "61cee970a923dedabfbf3d4b85086cca5b98a73f216c7d72a7c8f670da5e133a",
+          "q": "Theodore Judah was born in 1826 (perhaps 1825) in Bridgeport",
+          "found": true
+        },
+        {
+          "qSha256": "e60507bf05a4871c91bb774c20dec7ec702d490694acc484d575a4468a8974e0",
+          "q": "the son of Mary (Reece) and Henry Raymond Judah, an Episcopa",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Thomas_J._Perkins",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "d1d4ea8b5a1cf2be758dda3e5d719953f0474fd23ea488e79ba8b54f0956bb5d",
+      "quotes": [
+        {
+          "qSha256": "6557aeb72d436a6ebb478f5d104486b1544576b8ed2ff9e68f776a8be910ae6a",
+          "q": "After she died in 1994, he married romance novelist Danielle",
+          "found": true
+        },
+        {
+          "qSha256": "e01613195d4afaaabead84427f6853984ab69f28b9ff539ba0d2d0733b59fdb4",
+          "q": "BornThomas James Perkins (1932-01-07)January 7, 1932 White P",
+          "found": true
+        },
+        {
+          "qSha256": "e083ef0f4825af49c9383d8a678eca4335438c7489587f4b73f0c7f7d6d878a4",
+          "q": "He had two children, with his first wife, the late Gerd Thun",
+          "found": true
+        },
+        {
+          "qSha256": "b97cb64b233eb18e953cbbd5f0399e13f53f12857dfb58f5bd5926fb5580ab38",
+          "q": "Perkins died June 7, 2016, after a prolonged illness at his ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Thomas_Welton_Stanford",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "5fed8cbf7fd4975f4962d6196f0e64540cd8db446278c94893fc8d4d499cc291",
+      "quotes": [
+        {
+          "qSha256": "713e96fbcbdd848ce35d6be1300c867d580cc2d5c3a76257d394f9cd9cb8d921",
+          "q": "Thomas Welton Stanford Born1832 Albany, New York, US Died28 ",
+          "found": true
+        },
+        {
+          "qSha256": "dc3c8bbbc2054e09a7f821c61f9236e3c65e2787934ea2582495d549fd70f4d0",
+          "q": "which was founded by his older brother Leland Stanford.",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Traitorous_eight",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "b61c14fa3291b31f12868021306950f3548bcd5249a562f662dcf68a136d3b28",
+      "quotes": [
+        {
+          "qSha256": "fa1dec36e343940678161bf78d1a0a1075136199eca4ef495d7dbf78adf89e7e",
+          "q": "In August 1957, they reached an agreement with Sherman Fairc",
+          "found": true
+        },
+        {
+          "qSha256": "afb58125f2a1024f2846eec68a52f802d5a52a9487e279ebbd188740b1e17302",
+          "q": "The eight who left Shockley Semiconductor were Julius Blank,",
+          "found": true
+        },
+        {
+          "qSha256": "214209866ec6a92b395b2442995f4ec37a8b830c3ed12a1d66f359ebda62ad48",
+          "q": "The eight who left Shockley Semiconductor were Julius Blank,",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Vannevar_Bush",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "5b5996801612e33576777e55de801b729c1fa5f0f33a9ad2b4c9c010053b3771",
+      "quotes": [
+        {
+          "qSha256": "821dd8d5c0d4feb95e4d6e284d7766fcd67e227b92ac53c19c3f27e0b0892233",
+          "q": "Bush died in Belmont, Massachusetts, at the age of 84 from p",
+          "found": true
+        },
+        {
+          "qSha256": "6b2fe6bc2cac68b920a4c24f98093ee97d6beb1abbeb011ad48992455132aa01",
+          "q": "He had two older sisters, Edith and Reba.",
+          "found": true
+        },
+        {
+          "qSha256": "b90451a58718d99de5ee334126702321cc3f4013a2403027cbc89d13b4d5e24c",
+          "q": "He married Davis in August 1916. They had two sons: Richard ",
+          "found": true
+        },
+        {
+          "qSha256": "d6d03f14e8627c7486cdebf195abb184fdf7ff18ee4ca1db24124b228109fc7d",
+          "q": "He was survived by his sons Richard (a surgeon) and John (pr",
+          "found": true
+        },
+        {
+          "qSha256": "affbfa8dfbe3c110c95df2bffa4fa2a4a86eca5159878ccac5235e3ef21e2da0",
+          "q": "He was the third child and only son of Richard Perry Bush, t",
+          "found": true
+        },
+        {
+          "qSha256": "573c3b2d2b884f9ab1f5200b861cd760f6b4a566a669b6a95d34b6b7cfccfe15",
+          "q": "Vannevar Bush was born in Everett, Massachusetts, on March 1",
+          "found": true
+        },
+        {
+          "qSha256": "941ca366dfcfa6a53313759999d7290e2d02c67454ed8a47d3188bbdafd0820f",
+          "q": "dated Phoebe Clara Davis, who also came from Chelsea.",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Varian_Associates",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "f926243de504355c66c9abc66eacfc409073a86e2da12a730f9ea7632289acc4",
+      "quotes": [
+        {
+          "qSha256": "cebd40135ca9ed4942ad582d4c2b53b2c09015244697f392a9b0631ee771c696",
+          "q": "Francis Farquhar, an accountant and friend of Russell's from",
+          "found": true
+        },
+        {
+          "qSha256": "d48fdad9dff0ddfb658f020c5ff77ce20281fa01494022e9143f23b164f8a1fa",
+          "q": "It was founded in 1948 by Russell H. and Sigurd F. Varian, W",
+          "found": true
+        },
+        {
+          "qSha256": "4bfcc2c85d6089136b8a958bff469f3232f8ffcad049daece145920e9aad03ae",
+          "q": "On April 20, 1948, the Articles of Incorporation were filed,",
+          "found": true
+        },
+        {
+          "qSha256": "a8ad0f862819657c5051ac1b59dadbffb3170b82213851609eb1cd7e271ebb18",
+          "q": "as did Frederick Terman, dean of engineering at Stanford, an",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/William_Shockley",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "e3c2c68438decb0acd5844e9044089ca3c08b695e841b8b8aff206da5d4e8c2f",
+      "quotes": [
+        {
+          "qSha256": "54b1d205281957c2d2eb3f58fcbea47c4b79eed71846bf8684c02da0d08a1fd4",
+          "q": "He married Emily Lanning, a psychiatric nurse, in 1955; she ",
+          "found": true
+        },
+        {
+          "qSha256": "f8540947368da26cede952ba212243ed0ad6d0c35f6253bf199844e308d8e53d",
+          "q": "His father, William Hillman Shockley, was a mining engineer ",
+          "found": true
+        },
+        {
+          "qSha256": "c1d33864e090dd5217ae53541328114425c5aca534928185670741ee8b17074a",
+          "q": "His mother, May Bradford Shockley, grew up in the American W",
+          "found": true
+        },
+        {
+          "qSha256": "dc76e46d966c5955bc18e928c12f159af34089e26be8ac4734c9630b920ca9b8",
+          "q": "In May 1942, he took leave from Bell Labs to become a resear",
+          "found": true
+        },
+        {
+          "qSha256": "c22ba3d262b899c3e1206ea482a6fac410389d0c925a322f9c94565e11086aa9",
+          "q": "Shockley died of prostate cancer on August 12, 1989, in Stan",
+          "found": true
+        },
+        {
+          "qSha256": "465ceabeb3630fe632ca85b9ff0bef3bdc9baa14bf74b9ef12c660a8ef83104c",
+          "q": "married Jean Bailey in August 1933. The couple had two sons ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Arthur,_Chester_Alan",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "a60b32f8115ca62ecf75134f1ed95d1ba7463185d16783facd3594f9a2822bf8",
+      "quotes": [
+        {
+          "qSha256": "35cb0833d48ac17b29bd05f46f966931b9024c6dd2e5f0640547842ce145f9dd",
+          "q": "His father, William Arthur (1796-1875), when eighteen years ",
+          "found": true
+        },
+        {
+          "qSha256": "2f785f6431bed4717f6ba7d687236bd8f7b191deffd7ca423e13867eb8ab2d5f",
+          "q": "William Arthur had married Malvina Stone, an American girl w",
+          "found": true
+        },
+        {
+          "qSha256": "846a50ac4a5d3bcbe6a8e6884a0f9b8ef55b8a4381dde5236a6b615d840b31a9",
+          "q": "he resumed his residence in New York city, where he died on ",
+          "found": true
+        },
+        {
+          "qSha256": "3f630590a3676dcd8ee7668cbb2fd9e2bbd10b0353a919e770ec4d1675d1648d",
+          "q": "was born in Fairfield, Vermont, on the 5th of October 1830.",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Davis,_Jefferson",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "b83eedb111ad8ec0636c2e27cd94a2a2014c546b2a800b12858cdf8fdfcc176d",
+      "quotes": [
+        {
+          "qSha256": "e1b80d4e91a6aa3a25e8f9e337ad01b623d8e76e8629ecab7daef00cc5cfbcfa",
+          "q": "He died on the 6th of December 1889, at New Orleans",
+          "found": true
+        },
+        {
+          "qSha256": "cfa16b67e1119e6f35071a308d25ab4894dfad2081063e63ba5175f67fff2125",
+          "q": "His father, Samuel Davis (1756-1824), who served in the War ",
+          "found": true
+        },
+        {
+          "qSha256": "2261eaac76f1b30d166ac00feb5c793766fbd63895736bac6a8d990161bdcbae",
+          "q": "In June 1835 he resigned from the army, married Miss Knox Ta",
+          "found": true
+        },
+        {
+          "qSha256": "905ffe47281496ba1fb23ecdb34cbf586bdcf1e2a5c567e405a49cc77185a333",
+          "q": "In September of the same year, while visiting in Louisiana t",
+          "found": true
+        },
+        {
+          "qSha256": "cd5c6a5caa88eb09b73410acd9f2b6e6febdcd7698cb887c81e3717d9d2f090a",
+          "q": "in February 1845 he married Miss Varina Howell (1826-1906) o",
+          "found": true
+        },
+        {
+          "qSha256": "b88fdff5670e8f6e88622734b8995cefe8501b0b1614c419693fe8d2f6588022",
+          "q": "married Miss Knox Taylor, daughter of Colonel (later General",
+          "found": true
+        },
+        {
+          "qSha256": "432a193d951bc7f547bee078ec057a8381d5641cc843f592998b4d346415911b",
+          "q": "was born on the 3rd of June 1808 at what is now the village ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Fillmore,_Millard",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "755aacb3b4865a53fe1cefbc146f23bfbe156934f3863e1026ad8c6d921c23c6",
+      "quotes": [
+        {
+          "qSha256": "a0b69de1b7e380a3c1816afaab6cce0aea23e6d4cc615b76245e10ac9d26cf8a",
+          "q": "Fillmore was twice married: in 1826 to Abigail Powers (who d",
+          "found": true
+        },
+        {
+          "qSha256": "bbf517bd44464cb2feabedbd03d8284bf28f727e96b196d9ee2fddaf38b3900b",
+          "q": "He died at Buffalo on the 8th of March 1874.",
+          "found": true
+        },
+        {
+          "qSha256": "6c3728392664a52cb9d492da4813da46dd93c1cd22e8b8b52413d8325cc3cc5f",
+          "q": "His father, Nathaniel, in 1795, made a clearing within the l",
+          "found": true
+        },
+        {
+          "qSha256": "28ab394d2b0cae1443abe900576fab75d913c0e7b7ed8028d16d8432736976fd",
+          "q": "His father, Nathaniel, in 1795, made a clearing within the l",
+          "found": true
+        },
+        {
+          "qSha256": "9276f79adfe99806b312231b7daf435f39c80329066e27e878d4d4221f437ecc",
+          "q": "and in 1858 to Mrs. Caroline C. McIntosh.",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Gadsden,_James",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "46f901be9b11281d4422d3a0427cd65ffe71dbea1f9bb02b40f7d5b8fa8c0c63",
+      "quotes": [
+        {
+          "qSha256": "fa38a02024fd4775d0c303eff6c4b58ed0a237e623899c7c7e2d23e44bcc3dad",
+          "q": "An elder brother, Christopher Edwards Gadsden (1785-1852), w",
+          "found": true
+        },
+        {
+          "qSha256": "9fb9dbb62e6d5844a9107f062f80089ed80702450c1099ebcdc864e02f8096ab",
+          "q": "Gadsden died at Charleston, South Carolina, on the 25th of D",
+          "found": true
+        },
+        {
+          "qSha256": "e1a6dddac634494cde66d4f398d4b55c0868b2936f49ad5a79bb7917ff13ccd6",
+          "q": "was born at Charleston, S.C., on the 15th of May 1788, the g",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Lincoln,_Abraham",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "c785c4042d426e20ec50fa24baba0980c7ce5e1eb8d2d87b662492039ecec0a0",
+      "quotes": [
+        {
+          "qSha256": "daad444f0569e05a7e93eb5e241218a3a65448fe52760c211db9d1581d9e435d",
+          "q": "His father, Thomas (1778-1851), was born in Rockingham (then",
+          "found": true
+        },
+        {
+          "qSha256": "dc42b2ad52b8b705333ee80fac553a24e143e36821989c77473d7a751d351e95",
+          "q": "Lincoln married in Springfield on the 4th of November 1842, ",
+          "found": true
+        },
+        {
+          "qSha256": "23c8720a66437347c740622744d8377b5ae81e5ce76efbdc98fba3a2e2415ce3",
+          "q": "The wounded president was borne to a house across the street",
+          "found": true
+        },
+        {
+          "qSha256": "3aa8ca059b6555271969d706b077d963eead3f90d38b8ec21b280ee942b79895",
+          "q": "There Abraham's mother died on the 5th of October 1818.",
+          "found": true
+        },
+        {
+          "qSha256": "1ba2a30c06d4a77940fb6f615409e7f868a9c5d6e88fd0524878b56346e87fe3",
+          "q": "marriage, in Washington county, Kentucky, on the 12th of Jun",
+          "found": true
+        },
+        {
+          "qSha256": "442b35d729262362e46c1d44b9dbe2f6cb51faf54352d873adf63de91ef1a96a",
+          "q": "was born on \"Rock Spring\" farm, 3 m. from Hodgenville, in Ha",
+          "found": true
+        },
+        {
+          "qSha256": "911b4fd8f50527d5914caf4af27d01cc79a5b70565b3326604dfea84604800d9",
+          "q": "who bore him four sons, of whom the only one to grow up was ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikisource.org/wiki/Appletons%27_Cyclop%C3%A6dia_of_American_Biography/Marshall,_James_Wilson",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "7691e01706bf56a1a4f59c53099f29783397d6b0eda40796f92782a246ad03d8",
+      "quotes": [
+        {
+          "qSha256": "d9879aeae8d5c743f65e7457a05b9092afb27fbd069c7791c3afa79e7b0ec5ea",
+          "q": "MARSHALL, James Wilson, discoverer of gold in California, b.",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikisource.org/wiki/Appletons%27_Cyclop%C3%A6dia_of_American_Biography/Stanford,_Leland",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "5cacfe184792a27bbc722988dc7ef0ef412f00d57299df3f3cf5cd25f566cb46",
+      "quotes": [
+        {
+          "qSha256": "974f3616a478bd8ecede769667012f9d125fc8aa0962c1652c60196df6bcf478",
+          "q": "STANFORD, Leland, senator, b. in Watervliet, Albany co., N. ",
+          "found": true
+        },
+        {
+          "qSha256": "96b4e1d6b175838ca2386aa5f47e8a2ceceb915ed6c056974e45ef5738fbb2f9",
+          "q": "The same year he was elected governor of California, and ser",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikisource.org/wiki/Appletons%27_Cyclop%C3%A6dia_of_American_Biography/Sutter,_John_Augustus",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "d4ef413f8215ecb966404ec75953161a2aaf5a4b69adefa8f26c6a75ae3d5980",
+      "quotes": [
+        {
+          "qSha256": "4c9497c0557d0fba714d5097c4133b117f929e1e34def27012c5b5b900d20daf",
+          "q": "SUTTER, John Augustus, pioneer, b. in Kandern, Baden, 15 Feb",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Jun%C3%ADpero_Serra",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "7733bb0262afefb6f24510a5ca24a33a5d67bab97a733e254242bc753d14f650",
+      "quotes": [
+        {
+          "qSha256": "7e10df520400c23bca1a3e0e5992b176e88c9c44da77b1b024ecda8dce62ca3b",
+          "q": "Born at Petra, Island of Majorca, 24 November, 1713; died at",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://encyclopediaofarkansas.net/entries/john-casper-branner-1597/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "d66e2e35e9a10d2c0ed0fd07f81510aa7c63606f864fe3a0bac9b0beced14363",
+      "quotes": [
+        {
+          "qSha256": "a63dc5a87783c578cc18b00a86787acf1476f25a5ec1f58c510575d99e0c880f",
+          "q": "Branner died in Palo Alto, California, on March 1, 1922.",
+          "found": true
+        },
+        {
+          "qSha256": "0a034690fd8eceeeab0da662fa492091ba217971f6c38d55e5d9b76c896972bd",
+          "q": "Branner married Susan D. Kennedy of Oneida, New York, in 188",
+          "found": true
+        },
+        {
+          "qSha256": "e95af365d9204a2ca9a3ed8cad3471e465724f7116b1bcf193a07b39dd31db09",
+          "q": "John Branner was born in New Market, Tennessee, on July 4, 1",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://engineering100.stanford.edu/stories/the-foundation-of-a-new-era-in-engineering",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "c729671da5d5bc168e16d78037e1aa87d8bf4700c1600cd2695091110d235d23",
+      "quotes": [
+        {
+          "qSha256": "b6a35b4b91a2705590a93c926c44597f24faa008e5a421692bcd2d2c94b58dc9",
+          "q": "In 1937, Hansen collaborated with brothers Russell and Sigur",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://erenow.org/modern/nothing-like-it-in-the-world/4.php",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "307684ebb6bc4610421e67b3d707f04294bb2547f92ed7ecf3b25906b4011040",
+      "quotes": [
+        {
+          "qSha256": "dc7db3641c3d53d53a9cdba0fa2a8cae0de1a291a95bb3e30f7d31c0ada20b5c",
+          "q": "On November 14, 1860, he wrote Strong, \"I have struck a luck",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://fortune.com/2022/02/15/why-elon-musk-dropped-out-of-stanford/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "d697b8a74a2c4a6e11bab49ef81d4d1b3d0ea0f628ba4385a288ff4167617a39",
+      "quotes": [
+        {
+          "qSha256": "778efd4e1537dfa0ca7883dbc1d7c66c279877d27278c12649b443fcbead0f78",
+          "q": "Among his many outlandish career moves is one that dates bac",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://ginzton.stanford.edu/about-lab/history",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "1cafc335b8347e163fa5ddd4473448d8b1200e929832af09d99809755f51eacc",
+      "quotes": [
+        {
+          "qSha256": "a5528e13f2559013f96c129619e334eebfcbcb4c35c9c050634184cee4255066",
+          "q": "Two brothers, Sigurd and Russell Varian, who were interested",
+          "found": true
+        },
+        {
+          "qSha256": "95925ec6380ae7a197f3f6f9024133dda722e36e0ecf9ed20f9ec1b225872797",
+          "q": "Utilizing Hansen's earlier invention, the cavity resonator, ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://governors.library.ca.gov/firstladies/08-stanford.html",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "ca0e5f1399a87cbbbe02c197c9e6e5b16e6bc262c02c4a0567ee4227e043b1d7",
+      "quotes": [
+        {
+          "qSha256": "fdef1303a7a70881f5f787d1bbe80e62de0f6003026c5a5d70c7e55bf49c7b9b",
+          "q": "Born: August 25, 1828 in Albany, NY",
+          "found": true
+        },
+        {
+          "qSha256": "b039a433f7ef582a9172b9840eea9d22463bfdf16bef08b4236c5f23faab69a5",
+          "q": "Married: Leland Stanford on September 30, 1850",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://guides.hoover.org/LouHenryHoover",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "0a03f777ae0be6a591689dbbf416fc4ca9202293e8df482b98089f65a61b5266",
+      "quotes": [
+        {
+          "qSha256": "ff432475b226ddf46d9177b39b1bf1faea7bf95746750d554b7f5103d8e6a28f",
+          "q": "Lou Henry Hoover was the first woman at Stanford University ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://guides.library.stanford.edu/c.php?g=1311993&p=9846400",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "380fba8da0dfd3cfbff4487accfd8bc2de69ec93e720dde97008194b3276f058",
+      "quotes": [
+        {
+          "qSha256": "f184e0b6541f0d19b0ff1e1ad5c03164ad2344c364c305c1fcdbf5e5faa41590",
+          "q": "1824 March 9 Leland Stanford born",
+          "found": true
+        },
+        {
+          "qSha256": "f4df4361c828b49741a3d4005693f68896ef37797c9718104a2574c4d7068fd0",
+          "q": "1828 Aug. 25 Jane Lathrop Stanford born",
+          "found": true
+        },
+        {
+          "qSha256": "2d7af2a9bfdaf8632cbbe424931794df144379ef45883c573c524098955a1df9",
+          "q": "1861 Sept. 4 Leland Stanford elected governor of California",
+          "found": true
+        },
+        {
+          "qSha256": "809539d0b9ea03244e85ae9caa29b4e5722ed86581a1355a51b5c409955e7c49",
+          "q": "1868 May 14 Leland Stanford Jr. born",
+          "found": true
+        },
+        {
+          "qSha256": "f443f6c61157676cb6ae861e6ae0528b3d1d3c35c72bb1a1d4f6652e392d07db",
+          "q": "1869 May 10 Leland Stanford drives the Gold Spike at Promont",
+          "found": true
+        },
+        {
+          "qSha256": "3af5cdeadb9031c11731848373fd6a0d6b84549dd7f9983b19218d544366634b",
+          "q": "1891 March 22 David Starr Jordan accepts Leland Stanford's o",
+          "found": true
+        },
+        {
+          "qSha256": "087b976bff29847d7d0dda4bcf88c6e54382ea400f9bbff8231d7a75a634ac03",
+          "q": "1905 Feb. 28 Jane Lathrop Stanford dies",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://histories.hoover.org/an-uncommon-couple/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "fb6b5edbc671ac7a4786680a752091d3fd8c58903d51addbd65a2d61208268e7",
+      "quotes": [
+        {
+          "qSha256": "65527aefcb2adced85f198dcfde99ea02876b37b06b27889f0e0ecbbb190c347",
+          "q": "Born: August 10, 1874, in West Branch, Iowa Died: October 20",
+          "found": true
+        },
+        {
+          "qSha256": "c93e745d1bb40321013f8d25d816ac4e51eb3a98c0abeb0220390aae0ea58a84",
+          "q": "Born: March 29, 1874, in Waterloo, Iowa Died: January 7, 194",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://histories.hoover.org/cardinal-roots/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "333a4e368048a7be453b21ef1b6a91d2af4a81a303531074d98096e993c1e172",
+      "quotes": [
+        {
+          "qSha256": "60aa5afe42b0b4e1efa9541322f59705e180eccf505a3c22ff83b4051c75da89",
+          "q": "Herbert and Lou Henry Hoover married in Monterey, California",
+          "found": true
+        },
+        {
+          "qSha256": "6e81f349b29faa86377365516b0b75bbfd20d00e5b72de732035737afc5b417b",
+          "q": "In 1891, without having graduated from high school, the indu",
+          "found": true
+        },
+        {
+          "qSha256": "a925dd6e713e0746185098b72b0f61fb3cafbb0bf9c9ae010681a894e2e60cf7",
+          "q": "It was at Stanford that he made lifelong friends and found a",
+          "found": true
+        },
+        {
+          "qSha256": "9a08becd7ceaa860b4c568854ad3d113419d37ea528da7add2a825135f3e3f10",
+          "q": "Joining the board of trustees in 1912, he served for nearly ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://historytogo.utah.gov/post/golden-spike/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "03e482c45b7d09df7f3aab17e7c324d625732e13e49c5775b04630c18cb07cb0",
+      "quotes": [
+        {
+          "qSha256": "d585a29b8bc7b470c12dccc34cb1c82491d1d32939d666ec184e167600625d0c",
+          "q": "However, Stanford and Thomas Durant from the Union Pacific b",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://hoover.archives.gov/exhibits/lou-henry-hoover",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "431839479cc7569a9dd4597b84f8a2011a5e514cd859ff926f7c6debfc6adbff",
+      "quotes": [
+        {
+          "qSha256": "14603f30662f9500df022622c79784d1aa85bd5c1eb92805514ef3c6583c542a",
+          "q": "Lou Hoover died in New York City in early January 1944 at th",
+          "found": true
+        },
+        {
+          "qSha256": "b2941d0137e3d3f226345701e8b1dd4eb2dba8d4c0492e9a74613fdfba6d4e72",
+          "q": "Lou gave birth to two sons, Herbert Jr. in 1903 and Allan in",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://hoover.archives.gov/exhibits/years-adventure-1874-1914",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "3660e57f363cc802aefcc3410d0f9226bf50d61c74aa8d14f38419b869d5b620",
+      "quotes": [
+        {
+          "qSha256": "974015f9b95afbb94e2d69b7f4e629644287d220ca1922c84b9d5324300ff632",
+          "q": "After graduating from Stanford University in 1895 with a deg",
+          "found": true
+        },
+        {
+          "qSha256": "9b015db8a318520a38b95d19c68c9cd61df48ffa7e2074420da6c923443853da",
+          "q": "After the wedding, they went to San Francisco and boarded th",
+          "found": true
+        },
+        {
+          "qSha256": "ccd862e6d6b2b59eef841322f62789ea62a6c3722b3cf0844323532cbe646ae0",
+          "q": "Herbert Clark Hoover was born on August 10, 1874, in the tow",
+          "found": true
+        },
+        {
+          "qSha256": "498dc6014b5c1ccb1ff58eb9843781dd968d85e80e402a61c16a6e53955bde58",
+          "q": "Herbert left Iowa at age 11 in November 1885, bound for Oreg",
+          "found": true
+        },
+        {
+          "qSha256": "2391a34bbee7c792934dc9ecc0486252878d91e859a1827b3e1543bcad50a60b",
+          "q": "Herbert, his older brother Theodore, and younger sister Mary",
+          "found": true
+        },
+        {
+          "qSha256": "6d3dc7d6e046587a2079af9c71cb14680227fd386f5398537f3ada6d3e7c2622",
+          "q": "His Quaker father, Jessie Clark Hoover, a blacksmith and far",
+          "found": true
+        },
+        {
+          "qSha256": "e766049dc7f5b17f54986c2bc850f267231325257f7eeaa9c6fbea20a9feb454",
+          "q": "Hoover arrived in Western Australia in May 1897.",
+          "found": true
+        },
+        {
+          "qSha256": "8ae0799e454296688b5592b5bb6001ddb461e1da1691aff3c511a26931faea75",
+          "q": "Hoover spent the next eighteen months developing mines, inst",
+          "found": true
+        },
+        {
+          "qSha256": "5a7795d779408dca59e6ecc1179fc6b22e38d72a2907740b47b7edfd4851a214",
+          "q": "They were married in the living room of the Henry home in Mo",
+          "found": true
+        },
+        {
+          "qSha256": "cc188e8b7743b52ddadefec5229ea4c8ae5f1ab0678ef26895d103603c30ad95",
+          "q": "Three years later, Herbert's mother, Hulda Minthorn Hoover d",
+          "found": true
+        },
+        {
+          "qSha256": "cfc380b869b2cc38ca2bdcf004df2c34d0de89fe5fd103a51e18d42b44079511",
+          "q": "died of a heart attack when Herbert was six years old.",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://hoover.archives.gov/hoovers",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "5e832e808b863a2e8c9005157bfbfa828e385f70970555f5947e1013c2e025c7",
+      "quotes": [
+        {
+          "qSha256": "c5d07eee558cfe334b421614ed7ab128a8117b2df17c2c6362ab5e5664fc106a",
+          "q": "Herbert Hoover served as the 31st president from March 4, 19",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://hoover.blogs.archives.gov/2015/12/29/divided-loyalties-herbert-hoover-and-the-rose-bowl/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "bc9ddb6cfd6fc810d3a300456c6a6bf92197d07e8f13c014ac1317de411de146",
+      "quotes": [
+        {
+          "qSha256": "d536eda5934ce7b511ee7ef7b43665b729e677e30465a6e0d44c44b55c050c6a",
+          "q": "Hoover joined Stanford University's board of trustees in 191",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://lemelson.mit.edu/resources/sergey-brin-and-larry-page",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "144805cd5f2065231506918d7ffa68fd72a75fa8220a095851a74ba590c7b731",
+      "quotes": [
+        {
+          "qSha256": "62fc9b34dd5590600ef598d6914ff36e6d50dc58a1110c82948a0dc242c0a91f",
+          "q": "Born in Moscow, Russia, on August 21, 1973, Brin emigrated t",
+          "found": true
+        },
+        {
+          "qSha256": "7dd23e761735e3ea345b40325436b79d9a379765a54c37274406cdcfac15de04",
+          "q": "Page, born March 26, 1973, in Lansing, Michigan, earned a BA",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://millercenter.org/president/hoover/essays/hoover-1929-firstlady",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "e7cb02f43f11d321965b88e9a87daf42ffa571a4b8efb614c46a1de71633ee01",
+      "quotes": [
+        {
+          "qSha256": "171306c0f3d016d2f9394d8f2cc30f14fb3f8959415db2057b166bb4e969c26b",
+          "q": "one year later, she entered Stanford to study geology. At St",
+          "found": true
+        },
+        {
+          "qSha256": "e9c6cfade6965f938813326185e6cea2d22d1a3af1ca881698544e828cb38f24",
+          "q": "received a teaching certificate in 1893; one year later, she",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://npshistory.com/handbooks/historical/40/hh40q.htm",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "9643005373e5206e10837ba6812e0e5b59178ee7a8701ac30bae10f5b9d13e03",
+      "quotes": [
+        {
+          "qSha256": "b8d7d3da548b16e6488a66221a1b15f6c8462116b04fa261df4f9147da25e7c0",
+          "q": "Using the wired sledge, Stanford and Durant both swung at th",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://oac.cdlib.org/findaid/ark:/13030/kt3p303833/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "0821e5872783e2290163c553325cfc38c13f02ee42c6cba7ff8a7bfac514f45e",
+      "quotes": [
+        {
+          "qSha256": "759e47a48b335b56b382a21e378a0105628e0660b11dc8850de4c9ed6b117bd1",
+          "q": "Lewis Madison Terman was born in Johnson County, Indiana, on",
+          "found": true
+        },
+        {
+          "qSha256": "8d01d8deceb3cd37a258f8679354a8907dd937616f767077127712180b8bf02e",
+          "q": "from 1910 to 1916 he worked on constructing an American vers",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://oac.cdlib.org/findaid/ark:/13030/kt7f59q4cp",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "fc0cb32aeec92bd879aec1a9b2106c155299f7db84a8d292e854b0aeed05ac1e",
+      "quotes": [
+        {
+          "qSha256": "1328f405fa4163fd00f8ea0316d405cb4df2df414b0fc6e51530c173fb537663",
+          "q": "In 1953 Varian moved from its original leased facility in Sa",
+          "found": true
+        },
+        {
+          "qSha256": "d79498d4da043d0e5ef4daaa5a62f7a4b27ebd67cc09549fa06fa56d3d9f6f10",
+          "q": "Varian Associates was formed in San Carlos, California in 19",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://oac.cdlib.org/findaid/ark:/13030/tf3489n6dq",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "b2ca30fe2a7a78191153e8bd6b0fbabee6c0a08a0dd27370d71326855ab4610b",
+      "quotes": [
+        {
+          "qSha256": "641c8871f569ad67cb004d24017a1f6066709076fa3b55460202c44f69d86436",
+          "q": "Adams died of pneumonia on September 1, 1930.",
+          "found": true
+        },
+        {
+          "qSha256": "39fc7ef8a51f7b658d6a4c7a3c9b6bd5050f158e09d6df1c44943e55cda05e45",
+          "q": "Additions to the E.D. Adams papers include the papers of his",
+          "found": true
+        },
+        {
+          "qSha256": "22e78e8a6e34ff2586d089758375289086db49f097f57ae1a4f5fcf03612eff9",
+          "q": "Ephraim Douglass (E.D.) Adams was born in Decorah, Iowa, on ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://oac.cdlib.org/findaid/ark:/13030/tf3f59n6bn",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "af968d4545135ff172b9952e3d48e682d7a726199455d9e0e148a951b25fe5a5",
+      "quotes": [
+        {
+          "qSha256": "46708ccb2047828972afef0c55bd6434117e36a22e1cbef823047d9ac60f0f21",
+          "q": "In 1887, Jordan married Jessie Louise H. Knight.",
+          "found": true
+        },
+        {
+          "qSha256": "0bb4bd080ef62f242d4e883065a444687cddaacb5b3a6a3a48d9cc1a170aceac",
+          "q": "In March, 1875, Jordan married Susan Bowen, who died in 1885",
+          "found": true
+        },
+        {
+          "qSha256": "978298ec4738461e119c661967ca923126836a6c2b4873c2a1f889bccde0daea",
+          "q": "In the Spring of 1891, Leland Stanford offered Jordan the pr",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://oac.cdlib.org/findaid/ark:/13030/tf4489n6p5",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "957eec2632bc7aac9a5ff3552f8939aa15eac11fb1f7708970aab9eca49bbed7",
+      "quotes": [
+        {
+          "qSha256": "a582d61badf8b08b2b8d3bb0e8aec90094ca4942eacb60ae67e760b473e0f444",
+          "q": "1851 January 19 Born, Gainesville, New York",
+          "found": true
+        },
+        {
+          "qSha256": "c507dd01ff18ab65991f4a5490d218c9a28bac22bd2e6a33b9af4da3df029f6b",
+          "q": "1931 September 19 Died, Stanford, California",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://oac.cdlib.org/findaid/ark:/13030/tf767nb2bd/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "c9d35e7077762233d53aa2b5cae11aae3208d8862a3b04794f99e1dc6f70dee3",
+      "quotes": [
+        {
+          "qSha256": "cdbd55609ea50e0beb233ad6f1c15cc1977f06ca29b34aa6ddcccd830a8b0d82",
+          "q": "Jane L. Stanford's siblings included Anna Maria Lathrop Hewe",
+          "found": true
+        },
+        {
+          "qSha256": "0aaa82c423dcb2de058d63ec15469df42520f6befa59e8ce2d1ce2ff02a8a446",
+          "q": "Jane Lathrop Stanford, wife of Leland Stanford and co-founde",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://oac.cdlib.org/findaid/ark:/13030/tf8000068j",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "4edf190508d1a89314a39d6569c7780ad3a165bce330a271e8f92cbaa3563ff9",
+      "quotes": [
+        {
+          "qSha256": "8ed506ed5d2d03faee5ba95ed842590b4a536e9982a878cb08a56d8f40cdc731",
+          "q": "She died on February 28, 1905 in Honolulu, Hawaii.",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://oac.cdlib.org/findaid/ark:/13030/tf8779n9jf/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "cc598bc00b82b19e6cb3236ab955c8b7d36dff13c36da370cbeeb40fe781e1c9",
+      "quotes": [
+        {
+          "qSha256": "5b9cc7bd4391f9a2b7d1faf76262b9e147d32015837cd1e9b06fdc44b24d4396",
+          "q": "Leland Stanford, Jr., the only child of Senator and Mrs. Lel",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://paloalto.org/history/varian-brothers/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "cda8f54fbcca082a458789a9fd781f42a0ce9b221a0cf3f5c08804d483550e1b",
+      "quotes": [
+        {
+          "qSha256": "b423aab5a9f3e745cde4a86a613c43fe563fb8a329e66e68e56f5fdba86ea42a",
+          "q": "1959Russell dies in Alaska on July 28.",
+          "found": true
+        },
+        {
+          "qSha256": "aa49d75e67fb58530549b4b99f86feaf9fc82163dde001218bde1262cdc491f0",
+          "q": "The articles of incorporation for Varian Associates were fil",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://paloaltohistory.org/stanford-research-park-1",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "1dc8518d6a9b159d53f7ebeacec240ad468ad46fa7e0616e3d409db66f5aa8cd",
+      "quotes": [
+        {
+          "qSha256": "3a3d854c7b19a22c123cbfc6914d5880029749ae43be2d0b9908886f619807ae",
+          "q": "First aboard was Varian Associates, a growing company with t",
+          "found": true
+        },
+        {
+          "qSha256": "e4b3b71ebaaf98571eccde07e67d0d4a74cdd586a3e47b78a91c127250192154",
+          "q": "Varian Associates were the park's first tenants when it open",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://physics.stanford.edu/about/our-history",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "09a3086926f753f8b6d9c8fed5be859d0686209197aa8700ed4d6294ce5191ef",
+      "quotes": [
+        {
+          "qSha256": "4d931bba80c2d5531e2e680ad628c16c5703bb06dd6c13921c907cda21337127",
+          "q": "In the late 1930s, Research Associates Russell and Sigurd Va",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://psychclassics.yorku.ca/Terman/murchison.htm",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "30b99f28cfda3d3f03031203d0522a702e39821c0435dd54ab9cff86db0869c2",
+      "quotes": [
+        {
+          "qSha256": "653faf749aacacb3450465ec131309b980408af67b5747151837897e2d5e1057",
+          "q": "I was born in Johnson County, Indiana, January 15, 1877, sev",
+          "found": true
+        },
+        {
+          "qSha256": "7591a4f741a3e4f91209e43835ffee597172128177ac07ca0158ec4d15918085",
+          "q": "I was married to Anna B. Minton, a teacher whom I had met at",
+          "found": true
+        },
+        {
+          "qSha256": "5ab764b82f8cded36321aff28420c96923434cba79e55b135a148617ca830a88",
+          "q": "I was the twelfth of fourteen children born of this marriage",
+          "found": true
+        },
+        {
+          "qSha256": "2d9bf83fd6c3d530645ef5c2c52a3ef91f53fa7006a83779845fd97fa2e35fb7",
+          "q": "In 1899, a year after I left Central Normal College, I was m",
+          "found": true
+        },
+        {
+          "qSha256": "484ab24f24a5c68d14b9788c43a7d209d393c63a9b885a8ed2570c293b46d0c5",
+          "q": "Professor Elwood P. Cubberley, who brought me to Stanford",
+          "found": true
+        },
+        {
+          "qSha256": "231b71f27c456c7ab221220222909566cd4da6e2dc6de9574f6c3622213e95c3",
+          "q": "Thus, in 1910, I found myself a member of the faculty of Sta",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://quake06.stanford.edu/david-starr-jordan",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "22fe0cc7486c5f1d4a90aebd85fb363a33d269d95ada26092efdf9a35e716293",
+      "quotes": [
+        {
+          "qSha256": "fdc7b73a3b3a54d711cdbfd88f52e2c6b7c8d28bafe305c47e2a5cd83517cea2",
+          "q": "leading the Stanfords to board their private railroad car an",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://quake06.stanford.edu/stanfords",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "def65e5e9fb4ede1b84794f0523f4fcc310d31ea1d61a2677d5466ac910bc807",
+      "quotes": [
+        {
+          "qSha256": "6ea03b611534a6af99cd61aea07f6de8bc41adf8e1a731db1387f7638ca659ef",
+          "q": "Jane Stanford refused to close the university and funded fac",
+          "found": true
+        },
+        {
+          "qSha256": "3292dac8870643ee80b52721a1598118662c2353fe9ec1cd9b10c95ac734c291",
+          "q": "The estate was released from probate in 1898",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://stanforddaily.com/2024/11/11/elon-musk-stanford-work-status/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "6455c69443b95c464b9a42b446da9f9e4be8cb44d5237ef238726089241b431b",
+      "quotes": [
+        {
+          "qSha256": "3513c167c801726eb2d539ed9de3b3ce83c73108c54d5249195a1ed66f3a1297",
+          "q": "confirmed in an email to The Daily that Musk applied and was",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://stanfordmag.org/contents/century-at-stanford",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "f443f9e610a498c737b3a04bd947f25ea5f1985238c37f20b06f9dbda815e6e6",
+      "quotes": [
+        {
+          "qSha256": "a5032690030d52f0810c6d668446f537c1960d8a02a3c0dca0cb7535f8495b5e",
+          "q": "University officials in October took the first step in openi",
+          "found": true
+        },
+        {
+          "qSha256": "264c62e49e68208bbb00449befc89d77f421c503f052b5bce4016477078a4671",
+          "q": "University officials in October took the first step in openi",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://stanfordmag.org/contents/jane-stanford-s-allowance-saved-the-university",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "7383969132afac725707cc5b2762423acea74e98e8cbf037f90fe8f7191ee9ba",
+      "quotes": [
+        {
+          "qSha256": "15f9637b956e595190a98b28508ab61e06a9bc53d476a74cce958f48510934df",
+          "q": "The probate judge granted her $10,000 a month from estate pr",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://stanfordmag.org/contents/meet-the-next-president",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "5473ab2fad84cdbbddd8893bbdc140ee90c65ef03a259166989a5e68efb33a1f",
+      "quotes": [
+        {
+          "qSha256": "c5096e2b3a06ce65655e0689dede8673ff1b5dd9b33bf02ac5c1737402e16cd6",
+          "q": "Born: Trenton, Ontario",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://stanfordmag.org/contents/who-killed-jane-stanford",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "9d02d8fb0e79e62f30b601aba4b9b18ed0744773e2b9058a64e400bccb8b6623",
+      "quotes": [
+        {
+          "qSha256": "675223ab13135d7a300b2c9e6edc8fdb40fe372e966782d8bb0ca824e4870c59",
+          "q": "After reviewing the autopsy report and hearing three full da",
+          "found": true
+        },
+        {
+          "qSha256": "bf3441ad20d45148affce2cd0e9032ba380a06bc40885aea6722da7de87be540",
+          "q": "Contrary to the earlier reports of poisoning, Mrs. Stanford ",
+          "found": true
+        },
+        {
+          "qSha256": "c7153c4153d4a0733925bce2ace8fe407c0315825fa909ee8604a2d559e038d3",
+          "q": "On the evening of January 14, 1905, at her Nob Hill mansion ",
+          "found": true
+        },
+        {
+          "qSha256": "dc419dfef57ec1575ec4ebfefff79df4130f95efe7274f89ee93a80946535b95",
+          "q": "Though most history books attribute Mrs. Stanford's death at",
+          "found": true
+        },
+        {
+          "qSha256": "3fc472840c825fb61af983284b3bcfd1152e6ae78c44d9dbe41c036be770c11f",
+          "q": "Upon his arrival, he quickly hired a local physician, Ernest",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://stanfordresearchpark.com/about/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "1f6abcbee164dc96ed2d7224d37ec5129a829a8483be8c9e8e8f4007cab85928",
+      "quotes": [
+        {
+          "qSha256": "7e6dd5bf47967f0940087bbdd3932a4b82a7138460538a8874a98e11111d7e8a",
+          "q": "Since 1951, Stanford Research Park has been home to the R&D ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://stanfordreview.org/editors-note-3/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "baa3f2efd6ac4f202a2d899e797ec5df865058144c257d8e78e015c4d890408a",
+      "quotes": [
+        {
+          "qSha256": "3f88f3b739c376583aa2af2afa6f678c199dba7e36e25a524cbd92aa3b66c5eb",
+          "q": "Peter Thiel and Norman Book reacted, among other things, to ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://stanfordreview.org/editors-note-a-needed-part-of-the-campus-discussion/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "3f9cb5aa3973c253bc79da5a5e9fab71406dcf1a1edb31119f7b54ef11bdd6a1",
+      "quotes": [
+        {
+          "qSha256": "5a699e754daf8f4200cf11dd1ce3622f5939cb14b86bb1af31a9a4fe208ee7de",
+          "q": "When Peter Thiel and Norman Book founded the ongoing Stanfor",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://stanfordreview.org/first-editors-note-1987/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "c17025f0cc5c756aa6985a8d05cd6a209e9b572436d086ab3cf4be6efd9166ad",
+      "quotes": [
+        {
+          "qSha256": "a0472a0632ead7f9392abaf113a2584de1508213ad13dd188dd5166db9a5923e",
+          "q": "Reprinted from Volume 1, Issue 1 of the Stanford Review (Jun",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://tessier-lavigne.stanford.edu/biography",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "d4450faabb3eac3e89777db5890484b927a6f9e694cf8829a015ec2a80ecb4d7",
+      "quotes": [
+        {
+          "qSha256": "4c0b977eb815c260ab2a3ef81d82a967ea69ae2d8b527705866802749287b415",
+          "q": "Dr. Tessier-Lavigne was born in Trenton, Ontario, Canada.",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://usatoday30.usatoday.com/tech/techinvestor/corporatenews/2007-07-04-google-wojcicki_N.htm",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "2595d95eb9be91d7fa3925a3074b9d4fac990e9845b8691b698a4383993d9e25",
+      "quotes": [
+        {
+          "qSha256": "786ca4e376595152d24a62444615d4b94fd3a1ac0f5aa737324103b14b07d91a",
+          "q": "After earning her MBA in 1998, Wojcicki bought 232 Santa Mar",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://web.archive.org/web/20080129093210/http:/www.stanford.edu/home/stanford/history/begin.html",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "79f200cb8008d1ec6c931be057ab06e5ae798e9acd97cbd8710f4a9707bef20d",
+      "quotes": [
+        {
+          "qSha256": "066bb2913ae57fc2781e40907e84f904d1692821ad2432b83bde2c9fff4ac1d9",
+          "q": "Stanford, who had remained at Leland's bedside continuously,",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://web.archive.org/web/20160521025646/http:/janestanford.stanford.edu/biography.html",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "ad3af687e9086508a61ff9ff418e4722460a00b729ae8b14876cf92c006f9903",
+      "quotes": [
+        {
+          "qSha256": "febe5b8915179b67cc111b7381de04d1023b3977943a99271090c368bc254ab3",
+          "q": "Jane Elizabeth Lathrop was born August 25, 1828 in Albany, N",
+          "found": true
+        },
+        {
+          "qSha256": "dadf4ef0d0269b280ac8b008c6e262cf42a8bd1e0596e4627b574a4b32391078",
+          "q": "Jane married Leland Stanford, a young lawyer, on September 3",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.altaonline.com/dispatches/a36535245/jane-stanford-murder-mystery/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "a7f4135a030ae69d8387475f963c3ebef0b631e6849af8a4d8c332bc31f749ca",
+      "quotes": [
+        {
+          "qSha256": "235c5dfdaef1bba56f791b5c60126770641a7eac35ca7dc89da87831699ad673",
+          "q": "On the gusty, rain-soaked evening of January 14, 1905, Jane ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.asanet.org/edward-a-ross/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "958e67b90ad56e714f745c595e7218eb73dc51171f2874933903c1b934da43cb",
+      "quotes": [
+        {
+          "qSha256": "2eba8268bd7748d5f9e3c7fe2a2c2e13f5ee32b77ca1af0fa6642f13fa05235a",
+          "q": "Edward Alsworth Ross December 12, 1866 - July 22, 1951",
+          "found": true
+        },
+        {
+          "qSha256": "f03be6ffe159359891eabc7dda152e1a9e4620440062d53a79d454e4c7a4fb6c",
+          "q": "Edward Ross was born in Virden, Illinois, where both his par",
+          "found": true
+        },
+        {
+          "qSha256": "951b38e826c7b1415831409b3816c9968b6898dc2ec2fe2078dbb07c08e084cf",
+          "q": "He is survived by three sons by his first wife, who died in ",
+          "found": true
+        },
+        {
+          "qSha256": "9e979f8dd7ae465f2e83e015a5c2a105919bbf4473cbda2fcfa6c5c18e8ba664",
+          "q": "On July 22 Professor Ross passed away in his home in Madison",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.baybridgebio.com/blog/lessons-from-genentech.html",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "ee2edafa482622bff5cfde0c769ae62cbf1f59a307841ab25bd261d06caedbba",
+      "quotes": [
+        {
+          "qSha256": "f382ad1d6328666f9f66ab0410db5457dc3a4e9a45eb9a888b05c670c0cd8a0a",
+          "q": "Prior to starting Genentech, Bob had been laid off by ventur",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.businesshalloffame.org/robert-a-swanson",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "a2fb987877a19f6a7dbf9928e0f4b1df72bf5d3f246ee8e80ee9cd6c57c57fe1",
+      "quotes": [
+        {
+          "qSha256": "32306a718341a4d96503a01fc6c0d25ce955513c1712b504f1b1ea26a054371c",
+          "q": "Born in Brooklyn, New York, USA, in 1947, Robert was taught ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.businessinsider.com/google-cofounders-paid-1700-garage-rent-2015-9",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "99d22574c4540cd0e343eb3ddec235ab15d91d873af42750adab1bcbcfc3d817",
+      "quotes": [
+        {
+          "qSha256": "99c780988a733b357b15c3a2242d125d56a5f9f4d6efe1f3ca480d7a01496b40",
+          "q": "\"$1,700 a month,\" YouTube CEO Susan Wojcicki said, recalling",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.computerhistory.org/collections/catalog/102702982",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "932f09af409dd6decc6879b25b507b87e32bc4f54428a2b97ad25ace2112a96e",
+      "quotes": [
+        {
+          "qSha256": "2ff9ba13b51d1dd7c15593cf135ffd4c1cbeca0d049f027ce5e6bb2a681efc21",
+          "q": "This documentary focuses on the life of Fred Moore (1941-199",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.computerhistory.org/collections/catalog/102795133",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "d5be176df0aa62b69f2449d600a5af487b24fa21fa2a4dd1335c8dc162fc8c1b",
+      "quotes": [
+        {
+          "qSha256": "a6a824a1517a7d551a31b5eb8645b6991be42bd517b4942c26892517292d9c61",
+          "q": "Jim Clark was born in March 1944 and grew up in the small to",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.ebsco.com/research-starters/biography/elon-musk/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "e2f43ec2588551094ad81c663de84f3ee5656011e8abf64fc1e800fb6ef6cc4f",
+      "quotes": [
+        {
+          "qSha256": "608c8a977f30294e1af724deba374b2f2e1fb1da7ff0631070b36a49674a9a97",
+          "q": "Elon Musk was born on June 28, 1971, in Pretoria, Transvaal ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.encyclopedia.com/education/economics-magazines/knight-philip",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "22d40bcac757179299f6c04ea101409a3502638f30dd1b646f83ec6afae9dc5e",
+      "quotes": [
+        {
+          "qSha256": "d8d24305f2565dcc18e373e74f9454f89aa612e8e69d58e4d65062aecaa6c521",
+          "q": "Philip Hampson Knight was born February 24, 1938 in Portland",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.encyclopedia.com/people/medicine/psychology-and-psychiatry-biographies/lewis-madison-terman",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "63b8b6142d2ad7cdb70e116eb9a7dd7506595e8788feabdd1eab3dae3edf5979",
+      "quotes": [
+        {
+          "qSha256": "8699525944e4921487a2aaabf1870d724298569ba8957c7b6b13cbc490ccbf5b",
+          "q": "the final version-the \"Stanford-Binet\"-was published in 1916",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.encyclopedia.com/people/science-and-technology/technology-biographies/marc-andreessen",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "712772e096a2fa4a87afaf0f6275d4e207fb1ad2272b0cd49af7f11faa6d25b7",
+      "quotes": [
+        {
+          "qSha256": "06f2433a736d6f07c43f09b775130afca0f6158f6c906527058b005060ac94b0",
+          "q": "Andreessen was born in Cedar Falls, Iowa, in 1971, the son o",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.gene.com/about-us/leadership/our-founders",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "d0a8b76d401bc322041a425ef15eca282f97b993da9f6c8c0487712df0a7887c",
+      "quotes": [
+        {
+          "qSha256": "e8d5c70ef901abe4166f58652f18b988acb9adca164ccadaef95ff03177a2aa8",
+          "q": "Genentech was founded more than 40 years ago, in 1976, by th",
+          "found": true
+        },
+        {
+          "qSha256": "1e31ddffc641ef8c79eb5240672d2eafa218321655197e39dafaa28ab92bc888",
+          "q": "Prior to forming Genentech, Swanson was a partner with Klein",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.hewlettpackardhistory.com/item/a-new-home-address/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "f8d0f933d546875713a3aa187a39e2c959e5f39c1bfd6fc147c73d6ca2a68e9d",
+      "quotes": [
+        {
+          "qSha256": "e9f03efe1810f86ed7c7d72b13b8969e3aff3bf08bd362f42cae12ddc8d55476",
+          "q": "Hewlett-Packard opened its first facility at the location in",
+          "found": true
+        },
+        {
+          "qSha256": "018c4b2bfd823076630fe9cc61789e52c0e605b0fd9021f729344822652555ab",
+          "q": "Hewlett-Packard would be one of the park's first tenants, le",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.hoover.org/about/herbert-hoover",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "e0668d5635eba84fc302a6b921c473b9b4099841a7520176a5d584e760f3796b",
+      "quotes": [
+        {
+          "qSha256": "d9e19674655feaa45064eea906b1e38a191dbda4cea58ab624accb9fa94c53a6",
+          "q": "at seventeen, Hoover joined four hundred students at Stanfor",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.hoover.org/research/celebrating-life-lou-henry-hoover",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "69e2fc140525f60935e7571231cfe96b124c184a679df2e9dc95a7fb474f54b4",
+      "quotes": [
+        {
+          "qSha256": "6b7a513b6f8a968bdddcce67be6e49e04ae9a35d0a3a5fb1341bfecd4e8d14bd",
+          "q": "Born in 1874 to Charles Henry and Florence Weed in Waterloo,",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.ibiblio.org/lia/president/HooverLibrary/museum/Museum-Guide1.html",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "55af329955d4161f5f287ef396c6a028e2819039f7c36b23e4f33fbb2102f235",
+      "quotes": [
+        {
+          "qSha256": "dee2257912f30d79047e2fbfcdc5cb96923949b54c539b10cb4571f6bb2fb62e",
+          "q": "It was in Branner's geology lab that he met Miss Lou Henry, ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.inaugural.senate.gov/36th-inaugural-ceremonies/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "b44da434fc349e17964bc606fe2859c35e77d96d6e364967f046653100070923",
+      "quotes": [
+        {
+          "qSha256": "0ae3d7d4c9e27f1014f9eba41f56e8c221d0e654f222e2b1de0b089a1f60407e",
+          "q": "Herbert C. Hoover was sworn-in as the 31st President of the ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.linkedin.com/pulse/gordon-french-has-passed-away-allan-m-french",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "a6d2b30543831f05016a9b7af96b386bb5097c07d7eaba5c062b8de6d9822e6f",
+      "quotes": [
+        {
+          "qSha256": "e5695541523f0ca3367bf1ebdab3679ea23fe65638ea8956ef2b4de94ca98aa9",
+          "q": "Gordon Albert French was born March 7, 1935; and he died on ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.nationalacademies.org/read/6201/chapter/18",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "b5f3bc8da066c60aed0053bce5a76d9b93442e408aca02b3c2fcd0f987de7af4",
+      "quotes": [
+        {
+          "qSha256": "decf967cba3b6bbee6ee4870dd4d664f2fe3721dd4ec4f19ca1968dfdb984925",
+          "q": "Born in 1900, he passed away peacefully in his sleep in 1982",
+          "found": true
+        },
+        {
+          "qSha256": "ae21427bc91e8dfb36ae46b2fc5dc058964d0bcc18e9c7597780e9d8b340a29a",
+          "q": "During a protracted convalescence at Palo Alto, he neverthel",
+          "found": true
+        },
+        {
+          "qSha256": "e0c09596efcf82d1813b3ea4e0430648716f22a1aa0dfe58ed1ed7fdd745dacb",
+          "q": "Terman married in 1928 and fathered three children.",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.nndb.com/people/457/000166956/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "94e40a44b5202371ac590139dfbebe34c4c18ce57c74f0a4faa7c834b6eac0fe",
+      "quotes": [
+        {
+          "qSha256": "21339da195847af0fb9df1ac03337f216673417105b8804cf4d2da24c3c70c8f",
+          "q": "Father: Lewis Terman (psychologist, b. 15-Jan-1877, d. 21-De",
+          "found": true
+        },
+        {
+          "qSha256": "f94ea43e10778758ccf95930c019f37060f4fc98ffe621051085d6ace0a0eef6",
+          "q": "Father: Lewis Terman (psychologist, b. 15-Jan-1877, d. 21-De",
+          "found": true
+        },
+        {
+          "qSha256": "f1051f9e431e9b9381c9e1cf522276cad2e728b98e113d581561ac8eb0e49751",
+          "q": "Mother: Anna Belle Minton Terman (b. 6-Dec-1876, d. 26-Mar-1",
+          "found": true
+        },
+        {
+          "qSha256": "1448272b5e8df1edf6c554474e91e79cd6547d6ed2eced8a4d7f482f323a18e0",
+          "q": "Sister: Helen Terman Mosher (b. 1903, d. 1979)",
+          "found": true
+        },
+        {
+          "qSha256": "4250bd1c0b099f887a7a653a80f174675681e966ab67d8aadf7471a6feb5453f",
+          "q": "Son: Frederick Terman, Jr. (author, b. 1929) Son: Terrence T",
+          "found": true
+        },
+        {
+          "qSha256": "4310e4e3701b010ec675016d5b8ac959ecf59a353282e09130bbc7346c84c0e8",
+          "q": "Wife: Sibyl Walcutt Terman (m. 1928, d. 1975, three sons)",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.nobelprize.org/prizes/literature/1962/steinbeck/biographical/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "60fcf88cbbd75eb5cae87fe9908229093b9609642a1ecb1b8f175719a1616ab4",
+      "quotes": [
+        {
+          "qSha256": "d37255a9fefc26cc6a3964555ac526b12e4d895fd0b33e23abe1e29c847d6227",
+          "q": "He died in New York City in 1968.",
+          "found": true
+        },
+        {
+          "qSha256": "86ee161d2748d87a9b39d5636b38eb089d9bf3f9b80ea640e1239ac4dca37b29",
+          "q": "John Steinbeck (1902-1968), born in Salinas, California, cam",
+          "found": true
+        },
+        {
+          "qSha256": "9326f593b64972e0f82bf1684baad01cd3491ccbf6a2fbfc4fd76de7bb886b64",
+          "q": "John Steinbeck died on December 20, 1968.",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.nobelprize.org/prizes/physics/1956/shockley/biographical/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "e88d935b89fec5aea65c0d3d8ae011215a5cdcf296d4a63ce89a3c4d5db5ac05",
+      "quotes": [
+        {
+          "qSha256": "4b5148abdd354757a9463f19f4e598b0a0aeba33cf40368883e5dc6ccf71df9f",
+          "q": "During World War II he was Research Director of the Anti-sub",
+          "found": true
+        },
+        {
+          "qSha256": "71c672d5a95d8197cdb2ac6e598737c468479cb025340bb02d39af238e867089",
+          "q": "William B. Shockley died on August 12, 1989.",
+          "found": true
+        },
+        {
+          "qSha256": "32d0a2fa0cacb60210b49f49afa5bd424ea2fc47d3e5f9f4109f22da11a3f426",
+          "q": "William Shockley was born in London, England, on 13th Februa",
+          "found": true
+        },
+        {
+          "qSha256": "888ab95a1762aab1a71bfc1907928dfbe3c664e3e8485779dc5e5eb076dd7003",
+          "q": "William Shockley was born in London, England, on 13th Februa",
+          "found": true
+        },
+        {
+          "qSha256": "9234056727c44279a4cc7ca66944308dc69fefdf88555c0bfa5cca3c93cbdfb3",
+          "q": "married twice, and has three children by his first marriage ",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.opb.org/television/programs/oregonexperience/article/bill-bowerman/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "ef7af5b54ad5c2f6a9842e4f63811ab0beae222c069eb699c4f8fa2a7305a20e",
+      "quotes": [
+        {
+          "qSha256": "b8c2d6cbdf81df190efaf622e7353a4a03a39981866859883f941126a79688da",
+          "q": "Bill and Barbara Bowerman returned to Fossil in the late 199",
+          "found": true
+        },
+        {
+          "qSha256": "7339141ed88fbec087bd5594fb6bbaf5c7439d111616f30e8e74fe71a999279b",
+          "q": "Bowerman's father, Jay, served as president of the Oregon Se",
+          "found": true
+        },
+        {
+          "qSha256": "3e9147b1979618849597f8ad32363e42c2ef4f0362953d79c0a83927feeb778e",
+          "q": "He married his high school sweetheart, Barbara Young, in 193",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.pbs.org/transistor/album1/shockley/shockley2.html",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "056b6edd053e342dbf5f678b30ae67ae57356671a263fda237ce6a3395f012fb",
+      "quotes": [
+        {
+          "qSha256": "500e424569f9943ff8f5396902538ad88de96670ca9cbe660b01e1d637b49e8b",
+          "q": "Under Morse's guidance, Shockley and his team solved the dep",
+          "found": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.startup-book.com/2015/08/27/google-in-the-plex-part-1-a-technology/",
+      "httpStatus": 200,
+      "retrieved": "2026-11-10",
+      "pageTextSha256": "960328011bd022939c9473f4847d9c1bdf5618313e17ac426f2fe69cbb3f9ba0",
+      "quotes": [
+        {
+          "qSha256": "21335f0ef2b3681ee6bc83145d5753681ee82aa8639a683aa4cd637a5d019941",
+          "q": "Excite's total outlay would be $1.6 million, including $300,",
+          "found": true
+        },
+        {
+          "qSha256": "82fe85af1219e3e0c1aa8a58ff460ab91cd438e5758378f007e6031bc90cd962",
+          "q": "Khosla made a tentative counteroffer of $750,000 total. But ",
+          "found": true
+        },
+        {
+          "qSha256": "0793da743e4add89f64edd207904b586cf4955a13748f5226ed41e677147b48d",
+          "q": "Then he would leave, in time for the fall 1997 Stanford seme",
+          "found": true
+        }
+      ]
+    }
+  ]
+}
