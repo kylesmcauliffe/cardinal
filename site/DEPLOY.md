@@ -57,3 +57,19 @@ npm run preview
 `github.com/kylesmcauliffe/cardinal-sources` returned HTTP 404 on 21 October 2026. Pull requests #1–#3 there were not readable. Nothing from that repository is in the site.
 
 Commit SHAs for the extracts are in `site/corpus/PROVENANCE.md`.
+
+## Password lock
+
+The live site is gated by HTTP Basic Auth on a 2nd-gen Cloud Function (`gate` in `us-central1`). Firebase Hosting rewrites every path to that function, including pages and assets. The Hosting `public` directory is empty so files cannot be served without credentials. Username is `cardinal`. The password is the Secret Manager secret `CARDINAL_SITE_PASSWORD` in project `cardinal-510519`; it is not stored in this repository. If the secret is missing the function fails closed (HTTP 500), not open.
+
+Deploy from `site/`:
+
+```bash
+cd site
+npm ci
+npm run build
+rm -rf functions/static && mkdir -p functions/static && cp -a dist/. functions/static/
+npx -y firebase-tools@latest deploy --only functions,hosting --project cardinal-510519
+```
+
+`firebase.json` already runs the build and copy as a functions predeploy step. The Cloud Run/Functions invoker must stay limited to the Firebase Hosting service agent. Do not grant `allUsers`. Responses keep `X-Robots-Tag: noindex, nofollow`. `public/robots.txt` remains `Disallow: /`.
