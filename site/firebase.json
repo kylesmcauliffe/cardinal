@@ -1,18 +1,6 @@
 {
-  "functions": [
-    {
-      "source": "functions",
-      "codebase": "default",
-      "disallowLegacyRuntimeConfig": true,
-      "predeploy": [
-        "npm --prefix \"$PROJECT_DIR\" ci --omit=dev --no-audit --no-fund",
-        "npm --prefix \"$PROJECT_DIR\" run build",
-        "rm -rf \"$RESOURCE_DIR/static\" && mkdir -p \"$RESOURCE_DIR/static\" && cp -a \"$PROJECT_DIR/dist/.\" \"$RESOURCE_DIR/static/\""
-      ]
-    }
-  ],
   "hosting": {
-    "public": "hosting-public",
+    "public": "dist",
     "ignore": [
       "firebase.json",
       "**/.*",
@@ -29,15 +17,6 @@
             "value": "noindex, nofollow"
           }
         ]
-      }
-    ],
-    "rewrites": [
-      {
-        "source": "**",
-        "function": {
-          "functionId": "gate",
-          "region": "us-central1"
-        }
       }
     ]
   }

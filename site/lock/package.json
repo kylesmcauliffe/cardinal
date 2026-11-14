@@ -1,0 +1,24 @@
+{
+  "name": "cardinal-lock",
+  "private": true,
+  "scripts": {
+    "prebuild": "npm --prefix .. ci --omit=dev --no-audit --no-fund && npm --prefix .. run build && node ./scripts/copy-static.mjs",
+    "build": "next build && node ./scripts/copy-standalone-static.mjs",
+    "start": "node ./scripts/start-standalone.cjs",
+    "dev": "next dev"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "next": "16.4.6",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5"
+  }
+}

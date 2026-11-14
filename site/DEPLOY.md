@@ -31,7 +31,7 @@ EPUB and PDF files in `site/public/downloads/` are built from the Quarto book an
 
 ## Firebase Hosting
 
-`site/firebase.json` sets `hosting.public` to `dist`. `site/.firebaserc` sets the default project to `cardinal-510519`.
+`site/firebase.json` sets `hosting.public` to `dist`. `site/.firebaserc` sets the default project to `cardinal-510519`. Classic Hosting on `cardinal-510519.web.app` is a fallback; the password-protected live site is served by Firebase App Hosting (see below). Do not add a Hosting rewrite to a Cloud Function named `gate`.
 
 ```bash
 cd site
@@ -60,16 +60,21 @@ Commit SHAs for the extracts are in `site/corpus/PROVENANCE.md`.
 
 ## Password lock
 
-The live site is gated by HTTP Basic Auth on a 2nd-gen Cloud Function (`gate` in `us-central1`). Firebase Hosting rewrites every path to that function, including pages and assets. The Hosting `public` directory is empty so files cannot be served without credentials. Username is `cardinal`. The password is the Secret Manager secret `CARDINAL_SITE_PASSWORD` in project `cardinal-510519`; it is not stored in this repository. If the secret is missing the function fails closed (HTTP 500), not open.
+The live site is served by Firebase App Hosting backend `cardinal` in project `cardinal-510519`, from `site/lock`. A Next.js `proxy.ts` requires HTTP Basic Auth on every route (pages and assets), then a catch-all route serves the built Astro site as static files. Username is `cardinal`. The password is the Secret Manager secret `CARDINAL_SITE_PASSWORD` in project `cardinal-510519`, injected at runtime only via `site/lock/apphosting.yaml`. It is not stored in this repository. If the secret is missing, every route returns 401 (fail closed).
 
-Deploy from `site/`:
+Merges to `main` roll out automatically when the backend is connected to `Artometrics/cardinal`. To grant the existing secret to the backend after it exists:
 
 ```bash
-cd site
-npm ci
-npm run build
-rm -rf functions/static && mkdir -p functions/static && cp -a dist/. functions/static/
-npx -y firebase-tools@latest deploy --only functions,hosting --project cardinal-510519
+npx -y firebase-tools@latest apphosting:secrets:grantaccess CARDINAL_SITE_PASSWORD --project cardinal-510519 --backend cardinal
 ```
 
-`firebase.json` already runs the build and copy as a functions predeploy step. The Cloud Run/Functions invoker must stay limited to the Firebase Hosting service agent. Do not grant `allUsers`. Responses keep `X-Robots-Tag: noindex, nofollow`. `public/robots.txt` remains `Disallow: /`.
+Local production check from `site/lock` (use a dummy password; never commit or print the real secret):
+
+```bash
+cd site/lock
+npm install
+CARDINAL_SITE_PASSWORD=dummy npm run build
+CARDINAL_SITE_PASSWORD=dummy npm start
+```
+
+Responses keep `X-Robots-Tag: noindex, nofollow`. `public/robots.txt` remains `Disallow: /`.
