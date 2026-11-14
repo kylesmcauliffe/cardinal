@@ -1,37 +1,42 @@
 ---
 import Base from '../layouts/Base.astro';
-import Icon from '../components/Icon.astro';
 import { getAuthor, getEpisodes } from '../lib/load';
 
 const episodes = getEpisodes();
 const author = getAuthor();
 ---
 
-<Base title="Cardinal">
-  <header class="mast">
-    <div class="cover-plate" aria-hidden="true">
-      <p class="cover-series">The McAuliffe Codex</p>
-      <p class="cover-word">Cardinal</p>
-      <p class="cover-sub">The Stanford Corridor</p>
-      <p class="cover-book">Book I</p>
-    </div>
-    <div>
-      <h1 class="word">Cardinal</h1>
+<Base title="Cardinal" description="Cardinal, eight parts in chronological order. One piece of land and one fortune. Book I of The McAuliffe Codex.">
+  <header class="series">
+    <img class="cover" src="/cover.png" alt="" width="640" height="960" />
+    <div class="copy">
+      <p class="kicker">Eight parts · one piece of land · one fortune</p>
+      <h1>Cardinal</h1>
       <p class="sentence">Rail controlled movement. Stanford controls succession.</p>
       <p class="sheet">Book I of The McAuliffe Codex · The Stanford Corridor · {author}</p>
-      <div class="mast-rule"></div>
+      <p class="lede">
+        Told in the order the rewrite outline sets down. Time only moves forward. The sentence under each title is that outline’s through-line, not a new claim.
+      </p>
     </div>
   </header>
-  <nav class="bands" aria-label="Eight episodes">
+  <nav class="jumps" aria-label="Also in the series">
+    <a href="/timeline">Timeline</a>
+    <a href="/web">Web of People</a>
+    <a href="/sources">Sources</a>
+    <a href="/downloads">Downloads</a>
+  </nav>
+  <ol class="spine">
     {
       episodes.map((ep) => (
-        <a class="band" href={`/episodes/${ep.n}`}>
-          <Icon name={ep.icon} />
-          <span class="num">{String(ep.n).padStart(2, '0')}</span>
-          <span class="name">{ep.title}</span>
-          <span class="years">{ep.years}</span>
-        </a>
+        <li>
+          <a href={`/episodes/${ep.n}`}>
+            <span class="num">{String(ep.n).padStart(2, '0')}</span>
+            <span class="name">{ep.title}</span>
+            <span class="years">{ep.years}</span>
+            <span class="line">{ep.through}</span>
+          </a>
+        </li>
       ))
     }
-  </nav>
+  </ol>
 </Base>

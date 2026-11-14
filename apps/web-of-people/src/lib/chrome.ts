@@ -24,8 +24,10 @@ export function slug(s: string): string {
 const MARK = `<svg width="38" height="38" viewBox="0 0 38 38" aria-hidden="true"><g fill="none" stroke="#f6efe9" stroke-width="2.4"><path d="M9 28 19 9l10 19M9 28h20"/></g><g fill="#8c1515" stroke="#f6efe9" stroke-width="2.4"><circle cx="9" cy="28" r="5"/><circle cx="19" cy="9" r="5"/><circle cx="29" cy="28" r="5"/></g></svg>`;
 
 export function headerHtml(current: string): string {
+  const series = href('/').startsWith('/web') ? `<a class="series" href="/">The series</a>` : '';
   return `<header class="mast"><div class="mast-in">
     <a class="brand" href="${esc(href('/'))}">${MARK}<span><b>Web of People</b><small>A Cardinal project</small></span></a>
+    ${series}
     <nav class="nav" aria-label="Main">${NAV.map(([k, l, p]) => `<a href="${esc(href(p))}"${k === current ? ' aria-current="page"' : ''}>${l}</a>`).join('')}</nav>
     <button type="button" class="theme" data-theme-toggle aria-label="Switch between dark and light">Light / Dark</button>
   </div></header>`;

@@ -8,7 +8,10 @@ const people = getPeople();
 <Base title="People" description="People named in the manuscript event ledger.">
   <article class="doc wide">
     <h1 class="page-title">People</h1>
-    <p class="meta">{people.length} names in the event ledger. The rewrite power matrix is a separate document.</p>
+    <p class="lede">
+      {people.length} names in the event ledger, split on semicolons. Relationships the research cites are drawn in the
+      <a href="/web">Web of People</a>. The rewrite power matrix is a separate document.
+    </p>
     <input class="filter" id="who" type="search" placeholder="Filter names" aria-label="Filter names" />
     <table class="sheet-table" id="people">
       <thead>

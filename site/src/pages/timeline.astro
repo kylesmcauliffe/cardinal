@@ -13,40 +13,32 @@ const tally = Object.entries(counts)
   .join(', ');
 ---
 
-<Base title="Timeline" description="The manuscript event ledger, with each row's verification status.">
+<Base title="Timeline" description="The manuscript event ledger, in the order the file records, with each row's verification status.">
   <article class="doc wide">
     <h1 class="page-title">Timeline</h1>
-    <p class="meta">{rows.length} dated events in the manuscript ledger: {tally}.</p>
-    <table class="sheet-table">
-      <caption class="where">Manuscript event ledger</caption>
-      <thead>
-        <tr>
-          <th>Date</th>
-          <th>Event</th>
-          <th>Place</th>
-          <th>Status</th>
-        </tr>
-      </thead>
-      <tbody>
-        {
-          rows.map((row) => (
-            <tr>
-              <td>{row.date}</td>
-              <td>
-                {row.event}
-                {row.why && <div class="meta">{row.why}</div>}
-                {row.note && <div class="meta">{row.note}</div>}
-              </td>
-              <td>{row.location}</td>
-              <td><span class="status">{row.status}</span></td>
-            </tr>
-          ))
-        }
-      </tbody>
-    </table>
-    <p class="bill">
-      Rows are the file <code>books/cardinal/_project/event-ledger.csv</code>. The rewrite chronology is a separate document:
+    <p class="lede">
+      {rows.length} events from the manuscript ledger, in file order: {tally}. The status word is the one written on that row.
+    </p>
+    <p class="meta">
+      The rewrite chronology is a separate document:
       <a href="/research/rewrite/research/chronology">Cardinal — Master Chronological Event Ledger</a>.
     </p>
+    <ol class="ledger">
+      {
+        rows.map((row) => (
+          <li>
+            <p class="when">{row.date}</p>
+            <div>
+              <p class="what">{row.event}</p>
+              {row.location && <p class="meta">{row.location}</p>}
+              {row.why && <p class="meta">{row.why}</p>}
+              {row.note && <p class="meta">{row.note}</p>}
+              <p class="status">{row.status}</p>
+            </div>
+          </li>
+        ))
+      }
+    </ol>
+    <p class="bill">Rows are the file <code>books/cardinal/_project/event-ledger.csv</code>.</p>
   </article>
 </Base>

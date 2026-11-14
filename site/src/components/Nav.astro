@@ -1,45 +1,39 @@
 ---
-import Icon from './Icon.astro';
-
 const path = Astro.url.pathname.replace(/\/$/, '') || '/';
 const items = [
-  { href: '/', label: 'Home', icon: 'house', on: path === '/' },
-  { href: '/episodes', label: 'Episodes', icon: 'headphones', on: path.startsWith('/episodes') },
-  { href: '/research', label: 'Research', icon: 'library', on: path.startsWith('/research') },
-  { href: '/timeline', label: 'Timeline', icon: 'clock', on: path.startsWith('/timeline') },
-  { href: '/people', label: 'People', icon: 'users', on: path.startsWith('/people') },
-  { href: '/places', label: 'Places', icon: 'map', on: path.startsWith('/places') },
-  { href: '/sources', label: 'Sources', icon: 'scroll-text', on: path.startsWith('/sources') },
-  { href: '/downloads', label: 'Downloads', icon: 'download', on: path.startsWith('/downloads') },
+  { href: '/episodes', label: 'Episodes', on: path.startsWith('/episodes') },
+  { href: '/timeline', label: 'Timeline', on: path === '/timeline' },
+  { href: '/web', label: 'Web', on: path.startsWith('/web') },
+  { href: '/sources', label: 'Sources', on: path.startsWith('/sources') },
+  { href: '/downloads', label: 'Downloads', on: path.startsWith('/downloads') },
+  { href: '/research', label: 'Research', on: path.startsWith('/research') },
+  { href: '/people', label: 'People', on: path === '/people' },
+  { href: '/places', label: 'Places', on: path.startsWith('/places') },
 ];
 ---
 
-<nav class="rail" aria-label="Sections">
-  <a class="mark" href="/" aria-label="Cardinal home">
-    <span class="mark-letter">C</span>
-  </a>
-  {
-    items.map((item) => (
-      <a href={item.href} aria-current={item.on ? 'page' : undefined}>
-        <Icon name={item.icon} />
-        <span>{item.label}</span>
-      </a>
-    ))
-  }
-  <div class="spacer"></div>
-  <button type="button" id="theme" aria-pressed="false">
-    <Icon name="sun" />
-    <span>Light</span>
-  </button>
-</nav>
+<header class="bar">
+  <div class="bar-row">
+    <a class="brand" href="/">Cardinal</a>
+    <button type="button" class="theme" id="theme" aria-pressed="false">Light</button>
+  </div>
+  <nav aria-label="Sections">
+    {
+      items.map((item) => (
+        <a href={item.href} aria-current={item.on ? 'page' : undefined}>
+          {item.label}
+        </a>
+      ))
+    }
+  </nav>
+</header>
 
 <script>
   const btn = document.getElementById('theme');
-  const label = btn?.querySelector('span');
   function paint() {
     const light = document.documentElement.dataset.theme === 'light';
     btn?.setAttribute('aria-pressed', light ? 'true' : 'false');
-    if (label) label.textContent = light ? 'Dark' : 'Light';
+    if (btn) btn.textContent = light ? 'Dark' : 'Light';
   }
   paint();
   btn?.addEventListener('click', () => {

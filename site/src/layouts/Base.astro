@@ -25,6 +25,8 @@ const full = title === 'Cardinal' ? 'Cardinal' : `${title} · Cardinal`;
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{full}</title>
     <meta name="description" content={description} />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="theme-color" content="#8c1515" />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <script is:inline>
       try {
@@ -37,9 +39,15 @@ const full = title === 'Cardinal' ? 'Cardinal' : `${title} · Cardinal`;
   <body>
     <a class="skip" href="#content">Skip to content</a>
     <Nav />
-    <div class="shell" id="content">
+    <main class="shell" id="content">
       <slot />
-    </div>
+    </main>
     <a class="to-top" href="#content">Back to top</a>
+    <script is:inline>
+      const toTop = document.querySelector('.to-top');
+      const onScroll = () => toTop?.classList.toggle('is-on', window.scrollY > 480);
+      onScroll();
+      window.addEventListener('scroll', onScroll, { passive: true });
+    </script>
   </body>
 </html>
