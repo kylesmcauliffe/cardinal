@@ -77,4 +77,4 @@ CARDINAL_SITE_PASSWORD=dummy npm run build
 CARDINAL_SITE_PASSWORD=dummy npm start
 ```
 
-Responses keep `X-Robots-Tag: noindex, nofollow`. `public/robots.txt` remains `Disallow: /`.
+Responses keep `X-Robots-Tag: noindex, nofollow`. `public/robots.txt` remains `Disallow: /`. Successful responses use `Cache-Control: private` (HTML is `no-store`) so a shared cache cannot replay a logged-in page to someone who has not entered the password.
