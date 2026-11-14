@@ -31,7 +31,7 @@ EPUB and PDF files in `site/public/downloads/` are built from the Quarto book an
 
 ## Firebase Hosting
 
-`site/firebase.json` sets `hosting.public` to `dist`. `site/.firebaserc` sets the default project to `cardinal-510519`. Classic Hosting on `cardinal-510519.web.app` is a fallback; the password-protected live site is served by Firebase App Hosting (see below). Do not add a Hosting rewrite to a Cloud Function named `gate`.
+`site/firebase.json` sets `hosting.public` to `dist`. `site/.firebaserc` sets the default project to `cardinal-510519`. Classic Hosting on `stanford.phd`, `www.stanford.phd`, and `cardinal-510519.web.app` 301s every path to the same path on `https://read.stanford.phd`, where Firebase App Hosting serves the password-protected site (see below). Do not add a Hosting rewrite to a Cloud Function named `gate`.
 
 ```bash
 cd site

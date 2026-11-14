@@ -18,6 +18,13 @@
           }
         ]
       }
+    ],
+    "redirects": [
+      {
+        "regex": "/(.*)",
+        "destination": "https://read.stanford.phd/:1",
+        "type": 301
+      }
     ]
   }
 }
