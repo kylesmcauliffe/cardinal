@@ -54,6 +54,8 @@ npm run preview
 - The documentary rewrite from `rewrite/documentary-2026-10`, plus question files and the inauguration note that exist only on `rewrite/eps-1-2`, `rewrite/eps-5-6`, and `rewrite/eps-7-8`. Episodes 3 and 4 of that rewrite are also pull request #6.
 - `books/cardinal/references.bib` and `books/cardinal/_project/event-ledger.csv`.
 
+`npm run build` also builds `apps/web-of-people` with `WOP_BASE=/web/` and copies that static app into `dist/web`. Those pages stay behind the same password gate, because the lock serves the whole `dist` tree. The graph uses the cited dataset already in `apps/web-of-people/data`. `github.com/Artometrics/cardinal-sources` is mining prose; it is not turned into extra relationships.
+
 `github.com/kylesmcauliffe/cardinal-sources` returned HTTP 404 on 21 October 2026. Pull requests #1–#3 there were not readable. Nothing from that repository is in the site.
 
 Commit SHAs for the extracts are in `site/corpus/PROVENANCE.md`.

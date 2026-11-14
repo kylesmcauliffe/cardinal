@@ -61,6 +61,8 @@ button { font: inherit; color: inherit; }
 .brand svg { flex: none; }
 .brand b { display: block; font-family: var(--font-display); font-weight: 760; font-variation-settings: 'wdth' 80; font-size: 1.55rem; line-height: 0.95; letter-spacing: -0.02em; }
 .brand small { display: block; font-family: var(--font-display); font-weight: 560; font-variation-settings: 'wdth' 90; font-size: 0.74rem; opacity: 0.92; margin-top: 0.15rem; }
+.series { align-self: center; color: #f6efe9; text-decoration: none; font-family: var(--font-display); font-weight: 650; font-size: 0.85rem; padding: 0.35rem 0.55rem; border: 1px solid rgba(246, 239, 233, 0.5); white-space: nowrap; }
+.series:hover { background: var(--cardinal-deep); }
 .nav { display: flex; align-items: stretch; margin-left: auto; overflow-x: auto; scrollbar-width: none; }
 .nav::-webkit-scrollbar { display: none; }
 .nav a, .theme {
