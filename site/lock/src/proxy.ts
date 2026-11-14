@@ -44,6 +44,8 @@ function isAuthorized(header: string | null, password: string): boolean {
 
 function withRobots(response: NextResponse): NextResponse {
   response.headers.set("X-Robots-Tag", "noindex, nofollow");
+  response.headers.set("Cache-Control", "private, no-store");
+  response.headers.set("Vary", "Authorization");
   return response;
 }
 

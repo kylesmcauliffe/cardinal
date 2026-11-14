@@ -73,6 +73,9 @@ function commonHeaders(extra?: HeadersInit): Headers {
   const headers = new Headers(extra);
   headers.set("X-Robots-Tag", "noindex, nofollow");
   headers.set("X-Content-Type-Options", "nosniff");
+  // Responses are gated by HTTP Basic Auth; a shared cache must not
+  // reuse a 200 for a client that has not authenticated.
+  headers.set("Vary", "Authorization");
   return headers;
 }
 
@@ -80,8 +83,8 @@ function fileResponse(filePath: string, headOnly: boolean, status = 200): Respon
   const ext = path.extname(filePath).toLowerCase();
   const type = MIME[ext] || "application/octet-stream";
   const cache = /\.(?:js|css|svg|woff2|png|webp|jpg|jpeg|gif|ico)$/i.test(filePath)
-    ? "public, max-age=31536000, immutable"
-    : "public, max-age=3600";
+    ? "private, max-age=31536000, immutable"
+    : "private, no-store";
   const headers = commonHeaders({
     "Content-Type": type,
     "Cache-Control": cache,
