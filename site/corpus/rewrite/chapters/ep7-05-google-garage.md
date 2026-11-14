@@ -20,7 +20,7 @@ Kleiner Perkins and Sequoia Capital both invested in June 1999 — rival firms s
 
 John Doerr, Kleiner's best-known partner, would join Google's board and become one of the company's outward faces in the press. The term sheets those firms used had been drafted a few miles away, at Wilson Sonsini and at the banks that lent against venture signatures rather than against revenue. A startup's institutional world still fit inside a short drive.
 
-Stanford's technology licensing office finalized the PageRank deal in parallel: exclusive license, cash, and equity. The university was now both landlord of the research and shareholder of the product. When the company later raised larger rounds, the same road that had financed Genentech from a fired associate's desperation now financed search from a graduate project that had already failed to sell itself to Excite.
+Stanford's technology licensing office finalized the PageRank deal in parallel: exclusive license, cash, and equity. The university was now both landlord of the research and shareholder of the product. When the company later raised larger rounds, the same road that had financed Genentech from an associate the firm had let go now financed search from a graduate project that had already failed to sell itself to Excite.
 
 ## Leaving the campus
 

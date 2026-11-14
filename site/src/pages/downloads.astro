@@ -40,19 +40,21 @@ const episodes = getEpisodes();
       {
         episodes.map((ep) => (
           <li>
-            {ep.audioReady ? (
-              <a href={ep.audio}>
-                {String(ep.n).padStart(2, '0')} {ep.title}
-              </a>
-            ) : (
-              <span>
-                {String(ep.n).padStart(2, '0')} {ep.title}
-              </span>
-            )}
+            {
+              ep.audio ? (
+                <a href={ep.audio}>
+                  {String(ep.n).padStart(2, '0')} {ep.title}
+                </a>
+              ) : (
+                <span>
+                  {String(ep.n).padStart(2, '0')} {ep.title}
+                </span>
+              )
+            }
             <div class="meta">
-              {ep.audioReady
+              {ep.audio
                 ? ep.audio
-                : `${ep.audio}. No file is published there. Earlier narration is not this episode.`}
+                : 'Not recorded. The manifest has no audio URL, so this page does not link a missing file.'}
             </div>
           </li>
         ))

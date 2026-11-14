@@ -64,7 +64,7 @@ The Southern Pacific decided which towns in the Central Valley would exist by de
 
 ## Genentech
 
-Bob Swanson was twenty-nine years old when Kleiner Perkins let him go.
+Bob Swanson was the junior partner when Kleiner Perkins let him go, at the end of 1975.
 
 He had been a partner at the firm for less than a year. He was intense, impatient, and convinced that recombinant DNA — the technique Stanley Cohen at Stanford and Herbert Boyer at UCSF had published — could be turned into products if someone would finance the attempt (Berlin 2017, ch. 15). <!-- bib: berlin-troublemakers -->
 
@@ -72,7 +72,7 @@ Swanson called Boyer. In 1976 they incorporated Genentech in South San Francisco
 
 The company would become the commercial proof that biology could be financed like software: long timelines, binary outcomes, enormous returns on the ones that worked. It would go public in 1980, on patents filed while Swanson was still trying to get Kleiner Perkins to return his calls.
 
-A fired kid at the gate had become a biotech empire. The road had turned him away. The science had not.
+An associate the firm had let go had become a biotech empire. The road had turned him away. The science had not.
 
 He would not live to see the full shape of what he started. Swanson died in 1999, at fifty-two. Genentech outlived him by decades.
 

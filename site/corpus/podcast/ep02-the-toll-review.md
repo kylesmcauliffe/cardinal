@@ -1,5 +1,7 @@
 # Episode 2 review — The Toll (1848–1869)
 
+Nov 6, 2026: the script was reordered so The Store stays in the early 1850s. The fall 1860 Donner ride, the June 28, 1861 incorporation, the February 1866 Hopkins letter, the September 1862 mountain move, and the February 1873 furnace now sit in year order. Word count below is the Oct 18 figure and was not recounted. Not cleared to record. See `AUDIT-2026-11-06.md`.
+
 Final edit, Oct 18, 2026, after the series critique. Narrated words now **8,687** (~57.9 min).
 
 - Hopkins and the furnace: Rayner places the burning in February 1873, during the Wilson Committee hearings, five years before Hopkins's death in March 1878. The 1887 Pacific Railway Commission asked about books already gone. The script dates the fire to 1873 and performs Huntington's "peculiar man" line once.

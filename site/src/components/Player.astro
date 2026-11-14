@@ -1,13 +1,13 @@
 ---
 interface Props {
-  src: string;
+  src: string | null;
   label: string;
-  ready?: boolean;
 }
-const { src, label, ready = false } = Astro.props;
+const { src, label } = Astro.props;
+const ready = typeof src === 'string' && src.length > 0;
 ---
 
-<figure class="player" data-player>
+<figure class="player" data-player data-ready={ready ? 'yes' : 'no'}>
   <figcaption class="where">{label}</figcaption>
   {
     ready ? (
@@ -15,9 +15,7 @@ const { src, label, ready = false } = Astro.props;
         {label}
       </audio>
     ) : (
-      <p class="soon">
-        Earlier narration is not this episode. No corrected recording is published at <code>{src}</code>.
-      </p>
+      <p class="soon">Audio not recorded. No file is published for this episode.</p>
     )
   }
 </figure>
