@@ -1,0 +1,48 @@
+---
+import Base from '../../layouts/Base.astro';
+import { data } from '../../lib/data';
+import { citeHtml, esc, href } from '../../lib/html';
+import { familyTitle, treeSvg } from '../../lib/tree';
+import { familyHtml } from '../../lib/profile';
+
+export function getStaticPaths() {
+  return data.families().flatMap((c) => c.map((id) => ({ params: { id }, props: { comp: c } })));
+}
+const { id } = Astro.params as { id: string };
+const { comp } = Astro.props as { comp: string[] };
+const title = familyTitle(data, comp);
+const svg = treeSvg(data, comp, id);
+const rels = data.relationships.filter((r) => ['spouse', 'parent', 'sibling'].includes(r.type) && (comp.includes(r.a) || (r.b && comp.includes(r.b))));
+---
+<Base title={title} current="family" description={`${title}: family tree built only from relationships the Cardinal notes state.`}>
+  <div class="page">
+    <p class="meta"><a href={href('/family/')}>All families</a></p>
+    <h1>{title}</h1>
+    <p class="lede">Only relationships stated in the repository are drawn. “—” or “dates not recorded” means no source gives that date.</p>
+    <div class="tree-wrap" role="region" aria-label="Family tree, scrolls sideways on small screens" tabindex="0">
+      <Fragment set:html={svg} />
+    </div>
+    <h2>Who is who</h2>
+    <ul class="fam-list">
+      {comp.map((pid) => {
+        const p = data.byId.get(pid)!;
+        return (
+          <li>
+            <a href={href(`/people/${pid}/`)}><b>{p.name}</b></a>
+            <span class="dim">{data.lifeLabel(pid)} · {p.role ?? 'Role not recorded'}</span>
+          </li>
+        );
+      })}
+    </ul>
+    <h2>Sources for these links</h2>
+    <ul class="fam-list">
+      {rels.map((r) => (
+        <li>
+          <span class="fam-rel">{r.type}</span>
+          <span>{r.label}</span>
+          <details><summary>Source</summary><Fragment set:html={r.cites.map(citeHtml).join('')} /></details>
+        </li>
+      ))}
+    </ul>
+  </div>
+</Base>

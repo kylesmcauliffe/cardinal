@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mockup: Family tree · Web of People</title>
+<meta name="robots" content="noindex">
+<link rel="stylesheet" href="../public/fonts/fonts.css">
+<link rel="stylesheet" href="../src/styles/app.css">
+<style>
+.mockflag { background: var(--paper); color: #1c0d10; font-family: var(--font-display); font-weight: 650; font-variation-settings: 'wdth' 92; font-size: 0.78rem; letter-spacing: 0.03em; text-transform: uppercase; padding: 0.35rem var(--pad); text-align: center; }
+.m-only { display: none; }
+@media (max-width: 720px) { .d-only { display: none; } .m-only { display: block; } }
+.mock .stage { height: min(76vh, 46rem); }
+.mock .drawer { position: absolute; }
+@media (max-width: 720px) {
+  .mock .drawer { position: relative; transform: none; visibility: visible; height: auto; max-height: 40rem; border: 2px solid var(--ink); top: auto; width: 100%; margin-top: 1rem; z-index: 1; }
+  .mock .drawer-grip { display: block; }
+  .mock .webwrap { display: block; }
+}
+.mock .toolbar .field input { pointer-events: none; }
+.annot { font-family: var(--font-display); font-variation-settings: 'wdth' 90; font-size: 0.82rem; color: var(--ink-dim); margin: 0.5rem 0 0; }
+</style>
+</head>
+<body class="mock">
+<div class="mockflag">Mockup · static comp, not the running app · family tree view, desktop and phone</div>
+<header class="mast"><div class="mast-in">
+    <a class="brand" href="web.html"><svg width="38" height="38" viewBox="0 0 38 38" aria-hidden="true"><g fill="none" stroke="#f6efe9" stroke-width="2.4"><path d="M9 28 19 9l10 19M9 28h20"/></g><g fill="#8c1515" stroke="#f6efe9" stroke-width="2.4"><circle cx="9" cy="28" r="5"/><circle cx="19" cy="9" r="5"/><circle cx="29" cy="28" r="5"/></g></svg><span><b>Web of People</b><small>A Cardinal project</small></span></a>
+    <nav class="nav" aria-label="Main"><a href="web.html">Web</a><a href="profile.html">People</a><a href="family.html" aria-current="page">Family</a><a href="surname-place.html">Surnames</a><a href="surname-place.html#places">Places</a><a href="#">Organisations</a><a href="#">Charts</a><a href="#">Import</a><a href="#">Sources</a></nav>
+    <button type="button" class="theme" data-theme-toggle aria-label="Switch between dark and light">Light / Dark</button>
+  </div></header>
+<main id="main"><div class="page">
+    <p class="meta"><a href="#">All families</a></p>
+    <h1>Stanford and Lathrop and Hewes</h1>
+    <p class="lede">Only relationships stated in the repository are drawn. “—” or “dates not recorded” means no source gives that date.</p>
+    <div class="tree-wrap" tabindex="0" role="region" aria-label="Family tree"><svg class="tree" role="img" aria-label="Family tree of Leland Stanford, Jane Lathrop Stanford, Leland Stanford Jr., Elizabeth Phillips Stanford, Josiah Stanford, Charles Stanford, Thomas Welton Stanford, Dyer Lathrop, Jane Ann Shields Lathrop, Anna Maria Lathrop Hewes, Charles Lathrop, Daniel Shields Lathrop" width="2776.3999999999996" height="446" viewBox="0 0 2776.3999999999996 446"><defs><clipPath id="a-c0"><circle cx="30" cy="40" r="22"/></clipPath><clipPath id="a-c1"><circle cx="30" cy="40" r="22"/></clipPath><clipPath id="a-c2"><circle cx="30" cy="40" r="22"/></clipPath></defs><line class="edge marriage" x1="232" x2="262" y1="228" y2="228"/><path class="edge" d="M247 228 V305 H247 V342"/><path class="edge" d="M1382.4 114 V151 H368 V188"/><path class="edge" d="M1636 114 V151 H368 V188"/><path class="edge" d="M247 114 V151 H126 V188"/><path class="edge" d="M621.6 114 V151 H126 V188"/><text class="gen" x="20" y="14">Generation 1</text><text class="gen" x="20" y="168">Generation 2</text><text class="gen" x="20" y="322">Generation 3</text><a href="#" aria-label="Leland Stanford, 1824–1893">
+      <g class="card focus" transform="translate(20 188)"><title>Leland Stanford</title><rect width="212" height="80"/>
+        <circle class="circ" cx="30" cy="40" r="22"/><image href="../public/portraits/leland-stanford.jpg" x="8" y="18" width="44" height="44" preserveAspectRatio="xMidYMin slice" clip-path="url(#a-c0)"/>
+        <text class="nm" x="62" y="30">Leland Stanford</text>
+        <text class="sb" x="62" y="48">1824–1893</text>
+        
+      </g></a><a href="#" aria-label="Jane Lathrop Stanford, 1828–1905">
+      <g class="card" transform="translate(262 188)"><title>Jane Lathrop Stanford</title><rect width="212" height="80"/>
+        <circle class="circ" cx="30" cy="40" r="22"/><image href="../public/portraits/jane-stanford.jpg" x="8" y="18" width="44" height="44" preserveAspectRatio="xMidYMin slice" clip-path="url(#a-c1)"/>
+        <text class="nm" x="62" y="30">Jane Lathrop Stanford</text>
+        <text class="sb" x="62" y="48">1828–1905</text>
+        
+      </g></a><a href="#" aria-label="Leland Stanford Jr., 1868–1884">
+      <g class="card" transform="translate(141 342)"><title>Leland Stanford Jr.</title><rect width="212" height="80"/>
+        <circle class="circ" cx="30" cy="40" r="22"/><image href="../public/portraits/leland-stanford-jr.jpg" x="8" y="18" width="44" height="44" preserveAspectRatio="xMidYMin slice" clip-path="url(#a-c2)"/>
+        <text class="nm" x="62" y="30">Leland Stanford Jr.</text>
+        <text class="sb" x="62" y="48">1868–1884</text>
+        
+      </g></a><a href="#" aria-label="Elizabeth Phillips Stanford, 1791–1873">
+      <g class="card" transform="translate(141 34)"><title>Elizabeth Phillips Stanford</title><rect width="212" height="80"/>
+        <circle class="circ" cx="30" cy="40" r="22" stroke-dasharray="3 3"/><text class="circ-i" x="30" y="40">ES</text>
+        <text class="nm" x="62" y="30">Elizabeth Phillips St…</text>
+        <text class="sb" x="62" y="48">1791–1873</text>
+        <text class="nr" x="62" y="65">parents not recorded</text>
+      </g></a><a href="#" aria-label="Josiah Stanford, 1795–1862">
+      <g class="card" transform="translate(515.6 34)"><title>Josiah Stanford</title><rect width="212" height="80"/>
+        <circle class="circ" cx="30" cy="40" r="22" stroke-dasharray="3 3"/><text class="circ-i" x="30" y="40">JS</text>
+        <text class="nm" x="62" y="30">Josiah Stanford</text>
+        <text class="sb" x="62" y="48">1795–1862</text>
+        <text class="nr" x="62" y="65">parents not recorded</text>
+      </g></a><a href="#" aria-label="Charles Stanford, 1819–1885">
+      <g class="card" transform="translate(769.2 188)"><title>Charles Stanford</title><rect width="212" height="80"/>
+        <circle class="circ" cx="30" cy="40" r="22" stroke-dasharray="3 3"/><text class="circ-i" x="30" y="40">CS</text>
+        <text class="nm" x="62" y="30">Charles Stanford</text>
+        <text class="sb" x="62" y="48">1819–1885</text>
+        <text class="nr" x="62" y="65">parents not recorded</text>
+      </g></a><a href="#" aria-label="Thomas Welton Stanford, 1832–1918">
+      <g class="card" transform="translate(1022.8000000000001 188)"><title>Thomas Welton Stanford</title><rect width="212" height="80"/>
+        <circle class="circ" cx="30" cy="40" r="22" stroke-dasharray="3 3"/><text class="circ-i" x="30" y="40">TS</text>
+        <text class="nm" x="62" y="30">Thomas Welton Stanford</text>
+        <text class="sb" x="62" y="48">1832–1918</text>
+        <text class="nr" x="62" y="65">parents not recorded</text>
+      </g></a><a href="#" aria-label="Dyer Lathrop, dates not recorded">
+      <g class="card" transform="translate(1276.4 34)"><title>Dyer Lathrop</title><rect width="212" height="80"/>
+        <circle class="circ" cx="30" cy="40" r="22" stroke-dasharray="3 3"/><text class="circ-i" x="30" y="40">DL</text>
+        <text class="nm" x="62" y="30">Dyer Lathrop</text>
+        <text class="sb" x="62" y="48">dates not recorded</text>
+        <text class="nr" x="62" y="65">parents not recorded</text>
+      </g></a><a href="#" aria-label="Jane Ann Shields Lathrop, dates not recorded">
+      <g class="card" transform="translate(1530 34)"><title>Jane Ann Shields Lathrop</title><rect width="212" height="80"/>
+        <circle class="circ" cx="30" cy="40" r="22" stroke-dasharray="3 3"/><text class="circ-i" x="30" y="40">JL</text>
+        <text class="nm" x="62" y="30">Jane Ann Shields Lath…</text>
+        <text class="sb" x="62" y="48">dates not recorded</text>
+        <text class="nr" x="62" y="65">parents not recorded</text>
+      </g></a><a href="#" aria-label="Anna Maria Lathrop Hewes, dates not recorded">
+      <g class="card" transform="translate(1783.6 188)"><title>Anna Maria Lathrop Hewes</title><rect width="212" height="80"/>
+        <circle class="circ" cx="30" cy="40" r="22" stroke-dasharray="3 3"/><text class="circ-i" x="30" y="40">AH</text>
+        <text class="nm" x="62" y="30">Anna Maria Lathrop He…</text>
+        <text class="sb" x="62" y="48">dates not recorded</text>
+        <text class="nr" x="62" y="65">parents not recorded</text>
+      </g></a><a href="#" aria-label="Charles Lathrop, dates not recorded">
+      <g class="card" transform="translate(2037.1999999999998 188)"><title>Charles Lathrop</title><rect width="212" height="80"/>
+        <circle class="circ" cx="30" cy="40" r="22" stroke-dasharray="3 3"/><text class="circ-i" x="30" y="40">CL</text>
+        <text class="nm" x="62" y="30">Charles Lathrop</text>
+        <text class="sb" x="62" y="48">dates not recorded</text>
+        <text class="nr" x="62" y="65">parents not recorded</text>
+      </g></a><a href="#" aria-label="Daniel Shields Lathrop, dates not recorded">
+      <g class="card" transform="translate(2290.7999999999997 188)"><title>Daniel Shields Lathrop</title><rect width="212" height="80"/>
+        <circle class="circ" cx="30" cy="40" r="22" stroke-dasharray="3 3"/><text class="circ-i" x="30" y="40">DL</text>
+        <text class="nm" x="62" y="30">Daniel Shields Lathrop</text>
+        <text class="sb" x="62" y="48">dates not recorded</text>
+        <text class="nr" x="62" y="65">parents not recorded</text>
+      </g></a><g class="card ghost" transform="translate(2544.3999999999996 188)"><rect width="212" height="80"/>
+        <text class="nm" x="14" y="34">other brothers and sisters</text><text class="nr" x="14" y="54">Not named in the notes</text></g></svg></div>
+    <h2>A sibling pair with an unnamed relative</h2>
+    <p>The notes mention a brother of Collis Huntington without naming him. The tree shows a dashed placeholder instead of guessing.</p>
+    <div class="tree-wrap" tabindex="0" role="region" aria-label="Family tree"><svg class="tree" role="img" aria-label="Family tree of Collis P. Huntington, Solon Huntington, Archer Milton Huntington, Elizabeth Vincent Huntington, William Huntington, Arabella Huntington, Elizabeth Stoddard Huntington" width="1243.2" height="446" viewBox="0 0 1243.2 446"><defs><clipPath id="b-c0"><circle cx="30" cy="40" r="22"/></clipPath></defs><line class="edge marriage" x1="485.6" x2="515.6" y1="228" y2="228"/><line class="edge marriage" x1="727.6" x2="757.6" y1="228" y2="228"/><path class="edge" d="M621.6 228 V305 H621.6 V342"/><path class="edge" d="M621.6 114 V151 H379.6 V188"/><path class="edge" d="M1117.2 114 V151 H379.6 V188"/><text class="gen" x="20" y="14">Generation 1</text><text class="gen" x="20" y="168">Generation 2</text><text class="gen" x="20" y="322">Generation 3</text><a href="#" aria-label="Collis P. Huntington, 1821–1900">
+      <g class="card" transform="translate(273.6 188)"><title>Collis P. Huntington</title><rect width="212" height="80"/>
+        <circle class="circ" cx="30" cy="40" r="22"/><image href="../public/portraits/collis-huntington.jpg" x="8" y="18" width="44" height="44" preserveAspectRatio="xMidYMin slice" clip-path="url(#b-c0)"/>
+        <text class="nm" x="62" y="30">Collis P. Huntington</text>
+        <text class="sb" x="62" y="48">1821–1900</text>
+        
+      </g></a><a href="#" aria-label="Solon Huntington, dates not recorded">
+      <g class="card" transform="translate(20 188)"><title>Solon Huntington</title><rect width="212" height="80"/>
+        <circle class="circ" cx="30" cy="40" r="22" stroke-dasharray="3 3"/><text class="circ-i" x="30" y="40">SH</text>
+        <text class="nm" x="62" y="30">Solon Huntington</text>
+        <text class="sb" x="62" y="48">dates not recorded</text>
+        <text class="nr" x="62" y="65">parents not recorded</text>
+      </g></a><a href="#" aria-label="Archer Milton Huntington, dates not recorded">
+      <g class="card" transform="translate(515.6 342)"><title>Archer Milton Huntington</title><rect width="212" height="80"/>
+        <circle class="circ" cx="30" cy="40" r="22" stroke-dasharray="3 3"/><text class="circ-i" x="30" y="40">AH</text>
+        <text class="nm" x="62" y="30">Archer Milton Hunting…</text>
+        <text class="sb" x="62" y="48">dates not recorded</text>
+        
+      </g></a><a href="#" aria-label="Elizabeth Vincent Huntington, dates not recorded">
+      <g class="card" transform="translate(515.6 34)"><title>Elizabeth Vincent Huntington</title><rect width="212" height="80"/>
+        <circle class="circ" cx="30" cy="40" r="22" stroke-dasharray="3 3"/><text class="circ-i" x="30" y="40">EH</text>
+        <text class="nm" x="62" y="30">Elizabeth Vincent Hun…</text>
+        <text class="sb" x="62" y="48">dates not recorded</text>
+        <text class="nr" x="62" y="65">parents not recorded</text>
+      </g></a><a href="#" aria-label="William Huntington, dates not recorded">
+      <g class="card" transform="translate(1011.2 34)"><title>William Huntington</title><rect width="212" height="80"/>
+        <circle class="circ" cx="30" cy="40" r="22" stroke-dasharray="3 3"/><text class="circ-i" x="30" y="40">WH</text>
+        <text class="nm" x="62" y="30">William Huntington</text>
+        <text class="sb" x="62" y="48">dates not recorded</text>
+        <text class="nr" x="62" y="65">parents not recorded</text>
+      </g></a><a href="#" aria-label="Arabella Huntington, d. 1924">
+      <g class="card" transform="translate(515.6 188)"><title>Arabella Huntington</title><rect width="212" height="80"/>
+        <circle class="circ" cx="30" cy="40" r="22" stroke-dasharray="3 3"/><text class="circ-i" x="30" y="40">AH</text>
+        <text class="nm" x="62" y="30">Arabella Huntington</text>
+        <text class="sb" x="62" y="48">d. 1924</text>
+        <text class="nr" x="62" y="65">parents not recorded</text>
+      </g></a><a href="#" aria-label="Elizabeth Stoddard Huntington, dates not recorded">
+      <g class="card" transform="translate(757.6 188)"><title>Elizabeth Stoddard Huntington</title><rect width="212" height="80"/>
+        <circle class="circ" cx="30" cy="40" r="22" stroke-dasharray="3 3"/><text class="circ-i" x="30" y="40">EH</text>
+        <text class="nm" x="62" y="30">Elizabeth Stoddard Hu…</text>
+        <text class="sb" x="62" y="48">dates not recorded</text>
+        <text class="nr" x="62" y="65">parents not recorded</text>
+      </g></a></svg></div>
+    <h2>What your own family would look like</h2>
+    <p>Import a GEDCOM file (for example from Ancestry) and the same view lays out your generations. This one comes from the built-in <b>fictional</b> sample file, not from the Cardinal notes. Living people are hidden by default.</p>
+    <div class="tree-wrap" tabindex="0" role="region" aria-label="Family tree from a sample import"><svg class="tree" role="img" aria-label="Family tree of Ben Example, Ada Example, Cora Example, Dan Example, Frank Sample, Eve Sample" width="732" height="442" viewBox="0 0 732 442"><defs></defs><line class="edge marriage" x1="351" x2="381" y1="74" y2="74"/><line class="edge marriage" x1="232" x2="262" y1="228" y2="228"/><path class="edge" d="M366 74 V151 H126 V188"/><path class="edge" d="M366 74 V151 H606 V188"/><path class="edge" d="M247 228 V305 H247 V342"/><text class="gen" x="20" y="14">Generation 1</text><text class="gen" x="20" y="168">Generation 2</text><text class="gen" x="20" y="322">Generation 3</text><a href="#" aria-label="Ben Example, 1858–1921">
+      <g class="card" transform="translate(139 34)"><title>Ben Example</title><rect width="212" height="80"/>
+        <circle class="circ" cx="30" cy="40" r="22" stroke-dasharray="3 3"/><text class="circ-i" x="30" y="40">BE</text>
+        <text class="nm" x="62" y="30">Ben Example</text>
+        <text class="sb" x="62" y="48">1858–1921</text>
+        <text class="nr" x="62" y="65">parents not recorded</text>
+      </g></a><a href="#" aria-label="Ada Example, 1861–1930">
+      <g class="card" transform="translate(381 34)"><title>Ada Example</title><rect width="212" height="80"/>
+        <circle class="circ" cx="30" cy="40" r="22" stroke-dasharray="3 3"/><text class="circ-i" x="30" y="40">AE</text>
+        <text class="nm" x="62" y="30">Ada Example</text>
+        <text class="sb" x="62" y="48">1861–1930</text>
+        <text class="nr" x="62" y="65">parents not recorded</text>
+      </g></a><a href="#" aria-label="Cora Example, 1884–1960">
+      <g class="card" transform="translate(20 188)"><title>Cora Example</title><rect width="212" height="80"/>
+        <circle class="circ" cx="30" cy="40" r="22" stroke-dasharray="3 3"/><text class="circ-i" x="30" y="40">CE</text>
+        <text class="nm" x="62" y="30">Cora Example</text>
+        <text class="sb" x="62" y="48">1884–1960</text>
+        
+      </g></a><a href="#" aria-label="Dan Example, 1887–1888">
+      <g class="card" transform="translate(500 188)"><title>Dan Example</title><rect width="212" height="80"/>
+        <circle class="circ" cx="30" cy="40" r="22" stroke-dasharray="3 3"/><text class="circ-i" x="30" y="40">DE</text>
+        <text class="nm" x="62" y="30">Dan Example</text>
+        <text class="sb" x="62" y="48">1887–1888</text>
+        
+      </g></a><a href="#" aria-label="Frank Sample, 1908–1980">
+      <g class="card" transform="translate(262 188)"><title>Frank Sample</title><rect width="212" height="80"/>
+        <circle class="circ" cx="30" cy="40" r="22" stroke-dasharray="3 3"/><text class="circ-i" x="30" y="40">FS</text>
+        <text class="nm" x="62" y="30">Frank Sample</text>
+        <text class="sb" x="62" y="48">1908–1980</text>
+        <text class="nr" x="62" y="65">parents not recorded</text>
+      </g></a><a href="#" aria-label="Eve Sample, 1910–1999">
+      <g class="card" transform="translate(141 342)"><title>Eve Sample</title><rect width="212" height="80"/>
+        <circle class="circ" cx="30" cy="40" r="22" stroke-dasharray="3 3"/><text class="circ-i" x="30" y="40">ES</text>
+        <text class="nm" x="62" y="30">Eve Sample</text>
+        <text class="sb" x="62" y="48">1910–1999</text>
+        
+      </g></a></svg></div>
+    <p class="annot">Imported facts are labelled “As imported”: shown as written, not verified here.</p>
+  </div></main>
+<footer class="foot"><div class="foot-in">
+    <p><b>Web of People</b> is a prototype for Cardinal, built to be reused in Dawn.</p>
+    <p class="fine">215 people, 197 events and 13 repository files and 163 external pages as sources. Every fact cites a file in the Cardinal repository or an external page, with a verbatim quote. Where the sources are silent, this site says “not recorded”. Entries marked Draft come from drafting notes that no external source has yet confirmed. Portraits are public-domain or Creative Commons images, almost all from Wikimedia Commons, credited on each profile; where none was found the profile says so.</p>
+    <p class="fine"><a href="#">Sources</a> · <a href="#">Charts</a> · <a href="#">Import a family file</a></p>
+  </div></footer>
+</body>
+</html>

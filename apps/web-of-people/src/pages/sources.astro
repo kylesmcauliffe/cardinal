@@ -1,0 +1,59 @@
+---
+import Base from '../layouts/Base.astro';
+import { data } from '../lib/data';
+
+const REPO = 'https://github.com/kylesmcauliffe/cardinal/blob/main/';
+const counts = new Map<string, number>();
+const bump = (f?: string) => f && counts.set(f, (counts.get(f) ?? 0) + 1);
+data.people.forEach((p) => p.roleCites?.forEach((c) => bump(c.f)));
+data.events.forEach((e) => e.cites.forEach((c) => bump(c.f)));
+data.relationships.forEach((r) => r.cites.forEach((c) => bump(c.f)));
+const web = [...(data.ds.webSources ?? [])].sort((a, b) => b.cites - a.cites || a.publisher.localeCompare(b.publisher));
+const KIND: Record<string, string> = { primary: 'Primary source', reference: 'Reference work', scholarly: 'Scholarly work', institutional: 'Institutional page', tertiary: 'Encyclopedia (tertiary)' };
+const rows = data.ds.sources.map((s) => ({ s, n: counts.get(s.path) ?? 0 })).sort((a, b) => b.n - a.n);
+const byStatus = ['VERIFIED', 'NEEDS SOURCE', 'CONTESTED', 'DRAFT'].map((k) => [k, data.events.filter((e) => e.status === k).length] as const);
+---
+<Base title="Sources" current="sources" description="The repository files behind every fact in the web, and how much weight each carries.">
+  <div class="page">
+    <p class="eyebrow">{rows.length} repository files</p>
+    <h1>Sources</h1>
+    <p class="lede">Every person, event and relationship cites a repository file or an external page with a verbatim quote, and automated tests re-read the repository files (and the dated page check for external pages) to confirm the quote is there. Weight says how far to trust each kind of file.</p>
+    <table class="sheet-table">
+      <thead><tr><th scope="col">File</th><th scope="col">Kind</th><th scope="col">Citations</th><th scope="col">Weight</th></tr></thead>
+      <tbody>
+        {rows.map(({ s, n }) => (
+          <tr>
+            <td><a href={REPO + s.path.split('/').map(encodeURIComponent).join('/')} rel="noopener">{s.title}</a><br /><code class="dim" style="font-size:.78rem;word-break:break-all">{s.path}</code></td>
+            <td>{s.kind}</td>
+            <td>{n}</td>
+            <td>{s.weight}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+    {web.length > 0 && (
+      <>
+        <h2 id="web-sources">External sources ({web.length})</h2>
+        <p class="lede">Facts added or checked in the second research pass cite a web page and a verbatim passage from it. <code>npm run verify:web</code> re-fetches every page and confirms the passage is still there; the dated result is kept in <code>data/web-verification.json</code>.</p>
+        <table class="sheet-table">
+          <thead><tr><th scope="col">Page</th><th scope="col">Kind</th><th scope="col">Citations</th><th scope="col">Checked</th></tr></thead>
+          <tbody>
+            {web.map((w) => (
+              <tr>
+                <td><a href={w.url} rel="noopener">{w.title}</a><br /><span class="dim">{w.publisher}</span><br /><code class="dim" style="font-size:.78rem;word-break:break-all">{w.url}</code></td>
+                <td>{KIND[w.kind] ?? w.kind}</td>
+                <td>{w.cites}</td>
+                <td>{w.retrieved}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </>
+    )}
+    <h2>Event status</h2>
+    <ul class="fam-list">
+      {byStatus.map(([k, n]) => <li><span class="fam-rel">{k}</span> {n} events</li>)}
+    </ul>
+    <p class="dim">Ledger events carry the author’s own label. Curated events were Draft until the second research pass checked them against an external source; Draft now means none was found.</p>
+  </div>
+</Base>

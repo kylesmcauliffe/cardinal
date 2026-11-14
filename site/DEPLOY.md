@@ -25,13 +25,13 @@ site/public/audio/ep01.mp3
 site/public/audio/ep08.mp3
 ```
 
-Those files are not in the repository. A search of every git object, Git LFS (not used), and this agent's store found no episode MP3. Until a file is present at that path, the player shows “Audio coming soon.” Put the rendered files there, rebuild, and the same player uses them. `npm run build` copies `public/` into `dist/`. The Downloads page links to the same paths.
+Those files are not in the repository. Drive has one earlier cover-story recording and no per-episode MP3. That recording is not copied into the site. Until a file is present at the episode path, the player says the corrected recording is not published and does not request the missing file. Put the rendered files there, rebuild, and the same player uses them. `npm run build` copies `public/` into `dist/`. The Downloads page links to a file only when it is present.
 
 EPUB and PDF files in `site/public/downloads/` are built from the Quarto book and the episode scripts (`npm run downloads`).
 
 ## Firebase Hosting
 
-`site/firebase.json` sets `hosting.public` to `dist`. `site/.firebaserc` sets the default project to `cardinal-510519`.
+`site/firebase.json` sets `hosting.public` to `dist`. `site/.firebaserc` sets the default project to `cardinal-510519`. Classic Hosting on `stanford.phd`, `www.stanford.phd`, and `cardinal-510519.web.app` 301s every path to the same path on `https://read.stanford.phd`, where Firebase App Hosting serves the password-protected site (see below). Do not add a Hosting rewrite to a Cloud Function named `gate`.
 
 ```bash
 cd site
@@ -57,3 +57,24 @@ npm run preview
 `github.com/kylesmcauliffe/cardinal-sources` returned HTTP 404 on 21 October 2026. Pull requests #1–#3 there were not readable. Nothing from that repository is in the site.
 
 Commit SHAs for the extracts are in `site/corpus/PROVENANCE.md`.
+
+## Password lock
+
+The live site is served by Firebase App Hosting backend `cardinal` in project `cardinal-510519`, from `site/lock`. A Next.js `proxy.ts` requires HTTP Basic Auth on every route (pages and assets), then a catch-all route serves the built Astro site as static files. Username is `cardinal`. The password is the Secret Manager secret `CARDINAL_SITE_PASSWORD` in project `cardinal-510519`, injected at runtime only via `site/lock/apphosting.yaml`. It is not stored in this repository. If the secret is missing, every route returns 401 (fail closed).
+
+Merges to `main` roll out automatically when the backend is connected to `Artometrics/cardinal`. To grant the existing secret to the backend after it exists:
+
+```bash
+npx -y firebase-tools@latest apphosting:secrets:grantaccess CARDINAL_SITE_PASSWORD --project cardinal-510519 --backend cardinal
+```
+
+Local production check from `site/lock` (use a dummy password; never commit or print the real secret):
+
+```bash
+cd site/lock
+npm install
+CARDINAL_SITE_PASSWORD=dummy npm run build
+CARDINAL_SITE_PASSWORD=dummy npm start
+```
+
+Responses keep `X-Robots-Tag: noindex, nofollow`. `public/robots.txt` remains `Disallow: /`. Successful responses use `Cache-Control: private` (HTML is `no-store`) so a shared cache cannot replay a logged-in page to someone who has not entered the password.

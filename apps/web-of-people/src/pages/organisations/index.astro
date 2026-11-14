@@ -1,0 +1,28 @@
+---
+import Base from '../../layouts/Base.astro';
+import { data } from '../../lib/data';
+import { href } from '../../lib/html';
+
+const rows = data.orgs
+  .map((o) => ({ o, who: data.membersOf(o.id) }))
+  .sort((a, b) => b.who.length - a.who.length || a.o.name.localeCompare(b.o.name));
+---
+<Base title="Organisations" current="organisations" description="Universities, companies and railroads in the web, and the sourced links between them and the people.">
+  <div class="page">
+    <p class="eyebrow">{rows.length} organisations</p>
+    <h1>Organisations</h1>
+    <p class="lede">An organisation appears here only when a source states what it is and who was tied to it. Each link to a person carries its own citation and verbatim quote. Organisations the notes merely mention are left out.</p>
+    <table class="sheet-table">
+      <thead><tr><th scope="col">Organisation</th><th scope="col">Kind</th><th scope="col">People linked</th></tr></thead>
+      <tbody>
+        {rows.map(({ o, who }) => (
+          <tr>
+            <td><a href={href(`/organisations/${o.id}/`)}>{o.name}</a></td>
+            <td>{o.kind}</td>
+            <td>{who.length}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+</Base>

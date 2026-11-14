@@ -1,0 +1,50 @@
+[
+  {
+    "personId": "bill-duvall",
+    "searched": "Commons searches 'Bill Duvall', 'Bill Duvall SRI', 'Bill Duvall Stanford Research Institute NLS'; no en.wikipedia article image or Wikidata P18; Category:Bill_Duvall does not exist. Also searched outside Commons: Smithsonian OA, LOC, archive.org (title/text queries incl. ARPANET, SRI, Engelbart), Calisphere (blocked). Wikipedia has no lead image.",
+    "why": "No free portrait of this person on Commons (searches return only Robert Duvall / William DuVall of Alice in Chains, different people). No open-licensed portrait found; only unrelated hits.",
+    "checked": "2026-11-10"
+  },
+  {
+    "personId": "charley-kline",
+    "searched": "Commons searches 'Charley Kline', 'Charles S. Kline ARPANET UCLA'; en.wikipedia article has no image; Wikidata P18 absent; Category:Charley_Kline does not exist. Also searched outside Commons: Smithsonian OA, LOC, archive.org (only a CC BY 4.0 2026 film 'LO (29 October 1969)' and a CC BY-NC podcast, neither a portrait), Calisphere (blocked).",
+    "why": "Only the IMP log page he wrote (not a portrait) exists on Commons; the Wikidata P18 'Charles H. Kline.png' on a similarly named entity is a different person. No open-licensed portrait found.",
+    "checked": "2026-11-10"
+  },
+  {
+    "personId": "ephraim-adams",
+    "searched": "Commons searches 'Ephraim Douglass Adams', 'Ephraim Douglass Adams Stanford'; Wikipedia article image none; Wikidata P18 absent; Category:Ephraim_Douglass_Adams contains only a scanned Hoover War Collection PDF. Also searched outside Commons: LOC pictures + loc.gov search; Smithsonian OA (no hits); archive.org by creator/title (Great Britain and the American Civil War 1925, Power of Ideals 1913, Hoover War Collection report 1921 - all text only, no author portrait found); Stanford Quad 1921 and 1904 OCR (faculty list only, no portrait), Stanford Illustrated Review vols 31/41, Michigan Alumnus volumes (no match); Calisphere/OAC blocked by CloudFront WAF challenge; HathiTrust 403; DPLA 403. English Wikipedia article has no lead image.",
+    "why": "No portrait on Commons. No verifiable portrait of him in an accessible PD/CC0 source; could not reach Calisphere/Hathi/DPLA where a Stanford-yearbook plate might be.",
+    "checked": "2026-11-10"
+  },
+  {
+    "personId": "eugene-kleiner",
+    "searched": "Commons searches 'Eugene Kleiner', 'Eugene Kleiner portrait', 'Kleiner Perkins ...', 'Traitorous eight Fairchild'; Wikipedia article has no image; Wikidata P18 absent; Category:Eugene_Kleiner and Category:Traitorous_eight do not exist/are empty. Also searched outside Commons: Smithsonian OA, LOC, archive.org (only C-SPAN/Bloomberg video hits and a Genentech oral-history text), Calisphere (blocked).",
+    "why": "No free portrait on Commons (searches return unrelated German 'kleiner' hits). No open-licensed portrait; known photos are held by CHM/Magnum/press agencies.",
+    "checked": "2026-11-10"
+  },
+  {
+    "personId": "fred-moore",
+    "searched": "Commons searches 'Fred Moore Homebrew', 'Fred Moore Homebrew Computer Club founder portrait'; en.wikipedia 'Fred Moore (activist)' only images are the invitation letter and clipart; Wikidata P18 absent; Category:Homebrew_Computer_Club members checked. Also searched outside Commons: Smithsonian OA (Homebrew hits are only objects: Apple I etc.), LOC, archive.org ('Fred Moore' + Homebrew/Community Memory/Resource One: zero hits), Calisphere (blocked).",
+    "why": "No free portrait on Commons; only the 1975 invitation letter he sent (File:Invitation to First Homebrew Computer Club meeting.jpg), which is not a portrait. No open-licensed portrait found.",
+    "checked": "2026-11-10"
+  },
+  {
+    "personId": "jean-hoerni",
+    "searched": "Commons search: 'Jean Hoerni', 'Hoerni', 'Jean Hoerni Fairchild', 'Hoerni planar process', 'Jean Hoerni physicist 1924', 'Jean A. Hoerni', 'Hoerni portrait', 'Fairchild traitorous eight'; Commons Category:Jean Hoerni (does not exist); en.wikipedia 'Jean Hoerni' has no lead image; Wikidata Q952816 has no P18 and no Commons category. Also searched outside Commons: Smithsonian OA (only NMAH thin-film transistor object), LOC, archive.org ('Hoerni', 'traitorous eight': no images), Calisphere (blocked).",
+    "why": "No image of Jean Hoerni exists on Commons (search hits are unrelated PDFs and a Shockley lab building photo). No open-licensed portrait found; the Fairchild founders photographs are commercial/CHM.",
+    "checked": "2026-11-10"
+  },
+  {
+    "personId": "russell-varian",
+    "searched": "Commons search: 'Russell Varian', 'Russell H. Varian', 'Russell Varian physicist portrait', 'Varian Associates founders', 'Varian brothers klystron/1930s', 'Varian klystron inventors'; Commons Category:Russell Varian / Russell and Sigurd Varian (do not exist), Category:Varian brothers contains only a klystron tube photo and scanned newspaper-page PDFs; Wikidata Q1224841 has no P18. Also searched outside Commons: Smithsonian OA (Varian klystron objects only), LOC pictures (only Ansel Adams Alaska landscape from 'What majestic word: in memory of Russell Varian', 1963 - not a portrait), archive.org (Varian Papers audio, 'Varian Associates 1962' photo set - not a portrait of him), Calisphere (blocked).",
+    "why": "The only portraits (en.wikipedia 'Russell and Sigurd Varian': File:RussellVarian.jpg) are local fair-use/non-free uploads, not on Commons. The only public-domain Commons items are multi-page newspaper/magazine PDF scans (San Mateo Times, Saturday Evening Post 1941) that are documents, not portraits; not accepted. No genuine free portrait found.",
+    "checked": "2026-11-10"
+  },
+  {
+    "personId": "sigurd-varian",
+    "searched": "Same as Russell Varian: Commons searches 'Sigurd Varian', 'Sigurd F. Varian', 'Sigurd Varian pilot', 'Varian brothers'; Commons Category:Sigurd Varian does not exist; Wikidata Q15847569 has no P18. Also searched outside Commons: Same as Russell Varian; Smithsonian Libraries holds Dorothy Varian's 'The Inventor and the Pilot' (1983, in copyright, no open licence).",
+    "why": "en.wikipedia File:SigurdVarian.jpg is Fair use (non-free, not on Commons). Only PD items on Commons are newspaper/magazine PDF scans, not portraits. No genuine free portrait found.",
+    "checked": "2026-11-10"
+  }
+]

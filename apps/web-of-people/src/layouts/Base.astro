@@ -1,0 +1,49 @@
+---
+import '../styles/app.css';
+import { headerHtml, footerHtml, THEME_SCRIPT } from '../lib/chrome';
+import { data } from '../lib/data';
+
+interface Props {
+  title: string;
+  description?: string;
+  current?: string;
+  wide?: boolean;
+}
+const { title, description = 'An interactive web of the people in the Cardinal story. Every fact cites the repository.', current = '' } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const full = title === 'Web of People' ? title : `${title} · Web of People`;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{full}</title>
+    <meta name="description" content={description} />
+    <meta name="robots" content="noindex" />
+    <meta name="theme-color" content="#8c1515" />
+    <link rel="stylesheet" href={`${base}/fonts/fonts.css`} />
+    <link rel="icon" href={`data:image/svg+xml,${encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><rect width="32" height="32" fill="#8c1515"/><circle cx="16" cy="9" r="4" fill="#f6efe9"/><circle cx="8" cy="23" r="4" fill="#f6efe9"/><circle cx="24" cy="23" r="4" fill="#f6efe9"/></svg>')}`} />
+    <script is:inline set:html={THEME_SCRIPT}></script>
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <Fragment set:html={headerHtml(current)} />
+    <main id="main">
+      <slot />
+    </main>
+    <Fragment set:html={footerHtml({ people: data.people.length, events: data.events.length, sources: data.ds.sources.length, web: data.ds.webSources?.length ?? 0 })} />
+    <script>
+      document.querySelectorAll('[data-theme-toggle]').forEach((b) =>
+        b.addEventListener('click', () => {
+          const light = document.documentElement.getAttribute('data-theme') === 'light';
+          if (light) document.documentElement.removeAttribute('data-theme');
+          else document.documentElement.setAttribute('data-theme', 'light');
+          try {
+            localStorage.setItem('wop-theme', light ? 'dark' : 'light');
+          } catch {}
+        }),
+      );
+    </script>
+  </body>
+</html>

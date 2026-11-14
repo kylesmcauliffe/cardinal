@@ -1,0 +1,17 @@
+# App Hosting backend `cardinal` in project cardinal-510519.
+# CARDINAL_SITE_PASSWORD must already exist in Secret Manager and be granted
+# to this backend before a production rollout. Every merge to main deploys.
+
+runConfig:
+  cpu: 1
+  memoryMiB: 512
+  minInstances: 0
+  maxInstances: 10
+  concurrency: 80
+
+env:
+  # Site-wide HTTP Basic Auth (username: cardinal). Fail closed if unset.
+  - variable: CARDINAL_SITE_PASSWORD
+    secret: CARDINAL_SITE_PASSWORD
+    availability:
+      - RUNTIME

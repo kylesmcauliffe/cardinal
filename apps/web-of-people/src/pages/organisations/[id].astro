@@ -1,0 +1,31 @@
+---
+import Base from '../../layouts/Base.astro';
+import { data } from '../../lib/data';
+import { avatarHtml, citeHtml, href } from '../../lib/html';
+
+export function getStaticPaths() {
+  return data.orgs.map((o) => ({ params: { id: o.id } }));
+}
+const { id } = Astro.params as { id: string };
+const org = data.orgById.get(id)!;
+const members = data.membersOf(id);
+---
+<Base title={org.name} current="organisations" description={`${org.name}: ${org.summary}`}>
+  <div class="page narrow">
+    <p class="meta"><a href={href('/organisations/')}>All organisations</a> · <a href={href(`/?p=org:${id}`)}>See in the web</a></p>
+    <p class="eyebrow">Organisation · {org.kind}</p>
+    <h1>{org.name}</h1>
+    <p class="role">{org.summary}</p>
+    <details class="role-src" open><summary>Source{org.cites.length === 1 ? '' : 's'} for this description</summary><Fragment set:html={org.cites.map(citeHtml).join('')} /></details>
+    <h2>People linked ({members.length})</h2>
+    <ul class="fam-list">
+      {members.map(({ aff, person }) => (
+        <li>
+          <span class="fam-rel">{aff.role}</span>
+          <Fragment set:html={avatarHtml(person, 'mini')} /> <a href={href(`/people/${person.id}/`)}>{person.name}</a>
+          <details class="role-src"><summary>Source{aff.cites.length === 1 ? '' : 's'}</summary><Fragment set:html={aff.cites.map(citeHtml).join('')} /></details>
+        </li>
+      ))}
+    </ul>
+  </div>
+</Base>

@@ -1,0 +1,11 @@
+---
+import Base from '../layouts/Base.astro';
+import { href } from '../lib/html';
+---
+<Base title="Not found">
+  <div class="page narrow">
+    <p class="eyebrow">404</p>
+    <h1>No such page</h1>
+    <p class="lede">That address is not in the web. <a href={href('/')}>Go back to the web</a> or <a href={href('/people/')}>browse the people</a>.</p>
+  </div>
+</Base>
